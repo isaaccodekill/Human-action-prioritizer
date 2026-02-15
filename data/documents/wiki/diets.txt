@@ -1,0 +1,107 @@
+# Diets
+Source: https://en.wikipedia.org/wiki/Plant-based_diet
+
+A plant-based diet is a diet consisting mostly or entirely of plant-based foods. It encompasses a wide range of dietary patterns that contain low amounts of animal products and high amounts of fiber-rich plant products such as vegetables, fruits, whole grains, legumes, nuts, seeds, herbs and spices. Plant-based diets may also be vegan or vegetarian, but do not have to be, as they are defined in terms of high frequency of plants and low frequency of animal food consumption.
+
+
+== Terminology ==
+Origin of the term "plant-based diet" is attributed to Cornell University nutritional biochemist T. Colin Campbell who presented his diet research at the US National Institutes of Health in 1980. Campbell's research about a plant-based diet extended from The China Project, a decade-long study of dietary practices in rural China, giving evidence that a diet low in animal protein and fat, and high in plant foods, could reduce the incidence of several diseases. In 2005, Campbell and his son published The China Study, a best-selling book emphasizing the potential health benefits of a plant-based diet. Campbell also used the plant-based concept to educate consumers about how eating meat had significant environmental consequences.
+Some authors draw a distinction between diets that are "plant-based" or "plant-only". A plant-based diet may be defined as consuming plant-sourced foods that are minimally processed.
+A review analyzing the use of the term plant-based diet in medical literature found that 50% of clinical trials use the term interchangeably with vegan, meaning that the interventional diet did not include foods of animal origin. 30% of studies included dairy products and 20% meat.
+In 2021, the World Health Organization (WHO) stated that "plant-based diets constitute a diverse range of dietary patterns that emphasize foods derived from plant sources coupled with lower consumption or exclusion of animal products. Vegetarian diets form a subset of plant-based diets, which may exclude the consumption of some or all forms of animal foods." The WHO lists flexitarian, lacto-vegetarian, lacto-ovo vegetarian, ovo-vegetarian, pescatarian and vegan diets as plant-based.
+A 2023 review paper defined plant-based as "a dietary pattern in which foods of animal origin are totally or mostly excluded".
+In 2024, the International Organization for Standardization drafted ISO 8700 on "Plant-based foods and food ingredients - Definitions and technical criteria for labelling and claims".
+
+
+== Motivation and prevalence ==
+As of the early 21st century, some 4 billion people are estimated to live primarily on a plant-based diet, some by choice and some because of limits caused by shortages of crops, fresh water, and energy resources. Main motivations to follow a plant-based diet appear to be health aspirations, taste, animal welfare, environmental concern, and weight loss. In the U.S.A., people take individual action on climate change through their diet. Twenty-six per cent of those who eat a plant-based diet because they are "alarmed" about global warming—defined by the Yale Program on Climate Change Communication as those who are "convinced global warming is happening, human-caused, an urgent threat"—and twenty-seven per cent eat a plant-based diet because they are "concerned"—they believe global warming is a real and serious threat and that humans are causing it, but they think climate impacts remain far enough in the future that they are a lower priority issue.
+
+
+== Health guidelines and research ==
+
+Plant-based diets are of interest in preventing and managing chronic diseases. The British Dietetic Association stated that a plant-based diet "can support healthy living at every age and life stage", but as with any diet it should be properly planned. The Government of Canada and Heart and Stroke Foundation of Canada issued 2024 guidelines for planning meals with plant-based protein sources, including menu ideas for substituting meats with plant foods.
+
+
+=== Diet quality ===
+Not all plant-based foods are equally healthy. Rather, plant-based diets including whole grains as the main form of carbohydrate, unsaturated fats as the main form of dietary fat, an abundance of fruit and vegetables, and adequate n-3 fatty acids can be considered healthy.
+With processed plant-based foods, such as vegan burger patties or chicken-like nuggets, becoming more available, there is also concern that plant-based diets incorporating these foods may become less healthy.
+In practice lacto-ovo vegetarians or vegans seem to have a higher overall diet quality compared with nonvegetarians. The reason for this is the closer adherence to health organisation recommendations on consumption of fruits, whole grains, seafood and plant protein and sodium. The higher diet quality in vegetarians and vegans may explain some of the positive health outcomes compared with nonvegetarians.
+
+
+=== Vitamin B12 ===
+Plant-based foods are not a reliable source of vitamin B12 by default. A lack of B12 is associated with a range of conditions and it is essential for human health. Those eating a fully plant-based diet should ensure adequate B12 intake via supplementation or consumption of fortified foods, such as fortified plant milks or yogurts, nutritional yeast, or fortified cereals.
+Even those eating a plant-based diet including a small amount of animal products are at an increased risk of a lower than recommended B12 intake without supplementation or regular consumption of fortified foods.
+
+
+=== Weight ===
+Observational studies show that vegetarian diets are lower in energy intake than non-vegetarian diets and that, on average, vegetarians have a lower body mass index than non-vegetarians.
+Two reviews of preliminary research found that vegetarian diets practiced over 18 weeks or longer reduced body weight in the range of 2–3 kilograms (4.4–6.6 lb), with vegan diets used for 12 weeks or longer reducing body weight by 4 kg.
+In obese people, a 2022 review found that plant-based diets improved weight control, LDL and total cholesterol, blood pressure, insulin resistance, and fasting glucose.
+
+
+=== Diabetes ===
+Some reviews indicate that plant-based diets including fruits, vegetables, whole grains, legumes, and nuts are associated with a lower risk of diabetes.
+Therefore, vegetarian and vegan diets are under clinical research to identify potential effects on type 2 diabetes, with preliminary results showing improvements in body weight and biomarkers of metabolic syndrome.
+When the focus was whole foods, an improvement of diabetes biomarkers occurred, including reduced obesity. In diabetic people, plant-based diets were also associated with improved emotional and physical well-being, relief of depression, higher quality of life, and better general health.
+The American College of Lifestyle Medicine stated that diet can achieve remission in many adults with type 2 diabetes when used as a primary intervention of whole, plant-based foods with minimal consumption of meat and other animal products. There remains a need for more randomized controlled trials "to assess sustainable plant-based dietary interventions with whole or minimally processed foods, as a primary means of treating diabetes with the goal of remission."
+
+
+=== Cancer ===
+Plant-based diets are associated with a decreased risk of colorectal and prostate cancer. Vegetarian diets are associated with a lower incidence from total cancer (-8%). A vegan diet seems to reduce risk of incidence from total cancer by 15%. However, there was no improvement in cancer mortality.
+
+
+=== Microbiome ===
+Preliminary studies indicate that a plant-based diet may improve the gut microbiome.
+
+
+=== Cardiovascular diseases ===
+A 2022 review of prospective cohort studies showed that vegetarian diets are associated with a 15% reduced risk of cardiovascular diseases and 21% reduced risk in coronary artery disease, but with no effect on the risk of stroke; for vegan diets, only a reduced risk in coronary artery disease was found.
+Other reviews found that plant-based diets, including vegan and vegetarian diets, may lower the risk of cardiovascular diseases, including blood pressure and blood lipid levels. Randomized clinical trials also showed that the reduction in blood pressure (about 4 mmHg) associated with a vegan diet without caloric restrictions is comparable to reductions observed with dietary practices recommended by medical societies and use of portion-controlled diets.
+Preliminary evidence indicates that people on a long-term vegan diet show improvements in cardiovascular and metabolic risk factors.
+
+
+=== Bone health ===
+The effect of plant-based diets on bone health is inconclusive. Preliminary research indicates that consuming a plant-based diet may be associated with lower bone density, a risk factor for fractures.
+
+
+=== Inflammation ===
+Plant-based diets are under study for their potential to reduce inflammation. C-reactive protein—a biomarker for inflammation—may be reduced by consuming a plant-based diet, particularly in obese people.
+
+
+=== Mortality ===
+A 2020 review stated that dietary patterns based on consuming vegetables, fruits, legumes, nuts, whole grains, unsaturated vegetable oils, fish, lean meat or poultry, and are low in processed meat, high-fat dairy and refined carbohydrates or sweets, are associated with a decreased risk of all-cause mortality.
+
+
+=== Physical performance ===
+In a meta-analysis published online in 2023, plant-based diets were shown to have a moderate positive effect on aerobic performance and had no effect on strength performance.
+
+
+== Sustainability ==
+
+There is scientific consensus that plant-based diets offer lower greenhouse gas emissions, land use and biodiversity loss. In addition, dietary patterns that reduce diet-related mortality also promote environmental sustainability.
+As a significant percentage of crops around the world are used to feed livestock rather than humans, eating less animal products helps to limit climate change (such as through low-carbon diets) and biodiversity loss. Especially beef, lamb and cheese have a very high carbon footprint. While soy cultivation is a "major driver of deforestation in the Amazon basin", the vast majority of soy crops are used for livestock consumption rather than human consumption. Adopting plant-based diets could also reduce the number of animals raised and killed for food on factory farms.
+
+Research from 2019 on six diets found the plant-based diets more environmentally friendly than the diets higher in animal-sourced foods. Of the six mutually-exclusive diets, individuals eating vegan, vegetarian and pescetarian diets had lower dietary-carbon footprints than typical omnivorous diets, while those who ate 'paleolithic' and ketogenic diets had higher dietary-carbon emissions due to their animal sourced foods.
+A 2020 study found that the climate change mitigation effects of shifting worldwide food production and consumption to plant-based diets, which are mainly composed of foods that require only a small fraction of the land and CO2 emissions required for meat and dairy, could offset CO2 emissions equal to those of past 9 to 16 years of fossil fuel emissions in nations that they grouped into 4 types. The researchers also provided a map of approximate regional opportunities.
+It may be possible to increase the transition from meat eating to a plant based diet through social contagion, by which behaviour, emotions, or conditions spread spontaneously through a group or network. A Max Planck Institute study from 2020 found that when meat-eaters are accompanied by vegetarians and have a choice of eating dishes with or without meat, they are more likely to choose a vegetarian dish. This probability increases as the number of vegetarians accompanying the meat eaters increases. Once enough people have been influenced, the community can reach a tipping point, in which a majority of people transition to a new habit; a 2018 study published in Nature claims that with only 25 per cent of a population, a minority perspective was able to overturn the majority.
+According to a 2021 Chatham House report, supported by the United Nations Environment Programme, a shift to "predominantly plant-based diets" will be needed to reduce biodiversity loss and human impact on the environment. The report said that livestock has the largest environmental impact, with some 80% of all global farmland used to rear cattle, sheep and other animals used by humans for food. Moving towards plant-based diets would free up the land to allow for the restoration of ecosystems and the flourishing of biodiversity.
+A 2022 study published in Nature Food found that if high-income nations switched to a plant-based diet, vast swaths of land used for animal agriculture could be allowed to return to their natural state, which in turn has the potential to pull 100 billion tons of CO2 out of the atmosphere by the end of the century. Around 35% of all habitable land around the world is used to rear animals used by humans in food production.
+A 2023 study published in Nature Food found that a vegan diet vastly decreases the impact on the environment from food production, such as reducing emissions, water pollution and land use by 75%, reducing the destruction of wildlife by 66% and the usage of water by 54%. Another study published in the same year in Nature Communications found that replacing half of the beef, chicken, dairy and pork products consumed by the global population with plant-based alternatives could reduce the amount of land used by agriculture by almost a third, bring deforestation to a near-halt, restore biodiversity, and reduce GHG emissions from agriculture by 31% by 2050. However, the report also notes that a growing population and rising affluence are projected to increase demand for animal products which could have negative impacts on the environment.
+
+
+== Politics ==
+A reduction in meat consumption and a shift to more plant-based diets is needed to reach climate targets, addressing public health problems, and protecting animal welfare. Research has been done on how to best promote such a change in consumer behaviour.
+Some public health organisations advocate a plant-based diet due to its low ecological footprint. These include the Swedish Food Agency in its dietary guideline and a group of Lancet researchers who propose a planetary health diet. Vegan climate activist Greta Thunberg also called for more plant-based food production and consumption worldwide. A 2022 report by the Stockholm Environment Institute and the Council On Energy, Environment and Water included protecting animal welfare and adopting plant based diets on a list of recommendations to help mitigate the ecological and social crises bringing the world to a "boiling point".
+Denmark and South Korea announced plant-based action plans in 2023.
+Plant-based protein is gaining popularity as a sustainable and nutritious alternative to animal-based sources.
+
+
+== See also ==
+List of diets
+Plant-based action plan
+Veganism
+Vegetarianism and religion
+Mediterranean diet
+
+
+== References ==

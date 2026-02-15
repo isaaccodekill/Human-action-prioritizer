@@ -1,0 +1,1395 @@
+# Increase Recycling: Plastics
+Source: https://drawdown.org/explorer/increase-recycling-plastics
+
+Methods and Supporting Data
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+This solution can still help mitigate climate change but does not meet the scale to be considered a major climate solution.
+
+Recycling is a mechanical process that repurposes waste into new products without altering their chemical structure. This solution focuses on four common waste types: metals, paper and cardboard, plastics, and glass. It reducesGHGemissions by minimizing reliance on energy-intensiveprimary material production, reducing demand for raw materials, and diverting paper from landfills, where decomposition can producemethane.
+
+Our focus is on postconsumermunicipal solid waste(MSW) collected through residential and commercial recycling programs. Textiles, rubber, wood, and e-waste are also important waste streams but are excluded in our scope due to limited availability of global data.Organic wasteis addressed separately in other Drawdown Explorer solutions, includingIncrease Centralized Composting,Increase Decentralized Composting, andProduce Biochar.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Mechanical recycling mitigates GHG emissions by reducing the need for more energy-intensive and pollutant-emitting raw material extraction and processing (Stegmann et al., 2022; Sun et al., 2018; Zier et al., 2021) and reducing production of methane from decomposing paper in landfills (Demetrious & Crossin, 2019; Lee et al., 2017).
+
+Recyclable materials constitute a significant portion of global MSW, with average compositions of approximately 14% paper and cardboard, 10% plastics, 4% glass, and 3.5% metals (Kaza et al., 2018; United Nations Environment Programme [UNEP], 2024). Recycling reprocesses postconsumer materials into secondary raw materials or products without altering their chemical composition.
+
+Figure 1 illustrates a typical single-stream recycling system at amaterials recovery facility(MRF), where mechanical and optical sorting technologies separate materials by type (Gundupalli et al., 2017; Zhang et al., 2022). The sorted materials then undergo cleaning, crushing or shredding, and remelting or repulping in preparation for use in manufacturing new products.
+
+Figure 1. Overview of the separation steps in a materials recycling facility to separate metal, paper and cardboard, plastic, and glass waste. Modified from Waldrop (2020).
+
+Source: Waldrop, M. M. (2020, October 1). Recycling meets reality.Knowable Magazine.
+
+Metals recyclingprovidesferrousandnon-ferrousinputs for the metal production sector, which globally emits an estimated 3.6GtCO₂‑eq/yrfor 2–3 Gt of primary metal output (Azadi et al., 2020). Virgin (primary) metals are extracted fromnonrenewableores; as higher-grade ores are consumed, mining shifts to lower-grade ore deposits, which require more energy-intensive extraction and processing (Norgate & Jahanshahi, 2011). Using recycled metals in place of virgin metals reduces energy requirements for smelting and refining (Daehn et al., 2022) and water use during production.
+
+Virgin ore processing primarily emitsCO₂,
+ with smaller contributions of methane andnitrous oxide. Some primary metal production, particularly aluminum production, emits fluorinated gases (F-gases) (Raabe et al., 2019; Raabe et al., 2022). Recycling emits significantly less CO₂
+ than primary material production.
+
+Paper and cardboard recyclinginvolveshydropulping,deinking, and reforming recovered fibers into new paper products. Conventional paper is produced from virgin tree pulp and involves harvesting, debarking, chipping, and mechanical or chemicalpulping. Pulp-making alone accounts for 62% of energy use and 45% of emissions in paper production (Sun et al., 2018), contributing significantly to the 1.3–2% of global GHG emissions from virgin pulp and paper manufacturing (Furszyfer Del Rio et al., 2022). Recycling uses less energy and produces fewer GHG emissions. Recycling 1tof paper saves ~17 mature trees (U.S. Environmental Protection Agency [U.S.EPA], 2016a), lessening deforestation from harvesting and reducing the energy and water required for pulping. Recovering used paper from landfills further avoids decomposition-related methane release.
+
+Plastics recyclinginvolves melting plastic waste intoresin, forming it into granules orpellets, and using it to manufacture new products. The primary material production of plastics represents 4.5–5.3% of total global GHG emissions (Cabernard et al., 2022; Karali et al., 2024), with ~75% occurring in the early life-cycle stages. More than 99% of plastics are derived fromfossil fuels. Recycling plastics reduces CO₂
+ and methane emissions by replacingpetroleum-basedfeedstockwith recycled plastic.
+
+Glass recyclingcrushes glass waste intocullet, which can then be melted and reintroduced as a raw material in glass manufacturing. Virgin glass production requires melting raw materials such as silica sand, soda ash, and limestone at ~1,500 °C (Baek et al., 2025; Westbroek et al., 2021) and releases CO₂
+ from decomposition of carbonates. Cullet use releases no CO₂
+ from carbonate decomposition and lowers the melting temperature, reducing furnace fuel combustion.
+
+This assessment evaluates metal, paper and cardboard, plastic, and glass recycling separately to better capture the distinct emissions profiles and cost requirements of each material, providing a clearer understanding of the climate benefits and trade-offs.
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the estimated current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the estimated current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. For plastics, all percentile values round to the same number, so no ranges are shown. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the estimated current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the estimated current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+We estimated recyclingeffectivenessas the net emissions savings from avoided primary manufacturing and landfilling, minus the emissions associated with recycling, as outlined in Equation 1 (see Climate Impact for more information on technical substitutability ratios [TSRs]). We included landfilling emissions only for materials that generate meaningful end-of-life GHG impacts. Paper and cardboard emit bothbiogenicCO₂
+ and methane emissions fromanaerobic decomposition(Lee et al., 2017), and plastics contribute minor emissions from landfill handling due to their inert nature (Chamas et al., 2020; Zheng & Suh, 2019). Metals and glass are also considered inert and do not biodegrade. Their landfilling emissions are primarily from collection and transport, which fall outside the scope of this analysis.
+
+Metals recyclinghas a high carbonabatementpotential of 1,480,000 t CO₂‑eq
+/Mtmetal waste recycled (1,650,000 t CO₂‑eq
+/Mt metal waste recycled, 20-year basis) (Table 1a). In our analysis, metal recycling emissions were about one-third of those from primary metal production.
+
+Paper and cardboard recyclinghas a similar carbon abatement potential of 1,000,000 t CO₂‑eq
+/Mt paper and cardboard waste recycled (1,000,000 t CO₂‑eq
+/Mt paper and cardboard waste recycled, 20-year basis) (Table 1b). Although recycling lowers fossil fuel use in pulping, our estimates showed only slightly lower emissions than primary manufacturing. In contrast, preventing CO₂
+ and methane release from decomposing paper in landfills have comparable emissions to primary paper production, making landfill diversion the larger climate impact.
+
+Plastics recyclingis the most effective of the four materials at reducing emissions, eliminating approximately 2,000,000 t CO₂‑eq
+/Mt plastic waste recycled (3,000,000 t CO₂‑eq
+/Mt plastic waste recycled, 20-year basis) (Table 1c). This is largely due to the highemissions intensityof virgin plastic production, which reached global production volumes of 374 Mt in 2023 (Plastics Europe, 2024a) and relies heavily on fossil fuels both as feedstocks and as energy sources for heat generation. While pellet-to-product conversion contributes to overall emissions, plastic pellet manufacturing accounts for most GHGs emitted in the plasticsupply chain(Zhu et al., 2025). For studies without clearly defined boundaries, we assumed the reported emissions primarily reflected pellet production.
+
+Glass recyclingis the least effective at reducing emissions but still abates a meaningful amount at 79,000 t CO₂‑eq
+/Mt glass waste recycled (84,000 t CO₂‑eq
+/Mt glass waste recycled) (Table 1d). Emissions savings come from reduced fuel use in high-temperature melting furnaces and avoiding CO₂
+ release during the processing of raw materials (Baek et al., 2025).
+
+While nitrous oxide is also released from fuel combustion during recycling of metals, paper and cardboard, plastics, and glass, it represents a small share of total CO₂‑eq
+ emissions, so we considered it negligible (Diaz & Warith, 2006; U.S. EPA, 2016b).
+
+Table 1. Effectiveness at reducing emissions.
+
+b) Paper and cardboard recycling
+
+c) Plastics recycling
+
+Unit:t CO₂‑eq
+/Mt metal waste recycled, 100-yr basis
+
+Unit:t CO₂‑eq
+/Mt paper and cardboard waste recycled, 100-yr basis
+
+Unit:t CO₂‑eq
+/Mt plastic waste recycled, 100-yr basis
+
+Unit:t CO₂‑eq
+/Mt glass waste recycled, 100-yr basis
+
+Emissionsmitigationfrom recycling metals and paper and cardboard results in net cost savings, while plastics break even and glass remains cost-intensive. Initial capital costs for all four material recycling systems are higher than for landfilling, but operating costs are lower. Net landfilling costs are overall profitable for all four materials (seeIncrease Centralized CompostingandImprove Landfill Managementfor more information on landfilling costs). While operational costs for recycling can vary based on the design and efficiency of MRFs, overall savings can result from reduced landfilltipping fees, lower disposal volume, and revenue from selling recovered materials. These economic factors are determined by energy savings, market demand, and materials-specific recovery efficiencies.
+
+Metals recyclinggenerates net net savings of US$200 million/Mt metal waste recycled, or US$100/t CO₂‑eq
+ mitigated (Table 2a). In addition to significantly reduced energy use and raw material costs (DebRoy & Elmer, 2024), metals recycling delivers high-quality materials comparable to newly mined metals (Damgaard et al., 2009). This drives strong market demand, with revenues often covering – and in some cases exceeding – the costs of separation and/or reprocessing alone.
+
+Paper and cardboard recyclinghas the highest net savings of the four recycling streams compared to landfilling, with US$400 million/Mt paper and cardboard waste recycled. Combining effectiveness with the net costs presented here, we estimated a savings per unit climate impact of US$400/t CO₂‑eq
+ (Table 2b). This reflects the energy and resource efficiency of paper recycling, along with revenue generation from recovered paper sales (Bajpai, 2014).
+
+Plastics recyclingcosts US$8 million/Mt less than landfilling, yielding a cost saving of US$4/t CO₂‑eq
+ (Table 2c). However, plastics recycling shows the most variability, ranging from modest savings to higher costs than primary material production. Inexpensive virgin plastics, high contamination risk, complex sorting and reprocessing, and weak or volatile market value (Li et al., 2022) make recycling plastics economically challenging without supportive policies or subsidies.
+
+Glass recyclinghas a net cost of US$700 million/Mt glass waste recycled and the highest cost per unit of climate impact (US$9,000/t CO₂‑eq
+, Table 2d). This is due to high processing costs, low market value for cullet (e.g., selling for a fraction of the recycling cost; Figure A1), and contamination that limits resale or reuse (Bogner et al., 2007; Ng & Phan, 2021; Olafasakin et al., 2023). Although glass recycling is costly, the societal and environmental benefits are far higher than those of landfilling (Colangelo, 2024).
+
+Financial data were geographically limited. We based cost estimates on global reports with selected studies from India, Saudi Arabia, the United Kingdom, and the United States for landfilling and Canada, the European Union, Germany, Philippines, and the United States for recycling. Transportation and collection of recyclables can add notable costs to waste management, but we did not include them in this analysis. We calculatedamortizednet cost for landfilling and recycling by subtracting revenues from operating costs and amortized initial costs over a 30-year facility lifetime. Furthermore, revenues reflect market-based prices, which are subject to change based primarily on demand for recyclables.
+
+Table 2. Cost per unit of climate impact.
+
+b) Paper and cardboard recycling
+
+c) Plastics recycling
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+We did not consider alearning curvefor the Increase Recycling solution due to a lack of global data quantifying cost reductions specific to mechanical recycling technologies. Recycling systems use well-established processes that are already mature and widely deployed.
+
+Recycling costs depend largely on regional factors, including material availability, market prices, infrastructure, and transportation distances. Consumer sorting habits and contamination rates also influence recycling performance and often outweigh potential learning-based cost decreases from technological improvements. Additionally, many mechanical recycling facilities operate near or at peak process efficiency, leaving little room for the technological upgrades that typically lower costs over time.
+
+Speed of actionrefers to how quickly a climate solution physically affects the atmosphere after it is deployed. This is different from speed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Increase Recycling is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere.
+
+Worldwide, we estimated thatmetalsare recycled at a rate of 740 Mt/yr (Table 3a). We based this on a study by Gorman et al. (2022), which reported that approximately 1,277 Mt of metals were produced globally in 2018 using recycled feedstocks. This value included all types of scrap metals: postconsumer, pre-consumer, andhome scrapreused within factories. To isolate postconsumer recycling, we applied a 58% share based on data from the U.S. Geological Survey (USGS, 2022), which gives a typical breakdown of scrap types across major metals. While this ratio is U.S.-based, we used it as a global proxy due to limited international data. Our current adoption estimate accounts for processing losses, contamination, and quality limits that prevent a full 1:1 replacement of virgin metals (Gorman et al., 2022).
+
+We estimated currentpaper and cardboardrecycling at 160 Mt/yr, the median among two global datasets and one report (United Nations Office on Drugs and Crime [UNODC], 2023; Table 3b). The most recent global data were compiled in 2023 by the Food and Agriculture Organization of the United Nations ([FAO], n.d.), and an earlier dataset from a World Bank analysis from 174 countries in 2018 (World Bank, 2018). To estimate postconsumer recycled paper, we assumed a 75% share of total paper waste based on industry averages (European Paper Recycling Council, 2024).
+
+Plasticsare currently recycled at a rate of 35.9 Mt/yr, based on one global dataset (173 countries; World Bank, 2018), two reports, and one study (Table 3c). Plastics Europe (2024a, 2024b) provides data on global mechanically recycled (postconsumer) plastics production, derived from estimations and statistical projections. We assumed the share of postconsumer plastics from Houssini et al. (2025) and World Bank (2018) to be 100% because the vast majority of plastic waste appears to originate from postconsumer sources.
+
+Glasshas the lowest current recycling rate at 27 Mt/yr, calculated as the midpoint among one global dataset (168 countries; World Bank, 2018), two reviews (Delbari & Hof, 2024; Ferdous et al., 2021), and one report (Maximize Market Research Private Limited, 2025) (Table 3d). For values based on total waste generation, we used a global production-based recycling rate, which may underestimate actual glass waste recycling due to limited data on postconsumer glass waste.
+
+Since the World Bank (2018) provided data on waste generation inmetric tonsper year, we applied global recycling rates of 59.3%, 9%, and 21% to the total waste generated for paper and cardboard, plastics, and glass, respectively (see Appendix for details).
+
+Table 3. Current adoption level.
+
+b)  Paper and cardboard recycling
+
+c) Plastics recycling
+
+Unit:Mt recycled/yr, 2018
+
+Unit:Mt recycled/yr, 2023
+
+Unit:Mt recycled/yr, 2023
+
+Unit:Mt recycled/yr, 2020
+
+Postconsumermetals recyclinghas grown steadily in recent years (Table 4a, Figure 2). We used global data on secondary metals production from Gorman et al. (2022), a 39.1% share of recycled metals from the total addressable market (Gorman et al., 2022), and a 58% postconsumer scrap factor (USGS, 2022) to estimate the metals recycling adoption trend from 2014 to 2018. Annual adoption varies across this period. Taking the median annual change, we estimate a global adoption trend of 12 Mt/yr/yr, or 1.6% growth year-over-year (YoY). The mean annual change is estimated as 11 Mt/yr/yr, indicating consistent growth in the recovery of metals from end-of-life products.
+
+Paper and cardboard recyclinghas gradually but inconsistently grown over the past two decades (Table 4b, Figure 2). Using worldwide recovered paper production data from the FAO (n.d.), we estimated the annual change in paper and cardboard waste recycled from 2003 to 2023. We applied a 75% factor to restrict this to postconsumer collection. While early years (2003–2016) in the data generally showed positive adoption, albeit with some fluctuations, more recent years (2017–2023) reflect declines, including noticeable drops in 2021–2022 (–1.9 Mt/yr/yr) and 2022–2023 (–5.4 Mt/yr/yr). The overall adoption trend is mixed despite a brief spike in 2020–2021. Taking the median annual change over the full 20-year period, we estimated a global trend of 2.2 Mt/yr/yr or a 1.3% YoY growth. The mean annual change is slightly higher at 2.8 Mt/yr/yr (2.0% YoY growth), indicating moderate but uneven progress in the recovery of paper and cardboard.
+
+Plastics recyclingis slowly increasing as a share of global plastic waste management, but the overall trend remains modest (Table 4c, Figure 2). We used data from the Organisation for Economic Co‑operation and Development ([OECD], 2022a) to estimate global adoption trends from 2000–2019 and supplemented this with 2019–2023 estimates from Plastics Europe (2022, 2023, 2024a). The adoption trend fluctuates from year to year, reflecting variability in collection rates, contamination levels, and recycling infrastructure. Taking the median annual change in recycled plastic waste across 23 years, we estimated a global adoption trend of 1.3 Mt/yr/yr, or 8.5% YoY growth. The mean annual change is slightly higher at 1.4 Mt/yr/yr, suggesting a slow growth in recycling capacity compared with plastic production volumes. However, this progress is uneven across geographies, with some countries expanding recycling systems while others face barriers, including limited infrastructure and low incentives for recovery.
+
+Glass recyclingshowed a median annual change of 0 Mt/yr/yr and a mean of 0.8 Mt/yr/yr (3.7% growth YoY) from 2009–2019 (Table 4d, Figure 2). These estimates are based on Chen et al. (2020), who modeled World Bank data (Kaza et al., 2018) to generate a global dataset of waste treatment quantities across 217 countries. The apparent absence of change likely reflects limited availability of global data and inconsistent reporting rather than truly flat adoption. Although the dataset from Chen et al. (2020) is comprehensive, it is modeled rather than based on reported figures.
+
+Table 4. Adoption trend.
+
+b) Paper and cardboard recycling
+
+c) Plastics recycling
+
+Unit:Mt/yr/yr, 2014–2018
+
+Unit:Mt/yr/yr, 2003–2023
+
+Unit:Mt/yr/yr, 2000–2023
+
+Unit:Mt/yr/yr, 2009–2019
+
+Figure 2. Trends in recycling adoption of metals (2014–2018), paper & cardboard (2003–2023), plastics (2000–2023), and glass (2009–2019). Adapted from Chen et al. (2020), FAO (n.d.), Gorman et al. (2022), OECD (2022a), and Plastics Europe (2022, 2023, 2024a).
+
+Sources: Chen, D. M.-C., Bodirsky, B. L., Krueger, T., Mishra, A., & Popp, A. (2020). The world’s growing municipal solid waste: Trends and impacts.Environmental Research Letters,15(7), Article 074021; Food and Agriculture Organization of the United Nations. (n.d.).FAO‑FAOSTAT: Forestry production and trade[Data set]. Retrieved April 25, 2025; Gorman, M. R., Dzombak, D. A., & Frischmann, C. (2022). Potential global GHG emissions reduction from increased adoption of metals recycling.Resources, Conservation and Recycling,184, Article 106424; Organisation for Economic Co‑operation and Development. (2022a).Global plastics outlook database[Data set]; Plastics Europe. (2022).Plastics – the facts 2022[Report]; Plastics Europe. (2023).Plastics – the fast facts 2023[Infographic]; Plastics Europe. (2024a).Plastics – the fast facts 2024[Infographic].
+
+Metals recyclingadoption is expected to remain high, with the global ceiling estimated at 2,100 Mt/yr (Table 5a). This corresponds to 68.2% of total projected metals production by 2050, based on the “maximum scenario” in Gorman et al. (2022). The scenario reflects a best-case technical potential of recycled metals adoption under full utilization of scrap feedstocks (Gorman et al., 2022). It assumes that all available postconsumer, pre-consumer, and home scrap can be recovered and can fully replace as much virgin material as possible using current technologies. We isolated the postconsumer portion as a 58% share of available metal scrap, as outlined in USGS (2022) data.
+
+There is also a strong potential for increasedpaper and cardboard recycling, with an estimatedadoption ceilingof 360 Mt/yr (Table 5b). We assumed a recovery rate of 85% of total global paper production, accounting for practical limits imposed by fiber degradation, contamination, and processing inefficiencies. According to UNODC (2023), about 48% of paper globally is produced from recycled materials, leaving considerable room for improvement. The 85% ceiling also assumes that not all types of paper can be recovered (e.g., sanitary paper or heavily coated grades). Because this value is based on production rather than discarded paper waste, it may slightly underestimate the ceiling based on postconsumer waste generation.
+
+We estimated the adoption ceiling forplastics recyclingat 180 Mt/yr (Table 5c). Technical barriers such as contamination, material heterogeneity, and plastic degradation constrain large-scale adoption. We therefore assumed and applied a 70% recycling rate to postconsumer plastic waste streams. We obtained similar estimates across multiple sources reporting global plastic waste generation (Houssini et al., 2025; OECD, 2022b; Stegmann et al., 2022).
+
+We estimated a ceiling of 100 Mt/yr forglass recycling(Table 5d) based on a 90% recovery rate from global waste generation estimates (Chen et al., 2020; Ferdous et al., 2021). Although glass is considered infinitely recyclable, losses due to contamination, sorting inefficiencies, and market constraints limit complete recovery. We included modeled estimates from Chen et al. (2020) to provide a more comprehensive global ceiling due to the scarcity of global data on glass recycling.
+
+For metals and paper and cardboard, values are derived from single datasets; for plastics, rounding across multiple datasets produced identical values across percentiles. Therefore, only the median is shown for these three subsolutions.
+
+Table 5. Adoption ceiling.
+
+b) Paper and cardboard recycling
+
+c) Plastics recycling
+
+For sources reporting global recycling rates or tonnage for all materials except metals, we define low and high achievable adoption as 25% or 50% increase in the most recently available material-specific recycle rate, respectively.
+
+Formetals recycling, achievable adoption is largely shaped by the dynamics of secondary metal production in global commodity markets, which in turn depends on the relative quantity of scrap available (Ciacci et al., 2016). We set achievable adoption at 1,300–1,400 Mt/yr by 2050 (Table 6a), based on the “plausible” and “ambitious” scenarios from Gorman et al. (2022), respectively. These estimates represent 41–48% of projected global metals production and incorporate both postconsumer and pre-consumer scrap, with the postconsumer share standardized at 58% across scenarios (USGS, 2022). Major commodity metals included in these estimates are steel, aluminum, copper, zinc, lead, iron, nickel, and manganese, which together represent more than 99% of all metal demand by mass from 2014–2018 (USGS, 2021). Material availability and infrastructure for downstream scrap processing remain key hurdles (Allwood et al., 2025), although industrial-scale recovery systems are already well established in many high-income countries (Campbell et al., 2022; de Sa & Korinek, 2021).
+
+We estimated the achievable adoption range forpaper and cardboardrecyclingat 220–260 Mt/yr (Table 6b), with an assumed postconsumer share of 75% applied to the total global recycling volumes reported by FAO (n.d.) and UNODC (2023). This range reflects expanded municipal collection, improvements in fiber separation technologies, and increased demand for recovered pulp in paper manufacturing.
+
+Plastics recyclinghas substantial opportunity for growth, given <10% global recycling rates and the exponential growth of plastic accumulation in the environment (Dokl et al., 2024; Nayanathara Thathsarani Pilapitiya & Ratnayake, 2024). A 25–50% increase in global mechanically recycled plastic volumes would bring the achievable range to 45–54 Mt/yr (Table 6c). While meaningful, these levels are 8–9 times smaller than the 414 Mt of plastic produced in 2023 (Plastics Europe, 2024a). Constraints include the complexity of sorting mixed plastic streams, limited market demand for lower-grade recycled pellets, and insufficient investment in complementary technologies such aschemical recycling, which remains below 0.5 Mt/yr.
+
+Forglass recycling, we set an achievable adoption range of 36–48 Mt/yr by 2050 (Table 6d), based on harmonized waste modeling and forward-looking estimates from Chen et al. (2020) and Delbari and Hof (2024). However, this scale-up depends substantially on reducing contamination at the collection stage, expanding color- and ceramic-sorting technologies, and improving closed-loop markets for container glass (Baek et al., 2025; Yuan et al., 2024).
+
+Table 6. Range of achievable adoption.
+
+b) Paper and cardboard recycling
+
+c) Plastics recycling
+
+Increased recycling has strong potential for climate impact, especially in reducing emissions from virgin material production and landfilling waste (see Appendix for waste sector emissions).
+
+Metals recyclinghas the highest current and achievable GHG emissions savings of the four material categories (Table 7a). At a >500 Mt/yr current adoption rate, we estimate current metals recycling avoids 1.1 Gt CO₂‑eq/yr
+ (1.2 Gt CO₂‑eq/yr,
+ 20-year basis). Our low and high achievable adoption levels reduce 1.9 and 2.1 Gt CO₂‑eq/yr
+ (2.1 and 2.4 Gt CO₂‑eq/yr,
+ 20-year basis), respectively, with annual GHG reductions up to 3.1 Gt CO₂‑eq/yr
+ (3.5 Gt CO₂‑eq/yr,
+ 20-year basis) using the adoption ceiling.
+
+Paper and cardboard recyclingcurrently avoids 0.16 Gt CO₂‑eq/yr
+ (0.16 Gt CO₂‑eq/yr,
+ 20-year basis) (Table 7b). Achievable GHG reduction is 0.22–0.26 Gt CO₂‑eq/yr
+ (0.22–0.26 Gt CO₂‑eq/yr,
+ 20-year basis), with a maximum potential of 0.36 Gt CO₂‑eq/yr
+ (0.36 Gt CO₂‑eq/yr,
+ 20-year basis).
+
+Plastics recyclinghas a lower current climate impact of 0.07 Gt CO₂‑eq/yr
+ (0.1 Gt CO₂‑eq/yr,
+ 20-year basis), but it has the potential to increase to a ceiling matching that of recycling paper and cardboard (Table 7c). We estimated low and high achievable adoption levels avoid 0.09 and 0.1 Gt CO₂‑eq/yr
+ (0.1 and 0.2 Gt CO₂‑eq/yr,
+ 20-year basis), respectively, with GHG emissions savings of 0.4 Gt CO₂‑eq/yr
+ (0.5 Gt CO₂‑eq/yr,
+ 20-year basis) at the adoption ceiling. The 20-year impacts highlight the mitigated methane emissions associated with oil refining for virgin plastic production, with recycling plastics reducing both the need for petrochemical feedstocks and the volume of waste sent to landfills.
+
+Glass recyclinghas the lowest current and achievable emissions reductions, avoiding 0.0021 Gt CO₂‑eq/yr
+ (0.0023 Gt CO₂‑eq/yr,
+ 20-year basis) with the potential to increase to 0.0028–0.0038 Gt CO₂‑eq/yr
+ (0.0030–0.0041 Gt CO₂‑eq/yr,
+ 20-year basis) under higher adoption (Table 7d). We estimated a maximum impact ceiling of 0.0079 Gt CO₂‑eq/yr
+ (0.0084 Gt CO₂‑eq/yr,
+ 20-year basis). Although emissions savings are relatively small, glass recycling is still worthwhile to benefit from cullet-driven energy reductions, conserve raw materials, and contribute to larger reductions when combined with other materials in municipal recycling programs.
+
+Table 7. Climate impact at different levels of adoption.
+
+b) Paper and cardboard recycling
+
+c) Plastics recycling
+
+Unit:Gt CO₂‑eq/yr,
+ 100-year basis
+
+Unit:Gt CO₂‑eq/yr,
+ 100-year basis
+
+Unit:Gt CO₂‑eq/yr,
+ 100-year basis
+
+Unit:Gt CO₂‑eq/yr,
+ 100-year basis
+
+In our analysis, we adjusted emissions reductions from recycling using a TSR, since recycled materials often do not replace virgin materials on a 1:1 basis due to differences in quality, durability, or performance (Nordahl & Scown, 2024). To ensure we didn’t overestimate emissions savings, we applied an average material-specific ratio that adjusted the avoided emissions from primary material production. Recycled paper and cardboard and glass were assigned a ratio of 0.83; metals, 0.90; and plastics, 0.80 (Figure 3). These unitless ratios were based on technical literature (Barbato et al., 2024; Rigamonti et al., 2020; UNEP, 2024; Zheng & Suh, 2019) and were applied consistently across all emissions units for effectiveness.
+
+Figure 3. Conceptual diagram of a general recycling loop for (a) metals, (b) paper & cardboard, (c) plastics, and (d) glass and how technical substitutability determines the maximum share of recycled content due to quality constraints. Graphics for (b), including the MRF and manufacturing plant for (a), (c), and (d), were modified from International Paper (n.d.).BioRenderandCanvawere used to make the remaining graphics.
+
+Source: International Paper. (n.d.).Paper’s life cycle: The recycling process[Infographic]. Retrieved June 10, 2025.
+
+Recycling can create jobs and reduce energy costs. The National Institutes of Health (NIH) estimated that incinerating or landfilling 10ktof waste creates one or six jobs respectively, while recycling the same amount of waste creates 36 jobs (NIH Environmental Management System [NEMS], n.d.). A case study in Florida found that increasing recycling rates can lead to small amounts of job growth, with most new jobs concentrated in the recycling processing sector (Liu et al., 2020).
+
+Using recycled materials can reduce the need for imports and support domestic manufacturing (Das et al., 2010; Dussaux & Glachant, 2019). The sale of products manufactured from recyclables instead of virgin materials can translate to economic benefits. A study of recycling systems in Nigeria found that the sale of recyclables could contribute about US$11.7 million to the country’s economy each year and create about 16,562 new jobs (Ayodele et al., 2018).
+
+Materials in landfills can leach into the surrounding environment (McGinty, 2021). Plastics, along with associated additives such asbisphenol Aandphthalates, can degrade into microplastics that enter the surrounding ecosystem and food chain, posing health risks to humans (Bauer et al., 2022; Li et al., 2022; Rajmohan et al., 2019; Zheng & Suh, 2019).
+
+In low- and middle-income countries, informal recycling, which involves networks of individuals who sort through waste and sell or recycle it using informal methods, is a common form of waste management (Yang et al., 2018). Increasing recycling in these contexts could formalize this recycling method and improve some of the social and health equity concerns associated with informal recycling, such as exploitation, safety, child labor, and occupational health exposures, and may improve income-earning capabilities (Aparcana & Salhofer, 2013; Yang et al., 2018). Low- and middle-income countries typically face a disproportionate burden of plastic pollution, which could be improved by increasing recycling capacities globally (World Wildlife Fund [WWF], 2023).
+
+Recycling can benefit land resources and soil quality by reducing materials in landfills and incinerators and by reducing the need to extract virgin materials such as timber and minerals (Dussaux & Glachant, 2019; McGinty, 2021; U.S. EPA, 2025). Rajmohan et al. (2019) estimated that about 22–43% of plastic waste reaches landfills. Plastic waste can degrade into microplastics, leaching into surrounding ecosystems and reducing soil fertility (McGinty, 2021; Rajmohan et al., 2019). The environmental benefits of displacing the need for production using virgin materials through recycling may be more significant than reducing landfilling (Geyer et al., 2016). Recycling, along with the use of wood residues, is projected to reduce the demand for wood and fiber, easing pressures on land resources (FAO, 2009).
+
+Recycling can reduce the amount of water needed to produce new materials. For example, using recycled steel to make steel requires 40% less water than using virgin materials (NEMS, n.d.).
+
+Increasing recycling reduces the amount of waste in landfills and incinerators and can reduce harmful pollution associated with landfilling and incineration (U.S. EPA, 2025). Additionally, recycling reduces the need to mine and process new materials, thereby reducing air pollution emitted during these processes (U.S. EPA, 2025).
+
+Manufacturing emissions reductions due to recycling of metals, paper and cardboard, plastics, and glass are generally both permanent and additional, depending on local regulations and recycling practices. While recycling reduces the need for virgin production of raw materials and associated emissions, several caveats affect the extent of its climate benefits.
+
+There is a low risk that the avoided emissions from increased recycling will be reversed in the next 100 years. Using recycled materials in place of newly extracted (virgin) resources avoids emissions from extraction, refining, and manufacturing. These reductions are considered permanent because the avoided activities occur to a lesser extent and fewer associated emissions are released. Recycling uses less energy and therefore reduces burning of fossil fuels and emits less GHGs. Avoided methane emissions from landfilled paper waste also has high permanence.
+
+Emissions reductions from increasing recycling are additional when improvements go beyond what would happen anyway under existing law or infrastructure. Increases in recycled rates, expansion to underdeveloped areas, and improvements in recycled material quality can result in additional climate benefits (Awino & Apitz, 2024; Halog & Anieke, 2021; Oo et al., 2024; Valenzuela-Levi et al., 2021). Efforts to enable or expandclosed-loop recyclingare also considered additional, especially for glass bottle recycling and in regions without this infrastructure.
+
+Material-specific limitations also apply. Material losses during product use and end-of-life processing limit metals recycling. Many metals are locked in products with long lifespans, difficult-to-separate designs, or technically unrecoverable applications, reducing availability for recycling (Ciacci et al., 2016; Guo et al., 2023). While improved recycling can decrease losses (Charpentier Poncelet et al., 2022), stagnant recycled metal inputs do not match growing metal demand (Watari et al., 2025).
+
+Paper and cardboard can be recycled only five to seven times before fibers degrade beyond usability (Bajpai, 2014; Obradovic & Mishra, 2020), limiting long-term recyclability. Plastic recycling faces similar limits because many plastics degrade after a few cycles and mechanical processes are highly sensitive to contamination (Klotz et al., 2022; Klotz et al., 2023). For glass,downcyclingis common due to quality control issues and variable regional demand for high-purity cullet. Van Ewijk et al. (2021) also emphasized that the benefits of paper recycling depend substantially on the carbon intensity of the energy used, highlighting the need to power recycling with low-carbon electricity.
+
+Increasingmetals recycling, paper and cardboard recycling,andplastics recyclingcan inadvertently increase environmental and human exposure to hazardous chemicals if not properly managed. Exposure to heavy metal fumes can occur while processing metal waste, and concealed pressurized or reactive items in scrap can cause fires or explosions. Chemical additives such as mineral oils and printing inks often persist throughout the paper life cycle and can migrate into the environment and food packaging, posing health risks such as chronic inflammation, endocrine disruption, and cancer (Pivnenko et al., 2016; Sobhani & Palanisami, 2025). Flame retardants, per- and polyfluoroalkyl substances, and other pollutants can leach from materials during and after plastics recycling. Microplastics accumulate at higher concentrations in recycled plastics and are released during all recycling stages (Monclús et al., 2025; Singh & Walker, 2024). Additionally, recycled papers and plastics contain unintentionally added substances, which carry different additives whose composition is often unknown (Monclús et al., 2025; Sobhani & Palanisami, 2025).
+
+Increased plastics collection for recycling without global coordination can lead to disproportionate plastic pollution if high-income countries export plastic waste to low-income countries with inadequate recycling infrastructure (Singh & Walker, 2024).
+
+Whenglass recyclingis included in single-stream systems, glass shards can damage MRF machinery and contaminate other recyclable materials, decreasing their market value (Deer, 2021). Additionally, the heavy weight and fragility of glass means recycling trucks require multiple trips, consuming more fuel and increasing transportation costs.
+
+Another key risk is that materials collected for recycling may ultimately be landfilled when poor market conditions prevent their recovery.
+
+Ciacci et al. (2016) and van Ewijk and Stegemann (2023) noted that as recycling approaches near-total recovery, energy consumption steeply rises, driven by increased decontamination efforts, sorting challenges, and diminished material quality. However, recycling rates are currently low enough that recycling is less carbon intense than primary material manufacturing.
+
+The eventual quality degradation in secondary materials requires supplementation with virgin resources. However, overallembodied emissionsare still lower than they would be for producing all-new materials.
+
+Glass recycling poses a trade-off between convenience and recycling efficiency in single-stream systems. Only 40% of glass is repurposed into new products, and the glass can contaminate other materials. Multi-stream or source-separated systems require more effort but achieve 90%-plus recycling rates (Berardocco et al., 2022; Deer, 2021).
+
+Watari et al. (2025) noted that countries can achieve high local recycling rates and high recycled content by importing scrap metals from elsewhere, but with the trade-off that metal production emissions are offshored rather than reduced. This also introduces dependencies on international scrap flows and global supply chains (Guo et al., 2023), which can similarly occur for paper, cardboard, and plastics.
+
+All of these solutions can reuse clean and high-quality recycled materials as a raw material or feedstock or repurpose them as substitute materials in targeted uses. The embodied emissions from the recovered waste used as production or process inputs will be reduced, enhancing the solutions’ net climate impacts and supporting circularity.
+
+Deploy Alternative Insulation Materials
+
+Deploy Bioelectricity with Carbon Capture & Storage
+
+Improve Building Envelopes
+
+Improve Cement Production
+
+Deploy Low-Emission Industrial Feedstocks
+
+Improve Other Building Materials
+
+Improve Windows & Glass
+
+Recycling paper and cardboard waste reduces deforestation required for extracting and processing primary raw materials.
+
+Improve Forest Management
+
+Increased adoption of efficient mechanical recycling systems and equipment can improve the rate and cost of scaling similar highly-efficient, complementary technologies (e.g., chemical recycling).
+
+Boost Industrial Efficiency
+
+Diverting certain paper and cardboard types from landfills lowers methane emissions available to be captured and sold forbiogasrevenue. Paper and cardboard recycling also can reduce the amount of material that can be converted into biochar or compost.
+
+Increase Centralized Composting
+
+Improve Landfill Management
+
+
+## Consensus of effectiveness of recycling as a climate solution: High
+
+
+Recycling reduces solid waste, mitigates GHG emissions from landfilled solid waste, and offers significant savings in electricity and fuel consumption (Cudjoe et al., 2021; Kaza et al., 2018; Uekert et al., 2023). UNEP (2024) estimated that 2.1 Gt of municipal solid waste was generated globally in 2020, and projected that to increase to 3.8 Gt by 2050 if action is not taken. Although postconsumer waste contributes ~5% to total global GHG emissions (Oo et al., 2024), around 30–37% of global waste ends up in landfills with only 19% recovered through recycling and composting processes (Kaza et al., 2018; UNEP, 2024).
+
+Three extensive reviews of industrialdecarbonizationidentify four technologies either ready for near-term deployment or already achieving material impact across global industries: electrification, material efficiency, energy efficiency, and circularity driven by increased reuse and recycling (Daehn et al., 2022; Gailani et al., 2024; Rissman et al., 2020). The last includes recovery of the four waste subcategories considered in this solution, where metals and plastics rank among the top six most-produced human-made materials globally (BioCubes, n.d.).
+
+Incorporating recycled metal scraps into manufacturing consumes 30–95% less energy than producing metals from raw feedstocks, where the primary metal sector emits approximately 10% of global GHG emissions from energy-intensive mining, smelting, and refining (Yokoi et al., 2022). Reprocessing 1 t of plastic waste can save up to 130GJof energy (Singh & Walker, 2024), and secondary production of plastics with a ~40% global collection rate could mitigate 160 Mt CO₂
+/yr in 2050 (Daehn et al., 2022). Glass recycling offers 2–3% energy savings and a 5% reduction in CO₂
+ emissions from furnace fuel combustion for every 10% increase in cullet content in the melting batch (Baek et al., 2025; Glass Packaging Institute, n.d.; Miserocchi et al., 2024).
+
+We reiterate that GHG savings from recycling are highly sensitive to assumptions such as material quality, contamination rates, transportation distances, and market conditions. These factors introduce uncertainty because recycling benefits can vary depending on the efficiency of recycling systems in practice and market viability.
+
+The results presented in this document summarize findings from 18 reports, 22 reviews and meta-analyses, 41 original studies, nine perspectives, two books, five web articles, and three datasets reflecting the most recent evidence for more than 200 countries.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Establish ambitious recycling goals; incorporate them into climate plans.
+
+Ensure public procurement uses recycled materials or products as much as possible.
+
+Consult with manufacturers, retailers, and the public to determine how best to design local recycling programs.
+
+Empower citizen leaders to help manage MSW collection and recycling programs; ensure legal and regulatory structures clearly designate citizen and/or local control to avoid political disagreements and interference.
+
+Use decision-making models and economic analysis tools to design MSW systems that incorporate aspects such as life-cycle assessments, material flows, cost/benefit analyses, environmental impact assessments, management systems, and assessments of immediate impacts on human well-being, especially in low-income and urban settings.
+
+Ensure waste management systems and practices are appropriate for the local context and not just imported models from other countries.
+
+Coordinate recycling efforts, policies, and budgets horizontally (e.g., across agencies) and vertically (e.g., across subnational, national, and international efforts), ensuring an inclusive process for local communities.
+
+Use financial incentives that are appropriate for the local context such as subsidizing recycling plants, transportation, and pickup; offer tax exemptions and other incentives to low-income communities.
+
+Use financial disincentives and taxes appropriate for the local context, such as landfilling fees, rent and/or property taxes, product fees, and collection fees included in utility bills or tied to waste quantity; ensure fees do not burden or stop low-income communities from recycling (possibly by tying collection fees to income bracket).
+
+Invest in waste management infrastructure, including waste drop-off and buy-back centers, collection and separation facilities, roads and collectionvehicles, education programs, community engagement mechanisms, and research and development for more efficient recycling techniques, behavioral change mechanisms, product design, and alternative materials.
+
+Institute bans on landfilling recyclable (orcompostable) materials; establish penalties for noncompliance.
+
+Enact container deposit programs to encourage recycling and reuse.
+
+Mandate standard shapes and color coding for waste bins to facilitate collection and separation.
+
+Ban single-use plastics such as shopping bags and water bottles; ensure strong customs enforcement for imports.
+
+Enactextended producer responsibilityapproaches that hold producers accountable for waste; set standards for the traceability of materials; require clear labeling for recyclable products.
+
+Aim to eliminate government corruption behind illicit waste trade; create monitoring programs to hold waste managers accountable.
+
+Incentivize or encourage waste management facilities to run onrenewableenergy and use electric fleets.
+
+Incentivize or encourage manufacturers – including climate solution industries such as solar and wind producers – to use as much recycled materials as possible.
+
+Require products made of metal, paper, plastic, or glass to contain a minimum percentage of recycled materials; ensure packaging producers meet recycling obligations potentially through the use of market-based mechanisms such aspackaging waste recovery notes(PRNs) and/orpackaging waste export recovery notes(PERNs).
+
+Work to bring informal waste pickers into the formal MSW system by providing or advocating for training, protective gear, formal employment, free or low-cost childcare services, and other social benefits and purchasing separated recyclable waste.
+
+Work with businesses and industries to develop consistent markets for recycled goods and stabilize the price of recycled materials.
+
+Carefully enter into transparent public–private recycling partnerships, ensuring legal systems can enforce compliance with contractual terms.
+
+Set collection fees, designate collection areas, and establish the amount of monitoring services at the municipal level rather than letting private companies do so.
+
+Improve building codes and manufacturing regulations to require the use of recycled materials and material traceability; set standards for building and vehicle demolition to require the recovery of window glass and other recyclable materials.
+
+Set recycling-facilitating regulations and standards for product disassembly.
+
+Set standards that ease barriers for trading recycled goods and recyclable materials; halt the export of waste from rich countries to low- and middle-income countries; enforce trade standards and ensure illicit trade networks do not circumvent them.
+
+Foster cooperation and technology transfers between low- and middle-income countries, avoiding models used in rich countries that are ill-suited for other contexts.
+
+Deploy diverse means of engaging the public in recycling, such as volunteer groups, social activities, and musical trucks.
+
+Create or improve training programs for waste management professionals that focus on practical skills and knowledge for working with communities to design and manage MSW systems.
+
+Partner with schools, manufacturers, retailers, nonprofits, and other community organizations to promote recycling.
+
+Establish programs that teach how to separate waste effectively, thewaste hierarchy, and why these processes are important; incorporate these concepts into public school curricula.
+
+The decision maker’s guides for solid waste management technologies. Kaza & Bhada-Tata (2018)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource. UNEP (2024)
+
+Place recycling plants as close to points of waste generation as possible.
+
+Consult with government officials, manufacturers, retailers, and the public to determine how best to design local recycling programs; utilize local data to inform planning, development, collection, and sorting techniques.
+
+Support and cooperate with citizen leaders to help manage MSW collection and recycling programs.
+
+Use decision-making models and economic analysis tools to design MSW systems that incorporate aspects such as life-cycle assessments, material flows, cost/benefit analyses, environmental impact assessments, management systems, and assessments of immediate impacts on human well-being, especially in low-income and urban settings.
+
+Take advantage of financial incentives such as subsidies for recycling plant construction, transportation, and pickup; if none exist, advocate to policymakers for incentives.
+
+Invest in waste management infrastructure, including waste drop-off and buy-back centers, collection and separation facilities, roads, collection vehicles, education programs, community engagement mechanisms, and research and development for more efficient recycling techniques, behavioral change mechanisms, product design, and alternatives to non-recyclable materials.
+
+Use energy efficiency equipment and enhanced heat recovery techniques; install smart technology control systems.
+
+Use electric equipment and renewable energy sources as much as possible.
+
+Work with the renewable energy industry to ensure new solar photovoltaic panels and wind turbines utilize as much recycled materials as possible.
+
+Work to bring informal waste pickers into the formal MSW system by providing or advocating for training, protective gear, formal employment, free or low-cost childcare services, and other social benefits and purchasing separated recyclable waste.
+
+Work with policymakers, businesses, and industries to develop consistent markets for recycled goods and stabilize the price of recycled materials.
+
+Deploy diverse means of engaging the public in recycling, such as volunteer groups, social activities, and musical trucks.
+
+Create or improve training programs for waste management professionals that focus on practical skills and knowledge for working with communities to design and manage MSW systems.
+
+Partner with schools, manufacturers, retailers, nonprofits, and other community organizations to promote recycling.
+
+Establish programs that teach how to separate waste effectively, the waste hierarchy, and why these processes are important; incorporate these concepts into public school curricula.
+
+The decision maker’s guides for solid waste management technologies. Kaza & Bhada-Tata (2018)
+
+Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource. UNEP (2024)
+
+Use recycled materials in business operations as much as possible and ensure employees recycle.
+
+Improve the quality of products, reduce material usage and product weight, and extend product life cycles through design that allows for easy reuse, repair, upgrading, recycling, and remanufacturing.
+
+Work with industry peers to set design standards for common products that contain recycled materials.
+
+Improve the traceability of materials used in products to enhance sorting efficiency.
+
+Collect used products and reuse the materials for future production.
+
+Advocate to policymakers for improved municipal recycling programs and support for integrating recycled products into your industry.
+
+Provide financial assistance to employees for training in sustainable waste management, circular business models, and other related fields.
+
+Create or join platforms that allow business-to-business collaboration to increase adoption of recycling and integration of recycled materials into products and business models.
+
+Conduct market research on consumer demands and trends to identify potential markets for recycled materials.
+
+Fund research or start-ups that aim to boost recycling in your industry.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate collaboration on recycling.
+
+The decision maker’s guides for solid waste management technologies. Kaza & Bhada-Tata (2018)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource. UNEP (2024)
+
+Ensure procurement uses strategies to reduce waste and use recycled materials as much as possible.
+
+Help administer local recycling programs; take advantage of financial incentives such as subsidies for recycling plants, transportation, and pickup; ensure services are provided to low-income communities.
+
+Consult with government officials, manufacturers, retailers, and the public to determine how best to design local recycling programs.
+
+Help recycling service providers navigate certification and permitting; help identify funding opportunities.
+
+Help develop decision-making models and economic analyses for designing recycling systems, incorporating aspects such as life-cycle assessments, material flows, cost/benefit analyses, environmental impact assessments, management systems, and assessments of impacts on human well-being, especially in low-income and urban settings.
+
+Improve data collection on employment figures in the waste and recycling sectors; work to capture labor statistics for informal waste pickers – especially, women and children involved in the sector that are not captured by current data.
+
+Advocate for ambitious public recycling goals, including integration into local and national climate plans.
+
+Advocate for international trade standards that ease barriers for trading in recycled goods and recyclable materials; seek to halt the practice of rich countries exporting waste to low- and middle-income countries; advocate for better enforcement of trade standards to ensure illicit trade networks do not circumvent these standards.
+
+Create or improve training programs for waste management professionals that focus on practical skills and knowledge for working with communities to design and manage MSW systems.
+
+Advocate for bans on discarding recyclable materials to landfills and penalties for noncompliance.
+
+Establish or advocate for container deposit programs to encourage recycling and reuse.
+
+Advocate for bans on single use plastics such as shopping bags and water bottles.
+
+Advocate forextended producer responsibilityapproaches that hold producers accountable for waste; demand standards for traceability and labeling of materials in products to facilitate recycling.
+
+Empower citizen leaders to help manage MSW collection and recycling programs; advocate for clear legal and regulatory structures to avoid political disagreements and interference.
+
+Help safeguard against government corruption to avoid the illicit waste trade; create monitoring programs to hold waste management companies and/or leadership accountable.
+
+Deploy diverse means of engaging the public in recycling, such as volunteer groups, social activities, and musical trucks.
+
+Work to bring informal waste pickers into the formal MSW system by providing or advocating for training, protective gear, formal employment, free or low-cost childcare services, and other social benefits.
+
+Help facilitate local cooperatives or other management structures for recycling programs; offer to purchase separated recyclable waste from waste pickers.
+
+Work with businesses and industry to develop consistent markets for recycled goods and stabilize the price of recycled materials.
+
+Partner with schools, manufacturers, retailers, nonprofits, and other community organizations to promote recycling.
+
+Establish programs that teach how to separate waste effectively, the waste hierarchy, and why these processes are important; incorporate these concepts into public school curricula.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate collaboration on recycling.
+
+The decision maker’s guides for solid waste management technologies. Kaza & Bhada-Tata (2018)
+
+Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource. UNEP (2024)
+
+Ensure portfolio companies and company procurement reduce waste, recycle, and use recycled materials at all stages of the supply chain.
+
+Require portfolio companies to measure and report on waste, recycling rates, and use of recycled materials.
+
+Provide low-interest loans to recycling service providers for start-up capital, improving efficiency, transitioning to renewable energy, and other development needs.
+
+Invest in companies developing or modifying products to be compatible with acircular economy.
+
+Fund start-ups that aim to improve sorting technologies, alternative packaging materials, energy efficiency of waste separation equipment, and other industry needs.
+
+Offer financial services, notably rural financial market development, including low-interest loans, microfinancing, and grants, to support recycling initiatives.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate collaboration on recycling.
+
+The decision maker’s guides for solid waste management technologies. Kaza & Bhada-Tata (2018)
+
+Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource. UNEP (2024)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Ensure your organization’s procurement recycles and uses recycled materials as much as possible.
+
+Help administer local recycling programs; take advantage of financial incentives such as subsidies for recycling plants, transportation, and pickup; ensure services are provided to low-income communities.
+
+Foster cooperation and technology transfers between low- and middle-income countries, avoiding models used in rich countries that are ill-suited for other contexts.
+
+Offer grants and loans to establish recycling projects, ensuring projects have sustainable means of generating income sources to maintain operations after grant or loan terms end.
+
+Provide low-interest loans to recycling service providers for start-up capital, improving efficiency, transitioning to renewable energy, and other development needs.
+
+Invest in companies developing or modifying products to be compatible with a circular economy.
+
+Fund start-ups that aim to improve sorting technologies, alternative packaging materials, energy efficiency of waste separation equipment, and other industry needs.
+
+Offer financial services, notably rural financial market development, including low-interest loans, microfinancing, and grants to support recycling initiatives.
+
+Hold community consultations with government officials, manufacturers, retailers, and the public to determine how best to design local recycling programs.
+
+Help recycling service providers navigate certification and permitting processes.
+
+Help develop decision-making models and economic analyses for designing recycling systems, incorporating aspects such as life-cycle assessments, material flows, cost/benefit analyses, environmental impact assessments, management systems, and assessments of impacts on human well-being, especially in low-income and urban settings.
+
+Improve data collection on employment figures in the waste and recycling sectors; work to capture labor statistics for informal waste pickers – especially, women and children involved in the sector that are not captured by current data.
+
+Advocate for ambitious public recycling goals and for the goals to be integrated into local and national climate plans.
+
+Advocate for international trade standards that ease barriers for trading in recycled goods and recyclable materials; seek to halt the practice of rich countries exporting waste to low- and middle-income countries; advocate for better enforcement of trade standards to ensure illicit trade networks do not circumvent these standards.
+
+Create or improve training programs for waste management professionals that focus on practical skills and knowledge for working with communities to design and manage MSW systems.
+
+Advocate for bans on discarding recyclable (orcompostable) materials to landfills and penalties for noncompliance.
+
+Establish or advocate for container deposit programs to encourage recycling and reuse.
+
+Advocate for bans on single use plastics such as shopping bags and water bottles.
+
+Advocate forextended producer responsibilityapproaches that hold producers accountable for waste; demand standards for the traceability and labeling of materials in products to facilitate the recycling process.
+
+Empower citizen leaders to help manage MSW collection and recycling programs; advocate for clear legal and regulatory structures to avoid political disagreements and interference.
+
+Help safeguard against government corruption to avoid the illicit waste trade; create monitoring programs to hold waste management companies and/or leadership accountable.
+
+Deploy diverse means of engaging the public in recycling, such as volunteer groups, social activities, and musical trucks.
+
+Work to bring informal waste pickers into the formal MSW system by providing or advocating for training, protective gear, formal employment, free or low-cost childcare services, and other social benefits.
+
+Help facilitate local cooperatives or other management structures for recycling programs; offer to purchase separated recyclable waste from waste pickers.
+
+Work with businesses and industry to develop consistent markets for recycled goods and to stabilize the price of recycled materials.
+
+Partner with schools, manufacturers, retailers, nonprofits, and other community organizations to promote recycling.
+
+Establish programs that teach how to separate waste effectively, the waste hierarchy, and why these processes are important; incorporate these concepts into public school curricula.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate collaboration on recycling.
+
+ThThe decision maker’s guides for solid waste management technologies. Kaza & Bhada-Tata (2018)
+
+Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource. UNEP (2024)
+
+Adopt recycling, share your experience, and inform your community how to effectively recycle in your area.
+
+Consult with government officials, manufacturers, retailers, and the public to determine how best to design local recycling programs.
+
+Help recyclers navigate certification and permitting; help identify funding opportunities.
+
+Help develop decision-making models and economic analyses for designing recycling systems, incorporating aspects such as life-cycle assessments, material flows, cost/benefit analyses, environmental impact assessments, management systems, and assessments of impacts on human well-being, especially in low-income and urban settings.
+
+Create ways of tracing materials and verifying recycled materials; explore the use ofblockchaintechnology.
+
+Conduct climate impact assessments of chemical recycling for plastics at an industrial scale; assess its feasibility to supplement mechanical recycling.
+
+Improve data collection on employment figures in the waste and recycling sectors; work to capture labor statistics for informal waste pickers – especially, women and children involved in the sector that are not captured by current data.
+
+Research and develop strategies for increasing recycling behavior.
+
+Advocate for ambitious public recycling goals and for the goals to be integrated into local or national climate plans.
+
+Advocate for international trade standards that ease barriers for trading in recycled goods and recyclable materials; seek to halt the practice of rich countries exporting waste to low- and middle-income countries (“waste dumping”); advocate for better enforcement of trade standards to ensure illicit trade networks do not circumvent these standards.
+
+Create or improve training programs for waste management professionals that go into practical skills and knowledge for working with communities to design and manage MSW systems.
+
+Advocate for bans on discarding recyclable (orcompostable) materials to landfills and penalties for noncompliance.
+
+Advocate for container deposit programs to encourage recycling and reuse.
+
+Advocate for bans on single use plastics such as shopping bags and water bottles.
+
+Advocate forextended producer responsibilityapproaches that hold producers accountable for waste; demand standards for the traceability and labeling of materials in products to facilitate the recycling process.
+
+Empower citizen leadership to help manage MSW collection and recycling programs; advocate for clear legal and regulatory structures to avoid political disagreements and interference.
+
+Help safeguard against government corruption to avoid the illicit waste trade; create monitoring programs to hold waste management companies and/or leadership accountable.
+
+Deploy diverse means of engaging the public in recycling, such as volunteer groups, social activities, and musical trucks.
+
+Work with businesses and industry to develop consistent markets for recycled goods and to stabilize the price of recycled materials.
+
+Partner with schools, manufacturers, retailers, nonprofits, and other community organizations to promote recycling.
+
+Establish programs that teach how to separate waste effectively, the waste hierarchy, and why these processes are important; incorporate these concepts into public school curricula.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate collaboration on recycling.
+
+The decision maker’s guides for solid waste management technologies. Kaza & Bhada-Tata (2018)
+
+Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource. UNEP (2024)
+
+
+## Technologists and Researchers
+
+
+Improve the efficiency of waste separation machinery and develop low-cost, low-maintenance means of waste management – particularly for contexts such as low- and middle-income countries.
+
+Improve collecting, sorting, and pre-treating processes to enhance recovery of materials while minimizing degradation and contamination.
+
+Improve energy efficiency of equipment such as glass furnaces by enhancing heat recovery; design or improve smart technology control systems.
+
+Explore the use of artificial intelligence in separating waste streams.
+
+Explore, discover, or improve new uses for recycled or recovered materials.
+
+Create ways of tracing materials and verifying recycled materials, such as blockchain technology.
+
+Engineer means of reducing the weight of materials in common products such as packaging and glass without sacrificing recyclability or functionality.
+
+Improve chemical recycling of plastics – particularly solvent-based purification and de-polymerization – while maintaining low energy consumption and high utilization rates for the remaining waste.
+
+Assess the climate impact of industrial-scale chemical recycling of plastics and its feasibility to supplement mechanical recycling.
+
+Advance systems for collecting, sorting, and recycling metals, plastics, and glass contained in electronic devices.
+
+Improve means of removing ink and adhesives from paper.
+
+Improve waste handling techniques and environmental safeguards for the sludge produced during paper recycling; design products using the sludge.
+
+Enhance systems for sorting plastics.
+
+Research ways to improve recycling or reusing agricultural, construction, and thermoset plastics; find means to recycle polymers such as PVC.
+
+Increase the performance of metal-sensing and -sorting equipment such as X-ray detection or spectroscopy; improve means of detecting external impurities, especially in steel scrap.
+
+Design recycle-friendly alloys that can be used in a variety of ways and products.
+
+Improve technology for sorting colored glass and detecting ceramics.
+
+Improveliquefactiontechnology for plastics to reduce costs, minimize upgrading needs, and produce higher quality products.
+
+Research and develop strategies for increasing recycling behavior.
+
+Collect up-to-date data on recycled materials - particularly, on glass recycling.
+
+The decision maker’s guides for solid waste management technologies. Kaza & Bhada-Tata (2018)
+
+Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource. UNEP (2024)
+
+
+## Communities, Households, and Individuals
+
+
+Participate in local recycling programs, share your experience with your community, and educate others on how to recycle in your area.
+
+Practice conscious consumerism; buy only what’s needed and avoid products that use excessive packaging or have a short lifespan.
+
+Form stakeholder groups to monitor and help administer local recycling systems.
+
+Reuse products, packaging, and materials as much as possible before recycling or disposing of them.
+
+Use your power as a consumer to influence businesses to adopt practices that increase recycling.
+
+Participate in or advocate for consultations with government officials, manufacturers, retailers, and the public to determine how best to design local recycling programs.
+
+Advocate for ambitious public recycling goals to be integrated into local or national climate plans.
+
+Advocate for bans on discarding recyclable materials to landfills and penalties for noncompliance.
+
+Establish or advocate for container deposit programs to encourage recycling and reuse.
+
+Advocate for bans on single use plastics such as shopping bags and water bottles.
+
+Advocate forextended producer responsibilityapproaches that hold producers accountable for waste; demand standards for the traceability and labeling of materials in products to facilitate recycling.
+
+Help safeguard against government corruption to avoid the illicit waste trade; create community monitoring programs to hold waste management companies and/or leaders accountable.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate collaboration on recycling.
+
+The decision maker’s guides for solid waste management technologies. Kaza & Bhada-Tata (2018)
+
+Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource. UNEP (2024)
+
+
+## “Take Action” Sources
+
+
+Solid waste management in the context of the waste hierarchy and circular economy frameworks: An international critical review. Awino & Apitz (2024)
+
+Exploring glass recycling: Trends, technologies, and future trajectories. Baek et al. (2025)
+
+Introduction - Recycling and deinking of recovered paper. Bajpai (2014)
+
+Decent work opportunities and challenges in recycling. Barford & Beales (2025)
+
+Plastics and climate change—Breaking carbon lock-ins through three mitigation pathways. Bauer et al. (2022)
+
+Life cycle sustainability assessment of single stream and multi-stream waste recycling systems. Berardocco et al. (2022)
+
+Reducing the environmental footprint of glass manufacturing. Colangelo (2024)
+
+The potential energy and environmental benefits of global recyclable resources. Cudjoe et al. (2021)
+
+Innovations to decarbonize materials industries. Daehn et al. (2022)
+
+Metals beyond tomorrow: Balancing supply, demand, sustainability, substitution, and innovations. DebRoy & Elmer  (2024)
+
+Why is glass recycling going away?Deer (2021)
+
+Glass waste circular economy—Advancing to high-value glass sheets recovery using industry 4.0 and 5.0 technologies. Delbari & Hof (2024)
+
+Resource efficiency, the circular economy, sustainable materials management and trade in metals and minerals. de Sa & Korinek (2021)
+
+Resource dependence, recycling, and trade. Egger & Keuschnigg (2024)
+
+Recycling of landfill wastes (tyres, plastics and glass) in construction – A review on global waste generation, performance, application and future opportunities. Ferdous et al. (2021)
+
+Decarbonizing the pulp and paper industry: A critical and systematic review of sociotechnical developments and policy options. Furszyfer Del Rio et al. (2022)
+
+Assessing the potential of decarbonization options for industrial sectors. Gailani et al. (2024)
+
+Facts about glass recycling. Glass Packaging Institute (n.d.)
+
+A review on automated sorting of source-separated municipal solid waste for recycling. Gundupalli et al. (2017)
+
+Paths to circularity for plastics in the United States. Hendrickson et al. (2024)
+
+Complexities of the global plastics supply chain revealed in a trade-linked material flow analysis. Houssini et al. (2025)
+
+What a waste 2.0: A global snapshot of solid waste management to 2050.Kaza et al. (2018)
+
+Limited utilization options for secondary plastics may restrict their circularity. Klotz et al. (2022)
+
+Expanding plastics recycling technologies: Chemical aspects, technology status and challenges. Li et al. (2022)
+
+The world of plastic waste: A review. Nayanathara Thathsarani Pilapitiya & Ratnayake (2024)
+
+The role of global waste management and circular economy towards carbon neutrality. Oo et al. (2024)
+
+Global plastics outlook: Economic drivers, environmental impacts and policy options. OECD (2022)
+
+Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070. Rissman et al. (2020)
+
+Plastic recycling: A panacea or environmental pollution problem. Singh & Walker (2024)
+
+Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource. UNEP (2024)
+
+Promoting adoption of recycling by municipalities in developing countries: Increasing or redistributing existing resources?Valenzuela-Levi et al. (2021)
+
+Methods and Supporting Data
+
+Allwood, J. M., Music, O., Loukaides, E. G., & Bambach, M. (2025). Cut the scrap: Making more use of less metal.CIRP Annals,74(2), 895–919.Link to source:https://doi.org/10.1016/j.cirp.2025.04.013
+
+Aparcana, S., & Salhofer, S. (2013). Development of a social impact assessment methodology for recycling systems in low-income countries.The International Journal of Life Cycle Assessment,18(5), 1106–1115.Link to source:https://doi.org/10.1007/s11367-013-0546-8
+
+Awino, F. B., & Apitz, S. E. (2024). Solid waste management in the context of the waste hierarchy and circular economy frameworks: An international critical review.Integrated Environmental Assessment and Management,20(1), 9–35.Link to source:https://doi.org/10.1002/ieam.4774
+
+Ayodele, T. R., Alao, M. A., & Ogunjuyigbe, A. S. O. (2018). Recyclable resources from municipal solid waste: Assessment of its energy, economic and environmental benefits in Nigeria.Resources, Conservation and Recycling,134, 165–173.Link to source:https://doi.org/10.1016/j.resconrec.2018.03.017
+
+Azadi, M., Northey, S. A., Ali, S. H., & Edraki, M. (2020). Transparency on greenhouse gas emissions from mining to enable climate change mitigation.Nature Geoscience,13(2), 100–104.Link to source:https://doi.org/10.1038/s41561-020-0531-3
+
+Baek, C. R., Kim, H. D., & Jang, Y.-C. (2025). Exploring glass recycling: Trends, technologies, and future trajectories.Environmental Engineering Research,30(3), Article 240241.Link to source:https://doi.org/10.4491/eer.2024.241
+
+Bajpai, P. (2014). Introduction. InRecycling and deinking of recovered paper(pp. 1–18). Elsevier.Link to source:https://doi.org/10.1016/B978-0-12-416998-2.00001-5
+
+Barbato, P. M., Olsson, E., & Rigamonti, L. (2024). Quality degradation in glass recycling: Substitutability model proposal.Waste Management,182, 124–131.Link to source:https://doi.org/10.1016/j.wasman.2024.04.027
+
+Barford, A., & Beales, A. (2025, April 3).Decent work opportunities and challenges in recycling[ILO Technical brief]. International Labour Organization.Link to source:https://www.ilo.org/publications/decent-work-opportunities-and-challenges-recycling
+
+Bauer, F., Nielsen, T. D., Nilsson, L. J., Palm, E., Ericsson, K., Fråne, A., & Cullen, J. (2022). Plastics and climate change—Breaking carbon lock-ins through three mitigation pathways.One Earth,5(4), 361–376.Link to source:https://doi.org/10.1016/j.oneear.2022.03.007
+
+Berardocco, C., Delawter, H., Putzu, T., Wolfe, L. C., & Zhang, H. (2022). Life cycle sustainability assessment of single stream and multi-stream waste recycling systems.Sustainability,14(24), Article 16747.Link to source:https://doi.org/10.3390/su142416747
+
+BioCubes. (n.d.).BioCubes: An inventory of biomass and technomass[Interactive infographic]. Retrieved August 8, 2025, fromLink to source:https://biocubes.net/
+
+Bogner, J., Abdelrafie Ahmed, M., Díaz, C., Faaij, A., Gao, Q., Hashimoto, S., Marecková, K., Pipatti, R., & Zhang, T. (2007). Waste management. In B. Metz, O. R. Davidson, P. R. Bosch, R. Dave, & L. A. Meyer (Eds.),Climate change 2007: Mitigation. Working group III contribution to the fourth assessment report of the intergovernmental panel on climate change(pp. 585–618). Cambridge University Press.Link to source:https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg3-chapter10-1.pdf
+
+Burinskienė, A., Lingaitienė, O., & Byčenkaitė, G. (2025). Dynamics of trade of recycled raw materials and the connection with the circular economy.Discover Sustainability,6, Article  680.Link to source:https://doi.org/10.1007/s43621-025-01502-4
+
+Cabernard, L., Pfister, S., Oberschelp, C., & Hellweg, S. (2022). Growing environmental footprint of plastics driven by coal combustion.Nature Sustainability,5(2), 139–148.Link to source:https://doi.org/10.1038/s41893-021-00807-2
+
+Campbell, R., Bond, D. E., Connellan, C., Mohen, P., & Foo, J. (2022, May 5).From trash to treasure: Green metals from recycling[Insight]. White & Case.Link to source:https://www.whitecase.com/insight-our-thinking/trash-treasure-green-metals-recycling
+
+Chamas, A., Moon, H., Zheng, J., Qiu, Y., Tabassum, T., Jang, J. H., Abu-Omar, M., Scott, S. L., & Suh, S. (2020). Degradation rates of plastics in the environment.ACS Sustainable Chemistry & Engineering,8(9), 3494–3511.Link to source:https://doi.org/10.1021/acssuschemeng.9b06635
+
+Charpentier Poncelet, A., Helbig, C., Loubet, P., Beylot, A., Muller, S., Villeneuve, J., Laratte, B., Thorenz, A., Tuma, A., & Sonnemann, G. (2022). Losses and lifetimes of metals in the economy.Nature Sustainability,5(8), 717–726.Link to source:https://doi.org/10.1038/s41893-022-00895-8
+
+Chen, D. M.-C., Bodirsky, B. L., Krueger, T., Mishra, A., & Popp, A. (2020). The world’s growing municipal solid waste: Trends and impacts.Environmental Research Letters,15(7), Article 074021.Link to source:https://doi.org/10.1088/1748-9326/ab8659
+
+Ciacci, L., Harper, E. M., Nassar, N. T., Reck, B. K., & Graedel, T. E. (2016). Metal dissipation and inefficient recycling intensify climate forcing.Environmental Science & Technology,50(20), 11394–11402.Link to source:https://doi.org/10.1021/acs.est.6b02714
+
+Close the Glass Loop. (2025, July 1).Overview of glass packaging collection systems in Europe.Link to source:https://closetheglassloop.eu/overview-of-glass-packaging-collection-systems-in-europe/
+
+Colangelo, S. (2024). Reducing the environmental footprint of glass manufacturing.International Journal of Applied Glass Science,15(4), 350–366.Link to source:https://doi.org/10.1111/ijag.16674
+
+Cudjoe, D., Zhu, B., Nketiah, E., Wang, H., Chen, W., & Qianqian, Y. (2021). The potential energy and environmental benefits of global recyclable resources.Science of The Total Environment,798, Article 149258.Link to source:https://doi.org/10.1016/j.scitotenv.2021.149258
+
+Daehn, K., Basuhi, R., Gregory, J., Berlinger, M., Somjit, V., & Olivetti, E. A. (2022). Innovations to decarbonize materials industries.Nature Reviews Materials,7(4), 275–294.Link to source:https://doi.org/10.1038/s41578-021-00376-y
+
+Damgaard, A., Larsen, A. W., & Christensen, T. H. (2009). Recycling of metals: Accounting of greenhouse gases and global warming contributions.Waste Management & Research,27(8), 773–780.Link to source:https://doi.org/10.1177/0734242X09346838
+
+Das, S. K., Green, J. A. S., & Kaufman, J. G. (2010, February). Aluminum recycling: Economic and environmental benefits.Light Metal Age, 22–24.Link to source:https://static1.squarespace.com/static/5fecb6479b54c51485875e10/t/60ac1db2e0db640cb17e0eef/1621892530735/Aluminum+Recycling_+Economic+and+Environmental+...+-+Phinix%2C+LLC.pdf
+
+DebRoy, T., & Elmer, J. W. (2024). Metals beyond tomorrow: Balancing supply, demand, sustainability, substitution, and innovations.Materials Today,80, 737–757.Link to source:https://doi.org/10.1016/j.mattod.2024.09.007
+
+Deer, R. (2021, May 5).Why is glass recycling going away?Roadrunner Waste & Recycling.Link to source:https://www.roadrunnerwm.com/blog/why-is-glass-recycling-going-away
+
+Delbari, S. A., & Hof, L. A. (2024). Glass waste circular economy—Advancing to high-value glass sheets recovery using industry 4.0 and 5.0 technologies.Journal of Cleaner Production,462, Article 142629.Link to source:https://doi.org/10.1016/j.jclepro.2024.142629
+
+Demetrious, A., & Crossin, E. (2019). Life cycle assessment of paper and plastic packaging waste in landfill, incineration, and gasification-pyrolysis.Journal of Material Cycles and Waste Management,21(4), 850–860.Link to source:https://doi.org/10.1007/s10163-019-00842-4
+
+de Sa, P., & Korinek, J. (2021, March 1).Resource efficiency, the circular economy, sustainable materials management and trade in metals and minerals(OECD Trade Policy Paper No. 245). OECD Publishing.Link to source:https://doi.org/10.1787/69abc1bd-en
+
+Diaz, R., & Warith, M. (2006). Life-cycle assessment of municipal solid wastes: Development of the WASTED model.Waste Management,26(8), 886–901.Link to source:https://doi.org/10.1016/j.wasman.2005.05.007
+
+Dokl, M., Copot, A., Krajnc, D., Fan, Y. V., Vujanović, A., Aviso, K. B., Tan, R. R., Kravanja, Z., & Čuček, L. (2024). Global projections of plastic use, end-of-life fate and potential changes in consumption, reduction, recycling and replacement with bioplastics to 2050.Sustainable Production and Consumption,51, 498–518.Link to source:https://doi.org/10.1016/j.spc.2024.09.025
+
+Dong, X., Song, J., & Duan, H. (2022). Prioritizing countries for implementing waste recycling under socioeconomic support.Journal of Environmental Management, 322, Article  116158.Link to source:https://doi.org/10.1016/j.jenvman.2022.116158
+
+Dussaux, D., & Glachant, M. (2019). How much does recycling reduce imports? Evidence from metallic raw materials.Journal of Environmental Economics and Policy,8(2), 128–146.Link to source:https://doi.org/10.1080/21606544.2018.1520650
+
+Egger, P. H., & Keuschnigg, C. (2024). Resource dependence, recycling, and trade.Journal of Environmental Economics and Management,128, Article 103064.Link to source:https://doi.org/10.1016/j.jeem.2024.103064
+
+European Paper Recycling Council. (2024).European declaration on paper recycling 2021-2030: Monitoring report 2023. Confederation of European Paper Industries.Link to source:https://www.cepi.org/wp-content/uploads/2024/11/24-4378_EPRC_2023_Singlepages.pdf
+
+Ferdous, W., Manalo, A., Siddique, R., Mendis, P., Zhuge, Y., Wong, H. S., Lokuge, W., Aravinthan, T., & Schubel, P. (2021). Recycling of landfill wastes (tyres, plastics and glass) in construction – A review on global waste generation, performance, application and future opportunities.Resources, Conservation and Recycling,173, Article 105745.Link to source:https://doi.org/10.1016/j.resconrec.2021.105745
+
+Food and Agriculture Organization of the United Nations. (n.d.).FAO‑FAOSTAT: Forestry production and trade[Data set]. Retrieved April 25, 2025, fromLink to source:https://www.fao.org/faostat/en/#data/FO/visualize
+
+Food and Agriculture Organization of the United Nations. (2009). Global demand for wood products. InState of the world’s forests 2009(pp. 62–73).Link to source:https://www.fao.org/4/i0350e/i0350e02a.pdf
+
+Furszyfer Del Rio, D. D., Sovacool, B. K., Griffiths, S., Bazilian, M., Kim, J., Foley, A. M., & Rooney, D. (2022). Decarbonizing the pulp and paper industry: A critical and systematic review of sociotechnical developments and policy options.Renewable and Sustainable Energy Reviews,167, Article 112706.Link to source:https://doi.org/10.1016/j.rser.2022.112706
+
+Gailani, A., Cooper, S., Allen, S., Pimm, A., Taylor, P., & Gross, R. (2024). Assessing the potential of decarbonization options for industrial sectors.Joule,8(3), 576–603.Link to source:https://doi.org/10.1016/j.joule.2024.01.007
+
+Geyer, R., Kuczenski, B., Zink, T., & Henderson, A. (2016). Common misconceptions about recycling.Journal of Industrial Ecology,20(5), 1010–1017.Link to source:https://doi.org/10.1111/jiec.12355
+
+Glass Packaging Institute. (n.d.).Facts about glass recycling. Retrieved March 24, 2025, fromLink to source:https://www.gpi.org/facts-about-glass-recycling
+
+Gorman, M. R., Dzombak, D. A., & Frischmann, C. (2022). Potential global GHG emissions reduction from increased adoption of metals recycling.Resources, Conservation and Recycling,184, Article 106424.Link to source:https://doi.org/10.1016/j.resconrec.2022.106424
+
+Gundupalli, S. P., Hait, S., & Thakur, A. (2017). A review on automated sorting of source-separated municipal solid waste for recycling.Waste Management,60, 56–74.Link to source:https://doi.org/10.1016/j.wasman.2016.09.015
+
+Guo, J., Ali, S., & Xu, M. (2023). Recycling is not enough to make the world a greener place: Prospects for the circular economy.Green Carbon,1(2), 150–153.Link to source:https://doi.org/10.1016/j.greenca.2023.10.006
+
+Halog, A., & Anieke, S. (2021). A review of circular economy studies in developed countries and its potential adoption in developing countries.Circular Economy and Sustainability,1(1), 209–230.Link to source:https://doi.org/10.1007/s43615-021-00017-0
+
+Hendrickson, T. P., Bose, B., Vora, N., Huntington, T., Nordahl, S. L., Helms, B. A., & Scown, C. D. (2024). Paths to circularity for plastics in the United States.One Earth,7(3), 520–531.Link to source:https://doi.org/10.1016/j.oneear.2024.02.005
+
+Houssini, K., Li, J., & Tan, Q. (2025). Complexities of the global plastics supply chain revealed in a trade-linked material flow analysis.Communications Earth & Environment,6(1), Article 257.Link to source:https://doi.org/10.1038/s43247-025-02169-5
+
+International Paper. (n.d.).Paper’s life cycle: The recycling process[Infographic]. Retrieved June 10, 2025, fromLink to source:https://www.internationalpaper.com/resources/infographic/papers-life-cycle-recycling-process
+
+Karali, N., Khanna, N., & Shah, N. (2024).Climate impact of primary plastic production. Lawrence Berkeley National Laboratory.Link to source:https://escholarship.org/uc/item/6cc1g99q
+
+Kaza, S., Yao, L. C., Bhada-Tata, P., & Van Woerden, F. (2018).What a waste 2.0: A global snapshot of solid waste management to 2050.Urban Development Series. Washington, DC: World Bank.Link to source:https://hdl.handle.net/10986/30317
+
+Klotz, M., Haupt, M., & Hellweg, S. (2022). Limited utilization options for secondary plastics may restrict their circularity.Waste Management,141, 251–270.Link to source:https://doi.org/10.1016/j.wasman.2022.01.002
+
+Klotz, M., Haupt, M., & Hellweg, S. (2023). Potentials and limits of mechanical plastic recycling.Journal of Industrial Ecology,27(4), 1043–1059.Link to source:https://doi.org/10.1111/jiec.13393
+
+Lee, U., Han, J., & Wang, M. (2017). Evaluation of landfill gas emissions from municipal solid waste landfills for the life-cycle analysis of waste-to-energy pathways.Journal of Cleaner Production,166, 335–342.Link to source:https://doi.org/10.1016/j.jclepro.2017.08.016
+
+Li, H., Aguirre-Villegas, H. A., Allen, R. D., Bai, X., Benson, C. H., Beckham, G. T., Bradshaw, S. L., Brown, J. L., Brown, R. C., Cecon, V. S., Curley, J. B., Curtzwiler, G. W., Dong, S., Gaddameedi, S., García, J. E., Hermans, I., Kim, M. S., Ma, J., Mark, L. O., … Huber, G. W. (2022). Expanding plastics recycling technologies: Chemical aspects, technology status and challenges.Green Chemistry,24(23), 8899–9002.Link to source:https://doi.org/10.1039/D2GC02588D
+
+Liu, Y., Park, S., Yi, H., & Feiock, R. (2020). Evaluating the employment impact of recycling performance in Florida.Waste Management,101, 283–290.Link to source:https://doi.org/10.1016/j.wasman.2019.10.025
+
+Maximize Market Research Private Limited. (2025).Glass recycling market – Global market forecast and growth opportunities: Forecast 2025–2032[Report summary].Link to source:https://www.maximizemarketresearch.com/market-report/glass-recycling-market/22548/
+
+McGinty, D. B. (2021, February 3).5 opportunities of a circular economy. World Resources Institute.Link to source:https://www.wri.org/insights/5-opportunities-circular-economy
+
+Miserocchi, L., Franco, A., & Testi, D. (2024). Status and prospects of energy efficiency in the glass industry: Measuring, assessing and improving energy performance.Energy Conversion and Management: X,24, Article 100720. https://doi.org/10.1016/j.ecmx.2024.100720
+
+Monclús, L., Arp, H. P. H., Groh, K. J., Faltynkova, A., Løseth, M. E., Muncke, J., Wang, Z., Wolf, R., Zimmermann, L., & Wagner, M. (2025). Mapping the chemical complexity of plastics.Nature,643(8071), 349–355.Link to source:https://doi.org/10.1038/s41586-025-09184-8
+
+Nayanathara Thathsarani Pilapitiya, P. G. C., & Ratnayake, A. S. (2024). The world of plastic waste: A review.Cleaner Materials,11, Article 100220.Link to source:https://doi.org/10.1016/j.clema.2024.100220
+
+Ng, K. S., & Phan, A. N. (2021). Evaluating the techno-economic potential of an integrated material recovery and waste-to-hydrogen system.Resources, Conservation and Recycling,167, Article 105392.Link to source:https://doi.org/10.1016/j.resconrec.2020.105392
+
+NIH Environmental Management System. (n.d.).Benefits of recycling. U.S. Department of Health and Human Services, National Institutes of Health. Retrieved August 26, 2025, fromLink to source:https://nems.nih.gov/environmental-programs/pages/benefits-of-recycling.aspx
+
+Nordahl, S. L., & Scown, C. D. (2024). Recommendations for life‑cycle assessment of recyclable plastics in a circular economy.Chemical Science,15, 9397–9407.Link to source:https://doi.org/10.1039/D4SC01340A
+
+Norgate, T., & Jahanshahi, S. (2011). Reducing the greenhouse gas footprint of primary metal production: Where should the focus be?Minerals Engineering,24(14), 1563–1570.Link to source:https://doi.org/10.1016/j.mineng.2011.08.007
+
+Obradovic, D., & Mishra, L. N. (2020). Mechanical properties of recycled paper and cardboard.The Journal of Engineering and Exact Sciences,6(3), 0429–0434.Link to source:https://doi.org/10.18540/jcecvl6iss3pp0429-0434
+
+Olafasakin, O., Ma, J., Bradshaw, S. L., Aguirre-Villegas, H. A., Benson, C., Huber, G. W., Zavala, V. M., & Mba-Wright, M. (2023). Techno-economic and life cycle assessment of standalone single-stream material recovery facilities in the United States.Waste Management,166, 368–376.Link to source:https://doi.org/10.1016/j.wasman.2023.05.011
+
+Oo, P. Z., Prapaspongsa, T., Strezov, V., Huda, N., Oshita, K., Takaoka, M., Ren, J., Halog, A., & Gheewala, S. H. (2024). The role of global waste management and circular economy towards carbon neutrality.Sustainable Production and Consumption,52, 498–510.Link to source:https://doi.org/10.1016/j.spc.2024.11.021
+
+Organisation for Economic Co‑operation and Development. (2022a).Global plastics outlook database[Data set].Link to source:https://data-explorer.oecd.org/vis?tm=recycled%20plastics&pg=0&hc[Measure]=&hc[Plastic%20end-of-life%20fate]=&snb=13&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_PW%40DF_PW&df[ag]=OECD.ENV.EEI&df[vs]=1.0&dq=..A.REC.&pd=1990%2C2019&to[TIME_PERIOD]=false&vw=tb
+
+Organisation for Economic Co‑operation and Development. (2022b).Global plastics outlook: Economic drivers, environmental impacts and policy options[Report]. OECD Publishing.Link to source:https://doi.org/10.1787/de747aef-en
+
+Pivnenko, K., Laner, D., & Astrup, T. F. (2016). Material cycles and chemicals: Dynamic material flow analysis of contaminants in paper recycling.Environmental Science & Technology,50(22), 12302–12311.Link to source:https://doi.org/10.1021/acs.est.6b01791
+
+Plastics Europe. (2022).Plastics – the facts 2022[Report].Link to source:https://plasticseurope.org/knowledge-hub/plastics-the-facts-2022/
+
+Plastics Europe. (2023).Plastics – the fast facts 2023[Infographic].Link to source:https://plasticseurope.org/knowledge-hub/plastics-the-fast-facts-2023/
+
+Plastics Europe. (2024a).Plastics – the fast facts 2024[Infographic].Link to source:https://plasticseurope.org/knowledge-hub/plastics-the-fast-facts-2024/
+
+Plastics Europe. (2024b).The circular economy for plastics – A European analysis 2024[Report].Link to source:https://plasticseurope.org/knowledge-hub/the-circular-economy-for-plastics-a-european-analysis-2024/
+
+Raabe, D., Tasan, C. C., & Olivetti, E. A. (2019). Strategies for improving the sustainability of structural metals.Nature,575(7781), 64–74.Link to source:https://doi.org/10.1038/s41586-019-1702-5
+
+Raabe, D., Ponge, D., Uggowitzer, P. J., Roscher, M., Paolantonio, M., Liu, C., Antrekowitsch, H., Kozeschnik, E., Seidmann, D., Gault, B., De Geuser, F., Deschamps, A., Hutchinson, C., Liu, C., Li, Z., Prangnell, P., Robson, J., Shanthraj, P., Vakili, S., … Pogatscher, S. (2022). Making sustainable aluminum by recycling scrap: The science of “dirty” alloys.Progress in Materials Science,128, Article 100947.Link to source:https://doi.org/10.1016/j.pmatsci.2022.100947
+
+Rajmohan, K. V. S., Ramya, C., Raja Viswanathan, M., & Varjani, S. (2019). Plastic pollutants: Effective waste management for pollution control and abatement.Current Opinion in Environmental Science & Health,12, 72–84.Link to source:https://doi.org/10.1016/j.coesh.2019.08.006
+
+Rigamonti, L., Taelman, S. E., Huysveld, S., Sfez, S., Ragaert, K., & Dewulf, J. (2020). A step forward in quantifying the substitutability of secondary materials in waste management life cycle assessment studies.Waste Management,114, 331–340.Link to source:https://doi.org/10.1016/j.wasman.2020.07.015
+
+Rissman, J., Bataille, C., Masanet, E., Aden, N., Morrow, W. R., Zhou, N., Elliott, N., Dell, R., Heeren, N., Huckestein, B., Cresko, J., Miller, S. A., Roy, J., Fennell, P., Cremmins, B., Koch Blank, T., Hone, D., Williams, E. D., de la Rue du Can, S., … Helseth, J. (2020). Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070.Applied Energy,266, Article 114848.Link to source:https://doi.org/10.1016/j.apenergy.2020.114848
+
+Singh, N., & Walker, T. R. (2024). Plastic recycling: A panacea or environmental pollution problem.npj Materials Sustainability,2, Article 17.Link to source:https://doi.org/10.1038/s44296-024-00024-w
+
+Sobhani, Z., & Palanisami, T. (2025). Emerging contaminants in organic recycling: Role of paper and pulp packaging.Resources, Conservation & Recycling,215, Article 108070.Link to source:https://doi.org/10.1016/j.resconrec.2024.108070
+
+Stegmann, P., Daioglou, V., Londo, M., van Vuuren, D. P., & Junginger, M. (2022). Plastic futures and their CO2emissions.Nature,612(7939), 272–276.Link to source:https://doi.org/10.1038/s41586-022-05422-5
+
+Sun, M., Wang, Y., Shi, L., & Klemeš, J. J. (2018). Uncovering energy use, carbon emissions and environmental burdens of pulp and paper industry: A systematic review and meta-analysis.Renewable and Sustainable Energy Reviews,92, 823–833.Link to source:https://doi.org/10.1016/j.rser.2018.04.036
+
+Uekert, T., Singh, A., DesVeaux, J. S., Ghosh, T., Bhatt, A., Yadav, G., Afzal, S., Walzberg, J., Knauer, K. M., Nicholson, S. R., Beckham, G. T., & Carpenter, A. C. (2023). Technical, economic, and environmental comparison of closed-loop recycling technologies for common plastics.ACS Sustainable Chemistry & Engineering,11(3), 965–978.Link to source:https://doi.org/10.1021/acssuschemeng.2c05497
+
+United Nations Environment Programme. (2024).Global waste management outlook 2024: Beyond an age of waste – Turning rubbish into a resource[Report]. United Nations Environment Programme & International Solid Waste Association.Link to source:https://www.unep.org/resources/global-waste-management-outlook-2024
+
+United Nations Office on Drugs and Crime. (2023, April 4).Unwaste trendspotting alert no. 4: Paper and cardboard waste[Bulletin].Link to source:https://www.unodc.org/res/environment-climate/asia-pacific/unwaste_html/Unwaste_Trendspotting_Alert_No.4.pdf
+
+U.S. Geological Survey. (2021)Mineral commodity summaries 2021.Link to source:https://doi.org/10.3133/mcs2021
+
+U.S. Geological Survey. (2022). Iron and steel scrap. InMineral commodity summaries 2022(pp. 90–91).Link to source:https://doi.org/10.3133/mcs2022
+
+U.S. Environmental Protection Agency. (2016a).Environmental factoids[Archived]. U.S. Environmental Protection Agency WasteWise Program. Retrieved March 24, 2025, fromLink to source:https://archive.epa.gov/epawaste/conserve/smm/wastewise/web/html/factoid.html
+
+U.S. Environmental Protection Agency. (2016b).Greenhouse gas inventory guidance: Direct emissions from stationary combustion sources.Link to source:https://www.epa.gov/sites/default/files/2016-03/documents/stationaryemissions_3_2016.pdf
+
+U.S. Environmental Protection Agency. (2025).Recycling basics and benefits. Retrieved September 2, 2025, fromLink to source:https://www.epa.gov/recycle/recycling-basics-and-benefits
+
+Valenzuela-Levi, N., Araya-Córdova, P. J., Dávila, S., & Vásquez, Ó. C. (2021). Promoting adoption of recycling by municipalities in developing countries: Increasing or redistributing existing resources?Resources, Conservation and Recycling,164, Article 105173.Link to source:https://doi.org/10.1016/j.resconrec.2020.105173
+
+van Ewijk, S., Stegemann, J. A., & Ekins, P. (2021). Limited climate benefits of global recycling of pulp and paper.Nature Sustainability,4(2), 180–187.Link to source:https://doi.org/10.1038/s41893-020-00624-z
+
+van Ewijk, S., & Stegemann, J. A. (2023). Waste recycling. InAn introduction to waste management and circular economy(pp. 217–254). UCL Press.Link to source:https://doi.org/10.14324/111.9781800084650
+
+Waldrop, M. M. (2020, October 1). Recycling meets reality.Knowable Magazine.Link to source:https://knowablemagazine.org/content/article/food-environment/2020/recycling-meets-reality-feature
+
+Watari, T., Fishman, T., Wieland, H., & Wiedenhofer, D. (2025). Global stagnation and regional variations in steel recycling.Resources, Conservation & Recycling,220, Article 108363.Link to source:https://doi.org/10.1016/j.resconrec.2025.108363
+
+Westbroek, C. D., Bitting, J., Craglia, M., Azevedo, J. M. C., & Cullen, J. M. (2021). Global material flow analysis of glass: From raw materials to end of life.Journal of Industrial Ecology,25(2), 333–343.Link to source:https://doi.org/10.1111/jiec.13112
+
+World Bank. (2018).What a waste global database: Country-level dataset(Last updated: 2024, June 4) [Data set].Link to source:https://datacatalogfiles.worldbank.org/ddh-published/0039597/3/DR0049199/country_level_data.csv
+
+World Wildlife Fund. (2023).Who pays for plastic pollution?[Report].Link to source:https://www.worldwildlife.org/documents/671/6lohrny0o2_ENGLISH_WWF_ENABLING_GLOBAL_EQUITY_WEBV.pdf
+
+Yang, H., Ma, M., Thompson, J. R., & Flower, R. J. (2018). Waste management, informal recycling, environmental pollution and public health.Journal of Epidemiology and Community Health,72(3), 237–243.Link to source:https://doi.org/10.1136/jech-2016-208597
+
+Yokoi, R., Watari, T., & Motoshita, M. (2022). Future greenhouse gas emissions from metal production: Gaps and opportunities towards climate goals.Energy & Environmental Science,15(1), 146–157.Link to source:https://doi.org/10.1039/D1EE02165F
+
+Yuan, X., Wang, J., Song, Q., & Xu, Z. (2024). Integrated assessment of economic benefits and environmental impact in waste glass closed‑loop recycling for promoting glass circularity.Journal of Cleaner Production,444, Article 141155. https://doi.org/10.1016/j.jclepro.2024.141155
+
+Zhang, X., Liu, C., Chen, Y., Zheng, G., & Chen, Y. (2022). Source separation, transportation, pretreatment, and valorization of municipal solid waste: A critical review.Environment, Development and Sustainability,24(10), 11471–11513.Link to source:https://doi.org/10.1007/s10668-021-01932-w
+
+Zheng, J., & Suh, S. (2019). Strategies to reduce the global carbon footprint of plastics.Nature Climate Change,9(5), 374–378.Link to source:https://doi.org/10.1038/s41558-019-0459-z
+
+Zhou, X., Zhang, H., Zheng, S., & Xing, W. (2022). The global recycling trade for twelve critical metals: Based on trade pattern and trade quality analysis.Sustainable Production and Consumption,33, 831–845.Link to source:https://doi.org/10.1016/j.spc.2022.08.011
+
+Zhu, X., Konik, J., & Kaufman, H. (2025). The knowns and unknowns in our understanding of how plastics impact climate change: A systematic review.Frontiers in Environmental Science,13, Article 1563488.Link to source:https://doi.org/10.3389/fenvs.2025.1563488
+
+Zier, M., Stenzel, P., Kotzur, L., & Stolten, D. (2021). A review of decarbonization options for the glass industry.Energy Conversion and Management: X,10, Article 100083.Link to source:https://doi.org/10.1016/j.ecmx.2021.100083
+
+
+## Market Revenue Variability of Recyclables
+
+
+Figure A1. The % revenue from recyclables compared to the % mass of each recyclable processed in an MRF. Values pertain to 2021.
+
+Source: Bradshaw, S. L., Aguirre-Villegas, H. A., Boxman, S. E., & Benson, C. H. (2025). Material recovery facilities (MRFs) in the United States: Operations, revenue, and the impact of scale.Waste Management,193, 317–327.
+
+In addition to applying global recycling rates of 59.3%, 9%, and 21% to the total waste generated for paper and cardboard, plastics, and glass, respectively (World Bank, 2018; Table A1), we also calculated total tonnage recycled using reported recycling percentages and total MSW tonnage for each country. Combined recycled percentages were consistently lower than the total combined percentage of metal, paper and cardboard, plastic, and glass waste in MSW. This indicates ample opportunity for increased recycling, even in regions where it is already well established.
+
+Table A1. Global recycling rates for each of the waste materials analyzed in this solution.
+
+aEstimated using end-of-life recycling rates from Charpentier Poncelet et al. (2022), weighted by average annual global production for aluminum, copper, zinc, lead, iron, nickel, and manganese 2015–2019. We normalized weights against total metal production (1,619 Mt) to reflect each metal’s contribution to global scrap availability. This approach reflects the dominance of aluminum and iron in global scrap flows.
+
+bBased on the average global paper recycling rate in 2018.
+
+cBased on the global plastic recycling rate in 2019.
+
+dBased on total glass produced in 2018 (a production-based recycling rate, meaning the share of recycled cullet used in total glass production), rather than on total glass waste generated (a waste-based recycling rate). We used this value due to a lack of consistent global data on postconsumer (end-of-life, old scrap) glass waste generation, although it may underestimate the recycling rate of actual discarded glass.
+
+The World Bank (2018) also provided country-specific recycling rates and waste composition fractions of MSW for the materials we considered. Metals, paper and cardboard, plastics, and glass were reported as percentages of MSW by 169, 174, 173, and 168 countries, respectively. However, only 125 countries reported recycling rates, and these rates reflect combined MSW rather than material-specific recovery, so the dataset could not be used to estimate achievable adoption ranges for individual materials.
+
+
+## Example Calculation of Achievable Adoption
+
+
+For low achievable adoption, we assumed global recycling increases by 25% of the existing or most recently available rates or total recycled waste tonnage (i.e., recycling volumes) for all four materials except metals. For example, Delbari and Hof (2024) reported 2018 estimates of global glass recycling volumes at 27 Mt annually, so the Adoption – Low recycling rate was calculated at 34 Mt of glass waste recycled/yr.
+
+For high achievable adoption, we assume that global recycling rates increase by 50% of the existing or most recently available rates or total recycled waste tonnage (i.e., recycling volumes) for all four materials except metals. As an example, Houssini et al. (2025) reported global plastic production in 2022, from which 38 Mt were generated as secondary plastics from plastic mechanical recycling. Therefore, the high adoption recycling rate came out to 57 Mt of plastic waste recycled/yr.
+
+
+## Waste Sector Emissions
+
+
+According to estimates by Ferdous et al. (2021), Ge et al. (2024), and Oo et al. (2024), the waste sector is responsible for 3.4–5% of total global GHG emissions, with solid waste management of landfills accounting for roughly two-thirds (Ge et al., 2024). In view of this and the energy-intensive production of raw materials, consistently improving recycling efficiency and rates can meaningfully mitigate the world’s carbon output.
+
+Bradshaw, S. L., Aguirre-Villegas, H. A., Boxman, S. E., & Benson, C. H. (2025). Material recovery facilities (MRFs) in the United States: Operations, revenue, and the impact of scale.Waste Management,193, 317–327.https://doi.org/10.1016/j.wasman.2024.12.008
+
+Charpentier Poncelet, A., Helbig, C., Loubet, P., Beylot, A., Muller, S., Villeneuve, J., Laratte, B., Thorenz, A., Tuma, A., & Sonnemann, G. (2022). Losses and lifetimes of metals in the economy.Nature Sustainability,5(8), 717–726.https://doi.org/10.1038/s41893-022-00895-8
+
+Delbari, S. A., & Hof, L. A. (2024). Glass waste circular economy—Advancing to high-value glass sheets recovery using industry 4.0 and 5.0 technologies.Journal of Cleaner Production,462, Article 142629.https://doi.org/10.1016/j.jclepro.2024.142629
+
+European Paper Recycling Council. (2020).European declaration on paper recycling 2016-2020: Monitoring report 2019. Confederation of European Paper Industries.https://www.cepi.org/wp-content/uploads/2020/10/EPRC-Monitoring-Report_2019.pdf
+
+Ferdous,W., Manalo, A., Siddique, R., Mendis, P., Zhuge, Y., Wong, H. S., Lokuge, W., Aravinthan, T., & Schubel, P. (2021). Recycling of landfill wastes (tyres, plastics and glass) in construction – A review on global waste generation, performance, application and future opportunities.Resources, Conservation and Recycling,173, Article 105745.https://doi.org/10.1016/j.resconrec.2021.105745
+
+Ge, M., Friedrich, J., & Vigna, L. (2024, December 5).Where do emissions come from? 4 charts explaingreenhouse gasemissions by sector. World Resources Institute.https://www.wri.org/insights/4-charts-explain-greenhouse-gas-emissions-countries-and-sectors
+
+Houssini, K., Li, J., & Tan, Q. (2025). Complexities of the global plastics supply chain revealed in a trade-linked material flow analysis.Communications Earth & Environment,6(1), Article 257.https://doi.org/10.1038/s43247-025-02169-5
+
+Oo, P. Z., Prapaspongsa, T., Strezov, V., Huda, N., Oshita, K., Takaoka, M., Ren, J., Halog, A., & Gheewala, S. H. (2024). The role of global waste management and circular economy towards carbon neutrality.Sustainable Production and Consumption,52, 498–510.https://doi.org/10.1016/j.spc.2024.11.021
+
+Organisation for Economic Co‑operation and Development. (2022b).Global plastics outlook: Economic drivers, environmental impacts and policy options[Report]. OECD Publishing.https://doi.org/10.1787/de747aef-en
+
+Westbroek, C. D., Bitting, J., Craglia, M., Azevedo, J. M. C., & Cullen, J. M. (2021). Global material flow analysis of glass: From raw materials to end of life.Journal of Industrial Ecology,25(2), 333–343.https://doi.org/10.1111/jiec.13112
+
+World Bank. (2018).What a waste global database: Country-level dataset(Last updated: 2024, June 4) [Data set].https://datacatalogfiles.worldbank.org/ddh-published/0039597/3/DR0049199/country_level_data.csv
+
+Nina-Francesca Farac, Ph.D.
+
+Nina-Francesca Farac, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Christina Swanson, Ph.D.
+
+Christina Swanson, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

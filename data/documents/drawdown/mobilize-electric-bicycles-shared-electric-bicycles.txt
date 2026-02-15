@@ -1,0 +1,822 @@
+# Mobilize Electric Bicycles: Shared electric bicycles
+Source: https://drawdown.org/explorer/mobilize-electric-bicycles-shared-electric-bicycles
+
+Methods and Supporting Data
+
+
+## Mobilize Electric Bicycles
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+This solution can still help mitigate climate change but does not meet the scale to be considered a major climate solution.
+
+We define the Mobilize Electric Bicycles solution as increased travel by bicycles that have an electric motor to supplement the effort of the rider, but require the rider to turn the pedals to activate the motor. Some sources refer to electric mopeds or motorcycles as electric bicycles, but those modes of transportation fall within Project Drawdown’sMobilize Electric Scooters & Motorcyclessolution and are not covered here. Also known as pedelecs or e-bikes, electric bicycles can be deployed as privately ownedelectric bicycles or as shared electric bicycles, which are available as part of bicycle sharing networks typically operated at the city level for short-term rental on a per-trip basis.
+
+Private electric bicycles
+
+Shared electric bicycles
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+1,000 electric bicycles
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+1,000 electric bicycles
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Electric bicycles use electric power to supplement the muscular effort of the rider. Like conventional bicycles and other forms of nonmotorized transportation, electric bicycles get some of their motive power from human muscle power, which in turn comes from food calories – a form of closed-loopbiomasspower with no emissions (seeImprove Nonmotorized Transportation). Unlike conventional bicycles, however, electric bicycles get added power from electricity, which comes from the grid and is stored in a battery.
+
+This partial reliance on grid electricity, as well as the production of the battery and electric motors, increases the carbon emissions and cost of an electric bicycle compared to those of a conventional bicycle. Nevertheless, electric bicycle emissions remain far lower than the emissions of cars (including electric cars), meaning that every passenger-kilometer (pkm) moved from acarto an electric bicycle achieves significantGHGemissions savings.
+
+Since the additional electric power enables electric bicycle riders to cover longer distances at greater speeds, climb larger hills, and carry heavier loads – and do it all with substantially less physical effort – electric bicycles can substitute for more car trips than conventional bicycles can. This can amplify electric bicycles’ potential carbon savings relative to conventional bicycles, even if the savings per pkm traveled are lower. Electric bicycles also tend to get used at high rates, and a large proportion of pkm by electric bicycle are pkm that would otherwise have been by car (Bigazzi & Wong, 2020; Bourne et al., 2020; Cairns et al., 2017; Fukushige et al., 2021).
+
+Shared electric bicycles can enhance this effect. The need for docking stations and rebalancing services (i.e., the use of largervehiclesto reposition bicycles to avoid one-way trips that create shortages in some places and surpluses in others) increases the carbon emissions of electric bicycles per pkm compared with private electric bicycles. By renting out electric bicycles one trip at a time, however, bicycle-share systems can make electric bicycles affordable to a larger percentage of the public, further increasing the number of pkm that can be shifted to electric bicycles.
+
+The adoption of electric bicycles reduces emissions ofCO₂andmethanefrom cars by displacing pkm traveled via car. When electric bicycles replace a trip by a gasoline- or diesel-powered car, they also eliminate reliance onfossil fuelsto complete that trip. Even if the electricity used to power electric bicycles comes from fossil fuels, those emissions are relatively small and could eventually be replaced with low-emission electricity through the deployment ofrenewablesor similar technologies.
+
+Note: Even at the highest effectiveness and adoption levels, the climate impact of shared e-bikes is negligible relative to current global emissions.
+
+Private electric bicycles
+
+Shared electric bicycles
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Electric bicycleeffectivenessin mitigating climate change varies by region, depending on thecarbon intensityof the charging electricity, the extent to which they replace higher-emission travel (such as cars, motorcycles, or taxis), and the need and type of vehicle used for rebalancing shared electric bicycles (International Transport Forum, 2020). They are most effective in areas with cleaner electricity grids and where they can substitute for cars.
+
+Since electric bicycles are more effective when replacing cars, this means that wider adoption of electric bicycles in car-dependent regions, such as North American suburbs, will have a much more significant climate impact than in a dense, pedestrianized European city center or in a low-income country where most people do not have access to a car (although in these contexts electric bicycles could still produce significant social and economic benefits) (Wamburu et al., 2021).
+
+Socioeconomic and infrastructural factors play a major role in adoption. These include upfront costs of private electric bicycles, availability and affordability of shared electric bicycles, supportive cycling infrastructure, and policies such as subsidies or rebates. In many countries, electric bicycles increase the accessibility of nonmotorized transport for older adults, people with disabilities, and those commuting longer distances or in hilly areas by reducing physical effort (Bourne et al., 2020).
+
+Future geographic targets for scaling adoption with strong climate and equity outcomes include South and Southeast Asian cities (e.g., Dhaka, Jakarta, Ho Chi Minh City) with high trip density, short trip lengths, and growing pollution concerns, all of which make them ideal for adoption. Sub-Saharan African cities (e.g., Kampala, Accra) where electric bicycles could complement or replace informal motorcycle taxis, reducing emissions and improving affordability and safety, are also important targets. North America has potential as both private and shared programs are beginning to expand in urban areas, helped by municipal investment and rising consumer interest.
+
+
+## Annual road transportation emissions, 2024
+
+
+Cars are the largest source of road transportation vehicle emissions, which are shown here for urban areas.
+
+Kott, T., Foster, K., Villafane-Delgado, M., Loschen, W., Sicurello, P., Ghebreselassie, M., Reilly, E., and Hughes, M. (2024).Transportation sector - Global road emissions[Data set]. The Johns Hopkins University Applied Physics Laboratory (JHU/APL), Climate TRACE Emissions Inventory. Retrieved March 12, 2025 fromLink to source:https://climatetrace.org
+
+
+## Annual road transportation emissions, 2024
+
+
+Cars are the largest source of road transportation vehicle emissions, which are shown here for urban areas.
+
+Kott, T., Foster, K., Villafane-Delgado, M., Loschen, W., Sicurello, P., Ghebreselassie, M., Reilly, E., and Hughes, M. (2024).Transportation sector - Global road emissions[Data set]. The Johns Hopkins University Applied Physics Laboratory (JHU/APL), Climate TRACE Emissions Inventory. Retrieved March 12, 2025 fromLink to source:https://climatetrace.org
+
+Per 1,000 private electric bicycles,approximately 110.5tCO₂‑eq/yris offset by displacing trips taken by higher-emission transportation modes such as cars and public transit (Table 1a).
+
+Per 1,000 shared electric bicycles, approximately 14.44 t CO₂‑eq/yr
+ is offset (Table 1b). This lower value is due to the additional emissions produced in the operation of a shared electric-bicycle system (e.g., due to the need to reposition bicycles after they accumulate in some locations while becoming depleted in others). Additionally, other modes of transportation are shifted to shared electric bicycles at different rates than privately owned electric bicycles – notably shifted less from car travel. These factors limit the total GHG emissions reduced per shared electric bicycle.
+
+Table 1. Effectiveness at reducing emissions.
+
+a) Private electric bicycles
+
+b) Shared electric bicycles
+
+Unit:t CO₂‑eq
+/1,000 electric bicycles/yr, 100-yr basis
+
+Unit:t CO₂‑eq
+/1,000 electric bicycles/yr, 100-yr basis
+
+Electric bicycles vary significantly in cost, but generally are more expensive than traditional bicycles due to the cost of batteries, motors, and other electronic components, as well as the need for more durable mechanical components.
+
+Private electric bicyclescost about US$2,700, plus another few hundred dollars per year in maintenance costs. All told, assuming a 10-year lifespan, electric bicycles cost about US$600/yr to operate . The average privately owned electric bicycle is ridden 2,400 km/yr; since 28.67% of that distance is shifted from car trips, electric bicycles displace approximately 688 pkm/yr traveled by car. Car travel costs US$0.53/pkm while electric bicycle travel costs US$0.25/pkm, meaning every pkm traveled via electric bicycle saves US$0.28. Multiplied over 688 pkm/yr, this translates to every electric bicycle saving its owner approximately US$193/yr in avoided car trips (Bucher et al., 2019; Carracedo & Mostofi, 2022; eBicycles, 2025a; Ebike Canada, 2025; Gössling et al., 2019; Helton, 2025; Huang et al., 2022; International Transport Forum, 2020; Jones, 2019; Luxe Digital, 2025; Mellino et al., 2017; N, 2023; So, 2024; Weiss et al., 2015).
+
+Most of the costs of riding an electric bicycle are up-front costs. As a result, electric bicycle owners who shift more trips from a car onto their electric bicycle will significantly increase their savings. Privately owned electric bicycles save US$1,748 for every t CO₂‑eq
+ they avoid (Table 2a).
+
+Shared electric bicyclesare more expensive to the system provider than privately owned electric bicycles due to greater needs for infrastructure, maintenance, operating expenses, and services, such as rebalancing. Shared electric bicycles cost US$2.42/pkm and displace an average of 156 pkm/yr from car trips per bicycle. The same distance traveled by car costs US$83, meaning that shared electric bicycles cost an additional US$295/yr compared to traveling the same distance by car (Gössling et al., 2019; Guidon et al., 2018; Hanna, 2023; Matasyan, 2015; Summit Bike Share, 2023). Shared electric bicycles cost US$22,860/t CO₂‑eq
+ avoided due to their higher costs, higher emissions, and the lower chance that riders on shared electric bicycles would otherwise have been traveling by car (Table 2b).
+
+Table 2. Cost per climate impact.
+
+a) Private electric bicycles
+
+b) Shared electric bicycles* (system provider)
+
+Unit: US$ (2023) per t CO₂‑eq
+, 100-year basis
+
+Unit: US$ (2023) per t CO₂‑eq
+, 100-year basis
+
+*Cost to the provider of the system, not the user
+
+Learning rates for electric bicycles are often negative (i.e., prices increase with cumulative production). This is largely because electric bicycle batteries have grown larger over time, causing the bicycles to become more expensive (Dekker, 2013; Weiss et al., 2015). Thelearning rateper electric bicycle ranges from 15% to –43% (Table 3a). This range has improved the general value proposition of electric bicycles, however, since larger batteries enable electric bicycles to go further and faster than before.
+
+To compensate for this, it is useful to calculate the learning rate perkWhbattery capacity rather than per bicycle. On this measure, Dekker (2013) calculates a learning rate of 7.9% cost reduction per kWh of electric bicycle battery capacity for every doubling of cumulative production (Table 3b).
+
+These estimates are based on analyses published in 2013 and 2015, respectively, and therefore do not take into account more recent advances in electric bicycle production. More up-to-date research on electric bicycle learning rates is needed to inform future assessments on this topic.
+
+Table 3. Learning rate: drop in cost per doubling of cumulative electric bicycle production.*
+
+b) Per kWh battery capacity
+
+*These data are from 2013 and 2015, due to a lack of available research on this topic.
+
+*These data are from 2013 and 2015, due to a lack of available research on this topic.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Mobilize Electric Bicycles is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+Private electric bicycleshave experienced significant growth since 2015. We estimate there are approximately 278 million private electric bicycles in use in the world today (Table 4a).
+
+Data on this subject typically include throttle-assisted electric bicycles, e-scooter/trotinettes, and sometimes mopeds and motorcycles; these are not included in this solution. Data from China, the highest adopter of electric bicycles, does not usually distinguish between types of electric two-wheelers. For this reason, we used more conservative estimates, preferring to understate adoption than overstate it. We used several global estimates, data on electric bicycle sales in Canada, the United States, and Europe, and stock estimates from the Asia-Pacific region (eBicycles, 2025b; Mordor Intelligence, 2022; Precedence Research, 2024; Stewart & Ramachandran, 2022; Strategic Market Research, 2024; The Freedonia Group, 2024). To convert from European and American sales data to stocks data, we assumed that all electric bicycles sold over the past 10 years (the lifespan of an electric bicycle) are still in use today. We then calculated the number of electric bicycles per 1,000 people in each of the three regions, used those three values to calculate a population-weighted global mean adoption rate, and multiplied the result by the number of residents of high- and upper-middle income countries worldwide (where we assume most electric bicycle adoption takes place). This calculation provided a global estimate.
+
+Shared electric bicycle schemes now exist in many cities around the world, with at least 2 million shared electric bicycles currently in use as part of electric bicycle sharing systems (Table 4b; eBicycles, 2025b; Innovation Origins, 2023; PBSC Urban Solutions, 2022; Strategic Market Research, 2024). This is a conservative estimate because research published in a reputable academic journal claimed that China has 8.7 million shared electric bicycles in 2022 (Shi et al., 2024).
+
+Table 4. Current (2024) adoption level.
+
+a) Private electric bicycles
+
+b) Shared electric bicycles
+
+Unit:1,000 electric bicycles
+
+Unit:1,000 electric bicycles
+
+Private electric bicycles are being adopted at a rate of about 37 million new bicycles every year (eBicycles, 2025b; Mordor Intelligence, 2022; Precedence Research, 2024; Stewart & Ramachandran, 2022; Strategic Market Research, 2024; The Freedonia Group, 2024; see Table 5a). Electric bicycles are also attracting interest from consumers who do not normally ride bicycles, including people in rural areas (Philips et al., 2022) and members of vulnerable groups, such as the elderly.
+
+Shared electric bicycles are being added to cities at a rate of approximately 413,000/yr (eBicycles, 2025b; Innovation Origins, 2023; PBSC Urban Solutions, 2022; Strategic Market Research, 2024; see Table 5b). Cities and private companies are adding shared electric bicycle systems at a rate of around 30/yr (Galatoulas et al., 2020). Based on these data, we calculate a 37.97% compounding annual growth rate in electric bicycle sharing system installations around the world.
+
+Table 5. 2023–2024 adoption trend.
+
+a) Private electric bicycles
+
+b) Shared electric bicycles
+
+Unit:1,000 electric bicycles/yr
+
+Unit:1,000 electric bicycles/yr
+
+Because we model electric bicycles as a solution primarily due to their ability to shift travel from fossil fuel–powered cars, we estimate adoption by reference to the ratio of electric bicycles to cars. This does not mean that people without access to a car will not use electric bicycles; it means that they are not shifting their pkm from fossil fuel–powered cars and therefore are not included in the calculations of shifting from car to electric bicycle.
+
+Private electric bicycles’adoption ceiling(Table 6a) would be approximately 2 billion around the world: one for every car (World Health Organization, 2021). This would mean that every motorist has an electric bicycle as a ready alternative to a car.
+
+Shared electric bicycles’adoption ceiling can be measured similarly, except that we assume these systems are only viable in cities. Therefore, we set the maximum adoption ceiling of shared electric bicycles to be 1.3 billion (Table 6b) – the number of cars in cities around the world. we estimated by multiplying the global urban population (4.45 billion) by the global average car registrations per 1,000 people (286.2) (World Health Organization, 2021; World Bank, 2024).
+
+This upper-bound scenario faces many of the same caveats as the upper-bound scenario for theImprove Nonmotorized Transportationsolution. It would require a revolution in support for electric bicycles: new infrastructure, new traffic laws, a substantial increase in electric battery production capacity, and major changes to built environments, including increases in population and land-use density to make more journeys feasible by electric bicycle. However, this scenario would require less dramatic change than a similar upper-bound scenario for theImprove Nonmotorized Transportationsolution because electric bicycles go faster, have higher carrying capacities, can travel longer distances, and are easier to use than nonmotorized travel modes (Weiss et al., 2015).
+
+A limitation of this analysis is that one electric bicycle per car does not necessarily correspond to one electric bicycle per persontravelingin a car. For example, it is possible that replacing one car trip with electric bicycles would result in multiple electric bicycle trips in order to carry multiple passengers. Our estimates should therefore be seen as approximate.
+
+It is also possible for total electric bicycle adoption and usage to exceed car use (i.e., electric bicycles also replace other modes of transportation or generate new trips). We do not consider this scenario in our adoption ceiling because additional adoption above car adoption would not produce a major climate benefit.
+
+Table 6. Adoption ceiling.
+
+a) Private electric bicycles
+
+b) Shared electric bicycles
+
+Unit: 1,000 electric bicycles
+
+Unit: 1,000 electric bicycles
+
+Private electric bicycles are currently in use across the Asia-Pacific region at a rate of approximately 0.07 electric bicycles for every car. A low achievable adoption rate might see every country in the world achieve this same ratio, which would lead to a global electric bicycle fleet of 421 million (Table 7a). For a higher rate of adoption, we posit one electric bicycle in use for every two cars. This would see just more than 1 billion electric bicycles in use worldwide.
+
+Using the median and 75th percentile of the ratio of shared electric bicycles to cars (for which we have data) as the rate of adoption seen in every city in the world leads to 22 to 69 million shared electric bicycles in cities worldwide (Table 7b).
+
+Note: We based these estimates on electric bicycles per car rather than electric bicycles per person because the climate impact of electric bicycle adoption in a given place depends on the availability of cars to replace.
+
+Table 7. Range of achievable adoption levels.
+
+a) Private electric bicycles
+
+b) Shared electric bicycles
+
+Unit: 1,000 electric bicycles
+
+Unit: 1,000 electric bicycles
+
+If every motorist had an electric bicycle they used to replace at least some car trips, it wouldmitigate224MtCO₂‑eq/yr
+ – equal to the total global carbon emissions produced by cars, minus the emissions that would be produced due to electric bicycles traveling the same distance. If there were one electric bicycle for every two cars, it would avoid 117 Mt CO₂‑eq/yr.
+ And if global electric bicycle adoption reached the rate currently seen in the Asia-Pacific region (China, India, Japan, South Korea, Australia, and New Zealand), it would avoid 47 Mt CO₂‑eq/yr
+ (Table 8a).
+
+Our Achievable – Low scenario of 22 million shared electric bicycles in cities worldwide would save 284ktCO₂‑eq/yr
+ (Table 8b). Our Achievable – High scenario of 69.3 million shared electric bicycles worldwide would save 895 kt CO₂‑eq/yr.
+ The maximum possible shared electric bicycle deployment would save approximately 16.6 Mt CO₂‑eq/yr.
+
+Table 8. Climate impact at different levels of adoption.
+
+a) Private electric bicycles
+
+b) Shared electric bicycles
+
+Unit:Gt CO₂-eq/yr, 100-yr basis
+
+Unit:Gt CO₂-eq/yr, 100-yr basis
+
+In addition to being cheaper than car travel, electric bicycles allow people to travel farther and faster than they could on foot, on a conventional bicycle, or (often) on public transit. Time savings from quick, longer trips, reduced traffic congestion, and money savings provide an economic benefit (Bourne, 2020).
+
+Electric bicycles provide quality-of-life benefits for some people who use them (Bourne, 2020; Carracedo & Mostofi, 2022; Teixeira et al., 2022; Thomas, 2022). Electric assistance reduces the physical fitness and other health benefits of cycling. However, electric bicycles still require pedaling, and studies show that this level of effort required can still have substantial health benefits (Berjisian & Bigazzii, 2019; Langford et al., 2017). Electric bicycles can also enable people to cycle who might not otherwise be able to (Bourne et al., 2020). Additionally, electric bicycles can reduce total car traffic, which could reduce the risk of injury and death from car crashes, which kill 1.2 million people annually (WHO, 2023). Similarly, electric bicycles can reduce health impacts of traffic noise (de Nazelle et al., 2011).
+
+The fossil fuel–powered vehicles most similar to electric bicycles (motorcycles, scooters, etc.) are extremely polluting (Platt et al., 2014). Substituting electric bicycles for these can substantially reduce air pollution.
+
+Electric bicycles do not only compete with cars for the total passenger transport demand; a given electric bicycle trip might also substitute for public transit. This can sometimes still be beneficial since, as electric bicycles often have lower per-kilometer emissions than public transit vehicles (International Transport Forum, 2020). However, an electric bicycle trip might also substitute for a conventional bicycle trip or for a pedestrian journey, in which case electric bicycle usage would actually increase emissions. Finally, some electric bicycle trips are new journeys, meaning that they would not occur at all if the traveler did not have an electric bicycle, which also increases emissions (Astegiano et al., 2019; Berjisian & Bigazzi, 2019; Bourne et al., 2020; Cairns et al., 2017; Dekker, 2013).
+
+Generally speaking however, electric bicycles still shift enough passenger car trips to make up for this effect, although the scale can be more marginal with shared electric bicycle systems. However, electric bicycles are more likely to substitute more for whichever forms of transportation their users were already using previously (Wamburu et al., 2021). This means that wider adoption of electric bicycles in car-dependent North American suburbs, for example, will have a much clearer and more beneficial climate impact than in a dense, pedestrianized European city center, or in a low-income country where most people do not have access to a car (although in these contexts electric bicycles could still produce major social and economic benefits).
+
+Our estimates of the total adoption ceiling potential of electric bicycles (described in the Adoption section) are based on the ratio of adoption between electric bicycles and cars, on the grounds that each electric bicycle avoids some amount of car travel. However, the relationship is not necessarily quite so simple. Car trips with passengers might require more than one electric bicycle trip to replace them (unless the passengers are children, who can be carried as passengers on electric bicycles). On the other side of the equation, some households own more than one car per person. Having more than one electric bicycle per car would therefore not meaningfully reduce car trips. Lastly, our approach of tracking electric bicycle adoption in relation to car ownership neglects people whose use of an electric bicycle enables them to avoid owning a car at all. Estimates of adoption should be taken as rough guesses, rather than authoritative forecasts.
+
+Electric bicycles pose some safety concerns, centering on an ongoing debate over whether electric cyclists ride more recklessly than other cyclists (Fishman & Cherry, 2016; Langford et al., 2015). While electric bicycles have a lower injury rate than conventional bicycles, when injuries do happen during electric bicycle travel the health consequences tend to be more severe due to the higher speed (Berjisian & Bigazzi, 2019). There may also be risks related to the bicycles’ lithium-ion batteries catching fire. Strong regulations can minimize this risk (Pekow, 2024). Improved infrastructure, such as separated bike lanes and paths, can also reduce the safety risks associated with electric bicycles (Roberts, 2020).
+
+If an electric bicycle replaces primarily car trips, it provides an unambiguous climate benefit. If it replaces public transit, the size of the benefit will depend on the specifics of the public transit system it replaces. If it replaces pedestrian trips or conventional cycling trips, or generates new trips, the net climate benefit is negative. Travel survey data suggest that electric bicycles replace enough car journeys to more than offset any journeys by the more sustainable modes of transportation they replace (Bigazzi & Wong, 2020; Bourne et al., 2020; Cairns et al., 2017; Fukushige et al., 2021). However, electric bicycles in cities that already have very low-carbon mobility systems, or in lower-income countries where car ownership is rare, might have a net negative climate impact.
+
+Electric bicycles also require batteries, the production and disposal of which generates pollution (Yang et al., 2021). However, electric bicycles require much less battery capacity than many other electrification technologies, such as electric vehicles (Weiss et al., 2015).
+
+Electric bicycles can complement other forms of low-carbon mobility, especially those that reduce dependence on private cars. People who rely on public transit, conventional travel, pedestrian travel, carpools, or other sustainable modes of transportation for some kinds of trips can use electric bicycles to fill in some of the gaps in their personal transportation arrangements (Roberts, 2023). For public transit in particular, electric bicycles can play an important last-mile role, enabling transit riders to more easily access stops. This is important because research suggests that the key to a low-carbon mobility system is to enable people to live high-quality lives without owning cars (Van Acker & Witlox, 2010).
+
+Enhance Public Transit
+
+Improve Nonmotorized Transportation
+
+Enhance High-Speed Rail
+
+Mobilize Electric Trains
+
+Electric bicycles compete with electric and hybrid cars and electric scooters and motorcycles for adoption.
+
+Mobilize Electric Cars
+
+Mobilize Electric Scooters & Motorcycles
+
+
+## Consensus of effectiveness in reducing emissions: High
+
+
+When people purchase electric bicycles, they tend to use them often, with many of the trips they take on electric bicycles replacing trips that would otherwise have been taken via private car (Bigazzi & Wong, 2020; Bourne et al., 2020; Cairns et al., 2017; Fukushige et al., 2021). The evidence is similarly conclusive regarding the ability of shared electric bicycles to replace a large number of car trips. However, evidence regarding the carbon benefits of shared electric bicycles is more mixed due to the additional emissions required to run a shared electric-bicycle system.
+
+Berjiisian and Bigazzi (2019) reviewed much of the literature on electric bicycles. and found that electric bicycle trips are shifted from car trips (44%) and transit trips (12%) providing significant emissions benefits. Other net benefits include less travel by cars, lower GHG emissions and more physical activity. “E-bike adoption is expected to provide net benefits in the forms of reduced motor vehicle travel, reducedgreenhouse gasemissions, and increased physical activity. A little more than half of e-bike trips are expected to shift travel from motor vehicles (44% car trips and 12% transit trips), which is sufficient to provide significant emissions benefits.”
+
+Weiss et al. (2015) surveyed evidence of the economic, social, and environmental impacts of electric bicycles. They found that electric bicycles are more efficient and less polluting than cars. They reduce exposure to pollution as their environmental impacts come mainly from being produced and the electricity that they use, both of which are usually outside of urban areas.
+
+Philips et al. (2022) investigated the potential for electric bicycles to replace car trips in the UK. Their geospatial model provided a good indication of what might be possible in other places and showed that electric bicycles have considerable potential in rural areas as well as urban ones.
+
+Li et al. (2023) reported that based on the mix ofmode sharereplaced, shared electric bicycle trips decreased carbon emissions by 108–120 g/km carbon emissions than fossil fuel-powered cars per kilometer.”
+
+This research is biased toward high-income countries. While there is substantial research on electric bicycles in China, that country often considers e-scooters (which do not have pedals) and throttle-assisted electric bikes as interchangeable with pedelecs electric bicycles. This made it hard to include Chinese research in our analysis.We recognize this limited geographic scope creates bias, and hope this work inspires research harmonization and data sharing on this topic in underrepresented regions in the future.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Establish policies that reduce the associated time, distance, risk, and risk perception for users and potential users.
+
+Provide financial incentives such as tax breaks, subsidies, or grants for electric bicycle production and purchases.
+
+Use targeted financial incentives to assist low-income communities in purchasing electric bicycles and to incentivize manufacturers to produce more affordable options.
+
+Develop local bicycle and charging infrastructure, such as building physically separated bicycle lanes.
+
+Have locking posts installed in public spaces that can accommodate electric bicycles.
+
+Increase maintenance of bicycle infrastructure, such as path clearing.
+
+Create international standards for the manufacturing and classification of electric bicycles.
+
+Transition fossil fuel electricity production to renewables while promoting the transition to electric bicycles.
+
+Offer one-stop shops for information on electric and non-motorized bicycles, including demonstrations and educational resources on cost savings, environmental impact, and maintenance.
+
+Set regulations for sustainable use of electric bicycle batteries and improve recycling infrastructure.
+
+Join international efforts to promote and ensuresupply chainenvironmental and human rights standards – particularly, for the production of batteries.
+
+Create, support, or join partnerships that offer information, training, and general support for electric and non-motorized bicycle adoption.
+
+What do we know about pedal assist E-bikes? A scoping review to inform future directions. Jenkins et al. (2022)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2021)
+
+Pathway towards sustainability or motorization? A comparative study of e-bikes in China and the Netherlands. Sun et al. (2023)
+
+Share your experiences with electric bicycles, providing tips and reasons for choosing this mode of transportation..
+
+Participate in local bike groups, public events, and volunteer opportunities.
+
+Advocate tor local officials for infrastructure improvements and note specific locations where improvements can be made.
+
+Encourage local businesses to create employee incentives.
+
+Provide information and resources to help individuals, households, and business owners take advantage of state and local tax benefits or rebates for electric bicycle purchases.
+
+5 ways to boost community engagement in bike advocacy. Aguilera et al. (2023)
+
+Cyclist crash rates and risk factors in a prospective cohort in seven European cities. Branion-Calles et al. (2020).
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Attributes of a bicycle friendly business. The League of Bicycle Friendly America (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+Promotion of non-motorised transport. United Nations Environment Programme et al. (2016)
+
+Improving non-motorized transportation provision in a socially inclusive way—the case of Cape Town. Vanderschuren et al. (2022)
+
+Advocate for better cycling infrastructure and sharing systems with city officials.
+
+Educate customers about local bicycle infrastructure and encourage them to engage public officials.
+
+Offer employees who agree to forgo a free parking space the annualized cash value or cost of that parking space as a salary increase.
+
+Providebattery recycling services.
+
+Offer free classes for electric bicycle maintenance and repair; educate employees about what they should know before purchasing an electric bicycle.
+
+Install locking posts, parking, and security for electric bicycles.
+
+Provide adequate onsite storage and charging, create educational materials on best practices for commuting, and offer pre-tax commuter benefits to encourage employee ridership.
+
+Encourage electric bicycle use in company fleets by replacing or supplementing vehicles for local deliveries or transiting between office locations.
+
+Incorporate electric bicycle programs into company sustainability and emission reduction initiatives;communicate how those programs support broader company goals.
+
+Removable, replaceable and repairable batteries report. European Environmental Bureau (2021)
+
+How bicycle retailers can help grow ridership: foster the community. PeopleForBikes (2019)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Attributes of a bicycle friendly business. The League of Bicycle-Friendly America (2019)
+
+Inform the public about the health and environmental benefits of electric bicycles.
+
+Educate the public on government incentives for electric bicycles and how to take advantage of them.
+
+Provide impartial information on local electric bicycle infrastructure, best practices for maintenance, and factors to consider when renting or buying electric bicycles.
+
+Advocate to policymakers for improved infrastructure and incentives.
+
+Administer public initiatives such as ride-share or buy-back programs.
+
+How nonprofits can help expand access to e-mobility. Cloe (2022)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+For advocates. The League of Bicycle-Friendly America (2019)
+
+Invest in electric bicycle companies and start-ups, including battery and component suppliers.
+
+Explore investment opportunities that address supply chain issues such as battery suppliers and maintenance providers.
+
+Invest in companies conductingR&Dto improve electric bicycle performance, decrease the need for materials, and reduce maintenance costs.
+
+Invest in public or private electric bicycle sharing systems.
+
+Finance electric bicycle purchases via low-interest loans.
+
+Invest in charging infrastructure for electric bicycles.
+
+Electric bicycle market size, share, competitive landscape and trend analysis 2022-2031. Allied Market Research (2022)
+
+Electric bike market size, share & industry analysis, by propulsion type. Fortune Business Insights (2025)
+
+U.S. e-bike market size, share & trends analysis report by propulsion type, by drive type, by application, by battery, by end-use (personal, commercial), and segment forecasts, 2023 - 2030. Grand View Research (2023)
+
+Electric bicycle market insights from industry experts. People for Bikes (2024)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Award grants to local organizations advocating for improved bicycle infrastructure and services.
+
+Support access through the distribution or discounting of electric bicycles and help educate community members about relevant incentives.
+
+Strengthen local infrastructure and build local capacity for infrastructure design and construction.
+
+Ensure that donated bicycles are appropriate for the environment and that recipients have access to maintenance and supplies.
+
+Sponsor community engagement programs such as group bike rides or free maintenance classes.
+
+Assist with local policy design.
+
+Bicycle superhighway: An environmentally sustainable policy for urban transport.Agarwal, A. et al. (2020).
+
+“The bike breaks down. What are they going to do?” Actor-networks and the Bicycles for Development movement. McSweeney et al. (2020)
+
+For advocates. The League of Bicycle-Friendly America (2019)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+Lead by example and use an electric bicycle as a regular means of transport.
+
+Focus public messages on key decision factors for commuters, such as associated health and fitness benefits, climate and environmental benefits, weather forecasts, and traffic information.
+
+Showcase principles of safe urban design and highlight dangerous areas.
+
+Share detailed information on local bike routes, general electric bicycle maintenance tips, items to consider when purchasing a bike, and related educational information.
+
+Collaborate with schools to teach bicycle instruction, including safe riding habits and maintenance tips.
+
+Influencing transport behaviour: A Bayesian modelling approach for segmentation of social surveys. Dawkins et al. (2018)
+
+Active mobility versus motorized transport? User choices and benefits for the society. Pisoni et al. (2021)
+
+Improving non-motorized transportation provision in a socially inclusive way—the case of Cape Town. Vanderschuren et al. (2022)
+
+
+## Technologists and Researchers
+
+
+Examine and improve elements of battery design and maintenance.
+
+Improve electric bicycle infrastructure design.
+
+Improve circularity, repairability, and ease of disassembly for electric bicycles.
+
+Increase the physical carrying capacities for users of electric bicycles to facilitate shopping and transporting children, pets, and materials.
+
+Improve other variables that increase the convenience, safety, and comfort levels of nonmotorized transportation.
+
+Cyclist crash rates and risk factors in a prospective cohort in seven European cities. Branion-Calles et al. (2020)
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+Promotion of non-motorised transport. United Nations Environment Programme et al. (2016)
+
+Improving non-motorized transportation provision in a socially inclusive way—the case of Cape Town. Vanderschuren et al. (2022)
+
+
+## Communities, Households, and Individuals
+
+
+Share your experiences with electric bicycles; provide tips and reasons for choosing this mode of transportation.
+
+Participate in local bike groups, public events, and volunteer opportunities.
+
+Advocate to employers and local businesses to provide incentives for electric bicycle usage and help start local initiatives.
+
+Advocate to local officials for infrastructure improvements and note specific locations where improvements can be made.
+
+Encourage local businesses to create employee incentives.
+
+5 ways to boost community engagement in bike advocacy. Aguilera et al. (2023)
+
+Cyclist crash rates and risk factors in a prospective cohort in seven European cities. Branion-Calles et al. (2020)
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Attributes of a bicycle friendly business. The League of Bicycle Friendly America (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+Promotion of non-motorised transport. United Nations Environment Programme et al. (2016)
+
+Improving non-motorized transportation provision in a socially inclusive way—the case of Cape Town. Vanderschuren et al. (2022)
+
+
+## “Take Action” Sources
+
+
+Bicycle superhighway: an environmentally sustainable policy for urban transport. Agarwal et al. (2020)
+
+5 ways to boost community engagement in bike advocacy. Aguilera et al. (2023)
+
+Cyclist crash rates and risk factors in a prospective cohort in seven European cities. Branion-Calles et al. (2020)
+
+How to achieve a walking and cycling transformation in your city. C40 Knowledge (2019)
+
+Influencing transport behaviour: a Bayesian modelling approach for segmentation of social surveys. Dawkins et al. (2018)
+
+What do we know about pedal assist E-bikes? A scoping review to inform future directions. Jenkins et al. (2022)
+
+“The bike breaks down. What are they going to do?” Actor-networks and the Bicycles for Development movement. McSweeney et al. (2020)
+
+Active mobility versus motorized transport? User choices and benefits for the society. Pisoni et al. (2021)
+
+Pathway towards sustainability or motorization? A comparative study of e-bikes in China and the Netherlands. Sun et al. (2023)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme et al. (2019)
+
+Promotion of non-motorised transport. United Nations Environment Programme et al. (2016)
+
+Improving non-motorized transportation provision in a socially inclusive way—the case of Cape Town. Vanderschuren et al. (2022)
+
+Methods and Supporting Data
+
+Astegiano, P., Fermi, F., & Martino, A. (2019). Investigating the impact of e-bikes on modal share and greenhouse emissions: A system dynamic approach.Transportation Research Procedia,37, 163-170.Link to source:https://doi.org/10.1016/j.trpro.2018.12.179
+
+Berjisian, E., & Bigazzi, A. (2019).Summarizing the impacts of electric bicycle adoption on vehicle travel, emissions, and physical activity. UBC REACT LAb.Link to source:https://civil-reactlab.sites.olt.ubc.ca/files/2019/07/BerjisianBigazzi_ImpactsofE-bikes_Report_July2019.pdf
+
+Bigazzi, A., & Wong, K. (2020). Electric bicycle mode substitution for driving, public transit, conventional cycling, and walking.Transportation Research Part D: Transport and Environment,85, 102412.Link to source:https://doi.org/10.1016/j.trd.2020.102412
+
+Bourne, J. E., Cooper, A. R., Kelly, P., Kinnear, F. J., England, C., Leary, S., & Page, A. (2020). The impact of e-cycling on travel behaviour: A scoping review.Journal of Transport & Health,19, 100910.Link to source:https://doi.org/10.1016/j.jth.2020.100910
+
+Bucher, D., Buffat, R., Froemelt, A., & Raubal, M. (2019). Energy and greenhouse gas emission reduction potentials resulting from different commuter electric bicycle adoption scenarios in Switzerland.Renewable and Sustainable Energy Reviews, 114,109298.Link to source:https://doi.org/10.1016/j.rser.2019.109298
+
+Cairns, S., Behrendt, F., Raffo, D., Beaumont, C., & Kiefer, C. (2017). Electrically-assisted bikes: Potential impacts on travel behaviour.Transportation Research Part A: Policy and Practice,103, 327-342.Link to source:https://doi.org/10.1016/j.tra.2017.03.007
+
+Carracedo, D., & Mostofi, H. (2022). Electric cargo bikes in urban areas: A new mobility option for private transportation.Transportation Research Interdisciplinary Perspectives, 16, 100705.Link to source:https://doi.org/10.1016/j.trip.2022.100705
+
+Dekker, P. (2013).Electrification of road transport-An analysis of the economic performance of electric two-wheelers. Utrecht University.Link to source:https://studenttheses.uu.nl/bitstream/handle/20.500.12932/13022/Thesis%20P.W.K.%20Dekker%2012%20May%202013.pdf?sequence=1&isAllowed=y
+
+eBicycles. (2025a). How much does an electric bike cost? E-bike price breakdown [2025].Link to source:https://www.ebicycles.com/how-much-does-an-electric-bike-cost/
+
+eBicycles. (2025b). Useful facts & stats of e-bikes [for 2025] + infographic.Link to source:https://www.ebicycles.com/ebike-facts-statistics/
+
+Ebike Canada. (2025). The best electric bikes & scooters in canada for 2025. Ebike Canada.Link to source:https://ebikecanada.com/best-electric-bike-and-scooter/
+
+Fishman, E., & Cherry, C. (2016). E-bikes in the Mainstream: Reviewing a Decade of Research.Transport Reviews,36(1), 72-91.Link to source:https://doi.org/10.1080/01441647.2015.1069907
+
+Fukushige, T., Fitch, D. T., & Handy, S. (2021). Factors influencing dock-less E-bike-share mode substitution: Evidence from Sacramento, California.Transportation Research Part D: Transport and Environment,99, 102990.Link to source:https://doi.org/10.1016/j.trd.2021.102990
+
+Galatoulas, N.-F., Genikomsakis, K. N., & Ioakimidis, C. S. (2020). Spatio-Temporal Trends of E-Bike Sharing System Deployment: A Review in Europe, North America and Asia.Sustainability,12(11), Article 11.Link to source:https://doi.org/10.3390/su12114611
+
+Gössling, S., Choi, A., Dekker, K., & Metzler, D. (2019). The social cost of automobility, cycling and walking in the European Union.Ecological Economics, 158, 65–74.Link to source:https://doi.org/10.1016/j.ecolecon.2018.12.016
+
+Guidon, S., Becker, H., Dediu, H., & Axhausen, K. W. (2018). Electric bicycle-sharing: A new competitor in the urban transportation market?: An empirical analysis of transaction data.Arbeitsberichte Verkehrs- Und Raumplanung, 1364.Link to source:https://doi.org/10.1016/j.ecolecon.2018.12.016
+
+Hanna, J. (2023). Bike Share Toronto 2023 business review.Link to source:https://www.toronto.ca/legdocs/mmis/2023/pa/bgrd/backgroundfile-240804.pdf
+
+Helton, J. (2025). Ride with power: The top electric bikes for 2025, as chosen by experts.Road & Track.Link to source:https://www.roadandtrack.com/gear/lifestyle/g46464030/best-electric-bikes/
+
+Huang, Y., Jiang, L., Chen, H., Dave, K., & Parry, T. (2022). Comparative life cycle assessment of electric bikes for commuting in the UK.Transportation Research Part D: Transport and Environment, 105, 103213.Link to source:https://doi.org/10.1016/j.trd.2022.103213
+
+Innovation Origins. (2023). The booming rise of shared e-bikes in urban mobility.Link to source:https://innovationorigins.com/en/the-booming-rise-of-shared-e-bikes-in-urban-mobility/
+
+International Transport Forum. (2020).Good to Go? Assessing the Environmental Performance of New Mobility(Corporate Partnership Board). OECD.Link to source:https://www.itf-oecd.org/sites/default/files/docs/environmental-performance-new-mobility.pdf
+
+Jones, B. (2019). Electric Bike Maintenance Cost. BicycleVolt.Link to source:https://bicyclevolt.com/electric-bike-maintenance-cost/
+
+Koning, M., & Conway, A. (2016). The good impacts of biking for goods: Lessons from Paris city. Case Studies on Transport Policy, 4(4), 259-268.Link to source:https://doi.org/10.1016/j.cstp.2016.08.007
+
+Langford, B. C., Chen, J., & Cherry, C. R. (2015). Risky riding: Naturalistic methods comparing safety behavior from conventional bicycle riders and electric bike riders.Accident Analysis & Prevention,82, 220-226.Link to source:https://doi.org/10.1016/j.aap.2015.05.016
+
+Langford, B. C., Cherry, C. R., Bassett, D. R., Fitzhugh, E. C., & Dhakal, N. (2017). Comparing physical activity of pedal-assist electric bikes with walking and conventional bicycles.Journal of Transport & Health,6, 463–473.Link to source:https://doi.org/10.1016/j.jth.2017.06.002
+
+Li, Q., Fuerst, F., & Luca, D. (2023). Do shared E-bikes reduce urban carbon emissions?Journal of Transport Geography,112, 103697.Link to source:https://doi.org/10.1016/j.jtrangeo.2023.103697
+
+Luxe Digital. (2025). The best electric bikes: upgrade your commute for a sustainable ride. Luxe Digital.Link to source:https://luxe.digital/lifestyle/garage/best-electric-bikes/
+
+Matasyan, A. (2015). Technical analysis and market study of electric bicycles.Link to source:https://upcommons.upc.edu/handle/2117/77272?locale-attribute=en
+
+Mellino, S., Petrillo, A., Cigolotti, V., Autorino, C., Jannelli, E., & Ulgiati, S. (2017). A Life Cycle Assessment of lithium battery and hydrogen-FC powered electric bicycles: Searching for cleaner solutions to urban mobility.International Journal of Hydrogen Energy, 42(3), 1830–1840.Link to source:https://doi.org/10.1016/j.ijhydene.2016.10.146
+
+Mordor Intelligence. (2022). Asia Pacific e-bike market (2017-2029).Link to source:https://www.mordorintelligence.com/industry-reports/asia-pacific-e-bike-market
+
+N, A. (2023). Maintenance costs for an electric bike. Bike LVR.Link to source:https://bikelvr.com/bikes/e-bikes/maintenance-costs-for-an-electric-bike/
+
+de Nazelle, A., Nieuwenhuijsen, M., Antó, J., Brauer, M., Briggs, D., Charlotte Braun-Fahrlander, C., Cavill, N., Cooper, A., Desqueyroux, H., Fruin, S., Hoek, G., Panis, L., Janssen, N., Jerrett, M., Joffe, M., Andersen, Z., van Kempen, E., Kingham, S., Kubesch, N., Leyden, K., Marshall, J., Matamala, J., Mellios, G., Mendez, M., Nassif, H., Ogilvie, D., Peiró, R., Pérez, K., Rabl, A., Ragettli, M., Rodríguez, D., Rojas, D., Ruiz, P., Sallis, J., Terwoert, J., Toussaint, J., Tuomisto, J., Zuurbier, M., & Lebret, E. (2011). Improving health through policies that promote active travel: A review of evidence to support integrated health impact assessment. Environment International, 37(4), 767-777.Link to source:https://doi.org/10.1016/j.envint.2011.02.003
+
+PBSC Urban Solutions. (2022).The Meddin Bike-sharing World Map Report 2022 edition.Link to source:https://bikesharingworldmap.com/reports/bswm_mid2022report.pdf
+
+Pekow, C. (2024, April 1). E-bikes could cut smog, energy use and congestion globally—But will they?Mongabay Environmental News.Link to source:https://news.mongabay.com/2024/04/e-bikes-could-cut-smog-energy-use-and-congestion-globally-but-will-they/
+
+Philips, I., Anable, J., & Chatterton, T. (2022). E-bikes and their capability to reduce car CO2 emissions.Transport Policy,116, 11-23.Link to source:https://doi.org/10.1016/j.tranpol.2021.11.019
+
+Platt, S. M., Haddad, I. E., Pieber, S. M., Huang, R.-J., Zardini, A. A., Clairotte, M., Suarez-Bertoa, R., Barmet, P., Pfaffenberger, L., Wolf, R., Slowik, J. G., Fuller, S. J., Kalberer, M., Chirico, R., Dommen, J., Astorga, C., Zimmermann, R., Marchand, N., Hellebust, S., … Prévôt, A. S. H. (2014). Two-stroke scooters are a dominant source of air pollution in many cities. Nature Communications, 5(1), 3749.Link to source:https://doi.org/10.1038/ncomms4749
+
+Precedence Research. (2024). E-bike market poised for robust expansion | CAGR of 10.16%.Link to source:https://www.precedenceresearch.com/insights/e-bike-market
+
+Roberts, C. (2023). Diversity in passenger mobility: Where it went and how to bring it back.One Earth,6(1), 11-13.Link to source:https://doi.org/10.1016/j.oneear.2022.12.008
+
+Roberts, C. (2020). Into a headwind: Canadian cycle commuting and the growth of sustainable practices in hostile political contexts.Energy Research and Social Science, 70. Scopus.Link to source:https://doi.org/10.1016/j.erss.2020.101679
+
+Rodriguez Mendez, Q., Fuss, S., Lück, S., & Creutzig, F. (2024). Assessing global urban CO2 removal.Nature Cities, 1(6), 413-423.Link to source:https://doi.org/10.1038/s44284-024-00069-x
+
+Shi, Z., Wang, J., Liu, K., Liu, Y., & He, M. (2024). Exploring the usage efficiency of electric bike-sharing from a spatial–temporal perspective.Transportation Research Part D: Transport and Environment, 129, 104139.Link to source:https://doi.org/10.1016/j.trd.2024.104139
+
+So, A. (2024). Best electric bikes (2025): Hauling, commuting, mountain biking. WIRED.Link to source:https://www.wired.com/gallery/best-electric-bikes/
+
+Stewart, D., & Ramachandran, K. (2022, March 31). E-bikes merge into the fast lane. Deloitte Insights.Link to source:https://www2.deloitte.com/us/en/insights/industry/technology/smart-micromobility-e-bikes.html
+
+Strategic Market Research. (2024). E-bikes statistics and trends 2024.Link to source:https://www.strategicmarketresearch.com/blogs/e-bikes-statistics
+
+Summit Bike Share. (2023). Summit bike share end of year report 2023.Link to source:https://www.summitcountyutah.gov/2415/Summit-Bike-Share
+
+Teixeira, J. F., Silva, C., & Moura e Sá, F. (2021). Empirical evidence on the impacts of bikesharing: A literature review. Transport Reviews, 41(3), 329-351.Link to source:https://doi.org/10.1080/01441647.2020.1841328
+
+The Freedonia Group. (2024). Global E-Bikes—Market Size, Market Share, Market Leaders, Demand Forecast, Sales, Company Profiles, Market Research, Industry Trends and Companies. The Freedonia Group.Link to source:https://www.freedoniagroup.com/industry-study/global-e-bikes
+
+Thomas, A. (2022). Electric bicycles and cargo bikes—Tools for parents to keep on biking in auto-centric communities? Findings from a US metropolitan area. International Journal of Sustainable Transportation, 16(7), 637-646.Link to source:https://doi.org/10.1080/15568318.2021.1914787
+
+Van Acker, V., & Witlox, F. (2010). Car ownership as a mediating variable in car travel behaviour research using a structural equation modelling approach to identify its dual relationship. Journal of Transport Geography, 18(1), 65-74.Link to source:https://doi.org/10.1016/j.jtrangeo.2009.05.006
+
+Wamburu, J., Lee, S., Hajiesmaili, M. H., Irwin, D., & Shenoy, P. (2021). Ride Substitution Using Electric Bike Sharing: Feasibility, Cost, and Carbon Analysis.Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.,5(1), 38:1-38:28.Link to source:https://doi.org/10.1145/3448081
+
+WHO. (2022). Number of registered vehicles.Link to source:https://www.who.int/data/gho/data/indicators/indicator-details/GHO/number-of-registered-vehicles
+
+WHO. (2023). Despite notable progress, road safety remains urgent global issue.Link to source:https://www.who.int/news/item/13-12-2023-despite-notable-progress-road-safety-remains-urgent-global-issue
+
+World Bank. (2024). World Development Indicators.Link to source:https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators
+
+Weiss, M., Dekker, P., Moro, A., Scholz, H., & Patel, M. K. (2015). On the electrification of road transportation – A review of the environmental, economic, and social performance of electric two-wheelers.Transportation Research Part D: Transport and Environment,41, 348-366.Link to source:https://doi.org/10.1016/j.trd.2015.09.007
+
+Yang, Y., Okonkwo, E. G., Huang, G., Xu, S., Sun, W., & He, Y. (2021). On the sustainability of lithium ion battery industry – A review and perspective.Energy Storage Materials,36, 186-212.Link to source:https://doi.org/10.1016/j.ensm.2020.12.019
+
+Cameron Roberts, Ph.D.
+
+Cameron Roberts, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

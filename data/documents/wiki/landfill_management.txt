@@ -1,0 +1,70 @@
+# Landfill Management
+Source: https://en.wikipedia.org/wiki/Landfill_gas
+
+Landfill gas is a mix of different gases created by the action of microorganisms within a landfill as they decompose organic waste, including for example, food waste and paper waste. Landfill gas is a type of biogas, which is approximately forty to sixty percent methane, with the remainder being mostly carbon dioxide. Landfill gas often contains nitrogen gas that is pulled in from the atmosphere during collection. Trace amounts of non-methane volatile organic compounds (VOCs), siloxanes, and hydrogen sulfide comprise the remainder (<1%). These trace gases include a large array of species, mainly simple hydrocarbons.
+Landfill gases have an influence on climate change. The major components are CO2 and methane, both of which are greenhouse gases. Methane in the atmosphere is a far more potent greenhouse gas with a global warming potential of 27 over a one-hundred year period. Landfills are the third-largest source of methane in the US.
+Because of the significant negative effects of these gases, regulatory regimes have been set up to monitor landfill gas, reduce the amount of biodegradable content in municipal waste, and to create landfill gas utilization strategies, which include gas flaring or capture for electricity generation.
+
+
+== Production ==
+Landfill gases are the result of three processes:
+
+evaporation of volatile organic compounds (e.g., solvents)
+chemical reactions between waste components
+anaerobic digestion, especially methanogenesis.
+The first two depend strongly on the nature of the waste. The dominant process in most landfills is the third process, whereby anaerobic bacteria decompose organic waste to produce biogas, which consists of methane and carbon dioxide together with traces of other compounds. Despite the heterogeneity of waste, the evolution of gases follows well defined kinetic pattern. Formation of methane and CO2 commences about six months after depositing the landfill material. The evolution of gas reaches a maximum at about 20 years, then declines over the course of decades.
+Conditions and changes within the landfill can be observed with electrical resistivity tomography (ERT) to detect sources of landfill gas, and leachate movements and pathways. Conditions at different locations, such as temperature, moisture levels and fraction of biodegradable material, can be inferred. This information can be used to improve gas production, with optimal well locations over hotspots and interventions such as heap irrigation.
+When landfill gas permeates through a soil cover, a fraction of the methane in the gas is oxidized microbially to CO2.
+
+
+== Monitoring ==
+
+Because gases produced by landfills are both valuable and sometimes hazardous, monitoring techniques have been developed. Flame ionization detectors can be used to measure methane levels as well as total VOC levels. Surface monitoring and sub-surface monitoring as well as monitoring of the ambient air is carried out. In the U.S., under the Clean Air Act of 1990, it is required that many large landfills install gas collection and control systems, which means that at the very least the facilities must collect and flare the gas.
+U.S. Federal regulations under Subtitle D of RCRA formed in October 1979 regulate the siting, design, construction, operation, monitoring, and closure of municipal solid waste landfills. Subtitle D now requires controls on the migration of methane in landfill gas. Monitoring requirements must be met at landfills during their operation, and for an additional 30 years after. The landfills affected by Subtitle D of RCRA are required to control gas by establishing a way to check for methane emissions periodically and therefore prevent off-site migration. Landfill owners and operators must make sure the concentration of methane gas does not exceed 25% of the LEL for methane in the facilities' structures and the LEL for methane at the facility boundary.
+
+
+== Use ==
+
+The gases produced within a landfill can be collected and used in various ways. The landfill gas can be utilized directly on-site by a boiler or any type of combustion system, providing heat. Electricity can also be generated on-site through the use of microturbines, steam turbines, or fuel cells. The landfill gas can also be sold off-site and sent into natural gas pipelines. This approach requires the gas to be processed into pipeline quality, e.g., by removing various contaminants and components. Landfill gas can also be used to evaporate leachate, another byproduct of the landfill process. This application displaces another fuel that was previously used for the same thing.
+The efficiency of gas collection at landfills directly impacts the amount of energy that can be recovered; closed landfills (those no longer accepting waste) collect gas about 17% more efficiently than open landfills (those still accepting waste).
+
+
+=== Opposition ===
+Capture and use of landfill gas can be expensive. Some environmental groups claim that the projects do not produce "renewable power" because trash (their source) is not renewable. The Sierra Club opposes government subsidies for such projects. The Natural Resources Defense Council (NRDC) argues that government incentives should be directed more towards solar, wind, and energy-efficiency efforts.
+
+
+== Safety ==
+Landfill gas emissions can lead to environmental, hygiene and security problems in the landfill. Several accidents have occurred, for example at Loscoe, England in 1986, where migrating landfill gas accumulated and partially destroyed a property. An accident causing two deaths occurred from an explosion in a house adjacent to Skellingsted landfill in Denmark in 1991. Due to the risk presented by landfill gas, there is a clear need to monitor gas produced by landfills. In addition to the risk of fire and explosion, gas migration in the subsurface can result in contact with landfill gas with groundwater. This, in turn, can result in contamination of groundwater by organic compounds present in nearly all landfill gas.
+Although usually evolved only in trace amounts, landfills do release some aromatics and chlorocarbons.
+Landfill gas migration, due to pressure differentials and diffusion, can occur. This can create an explosion hazard if the gas reaches sufficiently high concentrations in adjacent buildings.
+
+
+== By country ==
+
+
+=== Brazil ===
+
+
+=== United States ===
+
+
+== See also ==
+
+Anaerobic digestion
+Biodegradability
+Biogas
+Flue gas
+Landfill gas utilization
+Relative cost of electricity generated by different sources
+Underground coal gasification
+
+
+== References ==
+
+
+== External links ==
+GA Mansoori, N Enayati, LB Agyarko (2016), Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State, World Sci. Pub. Co., ISBN 978-981-4704-00-7
+"Primer on Landfill Gas as "Green Energy"". Energy Justice Network. Archived from the original on 2019-05-15. Retrieved 2010-04-25.
+"Landfill Gas to Energy". Waste Management. Archived from the original on 2013-08-12. Retrieved 2010-04-26.
+"Landfill Gas". Gas Separation Technology LLC. Archived from the original on 2017-05-06. Retrieved 2010-04-26.
+"Landfill Gas Control Measures". Agency for Toxic Substances & Disease Registry. Retrieved 2010-04-26.

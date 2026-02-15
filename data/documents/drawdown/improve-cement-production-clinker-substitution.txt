@@ -1,0 +1,934 @@
+# Improve Cement Production: Clinker substitution
+Source: https://drawdown.org/explorer/improve-cement-production-clinker-substitution
+
+Methods and Supporting Data
+
+
+## Improve Cement Production
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Cementis a key ingredient of concrete, a manufactured material used in massive quantities around the world. Cement production generates highCO₂emissions from the production ofclinker, a binding ingredient. These emissions come from not only the chemical reaction that produces clinker, but also burningfossil fuelsto provide heat for this reaction. We define the Improve Cement Production solution as reducingGHGemissions related to cement manufacturing by substituting other materials for clinker, using alternative fuels, and improving process efficiency.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+Mt cement produced using alternative fuels
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+GJ thermal energy input reduced from current levels/yr
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Concrete production requires the manufacturing of 4Gtof cement annually (U.S. Geological Survey, 2024). Roughly 85% of cement industry GHG emissions come from the production of a key cement component called clinker. Both the clinker formation chemical reaction and fuel combustion for high-temperature clinker kilns release GHGs (Goldman et al., 2023). Figure 1 illustrates the manufacturing steps responsible for these emissions and highlights how three approaches – clinker substitution, use of alternative fuels, and process efficiency upgrades – couldmitigateemissions.
+
+Figure 1. Cement production GHG emissions. Some 85% of GHGs emitted during cement production are released when clinker is produced in high-temperature kilns. The three approaches analyzed in this solution – clinker substitution, alternative fuels, and process efficiency upgrades – aim to mitigate such emissions. Modified from Goldman et al. (2023) viaMcKinsey.
+
+Source:Goldman, S., Majsztrik, P., Sgro Rojas, I., Gavvalapalli, M., Gaikwad, R., Feric, T., Visconti, K., & McMurty, B. (2023).Pathways to commercial liftoff: Low-carbon cement. U.S. Department of Energy.
+
+Clinker substitutionreplaces a portion of the clinker used in cement with alternative materials, thus reducing the amount of clinker manufactured. This decreases the amount of CO₂
+ emitted by the chemical reaction and fuel combustion. Clinker is made by heating limestone to convert it to lime. This reaction releases CO₂.
+ Some of the CO₂
+ production can be eliminated by replacing some of the clinker with substitute materials such as industrial waste products, other cementitious compounds, or available minerals. Clinker substitution also reduces energy demand, lowering emissions from burning fossil fuels. Clinker fraction in cement is often expressed as a clinker-to-cement ratio, which ranges from 0 (no clinker) to 1 (entirely clinker). The most common type of cement, Portland cement, typically has a clinker-to-cement ratio of 0.95, meaning the cement is 95% clinker by mass.
+
+Alternative fuelsthat can be used to heat cement kilns in place of fossil fuels are typicallybiomassand waste-based fuels. Cement production uses two kilns, one heated to ~700 °C and the other to ~1,400 °C (U.S. Department of Energy, 2022). The energy needed to provide this heat typically comes from burning fossil fuels such as oil, gas, or coal on-site, which emits CO₂
+ as well as small amounts of other GHGs, includingmethaneandnitrous oxide, and air pollutants, includingnitrogen oxides,sulfur oxides, andparticulate matter(Hottle et al., 2022; Miller & Moore, 2020). Switching to alternative fuels decreases emissions by reducing the mining and combustion of fossil fuels and recovering energy from waste streams that would have otherwise released GHG during decomposition or incineration (Georgiopoulou & Lyberatos, 2018).
+
+Efficiency upgradesinclude a broad suite of technologies such as improved controls, electrically efficient equipment (e.g., mills, fans, and motors), thermally efficient and multistage kilns, and waste heat recovery. These improvements lead to less wasted heat and input energy, and therefore require less fossil fuel burning during manufacturing. In particular, upgrading kilns has the potential for high emissions mitigation (Mokhtar & Nasooti, 2020; Morrow III et al., 2014). Kiln upgrades can include processing dry raw material (which is more efficient than expending energy to remove moisture from wetfeedstock), adding a preheater that uses kiln exhaust gas to dry and preheat raw material, and adding a precalciner kiln that uses some of the fuel to partiallycalcineraw material at a lower temperature (European Cement Research Academy, 2022; Schorcht et al., 2013). Each study included in our analysis foreffectivenessand cost included a set group of technologies that were considered to be process efficiency upgrades.
+
+The cost and avoided emissions from each approach vary depending on the other technologies in use at a particular cement plant (Glenk et al., 2023). While coupling the impacts of the approaches would provide the most accurate representation of this solution, that analysis is complex and outside the scope of this assessment. Therefore, we will consider the three approaches separately.
+
+Worldwide, we make4.1 billion metric tonsof cement every year.
+
+In the process, we produce more than3 Gt CO₂‑eqof greenhouse gases – 5.32% of global annual emissions
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of how effective this solution is at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per Mt clinker avoided. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per Mt clinker avoided. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine the current adoption of this solution (the slider’s low value) as well as the high estimate for achievable adoption by 2050 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2050.
+
+This is the high end of the range for estimated achievable adoption by 2050.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of how effective this solution is at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per Mt cement produced. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per Mt cement produced. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine the current adoption of this solution (the slider’s low value), as well as the high estimate for achievable adoption by 2050 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2050.
+
+This is the high end of the range for estimated achievable adoption by 2050.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+## What could cause effectiveness to change?
+
+
+We only report a single calculated value and not a statistical range from literature. In reality, emissions per thermal energy will change based on the fuel mix used for cement production.
+
+This is the calculated emissions per thermal energy use.
+
+
+## What is this range based on?
+
+
+Current adoption could not be determined, so adoption is measured as efficiency improvements from a 2022 baseline. Our analysis used median values from expert estimates to set the range of achievable adoption by 2060 (the slider’s high value). See Adoption section for more information.
+
+This is the low end of the range for estimated achievable adoption by 2060.
+
+This is the high end of the range for estimated achievable adoption by 2060.
+
+The minimum efficiency improvement over the current state is zero.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+There are no location-specific constraints to the effectiveness of the Improve Cement Production solution as there are for solutions dependent on climatic factors. However, there is geographic variation associated with current uptake of solutions and feasibility/expense of future uptake. Moreover, the distribution of cement-producing facilities around the world is non-uniform, thus the solution set naturally has the greatest applicability in regions with the greatest concentration of cement production. China and India have particularly high production of cement at 51% and 8% of global totals in 2024, respectively (Sinha & Crane, 2024).
+
+Newer cement plants are more likely to have high thermal efficiencies, and the age of cement plants varies around the world, with average ages of cement plants less than 20 years in much of Asia, and greater than 40 years in much of the U.S. and Europe.
+
+Uptake of alternative fuels is relatively high in Europe and low in the Americas.
+
+While use of clinker substitutes is in principle possible anywhere, the materials themselves are not readily available everywhere, thus transportation costs and associated emissions can place constraints on their viability (Shah et al., 2022).
+
+
+## Annual cement plant emissions, 2024
+
+
+Cement production emissions are partly due to burning fossil fuels to run kilns and partly due to CO2emissions associated with the chemistry of producing clinker, a key component of cement.
+
+Sinha, A. and Crane, V. (2024).Manufacturing and industrial processes sector: Cement manufacturing emissions[Data set]. TransitionZero, Climate TRACE Emissions Inventory. Retrieved February 11, 2025, fromLink to source:https://climatetrace.org
+
+
+## Annual cement plant emissions, 2024
+
+
+Cement production emissions are partly due to burning fossil fuels to run kilns and partly due to CO2emissions associated with the chemistry of producing clinker, a key component of cement.
+
+Sinha, A. and Crane, V. (2024).Manufacturing and industrial processes sector: Cement manufacturing emissions[Data set]. TransitionZero, Climate TRACE Emissions Inventory. Retrieved February 11, 2025, fromLink to source:https://climatetrace.org
+
+Our analysis of the current state of solutions for improved cement production included three separate approaches to reducing emissions: clinker substitution, alternative fuels, and process efficiency upgrades. Each approach had adoption units chosen based on data availability and consistency between calculated values. Figure 2 summarizes the units and conversions used for all approaches.
+
+Figure 2. Units of quantification used in the Current State, Adoption, and Impacts analyses below.
+
+t CO₂-eq abated/Mt clinker avoided*
+
+t CO₂ abated/Mt cement produced*
+
+t CO₂-eq abated/GJ thermal energy input**
+
+t CO₂-eq abated/Mt cement produced**
+
+*Clinker substitution effectiveness was calculated in two different adoption units using the same source data. Effectiveness in t CO₂‑eq
+ abated/Mt cement produced was used to calculate cost per climate impact. Effectiveness was converted to t CO₂‑eq
+ abated/Mt clinker avoided using the clinker-to-cement ratio for each individual study in the analysis, and this was used to calculate climate impact.
+
+**Process efficiency upgrades effectiveness in units of t CO₂‑eq
+ abated/Mt cement produced was used to calculate cost per climate impact. Separately, a calculated fuel emission factor effectiveness in units of t CO₂‑eq
+ abated/GJ thermal energy was used to quantify climate impact.
+
+Cement production currently emits 760,000tCO₂‑eq/Mtcement produced, based on our analysis. With global cement production exceeding 4 Gt/yr(U.S. Geological Survey, 2024), the scale of emissions to be mitigated is large.
+
+Clinker substitutionis the most effective of the three approaches at reducing emissions, eliminating approximately 240,000 t CO₂‑eq
+/Mt cement produced. This is equivalent to 690,000 t CO₂‑eq
+/Mt clinker avoided (Table 1a). This estimate is based on expert predictions of GHG savings for realistic target levels of clinker replacement with material substitutes.
+
+Alternative fuelsandefficiency upgradeshave carbonabatementpotentials of 96,000 and 90,000 t CO₂‑eq
+/Mt cement produced, respectively, when calculated based on production levels (Table 1b). Since the units of adoption for process efficiency upgrades areGJthermal energy input, when calculating climate impact we used an effectiveness per GJ of thermal energy, calculated using an emission factor for fuel combustion. This effectiveness is 0.0847 t CO₂
+/GJ thermal energy input (Table 1c; Gómez & Watterson et al., 2006; International Energy Agency [IEA], 2023c).
+
+We calculated the effectiveness of these three approaches separately. Because the implementation of each affects the effectiveness potential of the others (Glenk et al., 2023), the actual effectiveness will be lower when the approaches are implemented together.
+
+Emissions reductions from these approaches can be directly related to how the approach impacts GHG emissions from clinker production and fossil fuel burning. However, sourcing, processing, and transporting clinker substitutes and alternative fuels also produces GHGs. Our data sources did not always report whether suchindirect emissionswere accounted for, so our analysis primarily focuses ondirect emissions. Further analysis of otherlife-cycle emissionsconsiderations would be valuable in future research; however, indirect emission levels for both clinker substitutes and alternative fuels are reportedly small compared to direct emissions (European Cement Research Academy, 2022; Shah et al., 2022).
+
+Additionally, cement industry members sometimes assume that there are no direct emissions from burning biomass fuels (Goldman et al., 2023). As a result, we assume that direct emissions from biomass are not fully accounted for in the data and therefore that the climate benefit of using alternative fuels may be exaggerated.
+
+While other GHGs, including methane and nitrous oxide, are also released during cement manufacturing, these gases represent a small fraction (<3% combined) of overall CO₂‑eq
+ emissions so we considered them negligible in our calculations (U.S. Environmental Protection Agency, 2016; Hottle et al., 2022).
+
+Table 1. Effectiveness at reducing emissions.
+
+a) Clinker substitution
+
+c) Efficiency upgrades
+
+Unit: t CO₂‑eq
+/Mt clinker avoided, 100-year basis
+
+Unit: t CO₂‑eq
+/Mt cement produced (100-year basis)
+
+Unit: t CO₂‑eq
+/GJ thermal energy input(100-year basis)
+
+All three approaches to mitigating cement emissions result in cost savings by our analysis. Despite high initial costs, when considering the long technology lifetime and annual operational savings, the net lifetime and annualized costs are lower than conventional cement production.
+
+Clinker substitutionhas the highest net savings of the three approaches, with US$7 million/Mt cement produced generating savings of US$30/t CO₂‑eq
+ (Table 2a). While initial and operating costs may vary between different substitute materials, we averaged all material types for each cost estimate. Goldman et al. (2023) and the European Cement Research Academy (2022) offer breakdowns of cost by material type.
+
+Alternative fuelsgenerate savings of US$5 million/Mt cement, or US$50/t CO₂‑eq
+ mitigated (Table 2b). For both clinker substitution and alternative fuels, cost and emissions will vary based on local material availability (Cannon et al., 2021). We assumed equivalent costs for all alternative fuel types.
+
+Efficiency upgradessave US$6 million/Mt cement and have the highest cost savings per unit climate impact (US$60/t CO₂‑eq
+). While process efficiency upgrades encompass many different technologies, this cost estimate incorporates the costs of two of the technologies yielding high avoided emissions – replacing long kilns with preheater/precalciner kilns and implementing efficient clinker cooler technology. Between these technologies, upgrading to preheater/precalciner kilns represents most of the initial cost increase and the operational cost savings (European Cement Research Academy, 2022).
+
+The costs of each approach (Table 2) were calculated asamortizedinitial costs of upgrading plants, added to the expected changes in annual operational costs. Only very limited data are available for price premiums on low-carbon cement. Therefore, we did not include any revenues for low-carbon cement.
+
+While we calculated these costs separately, in reality the cost for implementing multiple approaches will be different due to interactions between technologies (Glenk et al., 2023). For example, material processing equipment could change based on the type of clinker substitute materials. We do not expect the costs to be additive as we assumed in our analysis, and limited cost data means that this estimate is based on limited sources.
+
+Table 2: Cost per unit climate impact.
+
+a) Clinker substitution
+
+c) Efficiency upgrades
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+Negative values reflect cost savings.
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+Negative values reflect cost savings.
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+Negative values reflect cost savings.
+
+The technologies needed for all approaches in this solution are well developed and ready to deploy at scale, so we did not consider learning curves.
+
+We did not find any global data on cost changes related to adoption levels for equipment, including energy-efficient processing technologies, dry-process kilns, or material storage. A portion of the solution’s initial costs come from plant downtimes, which would not be impacted by the technologylearning curve. For feedstock components of the solution, including alternative fuels and clinker material substitutes, the costs will be subject to material availability, market prices, and transportation, and therefore will not necessarily decrease with adoption.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Improve Cement Production is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+Few global data are available for current adoption. Most data are from regional sources, typically the United States or Europe. As a result, we do not expect these data to be representative at the global level – China and India alone produce more than 60% of the world’s cement (U.S. Geological Survey, 2024). Therefore, we quantified adoption only from a limited number of worldwide sources, using the adoption units listed in Figure 2.
+
+Clinker substitutionis challenging to assess for adoption, since it is implemented with a broad range of materials and replacement fractions. We therefore simplified adoption in this analysis by quantifying it as the amount of global cement material that is not clinker. The adoption tonnage (Table 3a) represents Mt of clinker production avoided, using conventional Portland cement (5% non-clinker) as a baseline (CEMBUREAU, n.d.). Note that this is different from the way we considered cement tonnage for effectiveness and cost. There, we calculated emissions reductions for a Mt of cement produced including substituted material. For adoption, however, we considered tonnage to be clinker avoided (based on amount replaced with other materials).
+
+The IEA (2023a) and the European Cement Research Academy (2022) estimated the global clinker-to-cement ratio to be approximately 0.72, meaning that 28% of cement composition is material other than clinker. This correlates to 980 Mt clinker avoided/yr used over the Portland cement baseline.
+
+Alternative fuelsare currently used to replace approximately 7% of fossil fuels in global cement production (Global Cement and Concrete Association, 2021; IEA, 2023c). We assumed this means approximately 300 Mt cement/yr are currently produced with biomass and waste fuels (Table 3b).
+
+Efficiency upgradesencompass dozens of technological improvements, which – along with a paucity of available data – make adoption levels challenging to assess. To estimate the current state of energy usage in the cement industry, we used the IEA (2023c) estimate of 3,550,000 GJ/Mt clinker as the 2022 benchmark thermal energy input for clinker production. This value does not include electrical efficiency and can vary based on fuel mix, but approximates the current state of energy use. We converted it to GJ/yr using amounts of annual clinker production, yielding 10.5 billion GJ thermal energy consumed each year for clinker production. Since there is no baseline for efficiency, we consider this value to be the zero adoption scenario and the current adoption to be not determined (Table 3c).
+
+For the other approaches, there is a clear baseline case of “zero adoption” where no substitutes or alternative fuels are in use. However, thermal energy input is an energy use indicator that represents a continuum with no clear baseline. We therefore had to benchmark future energy savings against an initial value, which we chose as 2022 since it provided the most recent available data. All future estimates represent annual GHG savings relative to global cement production’s 2022 GHG emissions levels.
+
+Table 3. Current adoption level (2022).
+
+a) Clinker substitution
+
+c) Efficiency upgrades
+
+Unit: Mt clinker avoided/yr
+
+Unit:Mt cement produced using alternative fuels/yr
+
+Unit: GJ thermal energy input/yr saved
+
+Clinker substitutionhas experienced relatively unchanged adoption worldwide in recent years (Table 4a). Since 2016, there has been a small increase in clinker-to-cement ratio, indicating a slight decrease in adoption of this approach (IEA, 2023a). This corresponds to 40 Mt fewer clinker material substitutes being used each year, on average.
+
+Alternative fuelsadoption is slowly on the rise as percent of fuel mix (Table 4b). According to the IEA (2023c), the percentage of global clinker produced bybioenergyand waste fuels increased from 6.5% in 2015 to 8.5% in 2022. This corresponds to a median annual increase of 12 Mt cement/yr produced by alternative fuels.
+
+The IEA (2023c) reportedefficiency upgradesto have led to a median annual decrease of 5,000 GJ/Mt clinker from 2011 to 2022, representing a –0.14% annual change in energy input. This indicates that processes consuming thermal energy have become slightly more efficient in recent years. When converted to GJ/yr, this is 15 million fewer GJ thermal energy consumed each year (Table 4c).
+
+Table 4. Adoption trend.
+
+a) Clinker substitution
+
+c) Efficiency upgrades
+
+Unit: annual change in Mt clinker avoided/yr
+
+2016–2022adoption trend
+
+Unit: annual change in Mt cement produced using alternative fuels/yr
+
+2015–2022 adoption trend
+
+Unit: annual change in GJ thermal energy input/yr
+
+2011–2022 adoption trend
+
+Theadoption ceiling(Table 5) is high for all approaches within this solution.
+
+Clinker substitutionadoption is likely to be limited primarily by material standards and availability. Across literature, the median adoption ceiling is considered to be 3,000 Mt clinker avoided/yr beyond the Portland cement baseline, yielding a clinker-to-cement ratio of 0.2. Snellings (2016) calculated the worldwide amount of clinker materials substitutes and found that a maximum of ~2,000 Mt/yr would be available, which would result in a clinker-to-cement ratio of approximately 0.5. In the future, some waste materials – like fly ash and ground granulated blast furnace slag – are likely to be less available so increasing the possible substitute amounts would require research on new materials or cement properties.
+
+Alternative fuelsare typically assumed to be applicable to roughly 90% of cement production globally, or approximately 4,000 Mt cement/yr at 2022 global production levels (Daehn et al., 2022). In theory, kilns can use 100% alternative fuels, although composition of the fuel can influence the trace elements or calorific value (European Cement Research Academy, 2022). In particular, several analyses point to the lower calorific value of alternative fuels as an adoption-limiting factor. Cavalett et al. (2024) considered 90% to be the maximum. A separate analysis of Canadian cement production determined that 65% is the threshold due to lower-calorie fuels only being applicable in a precalciner kiln – the equipment where fuel is used to begin decomposing limestone through the calcination process (Clark et al., 2024).
+
+Efficiencyupgradeshave their adoption ceiling limited by the minimum thermal energy demand needed to run cement kilns. The European Cement Research Academy estimates this lower threshold of energy input to be approximately 2,300,000 GJ/Mt clinker, considering chemical reaction and evaporation energy needs (European Cement Research Academy, 2022). This converts to 6.9 billion GJ thermal energy used each year, or 3.6 billion GJ/yr saved over current thermal energy efficiency levels (Table 5c).
+
+Table 5. Adoption ceiling.
+
+a) Clinker substitution
+
+c) Efficiency upgrades
+
+Unit: Mt clinker avoided/yr
+
+Unit: Mt cement produced using alternative fuels/yr
+
+Unit: GJ thermal energy input/yr saved over current levels
+
+Clinker substitutionachievable adoption (Table 6a) is primarily limited by material availability and initial costs. Global estimates generally expect 30–50% of total substituted material to be reasonable, which correlates to a clinker-to-cement ratio of 0.4–0.6 and 1,000–2,000 Mt clinker avoided/yr (Habert et al., 2020; European Cement Research Academy, 2022). In a separate U.S.-specific analysis, the substitute amount was projected to vary from 5% to 45% depending on the availability and performance of the material substitute (Goldman et al., 2023).
+
+Alternative fuelsare projected to account for roughly 40% of the cement fuel mix in 2050 for both global and North American estimates. Taking the median of the global achievable adoption estimates, this correlates to 2,000 Mt cement/yr that would be produced using alternative kiln fuels. As a low estimate, if the current adoption trend holds, approximately 16% of global cement fuel (producing 610 Mt cement/yr) will come from biomass and waste (IEA, 2023c). A reasonable adoption range is 610–2,000 Mt cement/yr (Table 6b), although some European countries currently have ~80% adoption of alternative fuels, meaning that >40% adoption in an aggressive 2050 scenario may be feasible (Cavalett et al., 2024).
+
+Little information exists on projected global adoption ofefficiency upgradesbetween now and 2050. In an analysis of a fraction of cement plants in China, India, and the U.S., it was estimated that these three countries – which represent more than 70% of current cement production worldwide – could reach a thermal energy input of 3.15–3.25 million GJ/Mt clinker by 2060, or 9.30–9.59 billion GJ/yr, which is 0.886–1.18 billion GJ/yr saved over current adoption levels (Table 6c; Cao et al., 2021). Meanwhile, in a European analysis, the European Cement Research Academy (2022) found the same range to be possible by 2050. This is not significantly lower than the current state due to the fact that the highest-producing countries – China and India – have newer manufacturing facilities with more efficient equipment today. Countries with more room to improve in thermal energy efficiency – such as the U.S. – produce only a small fraction of the world’s cement. Approximately 92% of global plants are estimated to use more efficient dry kiln technology, indicating that some of the more energy-saving equipment upgrades are already highly adopted (Isabirye & Sinha, 2023). Therefore, there is less room for increased adoption in kiln technologies worldwide, although electrical efficiency measures could further improve these values.
+
+While the estimates for tonnage of cement impacted by these approaches are based on 2022 global production numbers, cement production will change through 2050, meaning the impacted mass of cement will also change as these emissions-reducing measures are adopted (IEA, 2023b).
+
+Table 6. Range of achievable adoption levels.
+
+a) Clinker substitution
+
+c) Efficiency upgrades
+
+Unit: Mt clinker avoided/yr
+
+Unit: Mt cement produced using alternative fuels/yr
+
+Unit: GJ thermal energy input/yr saved over current adoption levels
+
+Note: High adoption in this case results in lower energy use for each unit of cement produced, and thus better efficiency.
+
+Improved cement production has high potential for climate impact. By our estimate, cement production is responsible for >5% of global GHG emissions, so mitigating even a portion of these emissions will meaningfully reduce the world’s carbon output.
+
+Clinker substitutionhas the highest current and potential GHG emissions savings of the three approaches (Table 7a). To calculate the climate impact, we used effectiveness and adoption on the basis of Mt clinker avoided. Climate impact was calculated as:
+
+Current GHG savings: 0.67 Gt CO₂‑eq/yr
+
+GHG savings ceiling: 2 Gt CO₂‑eq/yr
+
+Achievable GHG savings range: 0.7–1 Gt CO₂‑eq/yr
+
+Alternative fuelshave a low current climate impact but possess the potential to be adopted for a much greater fraction of the global kiln fuel mix (Table 7b). However, alternative fuels’ potential GHG emissions savings are lower than those for clinker substitutes because alternative fuels have a lower CO₂
+ mitigation effectiveness. Climate impact is calculated as:
+
+Current GHG savings: 0.03 Gt CO₂‑eq/yr
+
+GHG savings ceiling: 0.4 Gt CO₂‑eq/yr
+
+Achievable GHG savings range: 0.06–0.2 Gt CO₂‑eq/yr
+
+Switching to alternative fuels requires the use of biomass as a feedstock. Multiple climate solutions, in addition to improving cement production, require biomass, and projected demand across solutions greatly exceeds supply. The deforestation that would be required to meet demand would produce emissions far greater than any mitigation gains from full deployment of these solutions (Searchinger, 2024). In addition to deforestation, there would also be costs and emissions incurred to transport biomass from where it is produced to where it can be processed and used. Thus, the achievable GHG savings range presented here is only possible if feedstocks are prioritized for this solution. If feedstocks are instead prioritized for other climate solutions (see Interactions for examples), adoption and impact will be lower for this solution. It is not possible to set all biomass-dependent solutions to high adoption levels, add up their impacts, and determine an accurate combined emissions impact.
+
+Efficiency upgradesare the most challenging to assess for climate impact because they represent a broad range of equipment upgrades with no clear baseline efficiency. We considered adoption to be energy savings from the current (2022) baseline in GJ thermal energy input/yr. We converted adoption to climate impact using the emission factor of 0.0847 t CO₂‑eq
+/GJ thermal energy input (calculated using data from Gómez & Watterson et al., 2006 and IEA, 2023c). The resulting calculation is as follows:
+
+Current GHG savings: N/A (we consider the current adoption to be the baseline)
+
+GHG savings ceiling: 0.31 Gt CO₂‑eq/yr
+ less than 2022
+
+Achievable GHG savings range: 0.0760–0.101 Gt CO₂‑eq/yr
+ less than 2022
+
+While clinker substitution, alternative fuels, and efficiency upgrades are quantified separately here, the adoption of any of these approaches will reduce the climate impact of the others. In particular, the climate impacts for technologies that reduce emissions per Mt of clinker (such as alternative fuels and process efficiency upgrades) will be lower when implemented along with technologies that reduce the amount of clinker used (such as clinker substitution), and vice versa (Glenk et al., 2023). Therefore, these impacts will not be additive, although they will contribute to reduced emissions when implemented together.
+
+While our analysis found clinker substitution to have the highest climate impact, cement manufacturers will have to prioritize these technologies depending on their plant’s existing equipment, local availability of materials, and regional cement standards.
+
+Table 7. Climate impact at different levels of adoption.
+
+a) Clinker substitution
+
+c) Efficiency upgrades
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Miller & Moore (2020) estimated that the health damages associated with cement production amounted to approximately US$60 billion globally in 2015. These health damages are due to air pollutants produced during cement manufacturing, which would be reduced by this solution as described above. In China, one study estimated that improving energy efficiency in the Jing Jin Ji region’s cement industry could prevent morbidity in 17,000 individuals (Zhang et al., 2021).
+
+Cement production is a major contributor to air pollution. Globally, concrete production accounts for approximately 8% of nitrogen oxide emissions, 5% of sulfur oxide emissions, and 5% of particulate matter emissions, with a significant portion of all these emissions stemming exclusively from cement production (Miller & Moore, 2020).Cement-related air pollution is especially acute in China, which produces over 50% of the world’s cement (U.S. Geological Survey, 2024). In 2009, China's cement industry emitted 3.59 Mt of particulate matter, making the industry the leading source of particulate matter emissions in the country (Yang et al., 2013). China also released 0.88 Mt ofsulfur dioxide, accounting for about 4% of the national total, and emitted 1.7 Mt of nitrogen oxides (Yang et al., 2013). Process efficiency upgrades in cement manufacturing can reduce these harmful emissions. For example, implementing energy efficiency measures in China’s cement industry could reduce particulate matter by more than 3%, lower sulfur dioxide emissions by more than 15%, and decrease nitrogen oxide emissions by more than 12% by 2030 (Zhang et al., 2015). In Jiangsu province, which is the largest cement producer in China, energy and CO₂
+ reduction techniques could cut particulate matter and nitrogen oxide emissions by 30% and 56%, respectively, by 2030 (Zhang et al., 2018).
+
+Manufacturing emissions reductions due to clinker substitution, alternative fuels, and process efficiency upgrades are both permanent and additional.
+
+There is a low risk that the emission reductions this solution generates will be reversed in the next 100 years. This approach calls for reduced burning of fossil fuels and less calcination of limestone into clinker, thereby avoiding emissions from these activities. Meanwhile, carbon that is not released as CO₂
+ due to these technologies will remain stable in limestone or fossil fuel reserves indefinitely, making the emissions mitigation permanent.
+
+These cement emissions reductions are additional if they are adopted in amounts higher than what is currently required and used in local or regional cement manufacturing. Afsah (2004) assessed additionality based on whether it represents “not common practice” from a national standpoint of market share or adoption. ClimeCo (2022) suggested that for clinker material substitutes to be considered additional, the substitute needs to meet two criteria: The replacement is not mandated by law, and new or emerging materials are used.
+
+According to the U.S. Federal Highway Administration (n.d.), the use ofclinker material substitutesin cement slows concrete curing times. Additionally, some clinker material substitutes, such as fly ash, raise ecotoxicity concerns and require safe handling (U.S. Department of Energy, 2022). Robust research and development is needed for new compositions of cement to accelerate testing, standardization, and adoption (Griffiths et al., 2023). Since regional standards vary for cement and concrete, policy and regulatory support designed for specific locations will be necessary to influence adoption levels and rates.
+
+Most clinker material substitutes have limited or regional availability, leading to shortages, high costs, and transportation emissions (Habert et al., 2020). Because some substitute materials are sourced from the waste streams of other industries, such as the coal and steel industries, the long-term feasibility of sourcing these materials is uncertain (Goldman et al., 2023; Juenger et al., 2019). However, one study found that most leading cement-producing countries have substitute materials available in sufficient quantities to replace at least half of their current clinker usage (Shah et al., 2022).
+
+In terms of risks associated withalternative fuels, they can be subject to regional scarcity. Lack of available waste fuel in particular could risk non-waste biomassburning, leading to deforestation and high net emissions (de Puy Kamp, 2021). In addition, waste fuels can have varying compositions that can lead to different heats of combustion, kiln compatibility, or emitted pollutants (Griffiths et al., 2023). Finally, the use of waste products requires cement plants to be situated near industrial waste sources, risking low adoption for cement plants that are not located near a waste source.
+
+Wider adoption of clinker material substitutes, alternative fuels, and process efficiency upgrades could generate new GHG emissions, including emissions stemming from the transportation of clinker material substitutes and alternative fuels as well asembodied emissionsfrom manufacturing and installing new cement plant equipment. Nevertheless, the overall solution effectiveness is not expected to be significantly impacted. In some of the largest cement-producing countries, the emissions from transport of clinker material substitutes has been calculated to be an order of magnitude less than the emissions savings from the use of those substitutes in place of clinker (Shah et al., 2022).
+
+In terms of environmental impact, some clinker substitutes such as calcined clays and natural pozzolans can increase water use (Juenger et al., 2019; Snellings et al., 2023). Additionally, the use of biomass as an alternative fuel source could lead to trade-offs – such as increased water use and land use, or diminished resource availability – although the risk of this outcome is low since biomass for kiln fuels tends to be agricultural by-products or other waste (Clark et al., 2024; Georgiopoulou & Lyberatos, 2018).
+
+Lower-carbon cement will improve the effectiveness and enhance the net climate impact of any solutions that might require new construction. The embodied emissions from the cement and concrete used for new built structures or roads will be reduced.
+
+Deploy Alternative Insulation Materials
+
+Improve Building Envelopes
+
+Deploy Geothermal Power
+
+Enhance High-Speed Rail
+
+Deploy Offshore Wind Turbines
+
+Deploy Onshore Wind Turbines
+
+Enhance Public Transit
+
+Deploy Small Hydropower
+
+Technological advancements and increased adoption of efficient cement manufacturing equipment will improve the rate and cost of scaling similar high-efficiency machinery.
+
+Boost Industrial Efficiency
+
+Industrial electrification in cement plants will be faster and easier to adopt if the plants’ energy demands are lowered via reduced clinker production and more efficient processes.
+
+Increase Industrial Electrification
+
+This solution uses biomass as a feedstock (raw material) for kiln fuel or as a source of ash for clinker substitues, including wood, food,crop residues, and municipal waste.  Because the total projected demand for biomass feedstocks for climate solutions exceeds the supply, not all of these solutions will be able to achieve their potential adoption. This solution is in competition with the following solutions for raw material:
+
+Deploy Alternative Insulation Materials
+
+Deploy Low-Emission Industrial Feedstocks
+
+Improve District Heating: Buildings
+
+Improve Other Building Materials
+
+Increase Centralized Composting
+
+
+## Consensus of effectiveness in reducing cement industry emissions: High
+
+
+The U.S. Department of Energy reports that the cement industry produces an estimated 7–8% of global CO₂
+ emissions (Goldman et al., 2023), so this is an important area to target. There is high scientific consensus that clinker substitution, alternative fuels, and process efficiency upgrades can be immediately and effectively implemented. Other emissions reduction strategies – includinghydrogenkiln fuel, electrification, andcarbon capture and storagetechnologies – have generated mixed scientific opinions on their potential for immediate impact and were not considered in this analysis.
+
+The U.S. Department of Energy (2022) highlighted cement as one of five high-emitting industries with potential for mitigation. The technologies identified as having the highest level of maturity and market readiness were energy efficiency measures, biomass andnatural gasfuels, material efficiency measures, and blended-material cements.
+
+An extensive review of industrialdecarbonizationpoints to four technologies that could be implemented in the near term across global industries: electrification, material efficiency, energy efficiency, and circularity (Rissman et al., 2020). The European Cement Research Academy (2022) classified the three cement industry approaches considered in this solution – clinker substitution, alternative fuels, and process efficiency upgrades – as meeting the highest technology readiness level.
+
+Goldman et al. (2023) identified clinker substitution, alternative fuels, and efficiency improvements as deployable today, estimating that these three approaches could abate 30% of U.S. cement industry emissions by 2030. Habert et al. (2020) proposed technologies that could reduce emissions up to 50% in the next few decades, including “cement improvements” of supplementary clinker materials, alternative fuels, and more efficient technologies. The IEA (2018) estimated that clinker material replacement, alternative fuels, and efficiency improvements could provide 37%, 12%, and 3% of cement emissions savings by 2050, respectively.
+
+The results presented in this document summarize findings from two reviews and meta-analyses, eight original studies, nine reports, and several data sets reflecting current evidence from 33 countries, primarily high cement-producing countries in North America, Europe, and Asia. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Hold cement manufacturers accountable for safety standards.
+
+Regulate clinker substitution, alternative fuel usage, and process efficiency upgrades.
+
+Set standards for low-carbon cement and reporting on embodied carbon for new projects.
+
+Provide financial incentives such as grants, subsidies, and/or carbon taxes.
+
+Set low-carbon cement standards for public procurement.
+
+Implement building codes and standards that allow for the safe, tested use of low-clinker cement while accounting for regional variability in cement compositions.
+
+When possible integrate low-carbon cement standards into industry standards such as LEED certification or CALGreen.
+
+Increase investment in research and development of clinker material substitutes.
+
+Promote acircular economyby creating reversesupply chainsto collect industrial and biomass waste to be used as feedstocks for cement kilns and products.
+
+Require labels for low-carbon products and materials.
+
+Engage impacted communities and incorporate public feedback into policy design.
+
+Ensure permit processes for mining or collecting clinker substitutes allow local supply chains to develop.
+
+Integrate water management into policy planning when adopting new cement technologies, especially in drought-prone areas.
+
+GCCA 2050 cement and concrete industry roadmap for net zero concrete. Global Cement and Concrete Association (2022)
+
+Making concrete change: Innovation in low-carbon cement and concrete. Lehne et al. (2018)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Industrial decarbonization roadmap. U.S. Department of Energy (2022)
+
+Increase the fraction of clinker substitutes in cement, which will reduce production costs.
+
+Use alternative fuels as manufacturing energy sources, ideally fromrenewablesources when possible, which will reduce production costs.
+
+Upgrade equipment and production process to be more efficient, which will reduce production costs.
+
+Invest in research and development for clinker material substitutes and process improvements.
+
+Work to form national and regional industrial strategies for low-carbon cement.
+
+Engage with local community members and use their feedback to create safer and healthier production facilities.
+
+Increase transparency and reporting around energy usage, fuel composition, and the material composition of cement products.
+
+Integrate water management safeguards when adopting new cement technologies, especially in drought-prone areas.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving cement production.
+
+GCCA 2050 cement and concrete industry roadmap for net zero concrete. Global Cement and Concrete Association (2022)
+
+Making concrete change: Innovation in low-carbon cement and concrete. Lehne et al. (2018)
+
+Industrial decarbonization roadmap. U.S. Department of Energy (2022)
+
+Source from low-carbon cement producers.
+
+Advocate for low-carbon cement during project design and construction.
+
+Promote concrete alternatives in high-profile projects.
+
+Purchase, promote, and/or invest in local manufacturing and supply chains not only for materials and equipment used to make low-carbon cement, but also for low-carbon cementitious products.
+
+Create off-take agreements for emerging cement technologies.
+
+Create training and capacity-building programs for industry professionals related to the use and benefits of low-carbon cement and concrete.
+
+Launch education and awareness campaigns that share case studies and pilot projects with industry media and other key stakeholders.
+
+Leveragecarbon marketsto help subsidize the cost of low-carbon cement.
+
+Work with governments and financial institutions to establish standards and incentives for utilizing low-carbon materials.
+
+GCCA 2050 cement and concrete industry roadmap for net zero concrete. Global Cement and Concrete Association (2022)
+
+Making concrete change: Innovation in low-carbon cement and concrete. Lehne et al. (2018)
+
+Industrial decarbonization roadmap. U.S. Department of Energy (2022)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Assist with monitoring and reporting related to energy usage, fuel composition, and the material composition of cement products.
+
+Help design policies and regulations that support low-carbon cement production.
+
+Educate the public about the urgent need for low-carbon cement while showcasing its many benefits.
+
+Encourage policymakers to create ambitious targets and regulations.
+
+Encourage cement manufacturers to improve their practices.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving cement production.
+
+GCCA 2050 cement and concrete industry roadmap for net zero concrete. Global Cement and Concrete Association (2022)
+
+Making concrete change: Innovation in low-carbon cement and concrete. Lehne et al. (2018)
+
+Industrial decarbonization roadmap. U.S. Department of Energy (2022)
+
+Invest in low-carbon cement producers, low-carbon cement research and development, and shared recycling infrastructure for cement materials.
+
+Invest in supply chains for new clinker substitutes, alternative fuels, and technologies that improve production efficiency.
+
+Encourage portfolio companies to produce low-carbon cement or source from low-carbon cement producers, noting that low-carbon retrofits will save money for producers.
+
+Seek impact investment opportunities, such as low-interest loans for construction or renovation projects that use low-carbon cement, or favorable loans for entities that set low-carbon cement policies or targets.
+
+Low-carbon cement: Key considerations for investors. Third Derivative (2024)
+
+GCCA 2050 cement and concrete industry roadmap for net zero concrete. Global Cement and Concrete Association (2022)
+
+Making concrete change: Innovation in low-carbon cement and concrete. Lehne et al. (2018)
+
+Industrial decarbonization roadmap. U.S. Department of Energy (2022)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Set low-carbon cement standards for construction-related grants, loans, and awards.
+
+Provide capital for local supply chains and the acquisition or production of clinker material substitutes.
+
+Support global, national, and local policies that promote low-carbon cement use.
+
+Explore opportunities to fund low-carbon cement start-ups.
+
+Advance awareness of the public health and climate benefits of low-carbon cement.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving cement production.
+
+GCCA 2050 cement and concrete industry roadmap for net zero concrete. Global Cement and Concrete Association (2022)
+
+Making concrete change: Innovation in low-carbon cement and concrete. Lehne et al. (2018)
+
+Industrial decarbonization roadmap. U.S. Department of Energy (2022)
+
+Provide technical assistance (e.g., circular economy design) to producers, government agencies, and other entities working to reduce cement emissions.
+
+Help design policies and regulations that support the adoption of low-carbon cement.
+
+Educate the public through campaigns emphasizing the urgent need to reduce cement production emissions.
+
+Encourage policymakers to create more ambitious targets and regulations.
+
+Pressure the cement industry to improve its production practices.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving cement production.
+
+GCCA 2050 cement and concrete industry roadmap for net zero concrete. Global Cement and Concrete Association (2022)
+
+Making concrete change: Innovation in low-carbon cement and concrete. Lehne et al. (2018)
+
+Industrial decarbonization roadmap. U.S. Department of Energy (2022)
+
+
+## Technologists and Researchers
+
+
+Develop new separation technology for recycling cement material.
+
+Assess new clinker substitutes and improve supply chains for known substitutes.
+
+Improve the efficiency of processing technology and equipment.
+
+Increase the safety of extraction, transport, handling, and processing of clinker material substitutes.
+
+Develop on-site testing and reporting methods for tracking the energy use of manufacturing processes, fuel composition, and the material composition of cement products.
+
+Examine and refine understandings of the potential revenue and price premiums of low-carbon cement products.
+
+GCCA 2050 Cement and concrete industry roadmap for net zero concrete. Global Cement and Concrete Association (2022)
+
+Making concrete change: Innovation in low-carbon cement and concrete. Lehne et al. (2018)
+
+Industrial decarbonization roadmap. U.S. Department of Energy (2022)
+
+
+## Communities, Households, and Individuals
+
+
+Purchase low-carbon cement and concrete products when possible.
+
+Document your experiences if harmful cement production practices impact you. Share documentation of harmful cement production practices and/or other key messages with policymakers, the media, and your community.
+
+Encourage policymakers to improve regulations related to cement production.
+
+Support public education efforts to raise awareness about the urgent need to make cement production practices more environmentally sustainable.
+
+Pressure the cement industry to improve its production practices.
+
+GCCA 2050 Cement and concrete industry roadmap for net zero concrete. Global Cement and Concrete Association (2022)
+
+Making concrete change: Innovation in low-carbon cement and concrete. Lehne et al. (2018)
+
+Industrial decarbonization roadmap. U.S. Department of Energy (2022)
+
+
+## “Take Action” Sources
+
+
+Decarbonising cement and concrete production: Strategies, challenges and pathways for sustainable development. Barbhuiya, S. et al. (2024)
+
+A sustainable future for the European cement and concrete industry: Technology assessment for full decarbonisation of the industry by 2050. Favier, A. et al. (2018)
+
+Pathways to commercial liftoff: Low-carbon cement. Goldman, S. et al. (2023)
+
+Decarbonizing the cement and concrete industry: A systematic review of socio-technical systems, technological innovations, and policy options. Griffiths, S. et al. (2023)
+
+Environmental impacts and decarbonization strategies in the cement and concrete industries. Habert, G. et al. (2020)
+
+Cement. International Energy Agency (2023)
+
+Making net-zero concrete and cement possible: An industry-backed 1.5°C-aligned transition strategy. Mission Possible Partnership (2023)
+
+Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070. Rissman, J. et al. (2020)
+
+Industrial decarbonization roadmap. U.S. Department of Energy (2022)
+
+Methods and Supporting Data
+
+Afsah, S. (2004).CDM potential in the cement sector: The challenge of demonstrating additionality.Performeks LLC.Link to source:https://www.performeks.com/media/downloads/CDM-Cement%20Sector_May%202004.pdf
+
+Cannon, C., Guido, V., & Wright, L. (2021).Concrete solutions guide: Mix it up: Supplementary cementitious materials (SCMs). RMI.Link to source:https://rmi.org/wp-content/uploads/2021/08/ConcreteGuide2.pdf
+
+Cao, Z., Masanet, E., Tiwari, A., and Akolawala, S. (2021).Decarbonizing concrete: Deep decarbonization pathways for the cement and concrete cycle in the United States, India, and China.Industrial Sustainability Analysis Laboratory.
+
+Cavalett, O., Watanabe, M. D. B., Voldsund, M., Roussanaly, S., & Cherubini, F. (2024). Paving the way for sustainable decarbonization of the European cement industry.Nature Sustainability,7, 568–580.Link to source:https://doi.org/10.1038/s41893-024-01320-y
+
+CEMBUREAU. (n.d.)Clinker substitution.Retrieved August 7, 2024, fromLink to source:https://lowcarboneconomy.cembureau.eu/5-parallel-routes/resource-efficiency/clinker-substitution/
+
+Clark, G., Davis, M., Shibani, & Kumar, A. (2024). Assessment of fuel switching as a decarbonization strategy in the cement sector.Energy Conversion and Management,312, 118585.Link to source:https://doi.org/10.1016/j.enconman.2024.118585
+
+ClimeCo. (2022).Low carbon cement production.Link to source:https://www.climateactionreserve.org/wp-content/uploads/2022/10/Low-Carbon-Cement-Issue-Paper-05-20-2022_final.pdf
+
+Daehn, K., Basuhi, R., Gregory, J., Berlinger, M., Somjit, V., & Olivetti, E. A. (2022). Innovations to decarbonize materials industries.Nature Reviews Materials,7, 275–294.Link to source:https://doi.org/10.1038/s41578-021-00376-y
+
+de Puy Kamp, M. (2021, July 9). How marginalized communities in the South are paying the price for ‘green energy’ in Europe.CNN.Link to source:https://edition.cnn.com/interactive/2021/07/us/american-south-biomass-energy-invs/
+
+European Cement Research Academy. (2022).The ECRA technology papers 2022: State of the art cement manufacturing, current technologies and their future development.Link to source:https://api.ecra-online.org/fileadmin/files/tp/ECRA_Technology_Papers_2022.pdf
+
+Georgiopoulou, M., & Lyberatos, G. (2018). Life cycle assessment of the use of alternative fuels in cement kilns: A case study.Journal of Environmental Management,216, 224–234.Link to source:https://doi.org/10.1016/j.jenvman.2017.07.017
+
+Glenk, G., Kelnhofer, A., Meier, R., & Reichelstein, S. (2023). Cost-efficient pathways to decarbonizing Portland cement production.ZEW - Centre for European Economic Research Discussion Paper No. 23-023.Link to source:https://doi.org/10.2139/ssrn.4434830
+
+Global Cement and Concrete Association. (2021).Concrete future: The GCCA 2050 cement and concrete industry roadmap for net zero concrete.Link to source:https://gccassociation.org/concretefuture/wp-content/uploads/2021/10/GCCA-Concrete-Future-Roadmap-Document-AW.pdf
+
+Goldman, S., Majsztrik, P., Sgro Rojas, I., Gavvalapalli, M., Gaikwad, R., Feric, T., Visconti, K., & McMurty, B. (2023).Pathways to commercial liftoff: Low-carbon cement. U.S. Department of Energy.
+
+Gómez, D. R., & Watterson, J. D., et al. (2006). Stationary combustion. In S. Eggelston, L. Buendia, K. Miwa, T. Ngara, & K. Tanabe (Eds.),2006 IPCC guidelines for national greenhouse gas inventories(Vol. 2). Institute for Global Environmental Strategies (IGES) for the IPCC.Link to source:https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_2_Ch2_Stationary_Combustion.pdf
+
+Griffiths, S., Sovacool, B. K., Furszyfer Del Rio, D. D., Foley, A. M., Bazilian, M. D., Kim, J., & Uratani, J. M. (2023). Decarbonizing the cement and concrete industry: A systematic review of socio-technical systems, technological innovations, and policy options.Renewable and Sustainable Energy Reviews,180, 113291.Link to source:https://doi.org/10.1016/j.rser.2023.113291
+
+Habert, G., Miller, S. A., John, V. M., Provis, J. L., Favier, A., Horvath, A., & Scrivener, K. L. (2020). Environmental impacts and decarbonization strategies in the cement and concrete industries.Nature Reviews Earth & Environment,1, 559–573.Link to source:https://doi.org/10.1038/s43017-020-0093-3
+
+Hottle, T., Hawkins, T. R., Chiquelin, C., Lange, B., Young, B., Sun, P., Elgowainy, A., & Wang, M. (2022). Environmental life-cycle assessment of concrete produced in the United States.Journal of Cleaner Production,363, 131834.Link to source:https://doi.org/10.1016/j.jclepro.2022.131834
+
+International Energy Agency. (2018).Technology roadmap: Low-carbon transition in the cement industry.Link to source:https://www.iea.org/reports/technology-roadmap-low-carbon-transition-in-the-cement-industry
+
+International Energy Agency. (2023a).CO2emitted and captured in the cement sector and clinker-to-cement ratio in the Net Zero Scenario, 2015–2030.Link to source:https://www.iea.org/data-and-statistics/charts/co2-emitted-and-captured-in-the-cement-sector-and-clinker-to-cement-ratio-in-the-net-zero-scenario-2015-2030
+
+International Energy Agency. (2023b).Global cement production in the Net Zero Scenario, 2010–2030.Link to source:https://www.iea.org/data-and-statistics/charts/global-cement-production-in-the-net-zero-scenario-2010-2030-5260
+
+International Energy Agency. (2023c).Global thermal energy intensity of clinker production by fuel in the Net Zero Scenario, 2010–2030.Link to source:https://www.iea.org/data-and-statistics/charts/global-thermal-energy-intensity-of-clinker-production-by-fuel-in-the-net-zero-scenario-2010-2030
+
+Isabirye, A., & Sinha, A. (2023).Manufacturing sector: Cement manufacturing emissions.ClimateTRACE.Link to source:https://github.com/climatetracecoalition/methodology-documents/blob/main/2023/Manufacturing/Manufacturing%20and%20Industrial%20Processes%20sector-%20Cement%20Manufacturing%20Emissions%20methodology.docx.pdf
+
+Juenger, M. C. G., Snellings, R., & Bernal, S. A. (2019). Supplementary cementitious materials: New sources, characterization, and performance insights.Cement and Concrete Research,122, 257–273.Link to source:https://doi.org/10.1016/j.cemconres.2019.05.008
+
+Miller, S. A., & Moore, F. C. (2020). Climate and health damages from global concrete production.Nature Climate Change,10(5), 439–443.Link to source:https://doi.org/10.1038/s41558-020-0733-0
+
+Mokhtar, A., & Nasooti, M. (2020). A decision support tool for cement industry to select energy efficiency measures.Energy Strategy Reviews,28, 100458.Link to source:https://doi.org/10.1016/j.esr.2020.100458
+
+Morrow III, W. R., Hasanbeigi, A., Sathaye, J., & Xu, T. (2014). Assessment of energy efficiency improvement and CO2emission reduction potentials in India's cement and iron & steel industries.Journal of Cleaner Production,65, 131–141.Link to source:https://doi.org/10.1016/j.jclepro.2013.07.022
+
+Rissman, J., Bataille, C., Masanet, E., Aden, N., Morrow III, W. R., Zhou, N., Elliott, N., Dell, R., Heeren, N., Huckestein, B., Cresko, J., Miller, S. A., Roy, J., Fennell, P., Cremmins, B., Blank, T. K., Hone, D., Williams, E. D., de la Rue du Can, S., …Helseth, J. (2020). Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070.Applied Energy,266, 114848.Link to source:https://doi.org/10.1016/j.apenergy.2020.114848
+
+Schorcht, F., Kourti, I., Scalet, B. M., Roudier, S., & Delgado Sancho L. (2013).Best available techniques (BAT) reference document for the production of cement, lime and magnesium oxide – Industrial Emissions Directive 2010/75/EU (integrated pollution prevention and control)(Joint Research Center publication JRC 83006). European Commission, Joint Research Centre, Institute for Prospective Technological Studies.Link to source:https://doi.org/10.2788/12850
+
+Searchinger, T., Peng, L., Zionts, J., & Waite, R. (2024). The global land squeeze: Managing the growing competition for land. World Resources Institute.Link to source:https://www.wri.org/research/global-land-squeeze-managing-growing-competition-land
+
+Shah, I. H., Miller, S. A., Jiang, D., & Myers, R. J. (2022). Cement substitution with secondary materials can reduce annual global CO2emissions by up to 1.3 gigatons.Nature Communications,13, 5758.Link to source:https://doi.org/10.1038/s41467-022-33289-7
+
+Sinha, A., and Crane, V. (2024). Manufacturing and industrial processes sector: Cement manufacturing emissions. TransitionZero, UK, Climate TRACE Emissions Inventory.Link to source:https://climatetrace.org
+
+Snellings, R. (2016). Assessing, understanding and unlocking supplementary cementitious materials.RILEM Technical Letters,1, 50–55.Link to source:https://doi.org/10.21809/rilemtechlett.2016.12
+
+Snellings, R., Suraneni, P., & Skibsted, J. (2023). Future and emerging supplementary cementitious materials.Cement and Concrete Research,171, 107199.Link to source:https://doi.org/10.1016/j.cemconres.2023.107199
+
+U.S. Department of Energy. (2022).Industrial decarbonization roadmap.Link to source:https://www.energy.gov/sites/default/files/2022-09/Industrial%20Decarbonization%20Roadmap.pdf
+
+U.S. Environmental Protection Agency. (2016).Greenhouse gas inventory guidance: Direct emissions from stationary combustion sources.Link to source:https://www.epa.gov/sites/default/files/2016-03/documents/stationaryemissions_3_2016.pdf
+
+U.S. Federal Highway Administration. (n.d.).Use of supplementary cementitious materials (SCMs) in concrete mixtures(FHWA-HIF-19-054).U.S. Department of Transportation.Link to source:https://www.fhwa.dot.gov/pavement/concrete/trailer/resources/hif19054.pdf
+
+U.S. Geological Survey. (2024).Mineral commodity summaries 2024.https://doi.org/10.3133/mcs2024
+
+Yang, X., Teng, F., & Wang, G. (2013). Incorporating environmental co-benefits into climate policies: A regional study of the cement industry in China.Applied Energy,112, 1446–1453.Link to source:https://doi.org/10.1016/j.apenergy.2013.03.040
+
+Zhang, S., Ren, H., Zhou, W., Yu, Y., & Chen, C. (2018). Assessing air pollution abatement co-benefits of energy efficiency improvement in cement industry: A city level analysis.Journal of Cleaner Production,185, 761–771.Link to source:https://doi.org/10.1016/j.jclepro.2018.02.293
+
+Zhang, S., Worrell, E., & Crijns-Graus, W. (2015). Evaluating co-benefits of energy efficiency and air pollution abatement in China’s cement industry.Applied Energy,147, 192–213.Link to source:https://doi.org/10.1016/j.apenergy.2015.02.081
+
+Zhang, S., Xie, Y., Sander, R., Yue, H., & Shu, Y. (2021). Potentials of energy efficiency improvement and energy–emission–health nexus in Jing-Jin-Ji’s cement industry.Journal of Cleaner Production,278, 123335.Link to source:https://doi.org/10.1016/j.jclepro.2020.123335
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Christina Swanson, Ph.D.
+
+Christina Swanson, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

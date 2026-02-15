@@ -1,0 +1,744 @@
+# Improve Nonmotorized Transportation
+Source: https://drawdown.org/explorer/improve-nonmotorized-transportation
+
+Methods and Supporting Data
+
+
+## Improve Nonmotorized Transportation
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+We define Improve Nonmotorized Transportation as increasing any form of travel that does not use a motor or engine. In theory, this includes a huge range of transportation modes, including horses, cross-country skis, sailboats, hand-operated rickshaws, and animal-drawn carriages. In practice, pedestrian travel and cycling account for most nonmotorized utilitarian passenger travel.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+million passenger kilometers (million pkm)
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Travel shifted from motorized to nonmotorized transportation savesGHGemissions – mostlyCO₂,
+ but also small amounts ofnitrous oxideandmethane(Center for Sustainable Systems, 2023) – that afossil fuel-poweredcarwould otherwise emit.
+
+We divided nonmotorized transportation into three subcategories: 1) pedestrian travel, including walking and the use of mobility aids such as wheelchairs; 2) private bicycles owned by the user, meaning that they are typically used for both the outgoing and return legs of a trip; and 3) shared bicycles, which are sometimes used for only one leg of a trip and so have to be repositioned by other means.
+
+Pedestrian travel(including both walking and travel using mobility aids such as wheelchairs) has the advantage of being something that most people can do and often does not require special equipment or dedicated infrastructure (although some infrastructure, such as sidewalks, can be helpful). Pedestrian travel is 81.7% of global urban nonmotorizedpkm.
+
+Private bicycles cost money and require maintenance but enable travel at much faster speeds and therefore longer distances. Private bicycles are 13% of global urban nonmotorized pkm.
+
+Shared bicycleseliminate the financial overhead of bicycle ownership, but usually only permit travel within specific urban areas and sometimes between established docking stations. Shared bicycles are 5.1% of global urban nonmotorized pkm.
+
+Note that we did not include electric bicycles in this analysis. Electric bicycles are analyzed as a separate solution.
+
+While improving nonmotorized transportation can be a valuable climate solution virtually anywhere, we limit our analysis to cities due to the high number of relatively short-distance trips and the abundance of available data compared with rural locations.
+
+The fuel for cycling and pedestrian travel is the food the traveler eats. When the traveler metabolizes the food, they produce CO₂.
+ Some studies factor the GHG emissions produced by the added metabolism required by nonmotorized transportation into its climate impact because of the emissions that come from the food system (Mizdrak et al., 2020). This is controversial, however, because it is unclear whether pedestrians and cyclists have a higher calorie intake than people who travel in other ways (Noussan et al., 2022). Furthermore, additional food eaten to fuel physical labor is not typically counted in life-cycle analyses. This analysis, therefore, does not consider the upstream climate impacts of food calories that fuel cycling, pedestrian travel, driving, or any other activity.
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the mean current adoption of this solution.
+
+
+## What calculations are required to get climate Impact in Gt CO2-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 109
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Nonmotorized transportationeffectivenessis high across all geographic regions, though the built environment, safety, and socio-cultural norms heavily shape its adoption and impact. Key determinants of effectiveness include the extent of safe and connected infrastructure (e.g., sidewalks, bike lanes, protected intersections), land-use patterns supporting short trips, and public policies prioritizing nonmotorized transportation.
+
+Overall, effectiveness depends on adoption. In many cities across Europe and Asia, walking and cycling remain integral to daily travel. Cities like Amsterdam, Copenhagen, and Tokyo have successfully integrated nonmotorized modes into their broader transport systems through dedicated infrastructure and supportive urban design. In contrast, cities in North America, Sub-Saharan Africa, and parts of Latin America often lack safe, accessible infrastructure, which limits adoption.
+
+Socioeconomic factors, including income levels, urban design, and perceptions of status, also influence the adoption of nonmotorized transport. In wealthier regions, cycling may be viewed as a lifestyle choice or an environmental statement, whereas in lower-income settings, it may be perceived as a necessity or even a sign of economic disadvantage, influencing user behavior and policy support (Seum et al., 2020).
+
+Although shared bicycles have a lower effectiveness than walking or private bicycles, they are much more effective than cars. Increasing the number of shared bicycle systems in any geographic area can increase adoption and, therefore, make them more effective. This is particularly effective in lower-income areas where owning a private bicycle might be cost-prohibitive (Litman, 2024). Increasing shared systems in less urban and more suburban areas can be more effective, as they often replace trips made by car (Brand et al., 2021).
+
+Nonmotorized modes are generally resilient and functional in a wide range of climates. Extreme weather conditions, including high heat, heavy rainfall, or snow, can reduce walking and cycling, although these can bemitigatedthrough appropriate infrastructure (e.g., shaded or covered walkways, snow clearing, bike shelters).
+
+
+## Percentage of city population living near protected bikeways, 2023
+
+
+Proximity to related infrastructure, such as protected bikeways, facilitates the safe and convenient use of nonmotorized modes of transportation.
+
+Reich, D. T. & Braga, K. (2024).Atlas of Sustainable City Transport[Data set]. Institute for Transportation and Development Policy. Retrieved June 2, 2025 fromatlas.itdp.org
+
+
+## Percentage of city population living near protected bikeways, 2023
+
+
+Proximity to related infrastructure, such as protected bikeways, facilitates the safe and convenient use of nonmotorized modes of transportation.
+
+Reich, D. T. & Braga, K. (2024).Atlas of Sustainable City Transport[Data set]. Institute for Transportation and Development Policy. Retrieved June 2, 2025 fromatlas.itdp.org
+
+Nonmotorized transportation can save 115.6tCO₂‑eq/million pkm, compared with fossil fuel–powered cars (Table 1). This makes it a highly effective climate solution. Every trip shifted from a fossil fuel–powered car to cycling or pedestrian travel avoids most, if not all, of the GHG emissions associated with car travel. Nonmotorized transportation effectiveness is calculated by taking the share of each mode and multiplying it by its effectiveness, and adding this value from all three modes.
+
+Cars produce 116 t CO₂‑eq
+/million pkm (International Transport Forum, 2020;IPCC, 2023; Montoya-Torres et al., 2023; TNMT, 2021; Verma et al., 2022). Note that this value does not correspond directly to the estimates arrived at in most of these references because it is common practice to include embodied and upstream emissions in life-cycle calculations. Because we do not include embodied and upstream emissions (which are accounted for in other solutions), our estimate for the current emissions from the globalvehiclefleet comes from an original calculation using values from these sources and arrives at a lower figure than they do.
+
+Pedestrian travel and private bicycleshave negligibledirect emissions(Bonilla-Alicea et al., 2020; Brand et al., 2021; International Transport Forum, 2020; Noussan et al., 2022; TNMT, 2021). This means people avoid all direct GHG emissions from driving fossil fuel–powered cars when they use nonmotorized transportation instead. Thus, shifting from cars to nonmotorized transportation saves 116 t CO₂‑eq
+/million pkm, not includingindirect emissions, such as those from manufacturing the equipment and infrastructure necessary for those forms of mobility.Life-cycle emissionsfrom cycling are approximately 12 t CO₂‑eq
+/million pkm, most of which come from manufacturing bicycles (Bonilla-Alicea et al., 2019; Brand et al., 2021; ITF, 2020; Montoya-Torres et al., 2023; Noussan et al., 2020; TNMT, 2021), while emissions from pedestrian travel are negligible (TNMT, 2021). These life-cycle emissions are not quantified for this analysis, but may be addressed by other solutions in the industrial sector.
+
+Shared bicyclesprovide fewer emissions savings than privately owned bicycles do. Shared bicycle schemes have direct GHG emissions of 7.49 t CO₂‑eq
+/million pkm, about 109 fewer than the average fossil fuel-powered car. Because people sometimes use shared bicycles for one-way trips, the bike-sharing system can become unbalanced, with fewer bicycles in places where people start their journeys and more bicycles in places where people end them. This is fixed by driving the shared bicycles from places with surplus to places with shortage, which increases emissions. The total increase in emissions caused by this can be mitigated through measures such as using electric vehicles to reposition the bikes or incentivizing riders to reposition the bicycles themselves without the use of a vehicle.
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit: tCO₂‑eq
+/million pkm, 100-yr basis
+
+Driving a fossil fuel–powered car has private costs (i.e., those that accrue to the motorist themselves) of US$0.25/pkm and public costs (for roads, lights, traffic enforcement, etc.) of US$0.11/pkm. It generates public revenues of US$0.03/pkm from taxes, fees, fines, etc. (AAA, 2024; Burnham et al., 2021; Gössling et al., 2019). This means that its net cost to the passenger is US$0.32/pkm. Cars also have externality costs, such as the cost of health care due to road injuries or air pollution (Litman, 2024). We do not factor these externalities into our cost analysis.
+
+Nonmotorized transportation (costs weighted bymode share) has private costs of US$0.08/pkm and public costs US$0.04/pkm. It produces no revenues to the user. It has a net cost of US$0.12/pkm and saves US$0.21/pkm compared with car travel. This equals a savings of US$1,771/t CO₂‑eq
+ (Table 2).
+
+Pedestrian travel has private costs of US$0.09/pkm (mostly for shoes) and public costs of US$0.1/pkm (for sidewalks, staircases, bridges, etc.). It produces no new revenues. It has a net cost of US$0.10/pkm and saves US$0.23/pkm compared to car travel (Gössling et al., 2019; Litman, 2024).
+
+Private bicycles have private costs of US$0.06/pkm (for the cost of the bicycle itself, as well as repairs, clothing, etc.) and public costs of US$0.002/pkm (for bike lanes and other infrastructure). They produce no new revenues. They have net costs of US$0.07/pkm and save US$0.26/pkm compared to car travel (Gössling et al., 2019; Litman, 2024). These costs are cheaper than those of pedestrian travel on a per-pkm basis because, while a bicycle costs more than a pair of shoes, it can also travel much farther.
+
+Shared bicycle systems have different cost structures. They can be very expensive (US$9.00/km in London), free (Buenos Aires) and very inexpensive (less than US$0.00 in Tehran) based on what operators charge users. Rides are usually priced by time rather than distance (DeMaio, 2009). Calculations were made as to distance covered by time to arrive at a price per km (CityTransit Data, 2025; Fishman & Schepers, 2016; Pro Cycling Coaching, 2025). Assuming that this roughly covered operating costs, it means that these systems cost US$0.22/pkm more than car travel.
+
+An important consideration for each of these is that we must divide the cost of a bicycle, car, pair of shoes, or piece of infrastructure (road, bike lane, sidewalk) by the pkm of travel it supports over its lifespan. This means that nonmotorized transportation, which is cheaper but slower than cars, can have less of a cost advantage per pkm than might seem intuitive, and is part of the reason why cycling is cheaper per pkm than pedestrian travel. In addition, all of these estimates are based on very limited data and research and should be treated as approximate. Lastly, per-pkm infrastructural costs of cycling and pedestrian travel will decrease as cyclists and pedestrians use the infrastructure more intensively.
+
+Table 2. Cost per unit of climate impact.
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+Walking and cycling are mature technologies, so the concept of alearning rateis not applicable.
+
+There is also limited opportunity for cost reductions in cycling or pedestrian infrastructure built using construction techniques very similar to those used in the road industry. However, while learning effects might not do much to reduce the costs of nonmotorized transportation infrastructure, they could do a great deal to improve its effectiveness. Safe cycling infrastructure, in particular, has improved considerably over the past few decades. This could continue into the future as best practices are further improved.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Improve Nonmotorized Transportation is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+Analysts most frequently report adoption of nonmotorized transportation as a percentage modal share of all trips taken in a city. Cities around the world have radically different modal shares of bicycle and pedestrian trips. Cities inLMICsoften have a high nonmotorized modal share because many people cannot afford cars. Cities in high-income countries are often difficult to navigate without a car, resulting in low modal shares for nonmotorized transportation (Prieto-Curiel & Ospina, 2024).
+
+Prieto-Curiel and Ospina (2024) estimated that northern North America (the United States and Canada) had the lowest modal share of nonmotorized transportation, at 3.5%. Western Europe reached 29% modal share, while Western and Eastern Africa reached 42.9% and 46%, respectively.
+
+Converting these numbers into vehicle-kilometers traveled on a national level for various countries requires assumptions. A population-weighted average of data available from the United States and several Western European countries finds that people take approximately three 13.2 km trips per day, totaling 39.7 km of daily travel with considerable variation between countries (Christensen & Vázquez, 2013; Department for Transport, 2024; Federal Highway Administration, 2022; Statistics Netherlands, 2024). For example, English people in 2022 traveled an average of 25.5 km/day, while Americans in 2020 traveled 53.5 km/day. The value we use in our analysis comes from a population-weighted average that excludes data from 2020 and 2021 to exclude data skewed by the COVID-19 pandemic. Because the United States has by far the highest population of the countries for which we found data, it skews the average much higher than many of the European countries. World data (ITF, 2021) reports that nonmotorized transportation is 14.4% of all urban pkm.
+
+We assumed that in urban environments, each trip taken by nonmotorized transportation corresponds to one fewer car trip of this average length. This implies that nonmotorized transportation currently shifts approximately 5.6 trillion pkm from cars (Table 3). However, it should be noted that this figure includes low-income countries, where some residents have less access to private vehicles.
+
+Table 3. Current (2024) adoption level.
+
+*These data are extrapolated from a range of individual city estimates from 2010 to 2020 (Prieto-Curiel and Ospina, 2024) and world data (ITF, 2021).
+
+In all cities for which appropriate data exist, nonmotorized transportation showed a growth rate of 0.45% of all passenger trips per year (Prieto-Curiel & Ospina, 2024). This amounts to 49 billion pkm (Table 4) according to our estimation procedure outlined above. In some cities, adoption has grown much more quickly. For example, Hanover, Germany, achieved an average growth of 7.8%/yrin 2011–2017, which amounts to approximately 593 million additional pkm traveled by bicycle every year during that time. However, the rate of adoption is extremely variable. The 25th percentile of estimates shows a global decline in nonmotorized transportation to the tune of 135 billion fewer pkm shifted to nonmotorized modes every year.
+
+Adoption rates of nonmotorized transportation vary widely within a country and between different years within the same city (Prieto-Curiel & Ospina, 2024).
+
+Many people, particularly in LMICs, walk or cycle because they have limited access to a vehicle. When countries become wealthier, travel often shifts from nonmotorized transportation to cars (Seum et al., 2020). If transportation policy in these countries prioritizes car-free mobility, high levels of nonmotorized transportation adoption could potentially be preserved even as living standards increase.
+
+Table 4. 2023–2024 adoption trend.
+
+We estimated that 20.2% of all trips in cities worldwide, or approximately 5.6 trillion pkm/yr, are traveled by nonmotorized transportation, while 66.2%, or approximately 18.2 trillion pkm/yr, are traveled by fossil fuel–powered car. This suggests that switching all urban trips currently taken by car to nonmotorized transportation would lead to a nonmotorized modal share of 86.4% in cities globally, or 19.7 trillion pkm/yr (Table 5).
+
+This calculation uses the same assumptions discussed under Current Adoption above. In this case, however, our assumption that every nonmotorized trip is shifted from a car trip of the same length requires further justification. We are not assuming that very long car trips, trips on highways, etc., are replaced directly by bicycle or pedestrian trips. Instead, we assume that shorter nonmotorized trips can substitute for longer car trips with appropriate investment in better urban planning and infrastructure. So, for example, a 10 km drive to a large grocery store could be replaced by a 1 km walk to a neighborhood grocery store.
+
+This would require replanning many cities so they better accommodate shorter trips. It would also require improving options for people with disabilities or those carrying heavy loads. And it would face climatic and topographic constraints. Furthermore, it is unlikely that all car traffic would ever be substituted by any single alternative mode. Other sustainable modes, particularly public transit, are likely to play a role.
+
+It is also possible for rural trips to be undertaken by nonmotorized transportation. Indeed, this is already very common in low-and middle-income countries. However, rural data are sparse, and discerning how many trips could be shifted to nonmotorized travel in these areas is highly speculative. Therefore, we omit rural areas from our analysis.
+
+Table 5. Adoption ceiling.
+
+To estimate the upper bound of feasible adoption, we assumed that urban trips taken by fossil fuel–powered cars can be shifted to nonmotorized transportation until the latter accounts for 65% of trips (the current highest modal share of nonmotorized transportation in any city with a population of more than one million) or until car travel decreases to 7% of trips (the current lowest modal share of fossil fuel–powered cars in any city with a population of more than one million). This corresponds to a total achievable nonmotorized transportation modal share of 16.3 trillion pkm/yr (Table 6).
+
+To set the lower bound, we do the same calculation as above, but for each individual region, adding up all the resultant modal shifts to get a global figure. So, for example, every East Asian city might reach the nonmotorized transportation modal share of Singapore (23% of trips), while every northern European city might reach that of Copenhagen, Denmark (41% of trips). This corresponds to a total achievable nonmotorized transportation modal share of 12.4 trillion pkm/yr.
+
+Table 6. Range of achievable adoption levels.
+
+If all cycling and pedestrian trips undertaken today would otherwise have happened by car, they are currently displacing approximately 0.6GtCO₂‑eq/yr
+ emissions (Table 7). This is an overestimate, however, since this figure includes data from places where most people have low access to cars.
+
+Walking and private bicycles have a different effectiveness than shared bicycles. To calculate the climate impacts of different levels of adoption, we applied the effectiveness in the share of each mode of nonmotorized transportation. Walking and private bicycling are 94.4% of nonmotorized pkm and shared bicycling is 5.3%. This gives nonmotorized transportation effectiveness at reducing emissions 115.6 t CO₂‑eq
+/million pkm.
+
+On the lower end, if every city achieved a pedestrian and cycling modal share equivalent to the least-motorized city in its region, it would save 1.4 Gt CO₂‑eq/yr.
+ On the higher end, if every city shifted enough passenger car traffic to achieve a car modal share as low as Hong Kong, China, it would save 1.9 Gt CO₂‑eq/yr.
+ If all trips taken by car were shifted onto nonmotorized transportation (an unrealistic scenario), it would save 2.3 Gt CO₂‑eq/yr.
+
+Table 7. Climate impact at different levels of adoption.
+
+Unit:Gt CO₂‑eq/yr,
+ 100-yr basis
+
+
+## Health and Air Quality
+
+
+Air pollution kills approximately 7 million people yearly (Roser, 2024). By reducing vehicle emissions, nonmotorized transportation can alleviate related air pollution (Mailloux et al., 2021) and thereby reduce premature deaths. For example, cutting U.S. transportation emissions by 75% by 2030 could prevent 14,000 premature deaths annually due to decreased exposure toPM2.5and ozone (Shindell et al., 2016).
+
+Nonmotorized transportation has other health and safety benefits (Blondiau et al., 2016; European Commission, 2019; Glazener & Khreis, 2019; Gössling et al., 2023; Mueller et al., 2015; State of Colorado, 2016; Xia et al., 2013). Switching from driving to walking or cycling boosts health by promoting physical activity and decreasing risks of cardiovascular issues, diabetes, and mental disorders (Mailloux et al., 2021).
+
+Noise pollution from motorized vehicles has significant impacts on cardiovascular health, mental health, and sleep disturbances, contributing to 1.6 million losthealthy life yearsin 2004 and up to 1,100 deaths attributable to hypertension in Europe in 2024 (Staatsen et al., 2004; Munzel et al., 2024). Enhancing nonmotorized transportation can reduce the health impacts of traffic noise (de Nazelle et al., 2011).
+
+Finally, nonmotorized transportation improves quality of life. It increases opportunities for human connection, integrates physical activity and fun into daily commutes, and increases the autonomy of less mobile groups such as children and elders. Cities with high modal shares for nonmotorized transportation generally have high quality of life (Adamos et al., 2020; Günther & Krems, 2022; Glazener and Khreis, 2019).
+
+The use of nonmotorized transportation can reduce car crashes, which kill around 1.2 million people annually (WHO, 2023).
+
+Nonmotorized transportation infrastructure tends to be good for local businesses. Cyclists and pedestrians are more likely to stop at businesses they pass and therefore spend more money locally, creating more jobs (Volker & Handy, 2021).
+
+In 2011, roads and associated infrastructure accounted for 10–30% of land in residential areas and 50–70% of land in commercial areas (Litman, 2011). Transforming these lands into green spaces could provide additional habitats and reduce biodiversity loss while increasing the protection of land, soil, and water resources (European Commission, 2019).
+
+Increases to the modal share of nonmotorized transportation only have the benefits discussed here if they replace travel by car. Replacing public transit travel with travel using nonmotorized transportation will have a much smaller climate benefit. The climate benefit of nonmotorized mobility will also diminish if the average emissions of the global car fleet shrink, for example, due to the wider adoption of electric vehicles.
+
+There are also uncertainties around trip length. A small number of long trips taken by car will not be replaceable by nonmotorized transportation. Replacing the average trip by car with cycling or pedestrian travel will, in many cases, require that trip to be shortened (for example, by placing businesses closer to people’s homes). If this is not possible, increased adoption of nonmotorized transportation will apply to only some trips, reducing the impact on both emissions and costs.
+
+Weather and climate pose significant challenges and risks for nonmotorized transportation. Extreme heat or cold, wind, rain, or storms can make people reluctant to travel without the protection of a vehicle and, in some cases, can make doing so unsafe (Gössling et al., 2023). This will reduce the adoption of nonmotorized transportation in some places, although it can be mitigated through measures such as providing information and subsidies for proper clothing, removing or grooming snow on bicycle paths, and providing indoor/covered paths that allow pedestrians to travel through a city without exposure to the elements.
+
+Some literature suggested that nonmotorized transportation can lead to gentrification because bike lanes and pleasant walkable streets can increase property values, driving people who used to live in a neighborhood into other places that might still be car-dependent (Flanagan et al., 2016). This risk can be addressed by ensuring that nonmotorized transportation infrastructure is built in an equitable way, connecting different neighborhoods regardless of their social and economic status. Increasing the number of neighborhoods accessible without a car will mean that people do not have to pay a premium to live in those neighborhoods. This will avoid making accessibility without a car a privilege that only the wealthy can afford.
+
+Cycling in a city with lots of traffic and poor cycling infrastructure puts cyclists at risk of injury from collisions with cars. This risk, however, comes mainly from the presence of cars on roads. Reducing the number of cars on the road by shifting trips to other modes can improve safety for cyclists and pedestrians (Bopp et al., 2018).
+
+The positive impacts that nonmotorized transportation have on traffic congestion could be self-defeating if not managed well. This is because less congestion will make driving more appealing, which can, in turn, lead to additional induced demand, increasing car use and congestion (Hymel et al., 2010).
+
+Production of equipment (such as bicycles) and infrastructure (such as sidewalks) creates some emissions, but these are small when divided by the total distance traveled by pedestrians and cyclists. On a per-pkm basis, this makes little difference in the emissions saved by nonmotorized transportation.
+
+Nonmotorized transportation can help passengers access public transit systems, train stations, and carpool pickup points.This is important because research suggests that the key to a low-carbon mobility system is to reduce the need for people to own cars (Van Acker & Witlox, 2010).
+
+Enhance Public Transit
+
+Enhance High-Speed Rail
+
+Mobilize Electric Trains
+
+Electric bicycles use the same infrastructure as nonmotorized transportation – especially conventional bicycles. Building bike lanes, bike paths, mixed-use paths, and similar infrastructure for cyclists and pedestrians can also help with the uptake of electric bicycles. This is even more true for shared electric bicycles, which can and often do use the same sharing systems as shared conventional bicycles.
+
+Mobilize Electric Bicycles
+
+One way to encourage the adoption of electric cars is through electric car–sharing services, in which people can access a communal electric car when they need it. This has the additional benefit of reducing the need for car ownership, which is closely correlated with car use (Van Acker and Witlox, 2010). Good nonmotorized transportation infrastructure can make it easier for users of these services to access shared vehicles parked at central locations.
+
+Mobilize Electric Cars
+
+Electric cars, hybrid cars, electric scooters and motorcycles, and nonmotorized transportation compete for the same pool of total pkm. Increased use of nonmotorized transportation could reduce kilometers traveled using electric and hybrid cars and electric scooters and motorcycles.
+
+Mobilize Electric Cars
+
+Mobilize Electric Scooters & Motorcycles
+
+Consensus of effectiveness in decarbonizing the transport sector: High
+
+The large reductions in emissions that come from shifting passenger transportation from fossil fuel-powered cars to nonmotorized modes are not controversial. There is some disagreement, however, over how many pkm traveled by car can be realistically shifted to nonmotorized transportation.
+
+Brand et al. (2021) compared the GHG emissions of active transportation with those of cars. They concluded that “locking in, investing in and promoting active travel should be a cornerstone of sustainability strategies, policies and planning.”
+
+The Intergovernmental Panel on Climate Change (IPCC, 2023) sixth assessment report mentioned nonmotorized transportation as a solution in its transportation chapter. The authors expressed high confidence in the potential of these transportation modes to reduce emissions and recommended policy and infrastructural measures to support them.
+
+Litman’s (2024) study of the costs and benefits of active transportation summarized the direct financial costs as well as externalities associated with pedestrian and bicycle travel compared with travel by fossil fuel–powered car. Litman noted that “active transport can provide relatively large energy savings if it substitutes for short urban trips that have high emission rates per mile due to cold starts (engines are inefficient during the first few minutes of operation) and congestion. As a result, each 1% shift from automobile to active travel typically reduces fuel consumption 2–4%.”
+
+This research is, unfortunately, heavily biased toward richer countries, especially in Europe and North America, even though nonmotorized transportation plays a very important role in low- and middle-income countries (LMICs). The research on this topic is also biased toward cities, even though nonmotorized transportation can be a valuable means of mobility in rural areas.
+
+The results presented in this document summarize findings from 19 reviews and meta-analyses and 14 original studies reflecting current evidence from 84 countries, primarily the United States, the United Kingdom, and the European Union. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Use nonmotorized transportation.
+
+Reduce the associated time, distance, risk, and risk perception of nonmotorized transportation.
+
+Improve infrastructure such as sidewalks, footpaths, and bike lanes.
+
+Implement traffic-calming methods such as speed bumps.
+
+Increase residential and commercial density.
+
+Use acitizen-centeredapproach when designing infrastructure.
+
+Enact infrastructure standards for nonmotorized transportation, such as curb ramp designs, and train contractors to implement them.
+
+Establish public bike-sharing programs.
+
+Create dedicated coordinating bodies across government agencies, businesses, and the public to develop nonmotorized infrastructure.
+
+Disincentivize car ownership through reduced access, increases in parking fares, taxes, or other means.
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job unction action guide. Project Drawdown (2022)
+
+Putting people at the center of urban transformation.The 15-minute city (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+Use nonmotorized transportation.
+
+Share your experiences, tips, and reasons for choosing your modes of transportation.
+
+Participate in local bike groups, public events, and volunteer opportunities.
+
+Advocate to local officials for infrastructure improvements and note specific locations for improvements.
+
+Encourage local businesses to create employee incentives.
+
+Create “bike buses” or “walking buses” for the community and local schools.
+
+5 Ways to boost community engagement in bike advocacy. Aguilera et al. (2023)
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Putting people at the center of urban transformation.The 15-minute city (n.d.)
+
+Attributes of a Bicycle Friendly Business. The League of American Bicyclists (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+Use nonmotorized transportation.
+
+Ensure your business is accessible via nonmotorized transportation.
+
+Advocate for better infrastructure for nonmotorized transportation.
+
+Educate customers about the local infrastructure.
+
+Partner with other businesses to encourage employees to cycle or walk.
+
+Encourage employees to walk or cycle to and from work as their circumstances allow.
+
+Create educational materials for employees on commuting best practices.
+
+Offer employees pre-tax commuter benefits to include reimbursement for nonmotorized travel expenses.
+
+Organize staff bike rides to increase familiarity and comfort with bicycling.
+
+Install adequate bike storage, such as locking posts.
+
+Emphasize walking and biking as part of company-wide sustainability initiatives and communicate how walking and biking support broader GHG emission reduction efforts.
+
+5 Ways to boost community engagement in bike advocacy. Aguilera et al. (2023)
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Putting people at the center of urban transformation.The 15-minute city (n.d.)
+
+Attributes of a Bicycle Friendly Business. The League of American Bicyclists (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+Use nonmotorized transportation.
+
+Ensure your office is accessible to nonmotorized transportation.
+
+Advocate for infrastructure improvements and note specific locations where improvements can be made.
+
+Encourage local businesses to create employee incentives.
+
+Create “bike buses” or “walking buses” for the community and/or local schools.
+
+Offer free classes on subjects such as bike maintenance, local bike routes, or what to know before purchasing a bike.
+
+Host or support community participation in local infrastructure design.
+
+Join public-private partnerships to encourage biking and walking, emphasizing the health and savings benefits.
+
+5 Ways to boost community engagement in bike advocacy. Aguilera et al.. (2023)
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Putting people at the center of urban transformation.The 15-minute city (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+Use nonmotorized transportation.
+
+Deploy capital to efforts that improve bicycle and walking comfort, convenience, access, and safety.
+
+Invest in public or private bike-sharing systems.
+
+Invest in localsupply chainsfor bicycles and other forms of nonmotorized transportation.
+
+Seek investment opportunities that reduce material and maintenance costs for bicycles.
+
+Finance bicycle purchases via low-interest loans.
+
+Consider investments in nonmotorized transportation start-ups.
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Putting people at the center of urban transformation.The 15-minute city (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Use nonmotorized transportation.
+
+Award grants to local organizations advocating for improved walking and bicycle infrastructure.
+
+Build capacity for walking and bicycle infrastructure design and construction.
+
+Support organizations that distribute, refurbish, and/or donate bikes in your community.
+
+Facilitate access to bicycle maintenance and supplies.
+
+Host or support community education or participation efforts.
+
+Donate fixtures such as street lights, guardrails, and road signs.
+
+Educate the public and policymakers on the benefits and best practices of nonmotorized transportation.
+
+5 Ways to boost community engagement in bike advocacy. Aguilera et al. (2023)
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Putting people at the center of urban transformation.The 15-minute city (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+Use nonmotorized transportation.
+
+Focus messages on key decision factors for nonmotorized commuters, such as the associated health benefits and importance of fitness, climate and environmental benefits, weather forecasts, and traffic information.
+
+Highlightprinciplesof safe urban design and point out dangerous areas.
+
+Share information on local bike and walking routes, general bike maintenance tips, items to consider when purchasing a bike, and related educational information.
+
+Collaborate with schools on bicycle instruction, including safe riding habits and maintenance.
+
+5 Ways to boost community engagement in bike advocacy. Aguilera et al. (2023)
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Putting people at the center of urban transformation.The 15-minute city (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+
+## Technologists and Researchers
+
+
+Use nonmotorized transportation.
+
+Examine and improve elements of infrastructure design.
+
+Improve circularity, repairability, and ease of disassembly for bikes.
+
+Increase the physical carrying capacities (storage) for walkers and bicyclists to facilitate shopping and transporting children, pets, and materials.
+
+Identify and encourage the deployment of messaging that enhances nonmotorized transportation use.
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Putting people at the center of urban transformation.The 15-minute city (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+
+## Communities, Households, and Individuals
+
+
+Use nonmotorized transportation.
+
+Share your experiences, tips, and reasons for choosing nonmotorized transportation.
+
+Participate in local bike groups, public events, and volunteer opportunities.
+
+Advocate to local officials for infrastructure improvements and note specific locations where improvements can be made.
+
+Encourage local businesses to create employee incentives for using nonmotorized transportation.
+
+Create “bike buses” or “walking buses” for the community and local schools.
+
+How to achieve a walking and cycling transformation in your city. C40 Cities Climate Leadership Group (2019)
+
+Putting people at the center of urban transformation.The 15-minute city (n.d.)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme (2019)
+
+
+## “Take Action” Sources
+
+
+Bicycle superhighway: an environmentally sustainable policy for urban transport. Agarwal et al. (2020)
+
+5 ways to boost community engagement in bike advocacy. Aguilera et al. (2023)
+
+Cyclist crash rates and risk factors in a prospective cohort in seven European cities. Branion-Calles et al. (2020)
+
+How to achieve a walking and cycling transformation in your city. C40 Knowledge (2019)
+
+Going a long way? On your bike! Comparing the distances for which public bicycle sharing system and private bicycles are used. Castillo-Manzano (2016)
+
+Influencing transport behaviour: a Bayesian modelling approach for segmentation of social surveys. Dawkins et al. (2018)
+
+Transport mode choice and body mass index: cross-sectional and longitudinal evidence from a European-wide study. Dons et al. (2018)
+
+Rogue drivers, typical cyclists, and tragic pedestrians: a critical discourse analysis of media reporting of fatal road traffic collisions. Fevyer et al. (2022)
+
+Understanding economic and business impacts of street improvements for bicycle and mobility – a multi-city multi-approach exploration. Liu et al. (2020)
+
+“The bike breaks down. What are they going to do?” Actor-networks and the bicycles for development movement. McSweeney et al. (2020)
+
+How bicycle retailers can help grow ridership: foster the community. PeopleForBikes (2019)
+
+Active mobility versus motorized transport? User choices and benefits for the society. Pisoni et al. (2021)
+
+How to design policy packages for sustainable transport: Balancing disruptiveness and implementability. Thaller et al. (2021)
+
+Attributes of a bicycle friendly business. The League of American Bicyclists (n.d.)
+
+A paradigm shift in urban mobility: policy insights from travel before and after COVID-19 to seize the opportunity.Thombre et al. (2021)
+
+Small cities, big needs: urban transport planning in cities of developing countries. Thondoo et al. (2020)
+
+East Village shoppers study: a snapshot of travel and spending patterns of residents and visitors in the east village. Transportation Alternatives (2012)
+
+How to develop a non‑motorised transport strategy or policy. United Nations Environment Programme et al. (n.d.).
+
+Promotion of non-motorised transport.United Nations Environment Programme et al. (n.d.)
+
+Improving non-motorized transportation provision in a socially inclusive way—the case of Cape Town. Vanderschuren et al. (2022)
+
+Methods and Supporting Data
+
+AAA. (2024). AAA’s Your driving costs – AAA Exchange.Link to source:https://exchange.aaa.com/automotive/aaas-your-driving-costs/
+
+Adamos, G., Nathanail, E., Theodoridou, P., & Tsolaki, T. (2020). Investigating the effects of active travel in health and quality of life.Transport and Telecommunication Journal,21(3), 221–230.Link to source:https://doi.org/10.2478/ttj-2020-0018
+
+Blondiau, T., van Zeebroeck, B., & Haubold, H. (2016). Economic benefits of increased cycling.Transportation Research Procedia,14, 2306–2313.Link to source:https://doi.org/10.1016/j.trpro.2016.05.247
+
+Bonilla-Alicea, R. J., Watson, B. C., Shen, Z., Tamayo, L., & Telenko, C. (2020). Life cycle assessment to quantify the impact of technology improvements in bike-sharing systems.Journal of Industrial Ecology,24(1), 138–148.Link to source:https://doi.org/10.1111/jiec.12860
+
+Bopp, M., Sims, D., & Piatkowski, D. (2018).Benefits and risks of bicycling. 21–44.Link to source:https://doi.org/10.1016/B978-0-12-812642-4.00002-7
+
+Brand, C., Dons, E., Anaya-Boig, E., Avila-Palencia, I., Clark, A., de Nazelle, A., Gascon, M., Gaupp-Berghausen, M., Gerike, R., Götschi, T., Iacorossi, F., Kahlmeier, S., Laeremans, M., Nieuwenhuijsen, M. J., Pablo Orjuela, J., Racioppi, F., Raser, E., Rojas-Rueda, D., Standaert, A., … Int Panis, L. (2021). The climate change mitigation effects of daily active travel in cities.Transportation Research Part D: Transport and Environment,93, 102764.Link to source:https://doi.org/10.1016/j.trd.2021.102764
+
+Burnham, A., Gohlke, D., Rush, L., Stephens, T., Zhou, Y., Delucci, M. A., Birky, A., Hunter, C., Lin, Z., Ou, S., Xie, F., Proctor, C., Wiryadinata, S., Liu, N., & Boloor, M. (2021). Comprehensive total cost of ownership quantifications for vehicles with different size classes and powertrains (ANL/ESD-21/4). Argonne National Laoratory.Link to source:https://publications.anl.gov/anlpubs/2021/05/167399.pdf
+
+Center for Sustainable Systems. (2023).Personal transportation factsheet(CSS01-07). University of Michigan.Link to source:https://css.umich.edu/publications/factsheets/mobility/personal-transportation-factsheet
+
+Christensen, L., & Vázquez, N. S. (2013). Post-harmonised european national travel surveys.Proceedings from the Annual Transport Conference at Aalborg University,20(1), Article 1.Link to source:https://doi.org/10.5278/ojs.td.v1i1.5701
+
+CityTransit Data. (2025). A global analysis of transit data. CityTransit Data.Link to source:https://citytransit.uitp.org/
+
+DeMaio, P. (2009). Bike-sharing: History, impacts, models of provision, and future. Journal of Public Transportation, 12(4), 41–56.Link to source:https://doi.org/10.5038/2375-0901.12.4.3
+
+Department for Transport. (2024). Department for transport statistics NTS 0101: Trips, distance travelled, and time taken: England, 1972 onwards [Dataset].Link to source:https://app.powerbi.com/view?r=eyJrIjoiMGE2YTQ5YTMtMDkwNC00MjBmLWFkNjUtMjBjZjUzZWU0ZjNmIiwidCI6IjI4Yjc4MmZiLTQxZTEtNDhlYS1iZmMzLWFkNzU1OGNlNzEzNiIsImMiOjh9
+
+European Commission. (2019).Handbook on the external costs of transport. European Commission.Link to source:https://cedelft.eu/wp-content/uploads/sites/2/2021/03/CE_Delft_4K83_Handbook_on_the_external_costs_of_transport_Final.pdf
+
+Federal Highway Administration. (2022).Summary of travel trends: 2022 National Household Travel Survey. US Department of Transportation.Link to source:https://nhts.ornl.gov/assets/2022/pub/2022_NHTS_Summary_Travel_Trends.pdf
+
+Fishman, E., & Schepers, P. (2016). Global bike share: What the data tells us about road safety. Journal of Safety Research, 56, 41–45.Link to source:https://doi.org/10.1016/j.jsr.2015.11.007
+
+Flanagan, E., Lachapelle, U., & El-Geneidy, A. (2016). Riding tandem: Does cycling infrastructure investment mirror gentrification and privilege in Portland, OR and Chicago, IL?Research in Transportation Economics,60, 14–24.Link to source:https://doi.org/10.1016/j.retrec.2016.07.027
+
+Glazener, A., & Khreis, H. (2019). Transforming our cities: Best practices towards clean air and active transportation.Current Environmental Health Reports,6(1), 22–37.Link to source:https://doi.org/10.1007/s40572-019-0228-1
+
+Gössling, S., Neger, C., Steiger, R., & Bell, R. (2023). Weather, climate change, and transport: A review. Natural Hazards, 118(2), 1341–1360.Link to source:https://doi.org/10.1007/s11069-023-06054-2
+
+Gössling, S., Choi, A., Dekker, K., & Metzler, D. (2019). The social cost of automobility, cycling and walking in the European Union.Ecological Economics,158, 65–74.Link to source:https://doi.org/10.1016/j.ecolecon.2018.12.016
+
+Günther, M., & Krems, J. (2022).The liveable city—How effective planning for infrastructure and personal mobility can improve people’s experiences of urban life. 13th International Conference on Applied Human Factors and Ergonomics (AHFE 2022).Link to source:https://doi.org/10.54941/ahfe1002372
+
+International Transport Forum. (2020).Good to go? Assessing the environmental performance of new mobility(Corporate Partnership Board). OECD.Link to source:https://www.itf-oecd.org/sites/default/files/docs/environmental-performance-new-mobility.pdf
+
+International Transport Forum. (2021).ITF Transport Outlook 2021. OECD.Link to source:https://www.itf-oecd.org/itf-transport-outlook-2021
+
+Hymel, K. M., Small, K. A., & Dender, K. V. (2010). Induced demand and rebound effects in road transport. Transportation Research Part B: Methodological, 44(10), 1220–1241.Link to source:https://doi.org/10.1016/j.trb.2010.02.007
+
+IPCC. (2023).Renewable energy sources and climate change mitigation—IPCC.Link to source:https://www.ipcc.ch/report/renewable-energy-sources-and-climate-change-mitigation/
+
+Litman, T. (2011). Environmental reviews & case studies: Why and how to reduce the amount of land paved for roads and parking facilities. Environmental Practice, 13(1), 38–46.Link to source:https://doi.org/10.1017/S1466046610000530
+
+Litman, T. (2024).Evaluating active transport benefits and costs: Guide to valuing walking and cycling improvements and encouragement programs. Victoria Transport Policy Institute.Link to source:https://www.vtpi.org/nmt-tdm.pdf
+
+Mailloux, N. A., Henegan, C. P., Lsoto, D., Patterson, K. P., West, P. C., Foley, J. A., & Patz, J. A. (2021). Climate solutions double as health interventions.International Journal of Environmental Research and Public Health,18(24), Article 24.Link to source:https://doi.org/10.3390/ijerph182413339
+
+Mizdrak, A., Cobiac, L. J., Cleghorn, C. L., Woodward, A., & Blakely, T. (2020). Fuelling walking and cycling: Human powered locomotion is associated with non-negligible greenhouse gas emissions.Scientific Reports,10(1), Article 1.Link to source:https://doi.org/10.1038/s41598-020-66170-y
+
+Montoya-Torres, J., Akizu-Gardoki, O., & Iturrondobeitia, M. (2023). Measuring life-cycle carbon emissions of private transportation in urban and rural settings.Sustainable Cities and Society,96, 104658.Link to source:https://doi.org/10.1016/j.scs.2023.104658
+
+Mueller, N., Rojas-Rueda, D., Cole-Hunter, T., de Nazelle, A., Dons, E., Gerike, R., Götschi, T., Int Panis, L., Kahlmeier, S., & Nieuwenhuijsen, M. (2015). Health impact assessment of active transportation: A systematic review.Preventive Medicine,76, 103–114.Link to source:https://doi.org/10.1016/j.ypmed.2015.04.010
+
+Münzel, T., Molitor, M., Kuntic, M., Hahad, O., Röösli, M., Engelmann, N., Basner, M., Daiber, A., & Sørensen, M. (2024). Transportation noise pollution and cardiovascular health.Circulation Research,134(9), 1113–1135.Link to source:https://doi.org/10.1161/CIRCRESAHA.123.323584
+
+de Nazelle, A., Nieuwenhuijsen, M., Antó, J., Brauer, M., Briggs, D., Charlotte Braun-Fahrlander, C., Cavill, N., Cooper, A., Desqueyroux, H., Fruin, S., Hoek, G., Panis, L., Janssen, N., Jerrett, M., Joffe, M., Andersen, Z., van Kempen, E., Kingham, S., Kubesch, N., Leyden, K., Marshall, J., Matamala, J., Mellios, G., Mendez, M., Nassif, H., Ogilvie, D., Peiró, R., Pérez, K., Rabl, A., Ragettli, M., Rodríguez, D., Rojas, D., Ruiz, P., Sallis, J., Terwoert, J., Toussaint, J., Tuomisto, J., Zuurbier, M., & Lebret, E. (2011). Improving health through policies that promote active travel: A review of evidence to support integrated health impact assessment. Environment International, 37(4), 767-777.Link to source:https://doi.org/10.1016/j.envint.2011.02.003
+
+Noussan, M., Campisi, E., & Jarre, M. (2022). Carbon intensity of passenger transport modes: A review of emission factors, their variability and the main drivers.Sustainability,14(17), Article 17.Link to source:https://doi.org/10.3390/su141710652
+
+Prieto-Curiel, R., & Ospina, J. P. (2024). The ABC of mobility.Environment International,185, 108541.Link to source:https://doi.org/10.1016/j.envint.2024.108541
+
+Pro Cycling Coaching. (2025). Bike Time Calculator: How Long Does It Take to Bike Any Distance.Link to source:https://www.procyclingcoaching.com/resources/bike-time-calculator
+
+Rodriguez Mendez, Q., Fuss, S., Lück, S., & Creutzig, F. (2024). Assessing global urban CO2removal.Nature Cities,1(6), 413–423.Link to source:https://doi.org/10.1038/s44284-024-00069-x
+
+Roser, M. (2024). Data review: How many people die from air pollution?Our World in Data.Link to source:https://ourworldindata.org/data-review-air-pollution-deaths
+
+Seum, S., Schulz, A., & Phleps, P. (2020). The future of driving in the BRICS countries (study update 2019). Institute for Mobility Research.Link to source:https://elib.dlr.de/135710/1/2019_ifmo_BRICS_reloaded_en1.pdf
+
+Shindell, D. T., Lee, Y., & Faluvegi, G. (2016). Climate and health impacts of US emissions reductions consistent with 2 °C.Nature Climate Change,6(5), 503–507.Link to source:https://doi.org/10.1038/nclimate2935
+
+Staatsen, B., Nijland, H., Kempen, E., van Hollander, A., de Franssen, A., & Kamp, I. (2004). Assessment of health impacts and policy options in relation to transport-related noise exposures (815120002).
+
+State of Colorado. (2016).Economic and health benefits of cycling and walking. Colorado Office of Economic Development and International Trade..ttps://choosecolorado.com/wp-content/uploads/2016/06/Economic-and-Health-Benefits-of-Bicycling-and-Walking-in-Colorado-4.pdf
+
+Statistics Netherlands. (2024).Mobility; per person, personal characteristics, modes of travel and regions[webpage]. Statistics Netherlands.Link to source:https://www.cbs.nl/en-gb/figures/detail/84709ENG
+
+TNMT. (2021). The environmental impact of today’s transport types.TNMT.Link to source:https://tnmt.com/infographics/carbon-emissions-by-transport-type/
+
+Van Acker, V., & Witlox, F. (2010). Car ownership as a mediating variable in car travel behaviour research using a structural equation modelling approach to identify its dual relationship. Journal of Transport Geography, 18(1), 65–74.Link to source:https://doi.org/10.1016/j.jtrangeo.2009.05.006
+
+Verma, S., Dwivedi, G., & Verma, P. (2022). Life cycle assessment of electric vehicles in comparison to combustion engine vehicles: A review.Materials Today: Proceedings,49, 217–222.Link to source:https://doi.org/10.1016/j.matpr.2021.01.666
+
+Volker, J. M. B., & Handy, S. (2021). Economic impacts on local businesses of investments in bicycle and pedestrian infrastructure: A review of the evidence.Transport Reviews,41(4), 401–431.Link to source:https://doi.org/10.1080/01441647.2021.1912849
+
+WHO. (2023).Despite notable progress, road safety remains urgent global issue.Link to source:https://www.who.int/news/item/13-12-2023-despite-notable-progress-road-safety-remains-urgent-global-issue
+
+Xia, T., Zhang, Y., Crabb, S., & Shah, P. (2013). Cobenefits of replacing car trips with alternative transportation: A review of evidence and methodological issues.Journal of Environmental and Public Health,2013(1), 797312.Link to source:https://doi.org/10.1155/2013/797312
+
+Cameron Roberts, Ph.D.
+
+Cameron Roberts, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

@@ -1,0 +1,268 @@
+# Heat Pumps
+Source: https://en.wikipedia.org/wiki/Heat_pump
+
+A heat pump is a device that uses mechanical or thermal energy to transfer heat from one space to another. The mechanical heat pump, also known as a Cullen engine, uses electric power to transfer heat by compression. Specifically, it transfers thermal energy by means of a heat pump and refrigeration cycle, cooling one space and warming the other. Heat pumps driven by thermal energy are known as absorption heat pumps.
+In winter, a heat pump can move heat from the cool outdoors to warm a house; in summer, it may also be designed to move heat from the house to the warmer outdoors. As it transfers rather than generates heat, it is more energy-efficient than heating by gas boiler. 
+In a typical vapor-compression heat pump, a gaseous refrigerant is compressed so its pressure and temperature rise. When the pump operates as a heater in cold weather, the warmed gas flows to a heat exchanger in the indoor space, where some of its thermal energy is transferred to that space, causing the gas to condense into a liquid. The liquified refrigerant flows to a heat exchanger in the outdoor space, where the pressure falls, the liquid evaporates, and the temperature of the gas falls. Now colder than the temperature of the outdoor space being used as a heat source, it can again take up energy from the heat source, be compressed, and repeat the cycle.
+Air source heat pumps are the most common models, while other types include ground source heat pumps, water source heat pumps, and exhaust air heat pumps. Large-scale heat pumps are also used in district heating systems.
+Because of their high efficiency and the increasing share of fossil-free sources in electrical grids, heat pumps are playing a role in climate change mitigation. At a cost of 1 kWh of electricity, they can transfer 1 to 4.5 kWh of thermal energy into a building. The carbon footprint of heat pumps depends on how electricity is generated, but they usually reduce emissions. Heat pumps could satisfy over 80% of global space and water heating needs with a lower carbon footprint than gas-fired condensing boilers: however, in 2021 they only met 10%, the boycott of Russian natural gas has accelerated the need to shift toward alternative, 3 million European heat pumps were sold in 2023. Although sales have grown significantly, adoption remains limited. In 2025, REPowerEU provides a clear roadmap to transition to this high efficient and flexible air conditioning system.
+
+
+== Operation ==
+
+Heat flows spontaneously from a region of higher temperature to a region of lower temperature. Heat does not flow spontaneously from lower temperature to higher, but it can be made to flow in this direction if work is performed. The work required to transfer a given amount of heat is usually much less than the amount of heat; this is the motivation for using heat pumps in applications such as the heating of water and the interior of buildings. 
+The heat pump works by the use of reverse cycle conditioning. Liquid refrigerant flows through coils in the cooling unit and absorbs heat, becoming a gas which is then compressed to further raise the temperature. This gaseous refrigerant is pumped into more coils in the heating unit, where a fan blows air over the coil to absorb the heat and liquefy the refrigerant. Most heat pumps are capable of transferring heat in both directions. 
+The amount of work required to provide an amount of heat Q to a higher-temperature reservoir such as the interior of a building, while extracting heat from a lower-temperature reservoir such as ambient air is:
+
+  
+    
+      
+        W
+        =
+        
+          
+            Q
+            
+              C
+              O
+              P
+            
+          
+        
+      
+    
+    {\displaystyle W={\frac {Q}{\mathrm {COP} }}}
+  
+
+where
+
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+  
+ is the work performed on the working fluid by the heat pump's compressor.
+
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  
+ is the heat released in the higher-temperature reservoir.
+
+  
+    
+      
+        
+          C
+          O
+          P
+        
+      
+    
+    {\displaystyle \mathrm {COP} }
+  
+ is the instantaneous coefficient of performance for the heat pump at the temperatures prevailing in the reservoirs at one instant.
+The coefficient of performance of a heat pump is greater than one so the work required is less than the heat released, making a heat pump a more efficient form of heating than electrical resistance heating. As the temperature of the higher-temperature reservoir increases in response to the heat flowing into it, the coefficient of performance decreases, causing an increasing amount of work to be required for each unit of heat being transferred.
+The coefficient of performance, and the work required by a heat pump can be calculated easily by considering an ideal heat pump operating on the reversed Carnot cycle:
+
+If the low-temperature reservoir is at a temperature of 270 K (−3 °C) and the interior of the building is at 280 K (7 °C) the maximum theoretical coefficient of performance is 28. This means 1 joule of work delivers 28 joules of heat to the interior. The one joule of work ultimately ends up as thermal energy in the interior of the building and 27 joules of heat are moved from the low-temperature reservoir.
+As the temperature of the interior of the building rises progressively to 300 K (27 °C) the coefficient of performance falls progressively to 10. This means each joule of work is responsible for transferring 9 joules of heat out of the low-temperature reservoir and into the building. Again, the 1 joule of work ultimately ends up as thermal energy in the interior of the building so 10 joules of heat are added to the building interior.
+This is the theoretical amount of heat pumped but in practice it will be less for various reasons, for example if the outside unit has been installed where there is not enough airflow. More data sharing with owners and academics—perhaps from heat meters—could improve efficiency in the long run.
+
+
+== History ==
+Milestones:
+
+1748
+William Cullen demonstrates artificial refrigeration.
+1834
+Jacob Perkins patents a design for a practical refrigerator using dimethyl ether.
+1852
+Lord Kelvin describes the theory underlying heat pumps.
+1855–1857
+Peter von Rittinger develops and builds the first heat pump.
+1877
+In the period before 1875, heat pumps were for the time being pursued for vapour compression evaporation (open heat pump process) in salt works with their obvious advantages for saving wood and coal. In 1857, Peter von Rittinger was the first to try to implement the idea of vapor compression in a small pilot plant. Presumably inspired by Rittinger's experiments in Ebensee, Antoine-Paul Piccard from the University of Lausanne and the engineer J. H. Weibel from the Weibel–Briquet company in Geneva built the world's first really functioning vapor compression system with a two-stage piston compressor. In 1877 this first heat pump in Switzerland was installed in the Bex salt works.
+1928
+Aurel Stodola constructs a closed-loop heat pump (water source from Lake Geneva) which provides heating for the Geneva city hall to this day.
+1937–1945
+During the First World War, fuel prices were very high in Switzerland but it had plenty of hydropower. In the period before and especially during the Second World War, when neutral Switzerland was completely surrounded by fascist-ruled countries, the coal shortage became alarming again. Thanks to their leading position in energy technology, the Swiss companies Sulzer, Escher Wyss and Brown Boveri built and put in operation around 35 heat pumps between 1937 and 1945. The main heat sources were lake water, river water, groundwater, and waste heat. Particularly noteworthy are the six historic heat pumps from the city of Zurich with heat outputs from 100 kW to 6 MW. An international milestone is the heat pump built by Escher Wyss in 1937/38 to replace the wood stoves in the City Hall of Zurich. To avoid noise and vibrations, a recently developed rotary piston compressor was used. This historic heat pump heated the town hall for 63 years until 2001. Only then was it replaced by a new, more efficient heat pump.
+1945
+John Sumner, City Electrical Engineer for Norwich, installs an experimental water-source heat pump fed central heating system, using a nearby river to heat new Council administrative buildings. It had a seasonal efficiency ratio of 3.42, average thermal delivery of 147 kW, and peak output of 234 kW.
+1948
+Robert C. Webber is credited as developing and building the first ground-source heat pump.
+1951
+First large scale installation—the Royal Festival Hall in London is opened with a town gas-powered reversible water-source heat pump, fed by the Thames, for both winter heating and summer cooling needs.
+2019
+The Kigali Amendment to phase out harmful refrigerants takes effect.
+
+
+== Types ==
+
+
+=== Air-source ===
+
+
+=== Ground source ===
+
+
+=== Heat recovery ventilation ===
+
+Exhaust air heat pumps extract heat from the exhaust air of a building and require mechanical ventilation. Two classes exist:
+
+Exhaust air-air heat pumps transfer heat to intake air.
+Exhaust air-water heat pumps transfer heat to a heating circuit that includes a tank of domestic hot water.
+
+
+=== Solar-assisted ===
+
+
+=== Water-source ===
+
+A water-source heat pump works in a similar manner to a ground-source heat pump, except that it takes heat from a body of water rather than the ground. The body of water does, however, need to be large enough to be able to withstand the cooling effect of the unit without freezing or creating an adverse effect for wildlife. The largest water-source heat pump was installed in the Danish city of Esbjerg in 2023.
+
+
+=== Others ===
+A thermoacoustic heat pump operates as a thermoacoustic heat engine without refrigerant but instead uses a standing wave in a sealed chamber driven by a loudspeaker to achieve a temperature difference across the chamber.
+Electrocaloric heat pumps are solid state.
+
+
+== Applications ==
+The International Energy Agency estimated that, as of 2021, heat pumps installed in buildings have a combined capacity of more than 1000 GW. They are used for heating, ventilation, and air conditioning (HVAC) and may also provide domestic hot water and tumble clothes drying. The purchase costs are supported in various countries by consumer rebates.
+
+
+=== Space heating and sometimes also cooling ===
+In HVAC applications, a heat pump is typically a vapor-compression refrigeration device that includes a reversing valve and optimized heat exchangers so that the direction of heat flow (thermal energy movement) may be reversed. The reversing valve switches the direction of refrigerant through the cycle and therefore the heat pump may deliver either heating or cooling to a building.
+Because the two heat exchangers, the condenser and evaporator, must swap functions, they are optimized to perform adequately in both modes. Therefore, the Seasonal Energy Efficiency Rating (SEER in the US) or European seasonal energy efficiency ratio of a reversible heat pump is typically slightly less than those of two separately optimized machines. For equipment to receive the US Energy Star rating, it must have a rating of at least 14 SEER. Pumps with ratings of 18 SEER or above are considered highly efficient. The highest efficiency heat pumps manufactured are up to 24 SEER.
+Heating seasonal performance factor (in the US) or Seasonal Performance Factor (in Europe) are ratings of heating performance. The SPF is Total heat output per annum / Total electricity consumed per annum in other words the average heating COP over the year.
+
+
+==== Window mounted heat pump ====
+
+Window mounted heat pumps run on standard 120v AC outlets and provide heating, cooling, and humidity control. They are more efficient with lower noise levels, condensation management, and a smaller footprint than window mounted air conditioners that just do cooling.
+
+
+=== Water heating ===
+In water heating applications, heat pumps may be used to heat or preheat water for swimming pools, homes or industry. Usually heat is extracted from outdoor air and transferred to an indoor water tank.
+
+
+=== District heating ===
+Large (megawatt-scale) heat pumps are used for district heating. However as of 2022 about 90% of district heat is from fossil fuels. In Europe, heat pumps account for a mere 1% of heat supply in district heating networks but several countries have targets to decarbonise their networks between 2030 and 2040. Possible sources of heat for such applications are sewage water, ambient water (e.g. sea, lake and river water), industrial waste heat, geothermal energy, flue gas, waste heat from district cooling and heat from solar seasonal thermal energy storage. Large-scale heat pumps for district heating combined with thermal energy storage offer high flexibility for the integration of variable renewable energy. Therefore, they are regarded as a key technology for limiting climate change by phasing out fossil fuels. They are also a crucial element of systems which can both heat and cool districts.
+
+
+=== Industrial heating ===
+There is great potential to reduce the energy consumption and related greenhouse gas emissions in industry by application of industrial heat pumps, for example for process heat. Short payback periods of less than 2 years are possible, while achieving a high reduction of CO2 emissions (in some cases more than 50%). Industrial heat pumps can heat up to 200 °C, and can meet the heating demands of many light industries. In Europe alone, 15 GW of heat pumps could be installed in 3,000 facilities in the paper, food and chemicals industries.
+
+
+== Performance ==
+
+The performance of a heat pump is determined by the ability of the pump to extract heat from a low temperature environment (the source) and deliver it to a higher temperature environment (the sink). Performance varies, depending on installation details, temperature differences, site elevation, location on site, pipe runs, flow rates, and maintenance.  
+Heat pumps operate at their highest efficiency when the temperature difference between the heat source and the heat sink is minimal. As a result, they perform best in moderate climates and lose efficiency as outdoor temperatures drop. Consumer performance ratings are designed to reflect these variations under different conditions.
+Common performance metrics are the SEER (in cooling mode) and seasonal coefficient of performance (SCOP) (commonly used just for heating), although SCOP can be used for both modes of operation. Larger values of either metric indicate better performance. When comparing the performance of heat pumps, the term performance is preferred to efficiency, with coefficient of performance (COP) being used to describe the ratio of useful heat movement per work input. An electrical resistance heater has a COP of 1.0, which is considerably lower than a well-designed heat pump which will typically have a COP of 3 to 5 with an external temperature of 10 °C and an internal temperature of 20 °C. Because the ground is a constant temperature source, a ground-source heat pump is not subjected to large temperature fluctuations, and therefore is the most energy-efficient type of heat pump.
+The "seasonal coefficient of performance" (SCOP) is a measure of the aggregate energy efficiency measure over a period of one year which is dependent on regional climate. One framework for this calculation is given by the Commission Regulation (EU) No. 813/2013.
+A heat pump's operating performance in cooling mode is characterized in the US by either its energy efficiency ratio (EER) or seasonal energy efficiency ratio (SEER), both of which have units of BTU/(h·W) (note that 1 BTU/(h·W) = 0.293 W/W) and larger values indicate better performance.
+
+
+=== Carbon footprint ===
+The carbon footprint of heat pumps depends on their individual efficiency and how electricity is produced. An increasing share of low-carbon energy sources such as wind and solar will lower the impact on the climate.
+
+In most settings, heat pumps will reduce CO2 emissions compared to heating systems powered by fossil fuels. In regions accounting for 70% of world energy consumption, the emissions savings of heat pumps compared with a high-efficiency gas boiler are on average above 45% and reach 80% in countries with cleaner electricity mixtures. These values can be improved by 10 percentage points, respectively, with alternative refrigerants. In the United States, 70% of houses could reduce emissions by installing a heat pump. The rising share of renewable electricity generation in many countries is set to increase the emissions savings from heat pumps over time.
+Heating systems powered by green hydrogen are also low-carbon and may become competitors, but are much less efficient due to the energy loss associated with hydrogen conversion, transport and use. In addition, not enough green hydrogen is expected to be available before the 2030s or 2040s.
+
+
+== Operation ==
+
+Vapor-compression uses a circulating refrigerant as the medium which absorbs heat from one space, compresses it thereby increasing its temperature before releasing it in another space. The system normally has eight main components: a compressor, a reservoir, a reversing valve which selects between heating and cooling mode, two thermal expansion valves (one used when in heating mode and the other when used in cooling mode) and two heat exchangers, one associated with the external heat source/sink and the other with the interior. In heating mode the external heat exchanger is the evaporator and the internal one being the condenser; in cooling mode the roles are reversed.
+Circulating refrigerant enters the compressor in the thermodynamic state known as a saturated vapor and is compressed to a higher pressure, resulting in a higher temperature as well. The hot, compressed vapor is then in the thermodynamic state known as a superheated vapor and it is at a temperature and pressure at which it can be condensed with either cooling water or cooling air flowing across the coil or tubes. In heating mode this heat is used to heat the building using the internal heat exchanger, and in cooling mode this heat is rejected via the external heat exchanger.
+The condensed, liquid refrigerant, in the thermodynamic state known as a saturated liquid, is next routed through an expansion valve where it undergoes an abrupt reduction in pressure. That pressure reduction results in the adiabatic flash evaporation of a part of the liquid refrigerant. The auto-refrigeration effect of the adiabatic flash evaporation lowers the temperature of the liquid and-vapor refrigerant mixture to where it is colder than the temperature of the enclosed space to be refrigerated.
+The cold mixture is then routed through the coil or tubes in the evaporator. A fan circulates the warm air in the enclosed space across the coil or tubes carrying the cold refrigerant liquid and vapor mixture. That warm air evaporates the liquid part of the cold refrigerant mixture. At the same time, the circulating air is cooled and thus lowers the temperature of the enclosed space to the desired temperature. The evaporator is where the circulating refrigerant absorbs and removes heat which is subsequently rejected in the condenser and transferred elsewhere by the water or air used in the condenser.
+To complete the refrigeration cycle, the refrigerant vapor from the evaporator is again a saturated vapor and is routed back into the compressor.
+Over time, the evaporator may collect ice or water from ambient humidity. The ice is melted through defrosting cycle. An internal heat exchanger is either used to heat/cool the interior air directly or to heat water that is then circulated through radiators or underfloor heating circuit to either heat or cool the buildings.
+
+
+=== Improvement of coefficient of performance by subcooling ===
+
+Heat input can be improved if the refrigerant enters the evaporator with a lower vapor content. This can be achieved by cooling the liquid refrigerant after condensation. The gaseous refrigerant condenses on the heat exchange surface of the condenser. To achieve a heat flow from the gaseous flow center to the wall of the condenser, the temperature of the liquid refrigerant must be lower than the condensation temperature.
+Additional subcooling can be achieved by heat exchange between relatively warm liquid refrigerant leaving the condenser and the cooler refrigerant vapor emerging from the evaporator. The enthalpy difference required for the subcooling leads to the superheating of the vapor drawn into the compressor. When the increase in cooling achieved by subcooling is greater that the compressor drive input required to overcome the additional pressure losses, such a heat exchange improves the coefficient of performance.
+One disadvantage of the subcooling of liquids is that the difference between the condensing temperature and the heat-sink temperature must be larger. This leads to a moderately high pressure difference between condensing and evaporating pressure, whereby the compressor energy increases.
+
+
+=== Refrigerant choice ===
+
+Pure refrigerants can be divided into organic substances (hydrocarbons (HCs), chlorofluorocarbons (CFCs), hydrochlorofluorocarbons (HCFCs), hydrofluorocarbons (HFCs), Hydrofluoroolefins (HFOs), and HCFOs), and inorganic substances (ammonia (NH3), carbon dioxide (CO2), and water (H2O)). Their boiling points are usually below −25 °C.
+In the past 200 years, the standards and requirements for new refrigerants have changed. Nowadays low global warming potential (GWP) is required, in addition to all the previous requirements for safety, practicality, material compatibility, appropriate atmospheric life, and compatibility with high-efficiency products. By 2022, devices using refrigerants with a very low GWP still have a small market share but are expected to play an increasing role due to enforced regulations, as most countries have now ratified the Kigali Amendment to ban HFCs. Isobutane (R600A) and propane (R290) are far less harmful to the environment than conventional hydrofluorocarbons (HFC) and are already being used in air-source heat pumps. Propane may be the most suitable for high temperature heat pumps. Ammonia (R717) and carbon dioxide (R-744) also have a low GWP. As of 2023 smaller CO2 heat pumps are not widely available and research and development of them continues. A 2024 report said that refrigerants with GWP are vulnerable to further international restrictions.
+Until the 1990s, heat pumps, along with fridges and other related products used chlorofluorocarbons (CFCs) as refrigerants, which caused major damage to the ozone layer when released into the atmosphere. Use of these chemicals was banned or severely restricted by the Montreal Protocol of August 1987.
+Replacements, including R-134a and R-410A, are hydrofluorocarbons (HFC) with similar thermodynamic properties with insignificant ozone depletion potential (ODP) but had problematic GWP. HFCs are powerful greenhouse gases which contribute to climate change. Dimethyl ether (DME) also gained in popularity as a refrigerant in combination with R404a. More recent refrigerants include difluoromethane (R32) with a lower GWP, but still over 600.
+
+Devices with R-290 refrigerant (propane) are expected to play a key role in the future. The 100-year GWP of propane, at 0.02, is extremely low and is approximately 7000 times less than R-32. However, the flammability of propane requires additional safety measures: the maximum safe charges have been set significantly lower than for lower flammability refrigerants (only allowing approximately 13.5 times less refrigerant in the system than R-32). This means that R-290 is not suitable for all situations or locations. Nonetheless, by 2022, an increasing number of devices with R-290 were offered for domestic use, especially in Europe.
+However, HFC refrigerants still dominate the market. Recent government mandates have seen the phase-out of R-22 refrigerant. Replacements such as R-32 and R-410A are being promoted as environmentally friendly but still have a high GWP. A heat pump typically uses 3 kg of refrigerant. With R-32 this amount still has a 20-year impact equivalent to 7 tons of CO2, which corresponds to two years of natural gas heating in an average household. Refrigerants with a high ODP have already been phased out.
+
+
+== Government incentives ==
+Financial incentives aim to protect consumers from high fossil gas costs and to reduce greenhouse gas emissions, and are currently available in more than 30 countries around the world, covering more than 70% of global heating demand in 2021.
+
+
+=== Australia ===
+Food processors, brewers, petfood producers and other industrial energy users are exploring whether it is feasible to use renewable energy to produce industrial-grade heat. Process heating accounts for the largest share of onsite energy use in Australian manufacturing, with lower-temperature operations like food production particularly well-suited to transition to renewables.
+To help producers understand how they could benefit from making the switch, the Australian Renewable Energy Agency (ARENA) provided funding to the Australian Alliance for Energy Productivity (A2EP) to undertake pre-feasibility studies at a range of sites around Australia, with the most promising locations advancing to full feasibility studies.
+In an effort to incentivize energy efficiency and reduce environmental impact, the Australian states of Victoria, New South Wales, and Queensland have implemented rebate programs targeting the upgrade of existing hot water systems. These programs specifically encourage the transition from traditional gas or electric systems to heat pump based systems.
+
+
+=== Canada ===
+In 2022, the Canada Greener Homes Grant provides up to $5000 for upgrades (including certain heat pumps), and $600 for energy efficiency evaluations.
+
+
+=== China ===
+Purchase subsidies in rural areas in the 2010s reduced burning coal for heating, which had been causing ill health.
+In the 2024 report by the International Energy Agency (IEA) titled "The Future of Heat Pumps in China," it is highlighted that China, as the world's largest market for heat pumps in buildings, plays a critical role in the global industry. The country accounts for over one-quarter of global sales, with a 12% increase in 2023 alone, despite a global sales dip of 3% the same year.
+Heat pumps are now used in approximately 8% of all heating equipment sales for buildings in China as of 2022, and they are increasingly becoming the norm in central and southern regions for both heating and cooling. Despite their higher upfront costs and relatively low awareness, heat pumps are favored for their energy efficiency, consuming three to five times less energy than electric heaters or fossil fuel-based solutions. Currently, decentralized heat pumps installed in Chinese buildings represent a quarter of the global installed capacity, with a total capacity exceeding 250 GW, which covers around 4% of the heating needs in buildings.
+Under the Announced Pledges Scenario (APS), which aligns with China's carbon neutrality goals, the capacity is expected to reach 1,400 GW by 2050, meeting 25% of heating needs. This scenario would require an installation of about 100 GW of heat pumps annually until 2050. Furthermore, the heat pump sector in China employs over 300,000 people, with employment numbers expected to double by 2050, underscoring the importance of vocational training for industry growth. This robust development in the heat pump market is set to play a significant role in reducing direct emissions in buildings by 30% and cutting PM2.5 emissions from residential heating by nearly 80% by 2030.
+
+
+=== European Union ===
+To speed up the deployment rate of heat pumps, the European Commission launched the Heat Pump Accelerator Platform in November 2024. It will encourage industry experts, policymakers, and stakeholders to collaborate, share best practices and ideas, and jointly discuss measures that promote sustainable heating solutions.
+
+
+=== United Kingdom ===
+Until 2027 fixed heat pumps have no Value Added Tax (VAT). As of 2022 the installation cost of a heat pump is more than a gas boiler, but with the "Boiler Upgrade Scheme" government grant and assuming electricity/gas costs remain similar their lifetime costs would be similar on average. However lifetime cost relative to a gas boiler varies considerably depending on several factors, such as the quality of the heat pump installation and the tariff used. In 2024 England was criticised for still allowing new homes to be built with gas boilers, unlike some other counties where this is banned.
+
+
+=== United States ===
+
+In 2022, more heat pumps were sold in the United States than natural gas furnaces.
+From 2022 through 2025, the High-efficiency Electric Home Rebate Program awarded grants to State energy offices and Indian Tribes in order to establish state-wide high-efficiency electric-home rebates. American households were eligible for a tax credit to cover the costs of buying and installing a heat pump, up to $2,000. Starting in 2023, low and moderate level income households were eligible for a heat pump rebate of up to $8,000.
+In November 2023 Biden's administration allocated 169 million dollars from the Inflation Reduction Act to speed up production of heat pumps. It used the Defense Production Act of 1950 to do so, in a stated bid to advance national security.
+In 2025, Donald Trump reversed the decision to use the Defense Production Act, and did not renew some of the tax credits used to subsidize heat pumps.
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Sources ===
+
+
+==== IPCC reports ====
+IPCC (2021). Masson-Delmotte, V.; Zhai, P.; Pirani, A.; Connors, S. L.; et al. (eds.). Climate Change 2021: The Physical Science Basis (PDF). Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press (In Press).
+Forster, P.; Storelvmo, T.; Armour, K.; Collins, W. (2021). "Chapter 7: The Earth's energy budget, climate feedbacks, and climate sensitivity Supplementary Material" (PDF). IPCC AR6 WG1 2021.
+IPCC (2018). Masson-Delmotte, V.; Zhai, P.; Pörtner, H.-O.; Roberts, D.; et al. (eds.). Global Warming of 1.5°C. An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty (PDF). Intergovernmental Panel on Climate Change. https://www.ipcc.ch/sr15/.
+Rogelj, J.; Shindell, D.; Jiang, K.; Fifta, S.; et al. (2018). "Chapter 2: Mitigation Pathways Compatible with 1.5°C in the Context of Sustainable Development" (PDF). IPCC SR15 2018. pp. 93–174.
+IPCC (2022). Shula, P. R.; Skea, J.; Slade, R.; Al Khourdajie, A.; et al. (eds.). Climate Change 2022: Mitigation of Climate Change (PDF). Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge, UK and New York, New York, USA: Cambridge University Press (In Press). Archived from the original (PDF) on 4 April 2022. Retrieved 10 May 2022.
+IPCC (2022). "Industry" (PDF). IPCC AR6 WG3 2022.
+
+
+==== Other ====
+Quaschning, Volker. "Specific Carbon Dioxide Emissions of Various Fuels". Retrieved 22 February 2022.
+
+
+== External links ==
+ Media related to Heat pumps at Wikimedia Commons

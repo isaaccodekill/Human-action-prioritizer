@@ -1,0 +1,775 @@
+# Deploy Offshore Wind Turbines
+Source: https://drawdown.org/explorer/deploy-offshore-wind-turbines
+
+Methods and Supporting Data
+
+
+## Deploy Offshore Wind Turbines
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Offshore wind turbines are ocean-based machines that harness natural wind to generate electricity. These turbines use the relatively strong winds over the water to rotate their blades, which power a generator to make electricity. The electricity travels through underwater cables to reach the land. There are two main types: fixed-bottom turbines, which are attached to the seabed in shallow waters (typically up to 60 meters deep), and floating turbines, which sit on platforms anchored in deeper waters. Offshore wind farms can produce more electricity than land-based wind farms because ocean winds are usually stronger and steadier than winds on land.
+
+Deploying additional offshore wind turbines reducesCO₂emissions by increasing the availability ofrenewableenergy sources to meet electricity demand, therefore reducing dependence onfossil fuel-based sources in the overall electricitygrid mix.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+MW installed capacity
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+An estimated 23% of globalGHGemissions (100-yr basis) comes from electricity generation (Clarke et al., 2022); in 2022, more than 60% of global electricity generation came from fossil fuel–based energy sources (International Energy Agency [IEA], 2024a).
+
+Offshore wind turbines generate electricity by converting the energy from rotating turbine blades into electrical energy. The main components of offshore wind turbines include rotor blades, a tower to raise the rotor above the water, anacellehub that houses the generator and other key components, and a foundation that stabilizes the structure in the water. Offshore wind farms require additional infrastructure to transport generated energy through undersea cables to transformers and power substations before electricity can be supplied to consumers (Figure 1). To optimize performance, offshore turbines often use advanced control systems (e.g.,yaw,pitch, and safety sensors).
+
+Figure 1.Simplified schematic of an offshore wind power system, showing electricity flow from wind turbines through array cables, offshore and onshore substations, and transmission and distribution infrastructure to end users.
+
+Source: Ørsted (n.d.)
+
+Offshore wind turbines are often placed far from the coast to avoid causing noise pollution or taking up space on land. Foundations can be fixed to the seafloor (fixed-bottom) or floating depending on water depth and other characteristics, such as seabed topography and operational logistics (Afridi et al., 2024). Most offshore wind turbines operating in 2023 were fixed-bottom and limited to seafloor depths around 50 meters. Floating wind farms access wind resources over deeper waters, up to 1,000 meters (de La Beaumelle et al., 2023).
+
+Wind speeds over water are generally higher and more consistent than over land, which allows for more reliable and increased electricity generation. Potential power generated from offshore wind turbines is directly proportional to the swept area of the rotor blades and the wind speed cubed; a doubling of wind speed corresponds to an eightfold increase in power (U.S. Energy Information Administration [U.S. EIA], 2024). The maximum electrical power a turbine can generate is its capacity inMW.The average installed offshore wind turbine rating grew from 7.7 MW in 2022 to 9.7 MW in 2023 (McCoy et al., 2024), with the total global installed capacity reaching 75.2 gigawatts (GW) in 2023 (Global Wind Energy Council [GWEC], 2024).
+
+The global weighted averagecapacity factorfor offshore wind turbines has reached 41% (International Renewable Energy Agency [IRENA], 2024c) – an increase from 38% a decade earlier – driven by advancements in turbine efficiency, hub height, rotor diameter, and siting optimization. Our analysis assumed an offshore wind turbine capacity factor of 41% (IRENA, 2024c). Offshore wind capacity varies across regions due to differences in policy support, coastal geography, water depths, and infrastructure readiness. Electric power output can be converted to energy generated by multiplying capacity by the time interval and the capacity factor. For annual generation, we multiply by 8,760 hours for one year.
+
+The main siting considerations for offshore wind farms are distance from shore and water depth, but energy output can also be impacted by atmospheric wind conditions as well as the configuration of turbines within a wind farm (de La Beaumelle et al., 2023; IRENA, 2024c).Protected areasare also excluded during siting.
+
+Since wind is a clean and renewable resource, offshore wind turbines do not contribute to GHG emissions or air pollution while generating energy. There are emissions associated with the manufacturing and transportation of turbine components. For this assessment, we did not quantify emissions during the construction of offshore wind farms; these emissions can be addressed with industry-sector solution assessments. Increased deployment of offshore wind turbines contributes to reduced CO₂
+ emissions when it reduces the need for electricity generation from fossil fuels.
+
+
+## What could cause effectiveness to change?
+
+
+We estimated effectiveness using the 2023 global electricity grid emissions intensity and offshore wind capacity factor. Since we do not have ranges for these data, we report only a single calculated effectiveness value.
+
+This is the effectiveness value found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used IRENA data to determine current adoption (the slider’s low value) and the IEA’s World Energy Outlook scenarios to determine the range of achievable adoption by 2050 (the slider’s high range).
+
+This is the low end of the range for estimated achievable adoption by 2050.
+
+This is the high end of the range for estimated achievable adoption by 2050.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Offshore wind energy is most promising in coastal regions with high wind resources and the physical and regulatory capacity to support utility-scale deployment. It is particularly valuable for countries with limited land availability or high coastal population density, offering a scalable and increasingly cost-effective pathway towarddecarbonization. Offshore wind’seffectivenessis underpinned by its strong technical fundamentals, especially its relatively high capacity factor.
+
+We estimated global offshore wind technical potential at around 62,000,000 MW. Notably, more than 70% of the technical potential lies in waters deeper than 50 meters. As of 2023, global installed offshore wind capacity had reached 73 GW, a nearly 20-fold increase since 2010. Europe and Asia account for nearly equal shares of current capacity. Europe remains a global leader with around 30 GW, led by the United Kingdom, Germany, Denmark, and Netherlands.
+
+In Asia, China dominates the offshore wind space, with more than 30 GW installed and annual additions of nearly 17 GW in 2021 alone. Japan has set targets of 10 GW by 2030 and 30–45 GW by 2040, while South Korea aims for 14.3 GW by 2030 (IRENA, 2024a). The United States has vast offshore wind potential, with NREL estimating 1,476 GW for fixed‑bottom and 2,773 GW for floating installations (Lopez et al., 2022). The United States is beginning to scale up offshore wind through policy support from the Inflation Reduction Act, and large-scale projects are now under development along the East Coast. As of May 31, 2024, the country had 174 MW of offshore wind capacity installed (McCoy et al., 2024). While this installed capacity remains modest compared to Europe or China, it represents an initial step in building the domestic industry. Importantly, the U.S. offshore wind project development and operational pipeline exceeds 80,000 MW, highlighting the scale of development expected in the coming decade. Canada, with 9.3TWof technical potential (7.2 TW of which is suitable for floating wind), has begun leasing processes in Nova Scotia targeting 5 GW by 2030 and integrating offshore wind into itsgreen hydrogenstrategy, while Australia’s Victoria state aims for 9 GW by 2040 (IRENA, 2024a).
+
+Several emerging markets represent strong opportunities for future deployment. Brazil has more than 1,200 GW of estimated technical potential and is currently developing a national framework for offshore wind licensing. India plans to reach 37 GW by 2030, with auctions for 7.2 GW already scheduled (IRENA, 2024a). Other countries such as Vietnam and South Africa are beginning to position themselves as offshore wind markets (IRENA, 2024a).
+
+
+## Technical potential for offshore wind
+
+
+Highlighted areas are suitable for offshore wind development for fixed turbines (those fixed to the seafloor, typically in waters less than 50 meters deep) and floating turbines (those anchored on platforms in waters less than 1,000 meters deep).
+
+Energy Sector Management Assistant Program & The World Bank Group (2021).Global offshore wind technical potential(version 3) [Data set]. The World Bank Group.Link to source:https://datacatalog.worldbank.org/search/dataset/0037787
+
+
+## Technical potential for offshore wind
+
+
+Highlighted areas are suitable for offshore wind development for fixed turbines (those fixed to the seafloor, typically in waters less than 50 meters deep) and floating turbines (those anchored on platforms in waters less than 1,000 meters deep).
+
+Energy Sector Management Assistant Program & The World Bank Group (2021).Global offshore wind technical potential(version 3) [Data set]. The World Bank Group.Link to source:https://datacatalog.worldbank.org/search/dataset/0037787
+
+Based on data provided by the IEA, global emissions from electricity generation accounted for an estimated 530 kgCO₂‑eq/MWh(540 kg CO₂‑eq
+/MWh,20-yr basis). To convert from MWh to MW, we used the global weighted average capacity factor for offshore wind turbines of 41% (IRENA, 2024c). We estimated offshore wind turbines to reduce 1,900tCO₂‑eq
+/MW (1,900 t CO₂‑eq
+/MW, 20-yrbasis) of installed capacity annually (Table 1).
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit:t CO₂‑eq
+/MW installed capacity/yr, 100-yr basis
+
+To estimate the effectiveness of offshore wind turbines, we assumed that electricity generated by newly installed offshore wind displaces an equivalent MWh of the global electricity grid mix. Then, the reduction in emissions from additional offshore wind capacity was equal to emissions (per MWh) from the 2023 global electricity grid mix as per the IEA World Energy Balances (IEA, 2024a). We then used the offshore wind capacity factor to convert to annual emissions per MW of installed capacity.
+
+During operation, offshore wind turbines do not emit GHGs, so we assumed zero emissions per MW of installed capacity. However, emissions arise during the manufacturing of components, transportation, installation, maintenance, and decommissioning (Atilgan Turkmen & Germirli Babuna, 2024; Kaldellis & Apostolou, 2017; Mello et al., 2020; Yuan et al., 2023). Life-cycle analyses estimate that lifetime GHG emissions of offshore wind turbines are approximately 25.76 g CO₂‑eq
+/kWhof electricity generated (Yuan et al., 2023).
+
+In our analysis, we focused solely on emissions produced during electricity generation, socarbon paybacktime and embodiedlife-cycle emissionswere not included in our estimates of effectiveness or climate impacts.
+
+We estimated a meanlevelized cost of electricity(LCOE) for offshore wind turbines of US$96/MWh based on three industry reports (IEA, 2024b; IRENA, 2024c; Nuclear Energy Agency & IEA, 2020). LCOE is a widely used metric that allows for cost comparison across generation technologies, incorporating installed capital costs, operation and maintenance, project lifespan, and energy output. Between 2010–2023, the global weighted average LCOE for offshore wind fell by 63%, from US$203/MWh to US$75/MWh, reflecting improvements in turbine size,supply chains, and regulatory support (IRENA, 2024c).
+
+Regional costs vary significantly. Denmark had the lowest LCOE in 2023 at US$48/MWh due to favorable siting conditions and grid cost exemptions. The UK and Germany achieved the largest LCOE reductions since 2010, of 73% and 67%, respectively (IRENA, 2024c). In contrast, recent U.S. estimates exceed US$120/MWh for unsubsidized projects (McCoy et al., 2024), reflecting higher labor costs, permitting challenges, and nascent supply chains. Lazard (2023) reports a broad range of US$72–140/MWh, emphasizing how siting, project size, and technology selection influence cost outcomes.
+
+These values mask substantial variability and project-specific risk factors. LCOEs are highly sensitive to financing terms, interest rates, permitting delays, regional grid integration requirements, and the availability of local supply chains. For context, offshore wind costs are increasingly competitive with fossil fuel–based power generation, which ranges between US$70–176/MWh (IRENA, 2024c). Offshore wind gigawatt-scale potential near load centers makes it a good potential option for decarbonizing coastal grids.
+
+Offshore wind turbines exhibit a clearlearning curve, with costs declining as deployment scales and the technology matures.Learning rates for offshore wind could vary from 7.2–43%, depending on the type of costs considered, study period, technological advancements, and regional conditions. Most of the cost decline is driven by reductions in capital expenditure, particularly from larger turbines, improved manufacturing, streamlined installation, and economies of scale.
+
+According to IRENA (2024c), the global weighted-average installed cost of offshore wind between 2010–2023 reflects alearning rateof 14.2%. Modeling by the U.S. National Renewable Energy Laboratory (NREL) estimates capital cost reductions per doubling of installed capacity at 8.8% for fixed-bottom turbines and 11.5% for floating turbines (Shields et al., 2022). European forecasts suggest that ongoing innovation and learning by doing could reduce offshore wind’s LCOE by up to 25% by 2030 relative to 2020, with learning rates of 6–12% (TNO & BLIX, 2021).
+
+Earlier meta-analyses found offshore wind learning rates of 5–19% between 1985–2001, driven by improved turbine design and installation methods (Rubin et al., 2015). More recent assessments focused on 2010–2016 suggest capital cost learning rates of 10–12% (Beiter et al., 2021). Looking ahead, global experts project cost reductions of 37–49% by 2050 due to continued technological progress (Wiser et al., 2021).
+
+Learning rates also vary by geography. Mature markets like Europe benefit from robust supply chains and permitting frameworks, leading to faster cost declines. On the other hand, emerging markets face higher initial costs and slower learning trajectories. We estimated a 15.8% median global learning rate for offshore wind, implying a 15.8% reduction in LCOE for each doubling of installed capacity (Table 2).
+
+Table 2. Learning rate: drop in cost per doubling of the installed solution base.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Deploy Offshore Wind Turbines is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+As of 2023, the global installed capacity for offshore wind energy reached approximately 73,000 MW (Table 3; IRENA, 2024b). Although we used 2023 as our baseline for current adoption, in 2024 an additional 10,000 MW of offshore wind capacity was installed, bringing the global total to over 83,000 MW (GWEC, 2025).
+
+Table 3. Current adoption level, 2023.
+
+Unit:MW installed capacity
+
+China currently leads in offshore wind deployment, accounting for more than 40 GW, or over half of the global installed capacity. Adoption remains negligible in many countries with several regions – particularly in Africa, Latin America, and parts of Southeast Asia – reporting minimal or no offshore wind installations to date, despite their huge potential (GWEC, 2025). For example, the United States, despite its vast technical potential, had installed only 41 MW by 2023 (IRENA, 2024b).
+
+The global offshore wind market has gained significant momentum in recent years. A record number of new installations occurred in 2021, with continued but slower growth in 2022 and 2023. The most active markets remain concentrated in Asia and Europe, with China, the United Kingdom, Germany, and the Netherlands leading in cumulative capacity. The European Union collectively reached 18.1 GW by 2023 (IRENA, 2024b), driven by favorable policy environments and advanced maritime infrastructure (IRENA, 2024a).
+
+Global offshore wind capacity has grown rapidly, expanding from less than 1 GW in 2000 to about 73 GW by 2023 (Figure 2), reflecting technological progress, supportive policies, and accelerating investment.
+
+Figure 2. Global offshore wind turbine installed capacity, 2000–2023. Global offshore wind capacity expanded from less than 1 GW in 2000 to about 73 GW by 2023, reflecting rapid technological progress, supportive policies, and accelerating investment in clean energy.
+
+International Renewable Energy Agency. (2024). Renewable capacity statistics 2024.https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Mar/IRENA_RE_Capacity_Statistics_2024.pdf
+
+We calculated global adoption for each year 2013–2023 and took the year-to-year difference. The adoption trend of offshore wind energy from 2013–2023 reveals a rapid and accelerating growth trajectory with significant regional disparities. Globally, installed capacity expanded from 7,200 MW in 2013 to 73,000 MW in 2023, reflecting a 10-fold increase over the decade. The most dramatic acceleration occurred in 2020–2021, when global capacity jumped from 34,000 MW to 54,000 MW. Comparing year-to-year global adoption, the mean global adoption trend was adding approximately 6,000 MW of installed capacity per year (Table 4), but expansion was unevenly distributed geographically.
+
+Table 4. Adoption trend, 2013–2023.
+
+Unit:MW installed capacity/yr
+
+Regionally, Asia demonstrated the most remarkable growth. This growth was particularly pronounced in 2020–2021, when capacity soared from 9,400 MW to 28,000 MW, largely driven by China’s rapid deployment. Meanwhile, Europe also experienced steady growth, with installed capacity increasing from 8,000 MW in 2014 to 33,000 MW in 2023. In contrast, North America lags behind, with only 41 MW of installed capacity recorded as of 2023, indicating slow current adoption trends. The slow adoption of offshore wind technology in North America may be attributed to various factors, including regulatory and social barriers as well as high interest rates (McCoy et al., 2024).
+
+Looking ahead, according to forecasts from the World Forum Offshore Wind (WFO, 2024), global offshore wind capacity is anticipated to reach 414 GW by 2032. The GWEC projects more than 350 GW of new offshore wind capacity in 2025–2034, with annual additions surpassing 30 GW by 2030 and 50 GW by 2033, bringing total capacity to about 441 GW by 2034 (GWEC, 2025).
+
+Theadoption ceilingfor offshore wind turbines (Table 5) is determined by the technology’s global technical potential, representing the theoretical maximum deployment based on physical resource availability. Offshore wind benefits from vast oceanic areas with higher and more consistent wind speeds than onshore sites. However, its realizable potential is shaped by factors such as water depth, distance to shore, seabed conditions, regional wind patterns, and technological limitations.
+
+Table 5. Adoption ceiling: upper limit for adoption level.
+
+Unit:MW installed capacity
+
+Estimates of offshore wind’s technical potential vary widely. A meta-analysis by de La Beaumelle et al. (2023) found values of 4.17–626 petawatt-hours (PWh)/year, with a median of 193 PWh/year. The World Bank’s Energy Sector Management Assistance Program (ESMAP) analysis (2019; n.d.) suggests over 71,000 GW of global offshore wind potential, with more than 70% located in deep waters suitable only for floating turbines. Roughly 25% of this resource lies within low- and middle-income countries, offering major opportunities forclean energyexpansion.
+
+Technical potential is typically calculated using wind speed maps, turbine power curves, and water depth data. For example, the ESMAP-IFC 2019 study identified 3.1 terawatts (TW) of potential across eight emerging markets using global wind and ocean depth data (ESMAP, 2019). These figures, however, do not reflect constraints such as economics, regulation, infrastructure, or marine uses that would compete with offshore wind (ESMAP, 2019). Challenges like ecological impact, permitting, and grid integration could significantly reduce practical deployment.
+
+Despite these hurdles, offshore wind’s potential remains vast. For this analysis, we defined the adoption ceiling using installable capacity rather than generation output to avoid forecasting uncertainty. Based on the literature, we estimated an adoption ceiling of 62,000,000 MW. The scaling of floating wind turbines, especially in deep waters, will be critical to unlocking this resource, and will require continued innovation and policy support (Tumse et al., 2024).
+
+The IEA’s World Energy Outlook (WEO) 2024 includes several key scenarios that explore different energy futures based on varying levels of policy intervention, technological development, and market dynamics. We define the adoption achievable range for offshore wind turbines based on the Stated Policies Scenario (STEPS) and Announced Pledges Scenario (APS) (IEA, 2024b).
+
+The low achievable adoption level is based on STEPS, which captured the current trajectory for increased adoption of offshore wind energy as well as future projections based on existing and announced policies. Under this scenario, offshore wind capacity is projected to increase more than 13-fold from 73,000 MW to 1,000,000 MW by 2050 (Table 6). This corresponds to an averagecompound annual growth rate(CAGR) of 10.2%.
+
+Table 6. Range of achievable adoption levels.
+
+Unit:MW installed capacity
+
+The high achievable adoption level is based on APS, which assumes the same policy framework as STEPS, plus full realization of announced national energy and climate targets – including net-zero commitments supported by stronger clean energy investments. Under this scenario, offshore wind capacity is projected to increase by a magnitude of approximately 22, from 73,000 MW to 1,600,000 MW by 2050 (Table 6). This would require a CAGR of roughly 12.1% over the same period.
+
+Using our adoption ceiling of 62 million MW, the current adoption of offshore wind turbines constitutes approximately 0.1% of its technical potential. The achievable adoption range, as calculated, is 1.6–2.6% of this potential.
+
+Using baseline global adoption and effectiveness, we estimated the current total climate impact of offshore wind turbines to be approximately 0.14GtCO₂‑eq
+ (0.14 Gt CO₂‑eq
+, 20-yr basis) of reduced emissions per year (Table 7). We estimated future climate impacts using the emissions from the 2023 baseline electricity grid. Actual emissions reductions could differ depending on how theemissions intensityof electricity generation changes over time. Assuming global policies on offshore wind power – both existing and announced – are backed with adequate implementation provisions, global adoption could reach 1 million MW by 2050. This would result in an increased emissions reduction of approximately 1.9 Gt CO₂‑eq
+ per year. If every nation’s energy and climate targets (including net-zero commitments backed by stronger clean energy investments) are realized, offshore wind adoption could reach 1.6 million MW by 2050. This would lead to an estimated 3.0 Gt CO₂‑eq
+ of reduced emissions per year.
+
+Table 7. Annual climate impact at different levels of adoption.
+
+Unit:Gt CO₂‑eq
+, 100-yr basis
+
+We based the adoption ceiling solely on the technical potential of offshore wind resources, neglecting social and economic constraints. Thus, offshore wind turbines are unlikely to reach an average of 62 million MW of installed capacity in the next 100 years. However, reaching the adoption ceiling would correspond to annual emissions reductions of 120 Gt CO₂‑eq/yr.
+
+Wind power has a strong positive impact on the economy. Wind energy projects have been shown to increase total income and employment in high-income and low- and middle-income countries, although the costs of new projects may be higher in emerging markets until the market develops (Adeyeye et al., 2020; GWEC & Global Wind Organization, 2021; World Bank Group, 2021). As the offshore wind sector expands, so will the demand for workers. A report from NREL estimated that U.S. offshore wind projects between 2024–2030 will require an annual average of 15,000–58,000 full-time workers (Stefek et al., 2022). In California, planned and proposed offshore wind farms would add about 5,750 jobs and US$15 billion in wages and further contribute to the local economy by generating tax revenue (E2, 2023). Offshore wind could also strengthen energy security by diversifying the power mix and reducing dependence on imported fuels.
+
+Reduction in air pollution directly translates into health benefits and avoided premature mortality. Simulations of offshore wind projects in China estimate that reductions in air pollution could prevent about 165,000 premature deaths each year (Ren et al., 2025). Proposed offshore wind farms on the Atlantic and Gulf coasts of the United States could prevent about 2,100 premature deaths annually and save money in health benefits from improved air quality (Buonocore et al., 2016; Shawhan et al., 2024). Because these offshore wind projects would lessen demand fornatural gasand coal-powered electricity generation, populated communities downwind from power plants along the East Coast of the United States – such as New York City – would experience health benefits from improved air quality (Shawhan et al., 2024). Although the economic benefits of improved health associated with wind power have already increased rapidly from US$2 billion in 2014 to US$16 billion in 2022, these benefits could be maximized by replacing fossil fuel power plants in regions with higher health damages (Qiu et al., 2022).
+
+While there are some risks through increased ship traffic and noise and light pollution, offshore wind may provide some benefits to fish and marine life (National Oceanic and Atmospheric Administration, n.d.; Galparsoro et al., 2022; World Economic Forum, 2025). Once constructed, offshore wind farms can serve as an artificial reef, providing new habitats in the submerged portion of the turbine (Degraer et al., 2020). When these habitats are colonized by marine organisms, this increases availability of food such as zooplankton and algae, which can increase the abundance of small fish nearby (Wilhelmsson et al., 2006).
+
+Offshore wind energy reduces air pollutants released from fossil fuels, thereby reducing the emissions associated with burning coal and natural gas. A recent analysis of 32 planned or proposed offshore wind farms along the U.S. Atlantic and Gulf coasts estimated these projects could reduce emissions ofnitrogen oxidesby 4%,sulfur dioxideby 5%, andPM2.5 by 6% (Shawhan et al., 2024). Modeling analyses of offshore wind in China estimate these projects could reduce about 3% of air pollution from electricity by lowering emissions from coal-powered electricity generation (Ren et al., 2025).
+
+One limitation of our approach is the assumption that each additional MWh generated by offshore wind turbines displaces an equivalent MWh of the existing grid mix. This simplification implies that new offshore wind may, at times, displace other renewables such as onshore wind, rather than fossil-based sources. In reality, the extent of avoided emissions varies based on regional grid dynamics, marginal generation sources, and the timing and location of electricity production. This approach could be refined in the future, as emerging evidence suggests that in some cases, wind generation tends to displace a larger share of fossil-fuel output than assumed in average grid-mix methods (e.g., Millstein et al., 2024). While offshore wind avoids many of the land-use constraints associated with onshore wind, it introduces unique challenges that may limit scaling. These include high up-front capital costs, limited port infrastructure, specialized vessels, and supply-chain constraints for large components such as floating platforms and subsea cables. There is also growing competition for ocean space from fisheries, marine conservation zones, and shipping corridors (IEA, 2019).
+
+Like all large-scale infrastructure, offshore wind systems face some risk of early retirement or component failure, which can affect their life-cycle emissions. However, because offshore wind turbines produce zero emissions during operation, any electricity they generate displaces fossil-based power and avoids associated emissions. These benefits are not reversed if a turbine is decommissioned early. Most offshore wind turbines operate for 25–30 years, with newer designs expected to exceed this lifespan (Bills, 2021; IEA, 2019). The bulk of their life-cycle emissions are front-loaded, arising from manufacturing, transportation, and installation. As a result, early retirement reduces the amount of clean electricity generated over the turbine’s lifetime, but it does not erase the emissions already avoided during its operation.
+
+Implementing offshore wind energy involves several risks. Technically, offshore projects face harsh marine environments that can affect long-term reliability and increase maintenance costs (IRENA, 2024a). These risks can be reduced through advanced materials, corrosion‑resistant designs, predictive maintenance systems, and improved installation practices that extend turbine lifespans and reduce downtime. High capital costs and regulatory uncertainty remain among the most significant barriers, especially in emerging markets where financing, insurance, and investor confidence are limited (ESMAP, 2019). Addressing these challenges often requires stable policy frameworks, innovative financing mechanisms such as Contracts for Difference (CFDs) and blended finance, and public‑private partnerships to de‑risk investments and attract private capital.
+
+There are also ecological risks associated with offshore wind farms, which can disrupt marine habitats, impact migratory birds and marine mammals, and cause seabed disturbances during installation (Galparsoro et al., 2022).Mitigationstrategies such as adaptive siting, seasonal construction limits, and biodiversity offsets are increasingly used to minimize these impacts. Social resistance can arise from local communities due to factors such as visual impact, place attachment, perceived lack of benefits, andcompetinguses of marine space, such as fisheries and shipping lanes (Gonyo et al., 2021; Haggett, 2011).
+
+Offshore wind turbines do not emit GHGs during operation, but they are associated withembodied emissionsfrom manufacturing, transport, and installation (Yuan et al., 2023). The Intergovernmental Panel on Climate Change (IPCC) life-cycle assessment estimates indicate that offshore wind energy produces about 8–35 g CO₂‑eq
+/kWh, compared to about 400–1,000 g CO₂
+--eq/kWh for fossil-based electricity generators (Schlömer et al., 2014).
+
+Increasing steel and concrete demand for turbine construction may causeindirect emissionsin the industrial sector. These trade‑offs can be mitigated throughcircular economyapproaches such as recycling and repurposing turbine components to cut material demand and emissions. Despite these trade-offs, the emissions saved over a turbine’s 25- to 30-year lifetime greatly exceed the upfront emissions.
+
+Increased availability of renewable energy from offshore wind turbines helps reduce emissions from the electricity grid as a whole. Reduced emissions from the electricity grid lead to lower downstream emissions for these solutions that rely on electricity use. Deploying offshore wind turbines also supports increased integration of solar photovoltaic technology by diversifying the renewable energy mix and reducing overreliance on solar variability.
+
+Increase Industrial Electrification
+
+Deploy Utility-Scale Solar PV
+
+Electrification of transportation systems will be more beneficial in reducing global emissions if the underlying grid includes a higher proportion of non-emitting power sources. Electric transportation systems can also reduce curtailment of wind energy through controlled-time charging and other load-shifting technologies.
+
+Enhance High-Speed Rail
+
+Mobilize Electric Bicycles
+
+Mobilize Electric Cars
+
+Mobilize Electric Scooters & Motorcycles
+
+Mobilize Electric Trains
+
+Mobilize Electric Trucks & Buses
+
+Offshore wind could compete for policy attention, funding, and coastal land with other renewables, potentially slowing their deployment. Implementing or deploying offshore wind turbines requires dedicated coastal land or ocean area use which limits conservation programs and raw material and food production. Offshore wind turbines are large structures that could shade photosynthetic organisms and potentially disrupt coastal and marine ecosystems during installation.
+
+Protect Coastal Wetlands
+
+Offshore wind turbines are large structures that could shade photosynthetic organisms and potentially disrupt coastal and marine ecosystems. Fixed-bottom offshore turbines also require infrastructure that could damage bottom sediments and habitats during installation.
+
+
+## Consensus of effectiveness in reducing GHG emissions: High
+
+
+The scientific literature on offshore wind turbines reflectshighconsensus regarding their potential to significantly contribute to reducing GHG emissions and supporting the transition to sustainable energy. Technological advancements, decreasing costs, and increasing efficiency have positioned offshore wind as a key player in achieving global climate targets (Jansen et al., 2020; Letcher, 2023).
+
+Offshore wind turbines reduce GHG emissions by displacing fossil fuel-based electricity generation, thus avoiding the release of CO₂ and otherclimate pollutants(Akhtar et al., 2024; Nagababu et al., 2023; Shawhan et al., 2025). The strong and consistent wind speeds found over ocean surfaces make offshore turbines especially efficient, with relatively high-capacity factors and increasingly competitive costs (Akhtar et al., 2021; Bosch et al., 2018; Zhou et al., 2022).
+
+The technical potential of offshore wind refers to the maximum electricity generation achievable using available wind resources, constrained only by physical and technological factors. Scientific reviews highlight the significant technical potential of offshore wind to meet global electricity demand many times over, particularly through expansion in deep waters using floating technologies (de La Beaumelle et al., 2023). The World Bank estimates the global technical potential for fixed and floating offshore wind at approximately 71,000 GW globally using current technology (ESMAP, n.d.). With just 83 GW installed so far (GWEC, 2025), this indicates that offshore wind’s potential remains largely untapped.
+
+The IPCC also sees offshore wind as a key low-emissions technology for achieving net-zero pathways and can be integrated into energy systems at scale with manageable economic and technical challenges (IPCC, 2023). While there is broad scientific agreement on the potential of offshore wind turbines to significantly reduce GHG emissions, there are also growing concerns, including uncertainties around floating platform scalability, ecological impacts, supply chain readiness, and long-term operations. Most of these issues are captured in the Risks & Trade-Offs section of this document.
+
+The results presented in this document summarize findings from 17 peer reviewed academic papers (including 6 reviews and 11 research articles), 2 books and 11 agency or institutional reports, reflecting current evidence from representative regions around the world. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Integrate perspectives from key stakeholders into the decision-making process, including fisherfolk, coastal communities, port authorities, and other groups impacted by offshore wind development.
+
+Simplify and standardize offshore environmental licensing and marine spatial planning to accelerate project approvals while preserving biodiversity safeguards.
+
+Offer subsidies, grants, low-interest loans, preferential tax policies, and other incentives for developing and operating offshore wind farms and specialized port infrastructures.
+
+Develop regulations, standards, and codes to ensure quality equipment production and operation – ideally, before development and adoption to prevent accidents.
+
+Prioritize expansion of high-voltage subsea and coastal transmission infrastructure.
+
+Offer equipment testing and certification systems, market information disclosures, and assistance with onsite supervision.
+
+Set quotas for power companies and offer expedited permitting processes for renewable energy production, including offshore wind.
+
+Set adjustments for wind power on-grid pricing through mechanisms such as feed-in tariffs, renewable energy auctions, or other guaranteed pricing methods for wind energy.
+
+Provide financing for research and development to improve the performance of wind turbines, wind forecasting, and other related technology.
+
+Mandate onsite wind power forecasting and set standards for data integrity.
+
+Create training programs for engineers, operators, and other personnel.
+
+Coordinate voluntary agreements with industry to increase offshore wind capacity and power generation.
+
+Initiate public awareness campaigns focusing on wind turbine functionality, benefits, and any public concerns.
+
+Implement carbon taxes and use funds to de-risk offshore investments.
+
+Enabling frameworks for offshore wind scale up. IRENA (2023)
+
+Floating offshore wind outlook. IRENA (2024)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Socio-economic impact study of offshore wind. Sylvest (2020)
+
+Work with external organizations to enter new markets and identify challenges early in development.
+
+Plan integrated offshore logistics to anticipate specialized vessel needs and port upgrades.
+
+Engage in marine spatial planning and cross-sector stakeholder dialogues to remove conflicts.
+
+Investigate community-led or cooperative offshore business models to improve local acceptance.
+
+Partner with academic institutions, technical institutions, vocational programs, and other external organizations to provide workforce development programs.
+
+Focus research and development efforts on increasing the productivity and efficiency of turbines, improving offshore design, and supporting technology such as wind forecasting.
+
+Utilize and integrate materials and designs that enhance recyclability and foster circular supply chains.
+
+Participate in voluntary agreements with government bodies to increase policy support for onshore wind capacity and power generation.
+
+Support and participate in public awareness campaigns focusing on wind turbine functionality, benefits, and any public concerns.
+
+Stay abreast of changing policies, regulations, zoning laws, tax incentives, and other related developments.
+
+Enabling frameworks for offshore wind scale up. IRENA (2023)
+
+Floating offshore wind outlook. IRENA (2024)
+
+Socio-economic impact study of offshore wind. Sylvest (2020)
+
+Enter intoPurchase Power Agreements(PPAs).
+
+Purchase high-integrity Renewable Energy Certificates (RECs).
+
+Invest in companies that provide offshore wind energy, transmission assets, shared port facilities, component manufacturers, or related technology, such as forecasting.
+
+Initiate or join voluntary agreements with national or international bodies and support industry collaboration.
+
+Develop workforce partnerships, offer employee scholarships, or sponsor training for careers in offshore wind or related professions such as marine engineering.
+
+Support long-term, stable contracts (e.g., power purchase agreements or CFDs) that de-risk investment in floating offshore wind foundation technologies, encouraging their development and deployment.
+
+Support community engagement initiatives in areas where you do business to educate and highlight the local economic benefits of offshore wind.
+
+Enabling frameworks for offshore wind scale up. IRENA (2023)
+
+Floating offshore wind outlook. IRENA (2024)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Socio-economic impact study of offshore wind. Sylvest (2020)
+
+Advocate for favorable policies and incentives for offshore wind energy development, such as financing, preferential tax policies, guaranteed pricing methods, quotas, community engagement, and comanagement models.
+
+Advocate for fair and transparent benefit-sharing with coastal communities affected by offshore wind.
+
+Help conduct proactive land use planning to avoid infrastructure or development projects that might interfere with protected areas, biodiversity, cultural heritage, or traditional marine uses.
+
+Propose or help develop regulations, standards, and codes to ensure quality equipment production and operation.
+
+Conduct open-access research to improve the performance of wind turbines, wind forecasting, and other related technology.
+
+Operate or assist with equipment testing and certification systems, market information disclosures, and onsite supervision.
+
+Create or assist with training programs for engineers, operators, and other personnel.
+
+Coordinate voluntary agreements between governments and industry to increase offshore wind capacity and power generation.
+
+Initiate public awareness campaigns focusing on wind turbine functionality, benefits, and any public concerns.
+
+Enabling frameworks for offshore wind scale up. IRENA (2023)
+
+Floating offshore wind outlook. IRENA (2024)
+
+Socio-economic impact study of offshore wind. Sylvest (2020)
+
+Invest in the development of offshore wind farms.
+
+Invest in exchange-traded funds (ETFs) and environmental, social, and governance (ESG) funds that hold offshore wind companies in their portfolios.
+
+Consider offering flexible and low-interest loans for developing and operating offshore wind farms.
+
+Invest in supporting infrastructure such as utility companies, grid development, and access roads.
+
+Invest in component technology and related science, such as wind forecasting.
+
+Help develop insurance products tailored to marine risks and early-stage offshore projects.
+
+Invest ingreen bondsfor companies developing offshore wind energy or supporting infrastructure.
+
+Align investments with existing public-private partnerships, voluntary agreements, or voluntary guidance that might apply in the location of the investment (including those that apply to biodiversity).
+
+Floating offshore wind outlook. IRENA (2024)
+
+Enabling frameworks for offshore wind scale up. IRENA (2023)
+
+Socio-economic impact study of offshore wind. Sylvest (2020)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Provide catalytic financing for or help develop offshore wind farms.
+
+Award grants to improve supporting infrastructure such as utility companies, grid development, and access roads.
+
+Support the development of component technology and related science, such as wind forecasting.
+
+Fund updates to high-resolution marine wind atlases and oceanographic data systems.
+
+Foster cooperation between low- and middle-income countries for floating wind and deepwater innovation in emerging economies.
+
+Advocate for favorable policies and incentives for offshore wind energy development, such as financing, preferential tax policies, guaranteed pricing methods, and quotas.
+
+Propose, build capacity for, or help develop regulations, standards, and codes for marine permitting, offshore market design, equipment production, and operation.
+
+Initiate public awareness campaigns focusing on wind turbine functionality, benefits, and any public concerns.
+
+Facilitate partnerships to share wind turbine technology and best practices between established and emerging markets, promoting energy equity and access.
+
+Enabling frameworks for offshore wind scale up. IRENA (2023)
+
+Floating offshore wind outlook. IRENA (2024)
+
+Socio-economic impact study of offshore wind. Sylvest (2020)
+
+Advocate for favorable policies and incentives for offshore wind energy development, such as financing, preferential tax policies, guaranteed pricing methods, and quotas.
+
+Propose or help develop regulations, standards, and codes to ensure quality equipment production and operation.
+
+Conduct research to improve the performance of wind turbines, wind forecasting, and other related technology.
+
+Initiate public awareness campaigns focusing on how wind turbines function, benefits, and why they are necessary, addressing any public concerns.
+
+Advocate for community engagement, respect for Indigenous rights, and preservation of cultural heritage and traditional ways of life to be included in wind power expansion efforts.
+
+Floating offshore wind outlook. IRENA (2024)
+
+Enabling frameworks for offshore wind scale up. IRENA (2023)
+
+Socio-economic impact study of offshore wind. Sylvest (2020)
+
+
+## Technologists and Researchers
+
+
+Improve the productivity and efficiency of wind turbines.
+
+Improve battery capacity for electricity storage.
+
+Develop more accurate, timely, and cost-effective means of offshore wind forecasting.
+
+Engineer new or improved means of manufacturing towers and components – ideally with locally sourced materials.
+
+Enhance design features such as wake steering, bladeless wind power, and quiet wind turbines.
+
+Optimize power output, efficiency, and deployment for vertical-axis turbines.
+
+Refine methods for retaining power for low-speed winds.
+
+Research and develop optimal ways offshore wind can provide habitats for marine species and reduce negative impacts on biodiversity; research total impact of offshore wind on local ecosystems.
+
+Develop strategies to minimize the impact of the noise of offshore wind turbines, both under and above water.
+
+Develop more accurate forecasting models for the performance of fixed-base and floating offshore wind turbines.
+
+Improve theaero-servo-elasticityof floating offshore wind turbines to accommodate more advanced components.
+
+Improve existing – or develop new – materials and designs that can withstand marine environments.
+
+Help develop designs and operational protocols to facilitate installation, minimize maintenance, improve safety, and reduce overall costs.
+
+Develop materials and designs that facilitate recycling and circulate supply chains.
+
+Innovate grid connections and transmission infrastructure for offshore and deep-sea wind farms.
+
+Improve smart grid connections to manage integrating offshore wind farms.
+
+Enabling frameworks for offshore wind scale up. IRENA (2023)
+
+Floating offshore wind outlook. IRENA (2024)
+
+Socio-economic impact study of offshore wind. Sylvest (2020)
+
+
+## Communities, Households, and Individuals
+
+
+Purchase high-integrity RECs, which track ownership of renewable energy generation.
+
+If your utility company offers transparentgreen pricing, which charges a premium to cover the extra cost of renewable energy, opt into it if possible.
+
+Conduct research on the benefits and development of wind energy and share the information with your friends, family, and networks.
+
+Stay informed about wind development projects that impact your community and support them when possible.
+
+Support the development of community wind cooperatives or shared ownership structures that allow local communities to directly benefit from offshore wind projects.
+
+Participate in public consultations, licensing hearings, and awareness campaigns focused on offshore wind projects.
+
+Advocate for favorable policies and incentives for offshore wind energy development, such as financing, preferential tax policies, guaranteed pricing methods, and quotas.
+
+Enabling frameworks for offshore wind scale up. IRENA (2023)
+
+Floating offshore wind outlook. IRENA (2024)
+
+Socio-economic impact study of offshore wind. Sylvest (2020)
+
+
+## “Take Action” Sources
+
+
+Winds of progress: an in-depth exploration of offshore, floating, and onshore wind turbines as cornerstones for sustainable energy generation and environmental stewardship. Afridi et al. (2024)
+
+Assessment of factors affecting onshore wind power deployment in India. Das et al. (2020)
+
+Barriers to onshore wind farm implementation in Brazil. Farkat Diógenes et al. (2019)
+
+Barriers to onshore wind energy implementation: a systematic review. Farkat Diógenes et al. (2020)
+
+Overcoming barriers to onshore wind farm implementation in Brazil. Farkat Diógenes et al. (2020)
+
+Analysis of the promotion of onshore wind energy in the EU: Feed-in tariff or renewable portfolio standard?García-Álvarez et al. (2017)
+
+Global wind report. GWEC. (2024)
+
+Renewable energy policies: a comparative analysis of Nigeria and the USA. Idoko et al. (2024)
+
+Renewables 2022 – analysis and forecast to 2027. IEA (2022)
+
+Energy systems. IPCC (2022)
+
+Floating offshore wind outlook. IRENA (2024)
+
+Enabling frameworks for offshore wind scale up. IRENA (2023)
+
+Highlighting the need to embed circular economy in low carbon infrastructure decommissioning: the case of offshore wind. Jensen et al. (2020)
+
+Smart grids and renewable energy systems: Perspectives and grid integration challenges. Khalid (2024)
+
+Analysis and recommendations for onshore wind power policies in China. Li et al. (2018)
+
+Renewable energy resources, policies and gaps in BRICS countries and the global impact. Pathak et al. (2019)
+
+The need for comprehensive and well targeted instrument mixes to stimulate energy transitions: The case of energy efficiency policy. Rosenow et al. (2017)
+
+Grand challenges in the design, manufacture, and operation of future wind turbine systems. Veers et al. (2023)
+
+Methods and Supporting Data
+
+Adeyeye, K., Ijumba, N., & Colton, J. (2020). Exploring the environmental and economic impacts of wind energy: A cost-benefit perspective.International Journal of Sustainable Development and World Ecology,27(8), 718–731.Link to source:https://doi.org/10.1080/13504509.2020.1768171
+
+Afridi, S. K., Koondhar, M. A., Jamali, M. I., Alaas, Z. M., Alsharif, M. H., Kim, M. K., Mahariq, I., Touti, E., Aoudia, M., & Ahmed, M. M. R. (2024). Winds of progress: An in-depth exploration of offshore, floating, and onshore wind turbines as cornerstones for sustainable energy generation and environmental stewardship.IEEE Access,12, 66147–66166.Link to source:https://doi.org/10.1109/ACCESS.2024.3397243
+
+Akhtar, N., Geyer, B., Rockel, B., Sommer, P. S., & Schrum, C. (2021). Accelerating deployment of offshore wind energy alter wind climate and reduce future power generation potentials.Scientific Reports,11(1), Article 11826.Link to source:https://doi.org/10.1038/s41598-021-91283-3
+
+Akhtar, N., Geyer, B., & Schrum, C. (2024). Larger wind turbines as a solution to reduce environmental impacts.Scientific Reports,14(1), Article 6608.Link to source:https://doi.org/10.1038/s41598-024-56731-w
+
+Alsaleh, A., & Sattler, M. (2019). Comprehensive life cycle assessment of large wind turbines in the US.Clean Technologies and Environmental Policy,21(4), 887–903.Link to source:https://doi.org/10.1007/s10098-019-01678-0
+
+Atilgan Turkmen, B., & Germirli Babuna, F. (2024). Life cycle environmental impacts of wind turbines: A path to sustainability with challenges.Sustainability,16(13), Article 5365.Link to source:https://doi.org/10.3390/SU16135365
+
+Beiter, P., Cooperman, A., Lantz, E., Stehly, T., Shields, M., Wiser, R., Telsnig, T., Kitzing, L., Berkhout, V., & Kikuchi, Y. (2021). Wind power costs driven by innovation and experience with further reductions on the horizon.Wiley Interdisciplinary Reviews: Energy and Environment,10(5), Article e398.Link to source:https://doi.org/10.1002/WENE.398
+
+Bills, G. (2021).Turbine lifetime limits require a reality check | News+ | IJGlobal.Link to source:https://www.ijglobal.com/articles/157132/turbine-lifetime-limits-require-a-reality-check
+
+Bosch, J., Staffell, I., & Hawkes, A. D. (2018). Temporally explicit and spatially resolved global offshore wind energy potentials.Energy,163, 766–781.Link to source:https://doi.org/10.1016/J.ENERGY.2018.08.153
+
+Buonocore, J. J., Luckow, P., Fisher, J., Kempton, W., & Levy, J. I. (2016). Health and climate benefits of offshore wind facilities in the Mid-Atlantic United States.Environmental Research Letters,11(7), Article 074019.Link to source:https://doi.org/10.1088/1748-9326/11/7/074019
+
+Clarke, L., Wei, Y.-M., De La Vega Navarro, A., Garg, A., Hahmann, A. N., Khennas, S., Azevedo, I. M. L., Löschel, A., Singh, A. K., Steg, L., Strbac, G., & Wada, K. (2022). Energy Systems. In P. R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, & J. Malley (Eds.), Climate change 2022: Mitigation of climate change. Contribution of working group III to the sixth assessment report of the intergovernmental panel on climate change (pp. 613–746). Cambridge University Press.Link to source:https://doi.org/10.1017/9781009157926.008
+
+de La Beaumelle, N. A., Blok, K., de Chalendar, J. A., Clarke, L., Hahmann, A. N., Huster, J., Nemet, G. F., Suri, D., Wild, T. B., & Azevedo, I. M. L. (2023). The global technical, economic, and feasible potential of renewable electricity.Annual Review of Environment and Resources,48, 419–449.Link to source:https://doi.org/10.1146/annurev-environ-112321-091140
+
+Degraer, S., Carey, D. A., Coolen, J. W. P., Hutchison, Z. L., Kerckhof, F., Rumes, B., & Vanaverbeke, J. (2020). Offshore wind farm artificial reefs affect ecosystem structure and functioning: A synthesis.Oceanography,33(4), 48–57.Link to source:https://doi.org/10.5670/oceanog.2020.405
+
+E2. (2023).California’s offshore wind opportunity.Link to source:https://e2.org/reports/ca-offshore-wind-opportunity-2022/
+
+Energy Sector Management Assistance Program. (n.d.).Offshore wind technical potential | Analysis and maps;Link to source:https://www.esmap.org/esmap_offshorewind_techpotential_analysis_maps
+
+Energy Sector Management Assistance Program. (2019).Going global: Expanding offshore wind to emerging markets. World Bank Group.Link to source:http://documents.worldbank.org/curated/en/716891572457609829/Going-Global-Expanding-Offshore-Wind-To-Emerging-Markets
+
+Galparsoro, I., Menchaca, I., Garmendia, J. M., Borja, Á., Maldonado, A. D., Iglesias, G., & Bald, J. (2022). Reviewing the ecological impacts of offshore wind farms.npj Ocean Sustainability,1, Article 1.Link to source:https://doi.org/10.1038/s44183-022-00003-5
+
+Global Wind Energy Council. (2024).Global offshore wind report 2024.Link to source:https://26973329.fs1.hubspotusercontent-eu1.net/hubfs/26973329/2.%20Reports/Global%20Offshore%20Wind%20Report/GOWR24.pdf
+
+Global Wind Energy Council. (2025).Global offshore wind report 2025.Link to source:https://26973329.fs1.hubspotusercontent-eu1.net/hubfs/26973329/2.%20Reports/Global%20Offshore%20Wind%20Report/GOWR25.pdf
+
+Global Wind Energy Council, & Global Wind Organization. (2021).Global wind workforce outlook 2021–2025.Link to source:https://cdn.prod.website-files.com/5ce6247122f44f2bd5edebbe/60b534c0e5ca5c6c4c4705b0_GWWO%20v4.pdf
+
+Gonyo, S. B., Fleming, C. S., Freitag, A., & Goedeke, T. L. (2021). Resident perceptions of local offshore wind energy development: Modeling efforts to improve participatory processes.Energy Policy,149, Article 112068;Link to source:https://doi.org/10.1016/J.ENPOL.2020.112068
+
+Haggett, C. (2011). Understanding public responses to offshore wind power.Energy Policy,39(2), 503–510.Link to source:https://doi.org/10.1016/J.ENPOL.2010.10.014
+
+Intergovernmental Panel on Climate Change. (2023).Climate change 2023: Synthesis report. Contribution of working groups I, II and III to the sixth assessment report of the intergovernmental panel on climate change (The Core Writing Team, H. Lee, & J. Romero, Eds.)[Synthesis report].Link to source:https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_FullVolume.pdf
+
+International Energy Agency. (2019).Offshore wind outlook 2019.Link to source:https://www.iea.org/reports/offshore-wind-outlook-2019
+
+International Energy Agency. (2024a).World energy balances—Data product.Link to source:https://www.iea.org/data-and-statistics/data-product/world-energy-balances
+
+International Energy Agency. (2024b).World energy outlook 2024.Link to source:https://www.iea.org/reports/world-energy-outlook-2024
+
+International Energy Agency, & Nuclear Energy Agency. (2020).Projected costs of generating electricity – 2020 edition[Report]. OECD Publishing.Link to source:https://www.oecd-nea.org/upload/docs/application/pdf/2020-12/egc-2020_2020-12-09_18-26-46_781.pdf
+
+International Renewable Energy Agency. (2024a).Floating offshore wind outlook.Link to source:https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Jul/IRENA_G7_Floating_offshore_wind_outlook_2024.pdf
+
+International Renewable Energy Agency. (2024b).Renewable energy statistics 2024.Link to source:https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Jul/IRENA_Renewable_Energy_Statistics_2024.pdf
+
+International Renewable Energy Agency. (2024c).Renewable power generation costs in 2023.Link to source:https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023
+
+International Renewable Energy Agency, & Global Wind Energy Council. (2023).Enabling frameworks for offshore wind scale up: Innovations in permitting.Link to source:https://www.energycentral.com/renewables/post/irena-enabling-frameworks-offshore-wind-scale---innovations-permitting-vZRn6mKeZ1hBX0n
+
+Jansen, M., Staffell, I., Kitzing, L., Quoilin, S., Wiggelinkhuizen, E., Bulder, B., Riepin, I., & Müsgens, F. (2020). Offshore wind competitiveness in mature markets without subsidy.Nature Energy,5(8), 614–622.Link to source:https://doi.org/10.1038/s41560-020-0661-2
+
+Kaldellis, J. K., & Apostolou, D. (2017). Life cycle energy and carbon footprint of offshore wind energy. Comparison with onshore counterpart.Renewable Energy,108, 72–84.Link to source:https://doi.org/10.1016/J.RENENE.2017.02.039
+
+Lazard. (2023, April).LCOE+[PowerPoint slides].Link to source:https://www.lazard.com/media/2ozoovyg/lazards-lcoeplus-april-2023.pdf
+
+Letcher, T. M. (Ed.). (2023).Wind energy engineering : A handbook for onshore and offshore wind turbines(2nd ed.). Academic Press.Link to source:https://www.sciencedirect.com/book/9780323993531/wind-energy-engineering
+
+Lopez, A., Green, R., Williams, T., Lantz, E., Buster, G., & Roberts, B. (2022).Offshore wind energy technical potential for the contiguous United States[Report].Link to source:https://docs.nrel.gov/docs/fy22osti/83650.pdf
+
+McCoy, A., Musial, W., Hammond, R., Mulas Hernando, D., Duffy, P., Beiter, P., Pérez, P., Baranowski, R., Reber, G., & Spitsen, P. (2024).Offshore wind market report: 2024 edition(NREL/TP-5000-90525) [Technical report]. National Renewable Energy Laboratory.Link to source:https://www.nrel.gov/docs/fy24osti/90525.pdf
+
+Mello, G., Ferreira Dias, M., & Robaina, M. (2020). Wind farms life cycle assessment review: CO2emissions and climate change.Energy Reports,6, 214–219.Link to source:https://doi.org/10.1016/J.EGYR.2020.11.104
+
+Millstein, D., O’Shaughnessy, E., & Wiser, R. (2024). Climate and air quality benefits of wind and solar generation in the United States from 2019 to 2022.Cell Reports Sustainability,1(6), Article 100105.Link to source:https://doi.org/10.1016/J.CRSUS.2024.100105
+
+Nagababu, G., Srinivas, B. A., Kachhwaha, S. S., Puppala, H., & Kumar, S. V. V. A. (2023). Can offshore wind energy help to attain carbon neutrality amid climate change? A GIS-MCDM based analysis to unravel the facts using CORDEX-SA.Renewable Energy,219, Article 119400;Link to source:https://doi.org/10.1016/J.RENENE.2023.119400
+
+National Oceanic and Atmospheric Administration. (n.d.).Offshore wind energy: Assessing impacts to marine life. National Oceanic and Atmospheric Administration Fisheries. Retrieved August 6, 2025, fromLink to source:https://www.fisheries.noaa.gov/topic/offshore-wind-energy/assessing-impacts-to-marine-life
+
+Ørsted (n.d.)How does offshore wind power work?Retrieved July 8, 2025, fromLink to source:https://orsted.com/en/what-we-do/renewable-energy-solutions/offshore-wind/technology
+
+Peach, S. (2021, June 30).What’s the carbon footprint of a wind turbine?Yale Climate Connections.Link to source:https://yaleclimateconnections.org/2021/06/whats-the-carbon-footprint-of-a-wind-turbine/
+
+Qiu, M., Zigler, C. M., & Selin, N. E. (2022). Impacts of wind power on air quality, premature mortality, and exposure disparities in the United States.Science Advances,8(48), Article eabn8762.Link to source:https://www.science.org/doi/10.1126/sciadv.abn8762
+
+Ren, Z., Zhang, S., Liu, H., Pu, L., Wang, X., Wang, Z., Wu, M., & Chen, Z. (2025). The environmental and public health benefits of offshore wind power deployment in China.Environmental Science & Technology,59(1), 315–327.Link to source:https://doi.org/10.1021/acs.est.4c06125
+
+Rubin, E. S., Azevedo, I. M. L., Jaramillo, P., & Yeh, S. (2015). A review of learning rates for electricity supply technologies.Energy Policy,86, 198–218.Link to source:https://doi.org/10.1016/J.ENPOL.2015.06.011
+
+Schlömer, S., Bruckner, T., Fulton, L., Hertwich, E., McKinnon, A., Perczyk, D., Roy, J., Schaeffer, R., Sims, R., Smith, P., & Wiser, R. (2014). Annex III: Technology-specific cost and performance parameters. In O. Edenhofer, R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. Adler, I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von Stechow, T. Zwickel, & J. C. Minx (Eds.),Climate change 2014: Mitigation of climate change. Contribution of working group III to the fifth assessment report of the intergovernmental panel on climate change. Cambridge University Press.Link to source:https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf
+
+Shawhan, D., Robson, S., & Russell, E. (2025).Offshore wind power examined: Effects, benefits, and costs of offshore wind farms along the US Atlantic and Gulf Coasts(Working Paper No. 24-17). Resources for the Future.Link to source:https://media.rff.org/documents/WP_24-17_2.25_Update.pdf
+
+Shields, M., Beiter, P., & Nunemaker, J. (2022).A systematic framework for projecting the future cost of offshore wind energy(NREL/TP-5000-81819) [Technical report]. National Renewable Energy Laboratory.Link to source:https://www.nrel.gov/docs/fy23osti/81819.pdf
+
+Stefek, J., Constant, C., Clark, C., Tinnesand, H., Christol, C., & Baranowski, R. (2022).U.S. offshore wind workforce assessment(NREL/TP-5000-81798) [Technical report]. National Renewable Energy Laboratory.Link to source:https://docs.nrel.gov/docs/fy23osti/81798.pdf
+
+TNO, & BLIX Consultancy. (2021).Pathways to potential cost reductions for offshore wind energy[Technical report].Link to source:https://topsectorenergie.nl/documents/332/20210125_RAP_Pathways_to_potential_cost_reduction_offshore_wind_energy_F03.pdf
+
+Tumse, S., Bilgili, M., Yildirim, A., & Sahin, B. (2024). Comparative Analysis of Global Onshore and Offshore Wind Energy Characteristics and Potentials.Sustainability,16(15), Article 6614.Link to source:https://doi.org/10.3390/SU16156614
+
+U.S. Energy Information Administration. (2023).Levelized costs of new generation resources in the annual energy outlook 2023.Link to source:https://www.eia.gov/outlooks/aeo/electricity_generation/pdf/AEO2023_LCOE_report.pdf
+
+U.S. Energy Information Administration. (2024, June 12).Wind explained: Where wind power is harnessed.Link to source:https://www.eia.gov/energyexplained/wind/where-wind-power-is-harnessed.php
+
+Wilhelmsson, D., Malm, T., & Öhman, M. C. (2006). The influence of offshore windpower on demersal fish.ICES Journal of Marine Science,63(5), 775–784.Link to source:https://doi.org/10.1016/J.ICESJMS.2006.02.001
+
+Wiser, R., Rand, J., Seel, J., Beiter, P., Baker, E., Lantz, E., & Gilman, P. (2021). Expert elicitation survey predicts 37% to 49% declines in wind energy costs by 2050.Nature Energy,6(5), 555–565.Link to source:https://doi.org/10.1038/s41560-021-00810-z
+
+World Bank Group. (2021).Key factors for successful development of offshore wind in emerging markets. Energy Sector Management Assistance Program, World Bank Group.Link to source:https://documents1.worldbank.org/curated/en/343861632842395836/pdf/Key-Factors-for-Successful-Development-of-Offshore-Wind-in-Emerging-Markets.pdf
+
+World Economic Forum. (2025).Nature positive: Role of the offshore wind sector[Insight report].Link to source:https://www.weforum.org/publications/nature-positive-transitions-sectors/offshore-wind-sector/
+
+World Forum Offshore Wind. (2024).Global offshore wind report 2023.Link to source:https://wfo-global.org/wp-content/uploads/2024/04/WFO-Report-2024Q1.pdf
+
+Yuan, W., Feng, J.-C., Zhang, S., Sun, L., Cai, Y., Yang, Z., & Sheng, S. (2023). Floating wind power in deep-sea area: Life cycle assessment of environmental impacts.Advances in Applied Energy,9, Article 100122.Link to source:https://doi.org/10.1016/J.ADAPEN.2023.100122
+
+Zhou, F., Tu, X., & Wang, Q. (2022). Research on offshore wind power system based on Internet of Things technology.International Journal of Low-Carbon Technologies,17, 645–650.Link to source:https://doi.org/10.1093/IJLCT/CTAC049
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Megan Matthews, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

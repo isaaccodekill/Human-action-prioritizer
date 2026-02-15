@@ -1,0 +1,720 @@
+# High-Speed Rail
+Source: https://en.wikipedia.org/wiki/High-speed_rail
+
+High-speed rail (HSR) is a type of rail transport network utilizing trains that run significantly faster than those of traditional rail, using an integrated system of specialized rolling stock and dedicated tracks. While there is no single definition or standard that applies worldwide, lines built to handle speeds of at least 250 km/h (155 mph) or upgraded lines of at least 200 km/h (125 mph) are generally considered to be high-speed.
+The first high-speed rail system, the Tōkaidō Shinkansen, began operations in Honshu, Japan, in 1964. Due to the streamlined spitzer-shaped nose cone of the trains, the system also became known by its English nickname bullet train. Japan's example was followed by several European countries, initially in Italy with the Direttissima line, followed shortly thereafter by France, Germany, and Spain. Today, much of Europe has an extensive network with numerous international connections. Construction since the 21st century has led to China taking a leading role in high-speed rail. As of 2023, China's HSR network accounted for over two-thirds of the world's total.
+In addition to these, many other countries have developed high-speed rail infrastructure to connect major cities, including: Austria, Belgium, Denmark, Finland, Indonesia, Morocco, the Netherlands, Norway, Poland, Portugal, Russia, Saudi Arabia, Serbia, South Korea, Sweden, Switzerland, Taiwan, Turkey, the United Kingdom, the United States, and Uzbekistan. Only in continental Europe and Asia does high-speed rail cross international borders.
+High-speed trains mostly operate on standard gauge tracks of continuously welded rail on grade-separated rights of way with large radii. However, certain regions with wider legacy railways, including Russia and Uzbekistan, have sought to develop a high-speed railway network in Russian gauge. There are no narrow gauge high-speed railways. Countries whose legacy network is entirely or mostly of a different gauge than 1,435 mm (56.5 in) – including Japan and Spain – have often opted to build their high speed lines to standard gauge instead of the legacy railway gauge.
+High-speed rail is the fastest and most efficient ground-based method of commercial transport. Due to requirements for large track curves, gentle gradients and grade separated track the construction of high-speed rail is costlier than conventional rail and therefore does not always present an economical advantage over conventional speed rail.
+
+
+== Definitions ==
+
+Multiple definitions for high-speed rail are in use worldwide, with various international organisations and regional bodies establishing different standards. Several countries have also developed their own legal definitions and technical standards for high-speed rail.
+
+
+=== International Union of Railways definition ===
+The International Union of Railways (UIC) identifies three categories of high-speed rail:
+
+Category I: New tracks specially constructed for high speeds, allowing a maximum running speed of at least 250 km/h (155 mph).
+Category II: Existing tracks specially upgraded for high speeds, allowing a maximum running speed of at least 200 km/h (124 mph).
+Category III: Existing tracks specially upgraded for high speeds, allowing a maximum running speed of at least 200 km/h, but with some sections having a lower allowable speed (for example due to topographic constraints, or passage through urban areas).
+A third definition of high-speed and very high-speed rail requires simultaneous fulfilment of the following two conditions:
+
+Maximum achievable running speed in excess of 200 km/h (124 mph), or 250 km/h (155 mph) for very high-speed,
+Average running speed across the corridor in excess of 150 km/h (93 mph), or 200 km/h (124 mph) for very high-speed.
+The International Union of Railways prefers to use "definitions" (plural) because they consider that there is no single standard definition of high-speed rail, nor even standard usage of the terms ("high speed", or "very high speed"). They make use of the European EC Directive 96/48, stating that high speed is a combination of all the elements which constitute the system: infrastructure, rolling stock and operating conditions. The International Union of Railways states that high-speed rail is a set of unique features, not merely a train travelling above a particular speed. Many conventionally hauled trains are able to reach 200 km/h (124 mph) in commercial service but are not considered to be high-speed trains. These include the French SNCF Intercités and German DB IC.
+The criterion of 200 km/h (124 mph) is selected for several reasons; above this speed, the impacts of geometric defects are intensified, track adhesion is decreased, aerodynamic resistance is greatly increased, pressure fluctuations within tunnels cause passenger discomfort, and it becomes difficult for drivers to identify trackside signalling. Standard signaling equipment is often limited to speeds below 200 km/h (124 mph), with the traditional limits of 127 km/h (79 mph) in the US, 160 km/h (99 mph) in Germany and 125 mph (201 km/h) in Britain. Above those speeds positive train control or the European Train Control System becomes necessary or legally mandatory.
+
+
+=== European Union definition ===
+The European Union Directive 96/48/EC, Annex 1 (see also Trans-European high-speed rail network) defines high-speed rail in terms of:
+
+Infrastructure: Track built specially for high-speed travel or specially upgraded for high-speed travel.
+Minimum speed limit: Minimum speed of 250 km/h (155 mph) on lines specially built for high speed and of about 200 km/h (124 mph) on existing lines which have been specially upgraded. This must apply to at least one section of the line. Rolling stock must be able to reach a speed of at least 200 km/h to be considered high speed.
+Operating conditions: Rolling stock must be designed alongside its infrastructure for complete compatibility, safety and quality of service.
+
+
+=== National legal definitions ===
+Some national legal definitions of high-speed rail include:
+
+
+==== Australia ====
+According to the High Speed Rail Authority Act 2022, high-speed rail in Australia is defined as a railway capable of supporting trains that can travel at speeds exceeding 250 km/h. As of 2025, Australia does not have any railways which meet this definition.
+
+
+==== China ====
+According to China's Ministry of Railways Order No. 34 (2013), high-speed rail refers to new passenger rail lines designed to operate at speeds of 250 km/h or higher, with initial service running at least 200 km/h.
+
+
+==== Japan ====
+The first law defining high-speed rail was Japan's "Law number 71 for Construction of Nation-Wide High-Speed Railways", adopted on May 18, 1970.
+Article 2 of this law provided the following definition: "An artery railway that is capable of operating at the speed of 200km/h or more in its predominating section." 
+This law formalised the definition of high-speed railways in Japan and established a framework for the Shinkansen network, which had started operation in 1964.
+
+
+==== South Korea ====
+South Korea defines high-speed rail through the Railway Service Act (2004), which categorises railway lines and trains into three types:
+
+High-speed railway lines: Can run at speeds of 300 km/h or more on the majority of tracks.
+Semi-high-speed railway lines: Can run at speeds between 200 km/h to 300 km/h on the majority of tracks.
+Conventional lines: Can run at a maximum speed of less than 200 km/h on the majority of tracks.
+The Act also categorises trains into corresponding types based on their maximum speeds.
+
+
+==== United States ====
+United States federal law defines high-speed rail as intercity passenger rail service expected to reach speeds of at least 110 miles per hour (180 km/h).
+
+
+== History ==
+Railways were the first form of rapid land transport and had an effective monopoly on long-distance passenger traffic until the development of the motor car and airliners in the early to mid-20th century. Speed had always been an important factor for railways and they constantly tried to achieve higher speeds and decrease journey times. Rail transport in the late 19th century was not much slower than non-high-speed trains today, and many railways regularly operated relatively fast express trains which averaged speeds of around 100 km/h (62 mph).
+
+
+=== Early research ===
+
+
+==== First experiments ====
+High-speed rail development began in Germany in 1899 when the Prussian state railway joined with ten electrical and engineering firms and electrified 72 km (45 mi) of military-owned railway between Marienfelde and Zossen. The line used three-phase current at 10 kilovolts and 45 Hz.
+The Van der Zypen & Charlier company of Deutz, Cologne built two railcars, one fitted with electrical equipment from Siemens-Halske, the second with equipment from Allgemeine Elektricitäts-Gesellschaft (AEG), that were tested on the Marienfelde–Zossen line during 1902 and 1903 (see Experimental three-phase railcar).
+On 23 October 1903, the S&H-equipped railcar achieved a speed of 206.7 km/h (128.4 mph) and on 27 October the AEG-equipped railcar achieved 210.2 km/h (130.6 mph). These trains demonstrated the feasibility of electric high-speed rail; however, regularly scheduled electric high-speed rail travel was still more than 30 years away.
+
+
+==== High-speed aspirations ====
+After the breakthrough of electric railroads, it was clearly the infrastructure – especially the cost of it – which hampered the introduction of high-speed rail. Several disasters happened – derailments, head-on collisions on single-track lines, collisions with road traffic at grade crossings, etc. The physical laws were well-known, i.e. if the speed was doubled, the curve radius should be quadrupled; the same was true for the acceleration and braking distances.
+
+In 1891, engineer Károly Zipernowsky proposed a high-speed line from Vienna to Budapest for electric railcars at 250 km/h (160 mph). In 1893 Wellington Adams proposed an air-line from Chicago to St. Louis of 252 miles (406 km), at a speed of only 160 km/h (99 mph).
+
+Alexander C. Miller had greater ambitions. In 1906, he launched the Chicago-New York Electric Air Line Railroad project to reduce the running time between the two big cities to ten hours by using electric 160 km/h (99 mph) locomotives. After seven years of effort, less than 50 km (31 mi) of straight track was finished. A part of the line is still used as one of the last interurbans in the US, the South Shore Line.
+
+
+==== High-speed interurbans ====
+In the US, some of the interurbans (i.e. trams or streetcars which run from city to city) of the early 20th century were very high-speed for their time (also Europe had and still does have some interurbans). Several high-speed rail technologies have their origin in the interurban field.
+In 1903 – 30 years before the conventional railways started to streamline their trains – the officials of the Louisiana Purchase Exposition organised the Electric Railway Test Commission to conduct a series of tests to develop a carbody design that would reduce wind resistance at high speeds. A long series of tests was carried. In 1905, St. Louis Car Company built a railcar for the traction magnate Henry E. Huntington, capable of speeds approaching 160 km/h (100 mph). Once it ran 32 km (20 mi) between Los Angeles and Long Beach in 15 minutes, an average speed of 130 km/h (80 mph). However, it was too heavy for much of the tracks, so Cincinnati Car Company, J. G. Brill and others pioneered lightweight constructions, use of aluminium alloys, and low-level bogies which could operate smoothly at extremely high speeds on rough interurban tracks. Westinghouse and General Electric designed motors compact enough to be mounted on the bogies. From 1930 on, the Red Devils from Cincinnati Car Company and a some other interurban rail cars reached about 145 km/h (90 mph) in commercial traffic. The Red Devils weighed only 22 tons though they could seat 44 passengers.
+Extensive wind tunnel research – the first in the railway industry – was done before J. G. Brill in 1931 built the Bullet cars for Philadelphia and Western Railroad (P&W). They were capable of running at 148 km/h (92 mph). Some of them were almost 60 years in service. P&W's Norristown High Speed Line is still in use, almost 110 years after P&W in 1907 opened their double-track Upper Darby–Strafford line without a single grade crossing with roads or other railways. The entire line was governed by an absolute block signal system.
+
+
+==== Early German high-speed network ====
+
+On 15 May 1933, the Deutsche Reichsbahn-Gesellschaft company introduced the diesel-powered "Fliegender Hamburger" in regular service between Hamburg and Berlin (286 km or 178 mi), thereby achieving a new top speed for a regular service, with a top speed of 160 km/h (99 mph). This train was a streamlined multi-powered unit, albeit diesel, and used Jakobs bogies.
+Following the success of the Hamburg line, the steam-powered Henschel-Wegmann Train was developed and introduced in June 1936 for service from Berlin to Dresden, with a regular top speed of 160 km/h (99 mph). Incidentally no train service since the cancelation of this express train in 1939 has traveled between the two cities in a faster time as of 2018. In August 2019, the travel time between Dresden-Neustadt and Berlin-Südkreuz was 102 minutes. See Berlin–Dresden railway.
+Further development allowed the usage of these "Fliegenden Züge" (flying trains) on a rail network across Germany.
+The "Diesel-Schnelltriebwagen-Netz" (diesel high-speed-vehicle network) had been in the planning since 1934 but it never reached its envisaged size.
+All high-speed service stopped in August 1939 shortly before the outbreak of World War II.
+
+
+==== American Streamliners ====
+
+On 26 May 1934, one year after Fliegender Hamburger introduction, the Burlington Railroad set an average speed record on long distance with their new streamlined train, the Zephyr, at 124 km/h (77 mph) with peaks at 185 km/h (115 mph). The Zephyr was made of stainless steel and, like the Fliegender Hamburger, was diesel powered, articulated with Jacobs bogies, and could reach 160 km/h (99 mph) as commercial speed.
+The new service was inaugurated 11 November 1934, traveling between Kansas City and Lincoln, but at a lower speed than the record, on average speed 74 km/h (46 mph).
+In 1935, the Milwaukee Road introduced the Morning Hiawatha service, hauled at 160 km/h (99 mph) by steam locomotives. In 1939, the largest railroad of the world, the Pennsylvania Railroad introduced a duplex steam engine Class S1, which was designed to be capable of hauling 1200 tons passenger trains at 161 km/h (100 mph). The S1 engine was assigned to power the popular all-coach overnight premier train the Trail Blazer between New York and Chicago since the late 1940s and it consistently reached 161 km/h (100 mph) in its service life. These were the last "high-speed" trains to use steam power. In 1936, the Twin Cities Zephyr entered service, from Chicago to Minneapolis, with an average speed of 101 km/h (63 mph).
+Many of these streamliners posted travel times comparable to or better than their modern Amtrak successors, which are limited to 127 km/h (79 mph) top speed on most of the network.
+
+
+==== Italian electric and the last steam record ====
+
+The German high-speed service was followed in Italy in 1938 with an electric-multiple-unit ETR 200, designed for 200 km/h (120 mph), between Bologna and Naples. It too reached 160 km/h (99 mph) in commercial service, and achieved a world mean speed record of 203 km/h (126 mph) between Florence and Milan in 1938.
+In Great Britain in the same year, the streamlined steam locomotive Mallard achieved the official world speed record for steam locomotives at 202.58 km/h (125.88 mph). The external combustion engines and boilers on steam locomotives were large, heavy and time and labor-intensive to maintain, and the days of steam for high speed were numbered.
+
+
+==== Introduction of the Talgo system ====
+In 1945, a Spanish engineer, Alejandro Goicoechea, developed a streamlined, articulated train that was able to run on existing tracks at higher speeds than contemporary passenger trains. This was achieved by providing the locomotive and cars with a unique axle system that used one axle set per car end, connected by a Y-bar coupler. Amongst other advantages, the centre of mass was only half as high as usual. This system became famous under the name of Talgo (Tren Articulado Ligero Goicoechea Oriol), and for half a century was the main Spanish provider of high-speed trains.
+
+
+==== First above 300 km/h developments ====
+
+In the early 1950s, the French National Railway started to receive their new powerful CC 7100 electric locomotives, and began to study and evaluate running at higher speeds. In 1954, the CC 7121 hauling a full train achieved a record 243 km/h (151 mph) during a test on standard track. The next year, two specially tuned electric locomotives, the CC 7107 and the prototype BB 9004, broke previous speed records, reaching respectively 320 km/h (200 mph) and 331 km/h (206 mph), again on standard track. For the first time, 300 km/h (185 mph) was surpassed, allowing the idea of higher-speed services to be developed and further engineering studies commenced. Especially, during the 1955 records, a dangerous hunting oscillation, the swaying of the bogies which leads to dynamic instability and potential derailment was discovered. This problem was solved by yaw dampers which enabled safe running at high speeds today. Research was also made about "current harnessing" at high-speed by the pantographs, which was solved 20 years later by the Zébulon TGV's prototype.
+
+
+=== Breakthrough: Shinkansen ===
+
+
+==== Japanese research and development ====
+With some 45 million people living in the densely populated Tokyo–Osaka corridor (Taiheiyō Belt), congestion on road and rail became a serious problem after World War II, and the Japanese government began thinking about ways to transport people in and between cities. Because Japan was resource limited and did not want to import petroleum for security reasons, energy-efficient high-speed rail was an attractive potential solution.
+Japanese National Railways (JNR) engineers began to study the development of a high-speed regular mass transit service. In 1955, they were present at the Lille's Electrotechnology Congress in France, and during a 6-month visit, the head engineer of JNR accompanied the deputy director Marcel Tessier at the DETE (SNCF Electric traction study department). JNR engineers returned to Japan with a number of ideas and technologies they would use on their future trains, including alternating current for rail traction, and international standard gauge.
+
+
+==== First narrow-gauge Japanese high-speed service ====
+In 1957, the engineers at the private Odakyu Electric Railway in Greater Tokyo Area launched the Odakyu 3000 series SE EMU. This EMU set a world record for narrow gauge trains at 145 km/h (90 mph), giving the Odakyu engineers confidence they could safely and reliably build even faster trains at standard gauge. Conventional Japanese railways up until that point had largely been built in the 1,067 mm (3 ft 6 in) Cape gauge, however widening the tracks to standard gauge (1,435 mm (4 ft 8+1⁄2 in))  would make very high-speed rail much simpler due to improved stability of the wider rail gauge, and thus standard gauge was adopted for high-speed service. With the sole exceptions of Russia, Finland, and Uzbekistan all high-speed rail lines in the world are still standard gauge, even in countries where the preferred gauge for legacy lines is different.
+
+
+==== A new train on a new line ====
+The new service, named Shinkansen (meaning new main line) would provide a new alignment, 25% wider standard gauge utilising continuously welded rails between Tokyo and Osaka with new rolling stock, designed for 250 km/h (160 mph). However, the World Bank, whilst supporting the project, considered the design of the equipment as unproven for that speed, and set the maximum speed to 210 km/h (130 mph).
+After initial feasibility tests, the plan was fast-tracked and construction of the first section of the line started on 20 April 1959. In 1963, on the new track, test runs hit a top speed of 256 km/h (159 mph). Five years after the beginning of the construction work, in October 1964, just in time for the Olympic Games, the first modern high-speed rail, the Tōkaidō Shinkansen, was opened between the two cities; a 510 km (320 mi) line between  Tokyo and Ōsaka. As a result of its speeds, the Shinkansen earned international publicity and praise, and it was dubbed the "bullet train."
+The first Shinkansen trains, the 0 Series Shinkansen, built by Kawasaki Heavy Industries – in English often called "Bullet Trains", after the original Japanese name Dangan Ressha (弾丸列車) – outclassed the earlier fast trains in commercial service. They traversed the 515 km (320 mi) distance in 3 hours 10 minutes, reaching a top speed of 210 km/h (130 mph) and sustaining an average speed of 162.8 km/h (101.2 mph) with stops at Nagoya and Kyoto.
+
+
+==== High-speed rail for the masses ====
+Speed was not only a part of the Shinkansen revolution: the Shinkansen offered high-speed rail travel to the masses. The first Bullet trains had 12 cars and later versions had up to 16, and double-deck trains further increased the capacity.
+After three years, more than 100 million passengers had used the trains, and the milestone of the first one billion passengers was reached in 1976. In 1972, the line was extended a further 161 km (100 mi), and further construction has resulted in the network expanding to 2,951 km (1,834 mi) of high speed lines as of 2024, with a further 211 km (131 mi) of extensions currently under construction and due to open in 2038. The cumulative patronage on the entire system since 1964 is over 10 billion, the equivalent of approximately 140% of the world's population, without a single train passenger fatality. (Suicides, passengers falling off the platforms, and industrial accidents have resulted in fatalities.)
+Since their introduction, Japan's Shinkansen systems have been undergoing constant improvement, not only increasing line speeds. Over a dozen train models have been produced, addressing diverse issues such as tunnel boom noise, vibration, aerodynamic drag, lines with lower patronage ("Mini shinkansen"), earthquake and typhoon safety, braking distance, problems due to snow, and energy consumption (newer trains are twice as energy-efficient as the initial ones despite greater speeds).
+
+
+==== Future developments of Shinkansen ====
+After decades of research and successful testing on a 43 km (27 mi) test track, in 2014 JR Central began constructing a Maglev Shinkansen line, which is known as the Chūō Shinkansen. These Maglev trains still have the traditional underlying tracks and the cars have wheels. This serves a practical purpose at stations and a safety purpose out on the lines in the event of a power failure. However, in normal operation, the wheels are raised up into the car as the train reaches certain speeds where the magnetic levitation effect takes over. It is proposed to link Tokyo and Osaka by 2037, with the section from Tokyo to Nagoya expected to be operational by 2034. Maximum speed is anticipated at 505 km/h (314 mph). The first generation train can be ridden by tourists visiting the test track.
+
+
+=== Europe and North America in 1960s and 1970s ===
+
+
+==== First demonstrations at 200 km/h (120 mph) ====
+In Europe, high-speed rail began during the International Transport Fair in Munich in June 1965, when Dr Öpfering, the director of Deutsche Bundesbahn (German Federal Railways), performed 347 demonstrations at 200 km/h (120 mph) between Munich and Augsburg by DB Class 103 hauled trains. The same year the Aérotrain, a French hovercraft monorail train prototype, reached 200 km/h (120 mph) within days of operation.
+
+
+==== Le Capitole ====
+
+After the successful introduction of the Japanese Shinkansen in 1964, at 210 km/h (130 mph), the German demonstrations up to 200 km/h (120 mph) in 1965, and the proof-of-concept jet-powered Aérotrain, SNCF ran its fastest trains at 160 km/h (99 mph).
+In 1966, French Infrastructure Minister Edgard Pisani consulted engineers and gave the French National Railways twelve months to raise speeds to 200 km/h (120 mph). The classic line Paris–Toulouse was chosen, and fitted, to support 200 km/h (120 mph) rather than 140 km/h (87 mph). Some improvements were set, notably the signals system, development of on board "in-cab" signalling system, and curve revision.
+The next year, in May 1967, a regular service at 200 km/h (120 mph) was inaugurated by the TEE Le Capitole between Paris and Toulouse, with specially adapted SNCF Class BB 9200 locomotives hauling classic UIC cars, and a full red livery. It averaged 119 km/h (74 mph) over the 713 km (443 mi).
+At the same time, the Aérotrain prototype 02 reached 345 km/h (214 mph) on a half-scale experimental track. In 1969, it achieved 422 km/h (262 mph) on the same track. On 5 March 1974, the full-scale commercial prototype Aérotrain I80HV, jet powered, reached 430 km/h (270 mph).
+
+
+==== US Metroliner trains ====
+
+In the United States, following the creation of Japan's first high-speed Shinkansen, President Lyndon B. Johnson as part of his Great Society infrastructure building initiatives asked the Congress to devise a way to increase speeds on the railroads. Congress delivered the High Speed Ground Transportation Act of 1965 which passed with overwhelming bipartisan support and helped to create regular Metroliner service between New York City, Philadelphia, and Washington, D.C. The new service was inaugurated in 1969, with top speeds of 200 km/h (120 mph) and averaging 145 km/h (90 mph) along the route, with the travel time as little as 2 hours 30 minutes. In a 1967 competition with a GE powered Metroliner on Penn Central's mainline, the United Aircraft Corporation TurboTrain set a record of 275 km/h (171 mph).
+
+
+==== United Kingdom, Italy and Germany ====
+
+In 1976 British Rail introduced a high-speed service able to reach 201 km/h (125 mph) using the InterCity 125 diesel-electric trainsets under the brand name of High Speed Train (HST). It was the fastest diesel-powered train in regular service and it improved upon its 160 km/h (100 mph) forerunners in speed and acceleration. As of 2025 it is still in regular service as the fastest diesel-powered train. The train is a reversible multi-car set having driving power-cars at both ends and a fixed formation of passenger cars between them. Journey times were reduced by an hour for example on the East Coast Main Line, and passenger numbers increased. Prior to COVID-19, ridership of the UK's High Speed Intercity Services had exceeded 40 million journeys per annum.
+In 1977 Germany introduced a new service at 200 km/h (120 mph), on the Munich–Augsburg line. That same year, Italy inaugurated the first European High-Speed line, the Direttissima between Rome and Florence, designed for 250 km/h (160 mph), but used by FS E444 hauled train at 200 km/h (120 mph). In France this year also saw the abandonment for political reasons of the Aérotrain project, in favour of the TGV.
+
+
+=== Evolution in Europe ===
+
+
+==== Italy ====
+
+The earliest European high-speed railway to be built was the Italian Florence–Rome high-speed railway (also called "Direttissima") in 1977. High-speed trains in Italy were developed during the 1960s. E444 locomotives were the first standard locomotives capable of 200 km/h (125 mph), while an ALe 601 electrical multiple unit (EMU) reached a speed of 240 km/h (150 mph) during a test. Other EMUs, such as the ETR 220, ETR 250 and ETR 300, were also updated for speeds up to 200 km/h (125 mph). The braking systems of cars were updated to match the increased speeds.
+On 25 June 1970, work was started on the Rome–Florence Direttissima, the first high-speed line in Italy and in Europe. It included the 5,375-metre-long (3.340 mi) bridge on the Paglia river, then the longest in Europe. Works were completed in the early 1990s.
+In 1975, a program for a widespread updating of rolling stock was launched. As it was decided to put more emphasis on local traffic, this caused a shifting of resources from the ongoing high-speed projects, with their subsequent slowing or, in some cases, total abandonment. Therefore, 160 E.656 electric and 35 D.345 locomotives for short-medium range traffic were acquired, together with 80 EMUs of the ALe 801/940 class, 120 ALn 668 diesel railcars. Some 1,000 much-needed passenger and 7,000 freight cars were also ordered.
+In the 1990s, work started on the Treno Alta Velocità (TAV) project, which involved building a new high-speed network on the routes Milan – (Bologna–Florence–Rome–Naples) – Salerno, Turin – (Milan–Verona–Venice) – Trieste and Milan–Genoa. Most of the planned lines have already been opened, while international links with France, Switzerland, Austria and Slovenia are underway.
+Most of the Rome–Naples line opened in December 2005, the Turin–Milan line partially opened in February 2006 and the Milan–Bologna line opened in December 2008. The remaining sections of the Rome–Naples and the Turin–Milan lines and the Bologna–Florence line were completed in December 2009. All these lines are designed for speeds up to 300 km/h (185 mph). Since then, it is possible to travel from Turin to Salerno (950 km (590 mi)) in less than 5 hours. More than 100 trains per day are operated.
+Other proposed high-speed lines are Salerno-Reggio Calabria (connected to Sicily with the future bridge over the Strait of Messina), Palermo-Catania and Naples–Bari.
+The main public operator of high-speed trains (alta velocità AV, formerly Eurostar Italia) is Trenitalia, part of FSI. Trains are divided into three categories (called "Le Frecce"): Frecciarossa ("Red arrow") trains operate at a maximum of 300 km/h (185 mph) on dedicated high-speed tracks; Frecciargento (Silver arrow) trains operate at a maximum of 250 km/h (155 mph) on both high-speed and mainline tracks; Frecciabianca (White arrow) trains operate at a maximum of 200 km/h (125 mph) on mainline tracks only.
+Since 2012, a new and Italy's first private train operator, NTV (branded as Italo), runs high-speed services in competition with Trenitalia. Italy is the only country in Europe with a private high-speed train operator.
+Construction of the Milan-Venice high-speed line began in 2013 and in 2016 the Milan-Treviglio section has been opened to passenger traffic; the Milan-Genoa high-speed line (Terzo Valico dei Giovi) is also under construction.
+Today it is possible to travel from Rome to Milan in less than 3 hours with the Frecciarossa 1000 high-speed train. There is a train every 30 minutes.
+
+
+==== France ====
+
+Following the 1955 records, two divisions of the SNCF began to study high-speed services. In 1964, the DETMT (petrol-engine traction studies department of SNCF) investigated the use of gas turbines: a diesel-powered railcar was modified with a gas-turbine, and was called "TGV" (Turbotrain Grande Vitesse). It reached 230 km/h (140 mph) in 1967, and served as a basis for the future Turbotrain and the real TGV. At the same time, the new "SNCF Research Department", created in 1966, was studying various projects, including one code-named "C03: Railways possibilities on new infrastructure (tracks)".
+In 1969, the "C03 project" was transferred to public administration while a contract with Alstom was signed for the construction of two gas-turbine high-speed train prototypes, named "TGV 001". The prototype consisted of a set of five carriages, plus a power car at each end, both powered by two gas-turbine engines. The sets used Jacobs bogies, which reduce drag and increase safety.
+In 1970, the DETMT's Turbotrain began operations on the Paris–Cherbourg line, and operated at 160 km/h (99 mph) despite being designed for usage at 200 km/h (120 mph). It used gas-turbine powered multiple elements and was the basis for future experimentation with TGV services, including shuttle services and regular high rate schedules.
+In 1971, the "C03" project, now known as "TGV Sud-Est", was validated by the government, against Bertin's Aerotrain. Until this date, there was a rivalry between the French Land Settlement Commission (DATAR), supporting the Aérotrain, and the SNCF and its ministry, supporting conventional rail. The "C03 project" included a new High-Speed line between Paris and Lyon, with new multi-engined trains running at 260 km/h (160 mph). At that time, the classic Paris-Lyon line was already congested and a new line was required; this busy corridor, neither too short (where high speeds give limited reductions in end to end times) nor too long (where planes are faster in city center to city center travel time), was the best choice for the new service.
+The 1973 oil crisis substantially increased oil prices. In the continuity of the De Gaulle "energy self-sufficiency" and nuclear-energy policy (Pierre Messmer then French Prime Minister announced an ambitious buildout of nuclear power in France in 1974), a ministry decision switched the future TGV from now costly gas-turbine to full electric energy in 1974. An electric railcar named Zébulon was developed for testing at very high speeds, reaching a speed of 306 km/h (190 mph). It was used to develop pantographs capable of withstanding speeds of over 300 km/h (185 mph).
+After intensive tests with the gas-turbine "TGV 001" prototype, and the electric "Zébulon", in 1977, the SNCF placed an order to the group Alstom–Francorail–MTE for 87 TGV Sud-Est trainsets.
+They used the "TGV 001" concept, with a permanently coupled set of eight cars, sharing Jacobs bogies, and hauled by two electric-power cars, one at each end.
+In 1981, the first section of the new Paris–Lyon High-Speed line was inaugurated, with a 260 km/h (160 mph) top speed (then 270 km/h (170 mph) soon after). Being able to use both dedicated high-speed and conventional lines, the TGV offered the ability to join every city in the country at shorter journey times. After the introduction of the TGV on some routes, air traffic on these routes decreased and in some cases disappeared. The TGV set a publicised speed records in 1981 at 380 km/h (240 mph), in 1990 at 515 km/h (320 mph), and then in 2007 at 574.8 km/h (357.2 mph), although these were test speeds, rather than operation train speeds.
+
+
+==== Germany ====
+
+Following the ETR 450 and Direttissima in Italy and French TGV, in 1991 Germany was the third country in Europe to inaugurate a high-speed rail service, with the launch of the Intercity-Express (ICE) on the new Hanover–Würzburg high-speed railway, operating at a top speed of 280 km/h (170 mph). The German ICE train was similar to the TGV, with dedicated streamlined power cars at both ends, but a variable number of trailers between them. Unlike the TGV, the trailers had two conventional bogies per car, and could be uncoupled, allowing the train to be lengthened or shortened. This introduction was the result of ten years of study with the ICE-V prototype, originally called Intercity Experimental, which broke the world speed record in 1988, reaching 406 km/h (252 mph).
+
+
+==== Spain ====
+
+In 1992, just in time for the Barcelona Olympic Games and Seville Expo '92, the Madrid–Seville high-speed rail line opened in Spain with 25 kV AC electrification, and standard gauge, differing from all other Spanish lines which used Iberian gauge. This allowed the AVE rail service to begin operations using Class 100 trainsets built by Alstom, directly derived in design from the French TGV trains. The service was very popular and development continued on high-speed rail in Spain.
+In 2005, the Spanish government announced an ambitious plan, (PEIT 2005–2020) envisioning that by 2020, 90 percent of the population would live within 50 km (30 mi) of a station served by AVE. Spain began building the largest HSR network in Europe: as of 2011, five of the new lines have opened (Madrid–Zaragoza–Lleida–Tarragona–Barcelona, Córdoba–Malaga, Madrid–Toledo, Madrid–Segovia–Valladolid, Madrid–Cuenca–Valencia) and another 2,219 km (1,380 mi) were under construction. Opened in early 2013, the Perpignan–Barcelona high-speed rail line provides a link with neighbouring France with trains running to Paris, Lyon, Montpellier and Marseille.
+As of January 2025, the Spanish high-speed rail network is the longest HSR network in Europe with 3,973 km (2,469 mi) and the second longest in the world, after China's.
+
+
+==== Turkey ====
+
+In 2009, Turkey inaugurated a high-speed service between Ankara and Eskişehir. This has been followed up by an Ankara – Konya route, and the Eskisehir line has been extended to Istanbul (European part). In this extension, Europe and Asia were connected by an undersea tunnel, Marmaray in the Bosphorus.  The first connection between two continents in the world as a high-speed train line was made in Istanbul.  The last station of this line in Europe is Halkalı station. An extension to Sivas was opened in April 2023.
+
+
+=== North America ===
+
+
+==== United States ====
+
+In 1992, the United States Congress passed the Amtrak Authorization and Development Act that authorised Amtrak to start working on service improvements on the segment between Boston and New York City of the Northeast Corridor. The primary objectives were to electrify the line north of New Haven, Connecticut, to eliminate grade crossings and replace the then 30-year-old Metroliners with new trains, so that the distance between Boston and New York City could be covered in 3 hours or less.
+Amtrak started testing two trains, the Swedish X2000 and the German ICE 1, in the same year along its fully electrified segment between New York City and Washington, D.C. The officials favored the X2000 as it had a tilting mechanism. However, the Swedish manufacturer never bid on the contract as the burdensome United States railroad regulations required them to heavily modify the train resulting in added weight, among other things. Eventually, a custom-made tilting train derived from TGV, manufactured by Alstom and Bombardier, won the contract and was put into service in December 2000.
+The new service was named "Acela Express" (renamed the Acela in 2019) and linked Boston, New York City, Philadelphia, Baltimore, and Washington, D.C. The travel time was 3.5 hours between Boston and New York and 3 hours between New York and Washington. The original Acela trainsets operated at a maximum speed of 240 km/h (150 mph), with top speeds being reached on sections in Rhode Island, Massachusetts, and New Jersey. New trainsets, the Avelia Liberty, entered service in August 2025, raising the top speed to 260 km/h (160 mph).
+Brightline, a private high speed rail venture, started operations in Florida in early 2018. Trains operate at a top speed of 201 km/h (125 mph).
+As of December 2025, the U.S. has two high-speed rail lines under construction: California High-Speed Rail in California, and Brightline West in California and Nevada.
+
+
+=== Expansion in East, Southeast, and South Asia ===
+For four decades since its opening in 1964, the Japanese Shinkansen was the only high-speed rail service outside of Europe. In the 2000s a number of new high-speed rail services started operating in East Asia. Southeast Asia also saw, and South Asia will see their first high-speed rail service in the 2020s.
+
+
+==== China ====
+
+High-speed rail was introduced to China in 2003 with the Qinhuangdao–Shenyang high-speed railway.
+The Chinese government made high-speed rail construction a cornerstone of the Chinese economic stimulus program to mitigate the effects of the 2008 financial crisis and the result has been a rapid development of the Chinese rail system into the world's most extensive high-speed rail network. By 2013 the system had 11,028 km (6,852 mi) of operational track, accounting for about half of the world's total at the time.
+By the end of 2018, the total high-speed railway (HSR) in China had risen to over 29,000 kilometres (18,000 miles).
+Over 1.71 billion trips were made in 2017, more than half of China's total railway passenger delivery, making it the world's busiest network.  A Paulson Institute research argued that the net benefit of the high-speed rail is $378 billion and the return on investment is 6.5%. A World Bank study found "a broad range of travelers of different income levels choose HSR for its comfort, convenience, safety and punctuality."
+State planning for high-speed railway began in the early 1990s, and the country's first high-speed rail line, the Qinhuangdao–Shenyang Passenger Railway, was built in 1999 and opened to commercial operation in 2003. This line could accommodate commercial trains running at up to 200 km/h (120 mph). Planners also considered Germany's Transrapid maglev technology and built the Shanghai maglev train, which runs on a 30.5 km (19.0 mi) track linking the Pudong, the city's financial district, and the Pudong International Airport.
+The maglev train service began operating in 2004 with trains reaching a top speed of 431 km/h (268 mph), and remains the fastest high-speed service in the world. Maglev, however, was not adopted nationally and all subsequent expansion features high-speed rail on conventional tracks.
+In the 1990s, China's domestic train production industry designed and produced a series of high-speed train prototypes but few were used in commercial operation and none were mass-produced. The Chinese Ministry of Railways (MOR) then arranged for the purchase of foreign high-speed trains from French, German, and Japanese manufacturers along with certain technology transfers and joint ventures with domestic trainmakers. In 2007, the MOR introduced the China Railways High-speed (CRH) service, also known as "Harmony Trains", a version of the German Siemens Velaro high-speed train.
+In 2008, high-speed trains began running at a top speed of 350 km/h (220 mph) on the Beijing–Tianjin intercity railway, which opened during the 2008 Summer Olympics in Beijing. The following year, trains on the newly opened Wuhan–Guangzhou high-speed railway set a world record for average speed over an entire trip, at 312.5 km/h (194.2 mph) over 968 kilometres (601 miles).
+A collision of high-speed trains on 23 July 2011 in Zhejiang province killed 40 and injured 195, raising concerns about operational safety. This fatal accident, which happened in the midst of corruption investigations into railway officials, led to greater scrutiny in the Chinese press concerning HSR safety, high ticket prices, financial sustainability, and environmental impact. Following the accident, top train speeds were lowered to 300 km/h (185 mph). 
+A credit crunch later that year slowed the construction of new lines. But by 2012, the high-speed rail boom had renewed with new lines and new rolling stock by domestic producers that had indigenised foreign technology. On 26 December 2012, China opened the Beijing–Guangzhou–Shenzhen–Hong Kong high-speed railway, the world's longest high-speed rail line, which runs 2,208 km (1,372 mi) from Beijing West railway station to Shenzhen North Railway Station.
+The network set a target to create the 4+4 National  high-speed rail Grid by 2015, and continues to rapidly expand with the July 2016 announcement of the 8+8 National high-speed rail Grid. In 2017, 350 km/h (217 mph) services resumed on the Beijing–Shanghai high-speed railway, once again refreshing the world record for average speed with select services running between Beijing South to Nanjing South reaching average speeds of 317.7 km/h (197.4 mph).
+Like Japan, China is also developing maglev system to run trains with even higher speeds. Currently there are two separate high-speed maglev systems being developed in China: 
+
+the CRRC 600, is based on the Transrapid technology and is being developed by the CRRC under license from Thyssen-Krupp. A 1.5 km (0.93 mi) test track has been operating since 2006 at the Jiading Campus of Tongji University, northwest of Shanghai.  A prototype vehicle was developed in 2019 and was tested in June 2020. In July 2021 a four car train was unveiled. A high-speed test track is under development and in April 2021 there was consideration given to re-opening the Emsland test facility in Germany.
+An incompatible system has been developed at Southwest Jiaotong University in Chengdu, the design uses high-temperature super conducting magnets, which the university has been researching since 2000, and is capable of 620 km/h (390 mph).  A prototype was demonstrated in January 2021 on a 165 m (180 yd) test track.
+With the completion of the Xi’an–Yan’an high-speed railway in December 2025, China’s high-speed rail network surpassed 50,000 kilometres (31,000 miles), consolidating its position as the largest high-speed rail system in the world. However, rapid expansion has incurred massive financial losses, including losses of $25 billion from 2020 to 2022 during the COVID-19 pandemic. As of the end of 2023 the system has an accumulated debt of $839 billion due to opaque financing by local governments. In terms of annual operating revenues and expenditures, only six lines break even while the rest have huge losses due to low passenger volumes. Many of the stations on the newest lines are located well outside centers of metro areas and without direct local highway nor light rail connections, as officials have used high-speed rail construction primarily to drive up land value for land sales (especially in third and fourth-tier cities), instead of prioritizing convenience and affordability of ordinary travelers.
+
+
+==== South Korea ====
+
+In South Korea, construction of the high-speed line from Seoul to Busan began in 1992. The Seoul–Busan corridor is Korea's busiest running between the two largest cities. In 1982, it represented 65.8% of South Korea's population, a number that grew to 73.3% by 1995, along with 70% of freight traffic and 66% of passenger traffic. With both the Gyeongbu Expressway and Korail's Gyeongbu Line congested as of the late 1970s, the government saw the pressing need for another form of transportation.
+The line known as Gyeongbu high-speed railway, better known with the Korea Train Express (KTX) service operating on it, was launched on 1 April 2004, using primarily TGV technology from France. Top speed for trains in regular service is currently 305 km/h (190 mph), though the infrastructure is designed for 350 km/h (220 mph). In 2015 and 2016, high-speed rail services were extended to other parts of the country, with the Honam high-speed railway connecting Gwangju, and Suseo–Pyeongtaek high-speed railway as the second link from Seoul, entered operation. Super Rapid Train, an open-access operator, started joining the market to operate services on the latter in the same year. Some existing conventional lines, including Gyeonggang Line and Jungang Line, are also upgraded to semi-high-speed standard, further expanded the KTX network.
+The initial rolling stock was based on Alstom's TGV Réseau, and was partly built in Korea. The domestically developed HSR-350x, which achieved 352.4 km/h (219.0 mph) in tests, resulted in a second type of high-speed trains now operated by Korail, the KTX-Sancheon, which entered into commercial service in 2010. The next generation experimental EMU prototype, HEMU-430X, achieved 421.4 km/h (261.8 mph) in 2013, making South Korea the world's fourth country after France, Japan, and China to develop a high-speed train running on conventional rail above 420 km/h (260 mph). It was further developed into commercialised variants, namely KTX-Eum and KTX-Cheongryong, with respective maximum service speeds of 260 km/h (160 mph) and 320 km/h (200 mph), which entered into KTX services in 2021 and 2024, respectively.
+
+
+==== Taiwan ====
+
+Taiwan High Speed Rail's first and only HSR line opened for service on 5 January 2007, using Japanese trains with a top speed of 300 km/h (185 mph). The service traverses 345 km (214 mi) from Nangang to Zuoying in as little as 105 minutes. While it contains only one line, its route covers Western Taiwan where over 90% of Taiwan's population live; connecting most major cities of Taiwan: Taipei, New Taipei, Taoyuan, Hsinchu, Taichung, Chiayi, Tainan, and Kaohsiung. Once THSR began operations, almost all passengers switched from airlines flying parallel routes while road traffic was also reduced. Extension from both of current ends are being studied, and it was announced in December 2024 that the end from Zuoying will be extended to Kaohsiung city centre and Pingtung.
+
+
+==== Indonesia ====
+
+Indonesia is the first country in Southeast Asia to operate high-speed rail. The concept was first seriously considered in 2008, leading to discussions at the Asian Investment Summit in 2013, and detailed plans were established in 2015. Plans to begin construction of the Jakarta-Bandung HSR were announced by the Indonesian government in July 2015, after the Chinese President and other world leaders visited the Bandung Conference.
+Both Japan and China expressed interest in high-speed rail projects in Indonesia, which highlighted the rivalry between them in their race for Asian infrastructure projects. In mid-September 2015, China announced it would fully meet the Indonesian government's demands and offered a new proposal that did not require Indonesia to assume any fiscal burden or debt guarantee in proceeding with the project. Later that month, Indonesia selected China for the $5 billion project.
+The construction of the first high-speed rail service, linking two major cities of Jakarta and Bandung with a distance of 142.8 kilometres (88.7 mi), started in August 2018, with the cost of $7.3 billion to build. The line began trial operation with passengers on 7 September 2023 and commercial operations on 17 October 2023. It is operated with a maximum operating speed of 350 km/h (220 mph) by Kereta Cepat Indonesia China, a joint venture of Indonesian and Chinese state-owned enterprises. This route also serves as an initial project for future development plans.
+
+
+=== Middle East and Central Asia ===
+
+
+==== Saudi Arabia ====
+
+
+==== Uzbekistan ====
+Uzbekistan opened the Afrosiyob 344 km (214 mi) service from Tashkent to Samarkand in 2011, which was upgraded in 2013 to an average operational speed of 160 km/h (99 mph) and peak speed of 250 km/h (160 mph). The Talgo 250 service has been extended to Karshi as of August 2015 whereby the train travels 450 km (280 mi) in 3 hours. As of August 2016, the train service was extended to Bukhara, and the 600 km (370 mi) extension will take 3 hours and 20 minutes down from 7 hours.
+
+
+=== Africa ===
+
+
+==== Egypt ====
+
+As of 2022, there are no operational high-speed rail lines in Egypt. Plans have been announced for three lines, aiming to connect the Nile river valley, the Mediterranean coast, and the Red Sea. Construction had started on at least two lines.
+
+
+==== Morocco ====
+In November 2007, the Moroccan government decided to undertake the construction of a high-speed rail line between the economic capital Casablanca and Tangier, one of the largest harbour cities on the Strait of Gibraltar. The line will also serve the capital Rabat and Kenitra. The first section of the line, the 323-kilometre  (201 mi) Kenitra–Tangier high-speed rail line, was completed in 2018. Future projects include expansions south to Marrakech and Agadir, and east to Meknes, Fes and Oujda.
+
+
+== Network ==
+
+
+=== Maps ===
+
+
+=== Technologies ===
+
+Continuous welded rail is generally used to reduce track vibrations and misalignment. Almost all high-speed lines are electrically driven via overhead lines, have in-cab signalling, and use advanced switches using very low entry and frog angles. HSR tracks may also be designed to reduce vibrations originating from high speed rail use.
+
+
+==== Road-rail parallel layout ====
+
+The road-rail parallel layout uses land beside highways for railway lines. Examples include Paris/Lyon and Köln–Frankfurt in which 15% and 70% of the track runs beside highways, respectively. There are synergies to be achieved from such a setup as noise mitigation measures for the road benefit the railway and vice versa and furthermore less land must be taken through expropriation as land may have already been acquired for the construction of the other infrastructure. In addition to that, habitats of local wildlife are disrupted only once (by the combined rail/road right of way) instead of at multiple points. However, downsides include the fact that roads usually allow steeper grades and sharper turns than high-speed rail lines and thus co-locating them may not always be suitable. Moreover, both roads and railways often make use of narrow river valleys or mountain passes which do not allow a lot of infrastructure to be sited next to each other.
+
+
+==== Track sharing ====
+In China, high-speed lines at speeds between 200 and 250 km/h (124 and 155 mph) may carry freight or passengers, while lines operating at speeds over 300 km/h (185 mph) are used only by passenger CRH/CR trains.
+In the United Kingdom, HS1 is also used by regional trains run by Southeastern at speeds of up to 225 km/h (140 mph), and occasionally freight trains that run to central Europe.
+In Germany, some lines are shared with Inter-City and regional trains at day and freight trains at night.
+In France, some lines are shared with regional trains that travel at 200 km/h (124 mph), for example TER Nantes-Laval.
+Mixing trains of vastly different speeds and/or stopping patterns on the same tracks drastically reduces capacity, so usually a temporal separation (e.g. freight trains use the high-speed line only at night when no or only a few passenger trains operate) is employed or the slower train has to wait at a station or passing siding for the faster train to overtake - even if the faster train is delayed, thus delaying the slower train, too.
+
+
+=== Cost ===
+The cost per kilometre in Spain was estimated at between €9 million (Madrid–Andalucía) and €22 million (Madrid–Valladolid). 
+In Italy, the cost was between €24 million (Roma–Napoli) and €68 million (Bologna–Firenze).
+In the 2010s, costs per kilometre in France ranged from €18 million (BLP Brittany) to €26 million (Sud Europe Atlantique). The World Bank estimated in 2019 that the Chinese HSR network was built at an average cost of $17–21 million per km.
+
+
+== Freight high-speed rail ==
+All high-speed trains have been designed to carry passengers only. There are very few high-speed freight services in the world; they all use trains that were originally designed to carry passengers.
+During the planning of the Tokaido Shinkansen, the Japanese National Railways were planning for freight services along the route. This plan was discarded before the line opened, but since 2019 light freight has been carried on some Shinkansen services.
+The French TGV La Poste was for a long time the sole very high-speed train service, transporting mail in France for La Poste at a maximum top speed of 270 kilometers per hour (170 mph), between 1984 and 2015. The trainsets were either specifically adapted and built, or converted, passenger TGV Sud-Est trainsets.
+In Italy, Mercitalia Fast is a high-speed freight service launched in October 2018 by Mercitalia. It uses converted passenger ETR 500 trainsets to carry goods at average speeds of 180 km/h (110 mph), at first between Caserta and Bologna, with plans to extend the network throughout Italy.
+In some countries, high-speed rail is integrated with courier services to provide fast door-to-door intercity deliveries. For example, China Railways has partnered with SF Express for high-speed cargo deliveries and Deutsche Bahn offers express deliveries within Germany as well as to some major cities outside the country on the ICE network. Rather than using dedicated freight trains, these use luggage racks and other unused space in passenger trains.
+Non-high-speed freight trains running on high-speed lines is much more common; for example, High Speed 1 sees weekly freight services. However, high speed lines tend to be steeper than regular (non-mountain) railways, which poses a problem for most freight trains as they have a lower power to weight ratio and thus more difficulty climbing steep slopes. For example, the Frankfurt Cologne high speed line has inclines up to 40‰. If a high-speed line through even somewhat hilly terrain is to be usable for freight, expensive engineered structures will need to be built, as is the case with the Hannover Würzburg high-speed line which contains the longest and the second longest mainline rail tunnel in Germany and altogether runs on tunnels or bridges for roughly half of its length.
+
+
+== Rolling stock ==
+
+Key technologies used in high-speed train rolling stock include tilting trainsets, aerodynamic designs (to reduce drag, lift, and noise), air brakes, regenerative braking, engine technology and dynamic weight shifting. Notable high-speed train manufacturers include Alstom, Talgo, Hitachi, Kawasaki, Siemens, Stadler Rail,Hyundai Rotem, and CRRC.
+
+
+== Comparison with other modes of transport ==
+
+
+=== Optimal distance ===
+While commercial high-speed trains have lower maximum speeds than jet aircraft, they offer shorter total trip times than air travel for short distances. They typically connect city centre rail stations to each other, while air transport connects airports that are typically farther from city centres.
+High-speed rail (HSR) is best suited for journeys of 1 to 4+1⁄2 hours (about 150–900 km or 93–559 mi), for which the train can beat air and car trip time. For trips under about 700 km (430 mi), the process of checking in and going through airport security, as well as travelling to and from the airport, makes the total air journey time equal to or slower than HSR. European authorities treat HSR as competitive with passenger air for HSR trips under 4+1⁄2 hours.
+HSR eliminated air transport from routes such as Paris–Lyon, Paris–Brussels, Cologne–Frankfurt, Nanjing–Wuhan, Chongqing–Chengdu, Taipei–Kaohsiung, Tokyo–Nagoya, Tokyo–Sendai and Tokyo–Niigata, while also greatly reducing air traffic on routes such as Amsterdam–Brussels, Barcelona-Madrid and Naples–Rome–Milan.
+China Southern Airlines, China's largest airline, expects the construction of China's high-speed railway network to impact (through increased competition and falling revenues) 25% of its route network in the coming years.
+
+
+=== Market shares ===
+European data indicate that air traffic is more sensitive than road traffic (car and bus) to competition from HSR, at least on journeys of 400 km (249 mi) and more. TGV Sud-Est reduced the travel time Paris–Lyon from almost four to about two hours. Market share rose from 40 to 72%. Air and road market shares shrunk from 31 to 7% and from 29 to 21%, respectively. On the Madrid–Seville link, the AVE connection increased share from 16 to 52%; air traffic shrunk from 40 to 13%; road traffic from 44 to 36%, hence the rail market amounted to 80% of combined rail and air traffic. This figure increased to 89% in 2009, according to Spanish rail operator Renfe.
+According to Peter Jorritsma, the rail market share s, as compared to planes, can be computed approximately as a function of the travelling time in minutes t by the logistic formula
+
+  
+    
+      
+        s
+        =
+        
+          
+            1
+            
+              0.031
+              ×
+              
+                1.016
+                
+                  t
+                
+              
+              +
+              1
+            
+          
+        
+      
+    
+    {\displaystyle s={1 \over 0.031\times 1.016^{t}+1}}
+  
+
+According to this formula, a journey time of three hours yields a 65% market share, not taking into account any price differential in tickets.
+In Japan, there is a so-called "4-hour wall" in high-speed rail's market share: If the high-speed rail journey time exceeds 4 hours, then people likely choose planes over high-speed rail. For instance, from Tokyo to Osaka, a 2h22m-journey by Shinkansen, high-speed rail has an 85% market share whereas planes have 15%. From Tokyo to Hiroshima, a 3h44m-journey by Shinkansen, high-speed rail has a 67% market share whereas planes have 33%. The situation is the reverse on the Tokyo to Fukuoka route where high-speed rail takes 4h47m and rail only has 10% market share and planes 90%.
+In Taiwan, China Airlines cancelled all flights to Taichung Airport within a year of Taiwan high-speed rail starting operations. Completion of the high-speed railway in 2007 led to drastically fewer flights along the island's west coast, with flights between Taipei and Kaohsiung ceasing altogether in 2012.
+
+
+=== Energy efficiency ===
+Travel by rail is more competitive in areas of higher population density or where gasoline is expensive because conventional trains are more fuel-efficient than cars when ridership is high, similar to other forms of mass transit. Very few high-speed trains consume diesel or other fossil fuels but the power stations that provide electric trains with electricity can consume fossil fuels. In Japan (prior to the Fukushima Daiichi nuclear disaster) and France, with very extensive high-speed rail networks, a large proportion of electricity comes from nuclear power. On the Eurostar, which primarily runs off the French grid, emissions from traveling by train from London to Paris are 90% lower than by flying. In Germany 38.5% of all electricity was produced from renewable sources in 2017, however railways run on their own grid partially independent from the general grid and relying in part on dedicated power plants. Even using electricity generated from coal, fossil gas or oil, high-speed trains are significantly more fuel-efficient per passenger per kilometer traveled (despite the greater resistance to motion of the railcars at higher speeds) than the typical automobile because of economies of scale in generator technology and trains themselves, as well as lower air friction and rolling resistance at the same speed.
+
+
+=== Automobiles and buses ===
+High-speed rail can accommodate more passengers at far higher speeds than automobiles. Generally, the longer the journey, the better the time advantage of rail over the road if going to the same destination. However, high-speed rail can be competitive with cars on shorter distances, 0–150 kilometres (0–90 mi), for example for commuting, especially if the car users experience road congestion or expensive parking fees. In Norway, the Gardermoen Line has made the rail market share for passengers from Oslo to the airport (42 km) rise to 51% in 2014, compared to 17% for buses and 28% for private cars and taxis. On such short lines−particularly services which call at stations close to one another−the acceleration capabilities of the trains may be more important than their maximum speed. Extreme commuting has been enabled by high-speed rail with commuters covering distances by rail daily that they would not usually by car. Furthermore, stations in less densely populated areas within the larger conurbation of larger cities, like Montabaur railway station and Limburg Süd railway station between Frankfurt and Cologne, are attractive for commuters as the housing prices are more affordable than in the central cities - even when taking into account the price of a yearly ticket for the train. Consequently, Montabaur has the highest per capita rate of Bahn Card 100 in Germany — a ticket that allows unlimited travel on all trains in Germany for a fixed yearly price.
+Moreover, a typical passenger rail carries 2.83 times as many passengers per hour per meter width as a road. A typical capacity is the Eurostar, which provides capacity for 12 trains per hour and 800 passengers per train, totaling 9,600 passengers per hour in each direction. By contrast, the Highway Capacity Manual gives a maximum capacity of 2,250 passenger cars per hour per lane, excluding other vehicles, assuming an average vehicle occupancy of 1.57 people. A standard twin track railway has a typical capacity 13% greater than a 6-lane highway (3 lanes each way), while requiring only 40% of the land (1.0/3.0 versus 2.5/7.5 hectares per kilometre of direct/indirect land consumption). The Tokaido Shinkansen line in Japan, has a much higher ratio (with as many as 20,000 passengers per hour per direction). Similarly, commuter roads tend to carry fewer than 1.57 persons per vehicle (Washington State Department of Transportation, for instance, uses 1.2 persons per vehicle) during commute times. Compare this to the capacity of typical small to mid-sized airliners like the Airbus A320 which in a high-density arrangement has 186 seats or the Boeing 737-800 which has an absolute maximum seated capacity of 189 in a high-density single-class layout - as employed for example by Ryanair. If a business or first class section is provided, those airliners will have lower seating capacities than that.
+
+
+=== Air travel ===
+
+
+==== HSR advantages ====
+Less boarding infrastructure: Although air transit moves at higher speeds than high-speed rail, total time to destination can be increased by travel to/from far out airports, check-in, baggage handling, security, and boarding, which may also increase cost to air travel.
+Short range advantages: Trains may be preferred in short to mid-range distances since rail stations are typically closer to urban centers than airports. Likewise, air travel needs longer distances to have a speed advantage after accounting for both processing time and transit to the airport.
+Urban centers: Particularly for dense city centers, short-hop air travel may not be ideal to serve these areas as airports tend to be far out of the city, due to land scarcity, short runway limitations, building heights, as well as airspace issues.
+Weather: Rail travel also requires less weather dependency than air travel. A well-designed and operated rail system can only be affected by severe weather conditions, such as heavy snow, heavy fog, and major storm. Flights however, often face cancellations or delays under less severe conditions.
+Comfort: High-speed trains also have comfort advantages, since train passengers are allowed to move freely about the train at any point in the journey. Since airlines have complicated calculations to try to minimise weight to save fuel or to allow takeoff at certain runway lengths, rail seats are also less subject to weight restrictions than on planes, and as such may have more padding and legroom. Technology advances such as continuously welded rail have minimised the vibration found on slower railways, while air travel remains affected by turbulence when adverse wind conditions arise. Trains can also accommodate intermediate stops at lower time and energetic costs than planes, though this applies less to HSR than to the slower conventional trains.
+Delays: On particular busy air-routes – those that HSR has historically been most successful on – trains are also less prone to delays due to congested airports, or in the case of China, airspace. A train that is late by a couple of minutes will not have to wait for another slot to open up, unlike airplanes at congested airports. Furthermore, many airlines see short-haul flights as increasingly uneconomic and in some countries airlines rely on high-speed rail instead of short-haul flights for connecting services.
+De-icing: HSR does not need to spend time deicing as planes do, which is time-consuming but critical; it can dent airline profitability as planes remain on the ground and pay airport fees by the hour, as well as take up parking space and contributing to congestive delays.
+Hot and high: Some airlines have cancelled or move their flights to takeoff at night due to hot and high conditions. Such is the case for Hainan Airlines in Las Vegas in 2017, which moved its long haul takeoff slot to after midnight. Similarly, Norwegian Air Shuttle cancelled all its Europe-bound flights during summer due to heat. High-speed rail may complement airport operations during hot hours when takeoffs become uneconomical or otherwise problematic.
+Noise and pollution: Major airports are heavy polluters, downwind of LAX particulate pollution doubles, even accounting for Port of LA/Long Beach shipping and heavy freeway traffic. Trains may run on renewable energy, and electric trains produce no local pollution in critical urban areas at any rate. Noise also is an issue for residents.
+Ability to serve multiple stops: An airplane spends significant amounts of time loading and unloading cargo and/or passengers as well as landing, taxiing and starting again. Trains spend only a few minutes stopping at intermediate stations, often greatly enhancing the business case at little cost.
+Energy: high-speed trains are more fuel-efficient per passenger space offered than planes. Furthermore, they usually run on electricity, which can be produced from a wider range of sources than kerosene.
+
+
+==== Disadvantages ====
+HSR usually requires land acquisition, for example in Fresno, California, where it was caught up in legal paperwork.
+HSR is subject to land subsidence, where expensive fixes sent costs soaring in Taiwan.
+HSR is affected by topography of the terrain as crossing mountain ranges or large bodies of water requires expensive tunnels and bridges.
+HSR is costly due to required specialised infrastructure as well as advanced technologies and multiple safety systems.
+The infrastructure is fixed hence the services provided are limited and can not be changed in response to changing market conditions. However, for passengers this can present an advantage as services are less likely to be withdrawn from railways compared to flight routes.
+As the infrastructure can be extremely expensive, it is not possible to create a direct route between every major city. This means that a train might be transiting or stopping in intermediate stations, increasing the length and duration of a journey.
+Railways require the security and cooperation of all geographies and governments involved.
+As most HSRs are electrified they require an extended electricity grid to supply the Overhead lines
+
+
+==== Pollution ====
+High-speed rail usually implements electric power and therefore its energy sources can be distant or renewable. The usage of electric power in high-speed rails can thereby result in a reduction of air pollutants as shown in a case study on China's high-speed railways throughout its development. This is an advantage over air travel, which currently uses fossil fuels and is a major source of pollution. Studies regarding busy airports such as LAX, have shown that over an area of about 60 square kilometres (23 square miles) downwind of the airport, where hundreds of thousands of people live or work, the particle number concentration was at least twice that of nearby urban areas, showing that airplane pollution far exceeded road pollution, even from heavy freeway traffic.
+
+
+=== Safety ===
+HSR is much simpler to control due to its predictable course. High-speed rail systems reduce (but do not eliminate) collisions with automobiles or people, by using non-grade level track and eliminating grade-level crossings. To date, the only three deadly accidents involving a high-speed train on high-speed tracks in revenue service were the 1998 Eschede train disaster, the 2011 Wenzhou train collision (in which speed was not a factor), and the 2020 Livraga derailment. Shinkansen trains have anti-derailment devices installed under passenger cars, which do not strictly prevent derailment, but prevent the train from travelling a large distance away from train tracks in case a derailment occurs.
+
+
+== Accidents ==
+
+In general, travel by high-speed rail has been demonstrated to be remarkably safe. The first high-speed rail network, the Japanese Shinkansen has not had any fatal accidents involving passengers since it began operating in 1964.
+Notable major accidents involving high-speed trains include the following.
+
+
+=== 1998 Eschede accident ===
+
+In 1998, after over thirty years of high-speed rail operations worldwide without fatal accidents, the Eschede accident occurred in Germany: a poorly designed ICE 1 wheel fractured at a speed of 200 km/h (124 mph) near Eschede, resulting in the derailment and destruction of almost the entire set of 16 cars, and the deaths of 101 people. The derailment began at a switch; the accident was made worse when the derailed cars travelling at high speed struck and collapsed a road bridge located just past the switch.
+
+
+=== 2011 Wenzhou accident ===
+
+On 23 July 2011, 13 years after the Eschede train accident, a Chinese CRH2 travelling at 100 km/h (62 mph) collided with a CRH1 which was stopped on a viaduct in the suburbs of Wenzhou, Zhejiang province, China. The two trains derailed, and four cars fell off the viaduct. Forty people were killed and at least 192 were injured, 12 of them severely.
+The disaster led to a number of changes in management and exploitation of high-speed rail in China. Despite the fact that speed itself was not a factor in the cause of the accident, one of the major changes was to further lower the maximum speeds in high-speed and higher-speed railways in China, the remaining 350 km/h (217 mph) becoming 300 km/h (185 mph), 250 km/h (155 mph) becoming 200, and 200 km/h (124 mph) becoming 160. Six years later they started to be restored to their original high speeds.
+
+
+=== 2013 Santiago de Compostela accident ===
+
+In July 2013, a high-speed train in Spain travelling at 190 km/h (120 mph) attempted to negotiate a curve whose speed limit is 80 km/h (50 mph). The train derailed and overturned, resulting in 78 fatalities. Normally high-speed rail has automatic speed limiting restrictions, but this track section is a conventional section and in this case the automatic speed limit was said to be disabled by the driver several kilometers before the station. A few days later, the train worker's union claimed that the speed limiter did not work properly because of lack of proper funding, acknowledging the budget cuts made by the current government.  Two days after the accident, the driver was provisionally charged with homicide by negligence. This is the first accident that occurred with a Spanish high-speed train, but it occurred in a section that was not high speed and as mentioned safety equipment mandatory on high-speed track would have prevented the accident.
+
+
+=== 2015 Eckwersheim accident ===
+
+On 14 November 2015, a specialised TGV EuroDuplex was performing commissioning tests on the unopened second phase of the LGV Est high-speed line in France, when it entered a curve, overturned, and struck the parapet of a bridge over the Marne–Rhine Canal. The rear power car came to a rest in the canal, while the remainder of the train came to a rest in the grassy median between the northern and southern tracks. Approximately 50 people were on board, consisting of SNCF technicians and, reportedly, some unauthorised guests. Eleven were killed and 37 were injured. The train was performing tests at 10 percent above the planned speed limit for the line and should have slowed from 352 km/h (219 mph) to 176 km/h (109 mph) before entering the curve. Officials have indicated that excessive speed may have caused the accident. During testing, some safety features that usually prevent accidents like this one are switched off.
+
+
+=== 2018 Ankara train collision ===
+
+On 13 December 2018, a high-speed passenger train travelling at 80–90 kilometres per hour (50–56 mph) and a locomotive collided near Yenimahalle in Ankara Province, Turkey. Three cars (carriages/coaches) of the passenger train derailed in the collision. Three railroad engineers and five passengers were killed at the scene, and 84 people were injured. Another injured passenger died later, and 34 passengers, including two in critical condition, were treated in several hospitals.
+
+
+=== 2020 Livraga derailment ===
+
+On 6 February 2020, a high-speed train travelling at 300 km/h (185 mph) derailed at Livraga, Lombardy, Italy. The two drivers were killed and a number of passengers were injured. The cause as reported by investigators was that a faulty set of junction points was in the reverse position, but was reported by the signaling system as being in the normal – i.e. straight – position.
+
+
+=== 2026 Adamuz train derailments ===
+
+On 19 January 2026, two high-speed trains collided at 250km/h after one of them derailed at a switch. At least 42 people have been confirmed dead.
+
+
+== Ridership ==
+High-speed rail ridership has been increasing rapidly since 2000. At the beginning of the century, the largest share of ridership was on the Japanese Shinkansen network. In 2000, the Shinkansen was responsible for about 85% of the cumulative world ridership up to that point.
+This has been progressively surpassed by the Chinese high-speed rail network, which has been the largest contributor of global ridership growth since its inception. As of 2018, annual ridership of the Chinese high-speed rail network is over five times larger than that of the Shinkansen.
+
+
+== Records ==
+
+
+=== Speed ===
+
+There are several definitions of "maximum speed":
+
+The maximum speed at which a train is allowed to run by law or policy in daily service (MOR)
+The maximum speed at which an unmodified train is proved to be capable of running
+The maximum speed at which specially modified train is proved to be capable of running
+
+
+==== Absolute speed record ====
+
+
+===== Overall rail record =====
+The speed record for a pre-production unconventional passenger train was set by a seven-car L0 series manned maglev train at 603 km/h (375 mph) on 21 April 2015 in Yamanashi Prefecture, Japan.
+
+
+===== Conventional rail =====
+Since the 1955 record, where France recorded a world record of speed of 331 km/h, France has nearly continuously held the absolute world speed record. The latest record is held by a TGV POS trainset, which reached 574.8 km/h (357.2 mph) in 2007, on the newly constructed LGV Est high-speed line. This run was for proof of concept and engineering, not to test normal passenger service.
+
+
+==== Maximum speed in service ====
+
+As of 2022, the fastest trains currently in commercial operation are:
+
+CR400AF/KCIC400AF, CR400BF: 350 km/h (220 mph) (in China and Indonesia)
+TGV Duplex, TGV Réseau, TGV POS, TGV Euroduplex: 320 km/h (200 mph) (in France)
+Eurostar e320: 320 km/h (200 mph) (in France and United Kingdom)
+E5, H5, E6 Series Shinkansen: 320 km/h (200 mph) (in Japan)
+ICE 3 Class 403, 406, 407: 320 km/h (200 mph) (in Germany)
+AVE Class 103: 310 km/h (190 mph) (in Spain)
+CRH2C, CRH3C, CRH380A & AL, CRH380B, BL & CL, CRH380D: 310 km/h (190 mph) (in China)
+KTX-I, KTX-Sancheon, KTX-Cheongryong: 305 km/h (190 mph) (in South Korea)
+AGV 575, ETR 500, ETR 1000 (Frecciarossa 1000): 300 km/h (185 mph) (in Italy)
+Shanghai Maglev: 300 km/h (185 mph) (in China, on the lone 30 km (19 mi) maglev track). Until May 2021 this was run at 431 km/h.
+Many of these trains and their networks are technically capable of higher speeds but they are capped out of economic and commercial considerations (cost of electricity, increased maintenance, resulting ticket price, etc.)
+
+
+===== Conventional rail =====
+The fastest operating conventional trains are the Chinese CR400A and CR400B running on Beijing–Shanghai HSR, after China relaunched its 350 km/h class service on select services effective 21 September 2017. In China, from July 2011 until September 2017, the maximum speed was officially 300 km/h (185 mph), but a 10 km/h (6 mph) tolerance was acceptable, and trains often reached 310 km/h (193 mph). Before that, from August 2008 to July 2011, China Railway High-speed trains held the highest commercial operating speed record with 350 km/h (217 mph) on some lines such as the Wuhan–Guangzhou high-speed railway.
+The speed of the service was reduced in 2011 due to high costs and safety concerns the top speeds in China were reduced to 300 km/h (185 mph) on 1 July 2011. Six years later they started to be restored to their original high speeds.
+Other fast conventional trains are the French TGV POS, German ICE 3, and Japanese E5 and E6 Series Shinkansen with a maximum commercial speed of 320 km/h (199 mph), the former two on some French high-speed lines, and the latter on a part of Tohoku Shinkansen line.
+In Spain, on the Madrid–Barcelona HSL, maximum speed is 310 km/h (193 mph).
+
+
+=== Service distance ===
+
+The China Railway G403/4, G405/6 and D939/40 Beijing–Kunming train (2,653 kilometres or 1,648 miles, 10 hours 43 minutes to 14 hours 54 minutes), which began service on 28 December 2016, are the longest high-speed rail services in the world.
+
+
+== Existing systems by country and region ==
+
+The early high-speed lines, built in France, Japan, Italy and Spain, were between pairs of large cities. In France, this was Paris–Lyon, in Japan, Tokyo–Osaka, in Italy, Rome–Florence, in Spain, Madrid–Seville (then Barcelona). In European and East Asian countries, dense networks of urban subways and railways provide connections with high-speed rail lines.
+
+
+=== Asia ===
+
+
+==== China ====
+
+China has the largest network of high-speed railways in the world. As of 2025, it encompassed over 50,000 kilometres (31,000 miles) of high-speed rail.  It is also the world's busiest with an annual ridership of over 1.44 billion in 2016 and 2.01 billion in 2018, more than 60% of total passenger rail volume. By the end of 2018, cumulative passengers delivered by high-speed railway trains was reported to be over 9 billion. According to Railway Gazette International, select trains between Beijing South to Nanjing South on the Beijing–Shanghai high-speed railway have the fastest average operating speed in the world at 317.7 km/h (197.4 mph) as of July 2019.
+
+The improved mobility and interconnectivity created by these new high-speed rail lines has generated a whole new high-speed commuter market around some urban areas. Commutes via high-speed rail to and from surrounding Hebei and Tianjin into Beijing have become increasingly common, likewise are between the cities surrounding Shanghai, Shenzhen and Guangzhou.
+
+
+===== Hong Kong =====
+
+A 26 kilometres (16 miles), entirely underground express rail link connects Hong Kong West Kowloon railway station near Kwun Chung to the border with Mainland China, where the railway continues onwards to Shenzhen's Futian station. A depot and the stabling sidings are located in Shek Kong. Parts of the West Kowloon station are not under the jurisdiction of Hong Kong to facilitate co-location of border clearance.
+
+
+==== Indonesia ====
+
+Indonesia operates a 142.8 kilometres (88.7 miles) high-speed rail line connecting its two largest cities in Western Java, the Whoosh HSR with an operational speed of 350 km/h (217 mph). Operations commenced in October 2023. It is the first high-speed rail in Southeast Asia and the Southern Hemisphere.
+
+
+==== Japan ====
+
+In Japan, the Shinkansen was the first high-speed train and has a cumulative ridership of 10+ billion passengers with zero passenger fatalities due to operational accidents in its 60+ years of operation. It is the second largest high-speed rail system in Asia with 2,951 kilometres (1,834 miles) of high-speed lines.
+
+
+==== Saudi Arabia ====
+Plans in Saudi Arabia to begin service on a high-speed line consist of a phased opening starting with the route from Medina to King Abdullah Economic City followed up with the rest of the line to Mecca the following year. The 453-kilometre-long (281 mi) Haramain high-speed railway opened in 2018.
+
+
+==== South Korea ====
+
+Since its opening in 2004, KTX has transferred over 1 billion passengers as of August 2023, and now Asia's third largest with 
+887 kilometres (551 miles) of rail lines. In 2013, for any transportation involving travel above 300 km/h (185 mph), the KTX secured a market share of 57% over other modes of transport, which is by far the largest.
+
+
+==== Taiwan ====
+
+Taiwan has a single north–south high-speed line, Taiwan high-speed rail. It is approximately 345 kilometres (214 miles) long, along the west coast of Taiwan from the national capital Taipei to the southern city of Kaohsiung. The construction was managed by Taiwan  high-speed rail Corporation and the total cost of the project was US$18 billion. The private company operates the line fully, and the system is based primarily on Japan's Shinkansen technology.
+Eight initial stations were built during the construction of the  high-speed rail system: Taipei, Banqiao, Taoyuan, Hsinchu, Taichung, Chiayi, Tainan, and Zuoying (Kaohsiung). The line now has 12 total stations (Nangang, Taipei, Banqiao, Taoyuan, Hsinchu, Miaoli, Taichung, Changhua, Yunlin, Chiayi, Tainan and Zuoying) as of August 2018. There is a planned and approved extension to Yilan and Pingtung, which are set to enter service by 2030.
+
+
+==== Uzbekistan ====
+
+Uzbekistan has a single high-speed rail line, the Tashkent–Samarkand high-speed rail line, which allows trains to reach up to 250 km/h (155.3 mph) with 600 kilometres (370 miles) of rail lines. There are also electrified extensions at lower speeds to Bukhara and Dehkanabad.
+
+
+=== Africa ===
+
+
+==== Morocco ====
+In November 2007, the Moroccan government decided to undertake the construction of a high-speed rail line between the economic capital Casablanca and Tangier, one of the largest harbour cities on the Strait of Gibraltar. The line will also serve the capital Rabat and Kenitra. The first section of the line, the 323-kilometre  (201 mi) Kenitra–Tangier high-speed rail line, was completed in 2018.
+
+
+=== Europe ===
+
+In Europe, several nations are interconnected with cross-border high-speed rail, such as London-Paris, Paris-Brussel-Rotterdam, Madrid-Perpignan, and other future connecting projects exist.
+
+
+==== France ====
+
+France has 2,800 kilometres (1,700 miles) of high-speed rail lines, making it one of the largest networks in Europe and the world. Market segmentation has principally focused on the business travel market. The French original focus on business travellers is reflected by the early design of the TGV trains. Pleasure travel was a secondary market; now many of the French extensions connect with vacation beaches on the Atlantic and Mediterranean, as well as major amusement parks and also the ski resorts in France and Switzerland. Friday evenings are the peak time for TGVs (train à grande vitesse). The system lowered prices on long-distance travel to compete more effectively with air services, and as a result some cities within an hour of Paris by TGV have become commuter communities, increasing the market while restructuring land use.
+On the Paris–Lyon service, the number of passengers grew sufficiently to justify the introduction of double-decker coaches. Later high-speed rail lines, such as the LGV Atlantique, the LGV Est, and most high-speed lines in France, were designed as feeder routes branching into conventional rail lines, serving a larger number of medium-sized cities.
+
+
+==== Germany ====
+
+Germany's first high-speed lines ran north–south, for historical reasons, and later developed east–west after German unification. In the early 1900s, Germany became the first country to run a prototype electric train at speeds in excess of 200 km/h, and during the 1930s several steam and diesel trains achieved revenue speeds of 160 km/h in daily service. The InterCityExperimental briefly held the world speed record for a steel-wheel-on-steel-rails vehicle during the 1980s. The InterCityExpress entered revenue service in 1991 and serves purpose-built high-speed lines (Neubaustrecken), upgraded legacy lines (Ausbaustrecken), and unmodified legacy lines. Lufthansa, Germany's flag carrier, has entered into a codeshare agreement with Deutsche Bahn where ICEs run as "feeder flights" bookable with a Lufthansa flight number under the AIRail program.
+
+
+==== Greece ====
+In 2022, Greece's first high-speed train began operations between Athens and Thessaloniki. The 512 km (318 miles) route is covered in 3 to 4 hours with trains reaching speeds of up to 250 km/h (160 miles/h). The 180 km (112 mile)  line from Athens to Patras is also being upgraded to high speed with an expected completion by 2026. The route between Athens and Thessaloniki was previously among the busiest passenger air routes in Europe.
+
+
+==== Italy ====
+
+During the 1920s and 1930s, Italy was one of the first countries to develop the technology for high-speed rail. The country constructed the Direttissime railways connecting major cities on dedicated electrified high-speed track (although at speeds lower to what today would be considered high-speed rail) and developed the fast ETR 200 trainset. After the Second World War and the fall of the fascist regime, interest in high-speed rail dwindled, with the successive governments considering it too costly and developing the tilting Pendolino, to run at medium-high speed (up to 250 km/h (160 mph)) on conventional lines, instead.
+A true dedicated high-speed rail network was developed during the 1980s and the 1990s, and 1,000 km (621 mi) of high-speed rail were fully operational by 2010. Frecciarossa services are operated with ETR 500 and ETR1000 non-tilting trains at 25kVAC, 50 Hz power. The operational speed of the service is 300 km/h (185 mph).
+Over 100 million passengers used the Frecciarossa from the service introduction up to the first months of 2012. The high-speed rail system serves about 20 billion passenger-km per year as of 2016.
+Italian high-speed services are profitable without government funding.
+Nuovo Trasporto Viaggiatori, the world's first private open-access operator of high-speed rail, is operative in Italy since 2012.
+
+
+==== Norway ====
+
+As of 2015, Norway's fastest trains have a commercial top speed of 210 km/h (130 mph) and the FLIRT trains may attain 200 kilometres per hour (120 miles per hour). However the train type 78 which have a top speed of 245 km/h. A velocity of 210 kilometres per hour (130 miles per hour) is permitted on the 42 kilometres (26 miles) Gardermoen Line, which links the Gardermoen airport to Oslo and a part of the main line northwards to Trondheim.
+Some parts of the trunk railways around Oslo are renewed and built for 250 km/h (160 mph):
+
+The Follo Line southwards from Oslo, a 22-kilometre-long (14-mile) line Oslo–Ski on the Østfold Line, mainly in tunnel, planned to be ready in 2021.
+The Holm–Holmestrand–Nykirke part of the Vestfold Line (west to southwest of Oslo).
+The Farriseidet project, 14.3 kilometres (8.9 miles) between Larvik and Porsgrunn on the Vestfold Line, 12.5 kilometres (7.8 miles) in tunnel.
+
+
+==== Russia ====
+
+The existing Saint Petersburg–Moscow Railway can operate at maximum speeds of 250 km/h; the Helsinki–Saint Petersburg railway, dismantled after the 2022 Russian invasion of Ukraine, was capable of a maximum of 200 km/h. A new Moscow–Saint Petersburg high-speed railway, designed specifically for high-speed rail, is currently under construction: once completed, it is expected to have the maximum speed of 400 km/h. Future areas include freight lines, such as the Trans-Siberian Railway in Russia, which would allow 3-day Far East to Europe service for freight, potentially fitting in between the months by ship and hours by air.
+
+
+==== Serbia ====
+A high-speed line of SOKO (Serbian: soko, meaning "falcon") trains connects the country's two most populous cities: Belgrade, the capital of the country, and Novi Sad, the capital of Vojvodina. In contrast to the slower Stadler FLIRT trains used for the Regio lines, the Stadler KISS-es take 36 minutes to go across two cities. In addition to the two main stations, the trains only stop in New Belgrade. In 2025 the line was extended to reach Subotica, Serbia's northernmost city, the anticipated travel time between Belgrade and Subotica is around 70 minutes.
+
+
+==== Spain ====
+
+Spain has built an extensive high-speed rail network, with a length of 3,973 km (2,469 mi) (2024), the longest in Europe. It uses standard gauge as opposed to the Iberian gauge used in most of the national railway network, meaning that the high-speed tracks are separated and not shared with local trains or freight. Although standard gauge is the norm for Spanish  high-speed rail, since 2011 there exists a regional high-speed service running on Iberian gauge with special trains that connects the cities of Ourense, Santiago de Compostela, A Coruña, and Vigo in northwestern Spain. Connections to the French network exist since 2013, with direct trains from Paris to Barcelona. Although on the French side, conventional speed tracks are used from Perpignan to Montpellier.
+
+
+==== Sweden ====
+
+In Sweden many trains run at 200 km/h (125 mph). Train types which currently attain this speed include the X 2000 tilting trains for long distances, the Regina widebody trains, the X40 double-decker regional trains, the Arlanda Airport Express X3, the MTRX-trains and the Stadler KISS-inspired double-decker regional trains. The X2 runs between many cities in Sweden including Stockholm, Gothenburg, and Malmö. The Arlanda Express trains connect Stockholm and Stockholm-Arlanda Airport.
+In December 2021, SJ announced that they are ordering twenty-five SJ 250 trainsets (based on the Zefiro Express platform) which would be capable of going 250 km/h (155 mph). They are expected to go into service in 2026, and will complement the X2000 service on the busiest lines (Stockholm—Gothenburg/Malmö) as well as cross-border traffic with Denmark and Norway.
+
+
+==== Switzerland ====
+
+High-speed north–south freight lines in Switzerland are under construction, avoiding slow mountainous truck traffic, and lowering labour costs. The new lines, in particular the Gotthard Base Tunnel, are built for 250 km/h (155 mph). But the short high-speed parts and the mix with freight will lower the average speeds. The limited size of the country gives fairly short domestic travel times anyway. Switzerland is investing money in lines on French and German soil to enable better access to the high-speed rail networks of those countries from Switzerland.
+
+
+==== Turkey ====
+
+The Turkish State Railways started building high-speed rail lines in 2003. The first section of the line, between Ankara and Eskişehir, was inaugurated on 13 March 2009. It is a part of the 533 km (331 mi) Istanbul to Ankara high-speed rail line. A subsidiary of Turkish State Railways, Yüksek Hızlı Tren is the sole commercial operator of high-speed trains in Turkey.
+The construction of three separate high-speed lines from Ankara to Istanbul, Konya and Sivas, as well as taking an Ankara–İzmir line to the launch stage, form part of the Turkish Ministry of Transport's strategic aims and targets.
+
+
+==== United Kingdom ====
+
+The UK's fastest high-speed line (High Speed 1) connects London St Pancras with Brussels, Paris and Amsterdam through the Channel Tunnel. At speeds of up to 300 km/h (185 mph), it is the only high-speed line in Britain with an operating speed of more than 125 mph (201 km/h).
+The Great Western Main Line, South Wales Main Line, West Coast Main Line, Midland Main Line, Cross Country Route and East Coast Main Line all have maximum speed limits of 125 mph (201 km/h). Attempts to increase speeds to 140 mph (225 km/h) on both the West Coast Main Line and East Coast Main Line were abandoned in the 1980s, due to trains operating on those lines not being capable of cab signalling, which was made a legal requirement in the UK for tracks permitted to operate any service at speeds greater than 125 mph (201 km/h), due to the impracticality of observing lineside signals at such speeds.
+
+
+=== North America ===
+
+
+==== United States ====
+
+The United States has domestic definitions for high-speed rail varying between jurisdictions.
+
+The United States Code defines high-speed rail as services "reasonably expected to reach sustained speeds of more than 125 mph (201 km/h)",
+The Federal Railroad Administration uses a definition of top speeds at 110 mph (180 km/h) and above.
+The Congressional Research Service uses the term "higher-speed rail" for speeds up to 150 mph (240 km/h) and "very  high-speed rail" for the rail on dedicated tracks with speeds over 150 mph.
+Amtrak's Acela (reaching 160 mph (260 km/h)), Northeast Regional, Keystone Service, Silver Star, Vermonter and certain MARC Penn Line express trains (the three reaching 125 mph (201 km/h)) are currently the only high-speed services on the American continent according to the American definition, although they are not considered high-speed by international standards (except for the Avelia Liberty). These services are all limited to the Northeast Corridor. The Acela Express links Boston, New York City, Philadelphia, Baltimore, and Washington, D.C., and while Northeast Regional trains travel the whole of the same route, but make more station stops. All other high-speed rail services travel over portions of the route.
+As of 2024, there are two high-speed rail projects under construction in the United States. The California High-Speed Rail project, eventually linking the 5 largest cities in California, is planned to have its first operating segment, between Merced and Bakersfield, begin passenger service as soon as 2030. The Brightline West project is planned to be privately operated and link the Las Vegas Valley and Rancho Cucamonga in the Greater Los Angeles area, with service set to begin in as soon as 2028.
+
+
+==== Canada ====
+
+The first high speed rail project in Canada was announced on February 19, 2025 by outgoing Prime Minister Justin Trudeau to connect Toronto to Quebec City, with intervening stops at (from west to east) Peterborough, Ontario, Ottawa, Montreal, and Trois-Rivières. This region along Lake Ontario and the St. Lawrence River is home to the approximately half of Canada's population. Public consultations began in January 2026.
+
+
+== Inter-city effects ==
+With high-speed rail there has been an increase in accessibility within cities. It allows for urban regeneration, accessibility in cities near and far, and efficient inter-city relationships. Better inter-city relationships lead to high-level services to companies, advanced technology, and marketing. The most important effect of HSR is the increase of accessibility due to shorter travel times. HSR lines have been used to create long-distance routes which in many cases cater to business travellers. However, there have also been short-distance routes that have revolutionised the concepts of HSR. They create commuting relationships between cities opening up more opportunities. Using both longer distance and shorter distance rail in one country allows for the best case of economic development, widening the labor and residential market of a metropolitan area and extending it to smaller cities. Therefore, HSR is highly related to urban development, it attracts offices and start-ups, induces industrial displacement, and promotes firm innovation.
+
+
+== Closures ==
+The KTX Incheon International Airport to Seoul Line (operates on Incheon AREX) was closed in 2018, due to a mix of issues, including poor ridership and track sharing. The AREX was not constructed as high-speed rail, resulting a cap of 150 km/h on KTX service in its section.
+In China, many conventional lines upgraded up to 200 km/h had high-speed services shifted to parallel high-speed lines. These lines, often passing through towns and having level crossings, are still used for local trains and freight trains. For example, all (passenger) EMU services on the Hankou–Danjiangkou railway were routed over the Wuhan–Shiyan high-speed railway on its opening to free up capacity for freight trains on the slower railway.
+In India, the Regional Rapid Transit System (RRTS) network is being newly constructed to provide semi-high-speed rail connectivity between major cities and suburban areas. The RRTS corridors are designed for a maximum speed of 180 km/h, with an operational speed of up to 160 km/h. As these new corridors open, certain existing slower regional services, such as conventional EMU and MEMU trains, are planned for rerouting, rationalization, or reduction to prioritize the faster RRTS services. For example, after the opening of the Delhi–Meerut RRTS corridor, some regional services between Delhi and Meerut are expected to be scaled back to optimize operations on the new high-speed corridor.
+
+
+== See also ==
+
+
+== References ==
+
+
+=== Works cited ===
+
+
+== Further reading ==
+
+
+== External links ==
+
+US  high-speed rail Association official site
+UIC:  high-speed rail
+World's fastest high-speed trains in commercial operation
+ Tips for rail travel travel guide from Wikivoyage
+Progress with Railway Interoperability in the European Union 2013 Biennial Report Archived 27 July 2018 at the Wayback Machine

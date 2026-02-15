@@ -1,0 +1,206 @@
+# Electric Bicycles
+Source: https://en.wikipedia.org/wiki/Electric_bicycle
+
+An electric bicycle, e-bike, electrically assisted pedal cycle, or electrically power assisted cycle is a bicycle with an integrated electric motor used to assist propulsion. Many kinds of e-bikes are available worldwide, but they generally fall into two broad categories: bikes that require the rider's pedal-power (i.e. pedelecs) and bikes that control the motor with buttons or a twistgrip, integrating moped-style functionality. Both retain the ability to be pedaled by the rider and are therefore not electric motorcycles. E-bikes use rechargeable batteries and typically are motor-powered up to 25 to 32 km/h (16 to 20 mph), some to 45 km/h (28 mph).
+Depending on local laws, many e-bikes (especially pedelecs) are legally classified as bicycles rather than mopeds or motorcycles. This exempts them from the more stringent laws regarding the certification and operation of more powerful two-wheelers which are often classed as electric motorcycles, such as licensing and mandatory safety equipment. E-bikes can also be defined separately and treated under distinct electric bicycle laws.
+Bicycles, e-bikes, and e-scooters, alongside e-cargo bikes, are commonly classified as micro-mobility vehicles. When comparing bicycles, e-bikes, and e-scooters from active and inclusiveness perspectives, traditional bicycles can be range and speed-limited for weaker, older, or unused persons, or very fast and long-range for athletic persons. E-scooters, however, cannot be categorized as an active transport mode and offer no health benefits. E-bikes and especially pedelecs stand out as the only option that combines the benefits of active transport with inclusivity, as their electric-motor helps riders cover greater distances and inclines without the need for high physical effort, making them suitable for a wide variety of users. However, legal and technical issues limit speeds and distances, making them more suitable for shopping and commuting than long-distance touring and sport.
+
+
+== History ==
+
+
+=== 1890s to 1980s ===
+
+In the 1890s, electric bicycles were documented within various U.S. patents. For example, on 31 December 1895, Ogden Bolton Jr. was granted a patent for a battery-powered bicycle with "6-pole brush-and-commutator direct current (DC) hub motor mounted in the rear wheel" (U.S. patent 552,271). There were no gears and the motor could draw up to 100 amperes from a 10-volt battery.
+Two years later, in 1897, Hosea W. Libbey of Boston invented an electric bicycle (U.S. patent 596,272) that was propelled by a "double electric motor". The motor was designed within the hub of the crankset axle. (This model was later re-invented and imitated in the late 1990s by Giant Lafree e-bikes.)
+By 1898, a rear-wheel drive electric bicycle, which used a driving belt along the outside edge of the wheel, was patented by Mathew J. Steffens. An 1899 patent by John Schnepf (U.S. patent 627,066) depicted an electric bicycle with a rear-wheel friction, "roller-wheel"-style drive. In 1969, Schnepf's invention was expanded by G.A. Wood Jr. (U.S. patent 3,431,994). Wood's device used four fractional horsepower motors connected through a series of gears.
+Hub motors fell out of favor until the latter part of the first decade of the 2000s when they made a resurgence on inexpensive electric bicycles.
+
+
+=== 1990s to present day ===
+From 1992, Vector Services Limited offered the Zike e-bike. The bicycle included nickel–cadmium battery (NiCad) batteries that were built into a frame member and included an 850 g (30 oz) permanent-magnet motor.
+Torque sensors and power controls were developed during the late 1990s. For example, a Japanese patent (6163148) was granted in 1997 to a team led by Yutaka Takada, for a "Sensor, drive force auxiliary device ... and torque sensor zero point adjusting mechanism".
+American car executive Lee Iacocca founded EV Global Motors in 1997, a company that produced an electric bicycle model named E-bike SX, and it was one of the early efforts to popularize e-bikes in the US.
+By 2007, e-bikes were thought to make up 10 to 20 percent of all two-wheeled vehicles on the streets of many major Chinese cities. A typical unit requires eight hours to charge the battery, which provides the range of 40 to 48 kilometres (25 to 30 mi), at the speed of around 20 km/h (12 mph).
+In the 2010s electric bicycles attracted considerable traction in Europe led by government policies and environmental awareness encouraging sustainable technologies. Some countries such as Germany and Netherlands turned into significant e-bikes markets with the aim to reduce urban congestion and carbon emissions. Moreover, the evolution of lithium-ion battery (Li-ion) technology contributed to e-bikes adoption. They provided faster charging times, lighter weight and longer range in order to make e-bikes more efficient and practical for daily use.
+
+
+== Definition and classes ==
+As of 2025 many countries do not have quality standards for ebikes, rules about who can ride them and where, or even a clear legal definition of what they are.
+E-bikes are classed according to the power that their electric motor can deliver and the control system, i.e., when and how the power from the motor is applied. Also the classification of e-bikes is complicated as much of the definition is due to the legality of what constitutes a bicycle and what constitutes a moped or motorcycle. As such, the classification of these e-bikes varies greatly across countries and local jurisdictions.
+Despite these legal complications, the classification of e-bikes is mainly decided by whether the e-bike's motor assists the rider using a pedal-assist system or by a power-on-demand one. Definitions of these are as follows:
+
+With pedal-assist, the electric motor is regulated by pedaling. The pedal-assist augments the efforts of the rider when they are pedaling. These e-bikes – called pedelecs – have a sensor to detect the pedaling speed, the pedaling force, or both. Brake activation is sensed to disable the motor as well.
+With power-on-demand, the motor is activated by a throttle, usually handlebar-mounted just like on most motorcycles or scooters.
+Therefore, very broadly, e-bikes can be classed as:
+
+E-bikes with pedal-assist only: either pedelecs (legally classed as bicycles) or S-Pedelecs (often legally classed as mopeds)
+Pedelecs: have pedal-assist only, motor assists only up to a decent but not excessive speed (usually 25 km/h or 16 mph), motor power up to 250 W (0.34 hp), often legally classed as bicycles
+S-Pedelecs: have pedal-assist only, motor power can be greater than 250 W (0.34 hp), can attain a higher speed (e.g., 45 km/h or 28 mph)) before motor stops assisting, sometimes legally classed as a moped or motorcycle.
+E-bikes with power-on-demand and pedal-assist
+E-bikes with power-on-demand only frequently have more powerful motors than pedelecs. The more powerful of these are legally classed as mopeds or motorcycles, but may not meet the legal requirements for registration as street-legal motorcycles.
+
+
+=== Pedal-assist only ===
+E-bikes with pedal-assist only are usually called pedelecs but can be broadly classified into pedelecs proper and the more powerful S-Pedelecs.
+
+
+==== Pedelecs ====
+
+The term "pedelec" (from pedal electric cycle) refers to a pedal-assist e-bike with a relatively low-powered electric motor and a decent but not excessive top speed. Pedelecs are legally classed as bicycles rather than low-powered motorcycles or mopeds.
+The most influential definition of pedelecs comes from the EU. EU directive (EN15194 standard) for motor vehicles considers a bicycle to be a pedelec if:
+
+The pedal-assist, i.e. the motorized assistance, only engages when the rider is pedaling,
+The motor cuts out once 25 km/h (16 mph) is reached, and
+The motor produces maximum continuous rated power of not more than 250 W (0.34 hp) (the motor can produce more power for short periods, such as when the rider is struggling to get up a steep hill).
+An e-bike conforming to these conditions is considered to be a pedelec in the EU and is legally classed as a bicycle. The EN15194 standard is valid across the whole of the EU and has been adopted by some non-EU European nations including the UK, and also some non-European jurisdictions (such as the state of Victoria in Australia).
+Pedelecs are much like conventional bicycles in use and function—the electric motor only provides assistance, for example, when the rider is climbing or struggling against a headwind. Pedelecs are therefore especially useful for people in hilly areas where riding a bike would prove too strenuous for many to consider taking up cycling as a daily means of transport. They are also useful for riders who more generally need some assistance, e.g. for people with heart, leg muscle or knee joint issues.
+
+
+==== S-Pedelecs ====
+More powerful pedelecs which are not legally classed as bicycles are dubbed S-Pedelecs (short for Schnell-Pedelecs, i.e. Speedy-Pedelecs) in Germany. These have a motor more powerful than 250 W (0.34 hp) and less limited, or unlimited, pedal-assist, i.e. the motor does not stop assisting the rider once 25 km/h (16 mph) has been reached. S-Pedelec class e-bikes are therefore usually classified as mopeds or motorcycles rather than as bicycles and therefore may (depending on the jurisdiction) need to be registered and insured, the rider may need some sort of driver's license (either car or motorcycle) and motorcycle helmets may have to be worn. In the United States, many states have adopted S-Pedelecs into the Class 3 category, limited to 750 W (1.01 hp) of power and 45 km/h (28 mph) speed. In Europe they are likely to be classed as mopeds requiring a registration plate and a licensed driver. In Australia, they can only be used on private property.
+
+
+=== Power-on-demand and pedal-assist ===
+Some newer electric bikes include a pedal assist system (PAS) with or without throttle, allowing riders to pedal while using the electric motor to increase range. There are electric propulsion conversion kits for ordinary bicycles.
+
+
+=== Power-on-demand only ===
+Some e-bikes have an electric motor that operates on a power-on-demand basis only; the motor is engaged and operated manually using a throttle, with control usually on the handgrip as on a motorbike or scooter. These sorts of e-bikes often, but not always, have more powerful motors than pedelecs.
+With power-on-demand only e-bikes the rider can:
+
+ride by pedal power alone, i.e. fully human-powered.
+ride by electric motor alone by operating the throttle manually.
+ride using both together at the same time.
+Some power-on-demand only e-bikes are very different from, and cannot be classified as, bicycles. For example, the Noped is a term used by the Ministry of Transportation of Ontario for e-bikes which are not fitted with pedals.
+
+
+== Popularity ==
+
+E-bike usage worldwide has experienced rapid growth since 1998. China is the world's leading producer of e-bikes. According to the data of the China Bicycle Association, a government-chartered industry group, in 2004 China's manufacturers sold 7.5 million e-bikes nationwide, which was almost twice the year 2003 sales; domestic sales reached 10 million in 2005, and 16 to 18 million in 2006. In 2016, approximately 210 million electric bikes were used daily in China.
+According to trade umbrella body CONEBI, electric bike sales in the EU were over 5 million in 2021, up from 2 million e-bikes in 2016, up from 700,000 in 2010 and 200,000 in 2007. In 2019, the EU implemented a 79.3% protective tariff on imported Chinese e-bikes to protect EU producers. In 2022, electric bikes continued to grow market share in the EU, rising to 57% of bike sales in the Netherlands, 49% in Austria, 48% in Germany and 47% in Belgium.
+
+
+== Motors and drivetrains ==
+
+DC motors are commonly used in electric bicycles, either brushed or brushless. Many configurations are available, varying in cost and complexity; direct-drive and geared motor units are both used. An electric power-assist system may be added to almost any pedal cycle using chain drive, belt drive, hub motors or friction drive.
+Brushless hub motors are the most common in modern designs. The motor is built into the wheel hub itself, while the stator is fixed solidly to the axle, and the magnets are attached to and rotating with the wheel. The bicycle wheel hub is the motor. The power levels of motors used are influenced by available legal categories and are often, but not always limited to under 750 watts. With a front-drive the motor sits in the front hub, and with a rear-drive the motor sits in the rear hub. Hub motors were common in 19th century electric bicycle designs but fell out of favor until their resurgence in the 2000s.
+Another type of electric assist motor is the mid-drive system, where the electric motor is not built into the wheel but is usually mounted beside or under the bottom bracket shell. The propulsion is provided at the pedals rather than at the wheel, being eventually applied to the wheel via the bicycle's standard drive train. Freewheel crank, that is a freewheel in the bottom bracket, is a necessary part in mid-drive systems to allow the electric motor to work inside its optimal rotational speed range (r/min).
+Because the power is applied through the chain and sprocket, power is typically limited to around 250–500 watts to protect against fast wear on the drivetrain. An electric mid-drive combined with an internal gear hub at the back hub may require care due to the lack of a clutch mechanism to soften the shock to the gears at the moment of re-engagement. A continuously variable transmission or a fully automatic internal gear hub may reduce the shocks due to the viscosity of oils used for liquid coupling instead of the mechanical couplings of the conventional internal gear hubs.
+The main advantage mid-drive motors have over hub motors is that power is applied through the chain (or belt) and thus it uses the existing rear gears (either external or internal). This allows for the motor to operate more efficiently at a wider range of vehicle speeds. Without using the bicycle's gears, equivalent hub motors tend to be less effective propelling the ebike slowly up steep hills and also propelling the ebike fast on the flat.
+
+
+== Batteries ==
+
+E-bikes use rechargeable batteries in addition to electric motors and some form of control. Battery systems in use include sealed lead–acid (SLA), nickel–cadmium (NiCad), nickel–metal hydride (NiMH) or lithium-ion polymer (Li-ion). Batteries vary according to the voltage, total charge capacity (amp hours), weight, the number of charging cycles before performance degrades, and ability to handle over-voltage charging conditions. The energy costs of operating e-bikes are small, but there can be considerable battery replacement costs in particular in the case of premature failure. The lifespan of a battery pack varies depending on the type of usage including charging temperature. Room-temperature charging and shallow discharge/recharge cycles help extend the overall battery life. In the case of the most-used Li-ion batteries, there is no memory effect and thus no penalty in shallow charge cycles apart from the reduced range per charge. 
+Some experiments have also been undertaken with super capacitors to supplement or replace batteries for cars and some SUVS.
+E-bikes developed in Switzerland in the late 1980s for the Tour de Sol solar vehicle race used solar charging stations initially on-vehicle and later fixed on roofs and connected so as to feed into the electric mains. The bicycles were then charged from the mains, as is common today.
+Lithium ion batteries used in e-bikes and related vehicles such as electric scooters have been under scrutiny since 2019 due to their susceptibility to overheating and catching fire. The more expensive Lithium iron phosphate (LFP) batteries have safer thermal characteristics and are non-toxic. A rise in incidents where e-bike batteries were implicated in fires has been attributed to increases in popularity and lack of regulations. Lower-quality batteries are more likely to be manufactured with defects that can cause bulging or bursting, however, there is an incredibly low instance of issue among larger more established manufacturers with chargers that avoid over voltage. In 2024, the world's largest electric bike maker, Giant Manufacturing, went on record to say that it had never experienced an issue with a single battery. Gig workers who rely on using e-bikes to do their jobs may also be limited in their choice of vehicle and purchase a cheap or second-hand e-bike that is more prone to damage. Some jurisdictions, such as New York City and San Francisco, have passed laws requiring that all electric mobility devices sold have UL safety certifications.
+
+
+=== Range ===
+Range is a key consideration with e-bikes, and is affected by factors such as motor usage and degree of assistance chosen, battery capacity, speed and aerodynamics, rolling resistance, hills and weight of the bike and rider. 
+An e-bike with a 70 kg rider (total mass of ≈100 kg) can be calculated to go about 5.6 kilometres on a 10% grade at 25 km/h on battery power alone (assuming frontal area = 0.4 meter-squared, drag coefficient = 0.7, altitude = 100m, wind speed = 10 km/h (2.8 m/s) and rolling resistance coefficient = 0.007).  Depending on the assistance of the rider, a proportionally greater range is achieved.
+Some models with hub motors, such as the Canadian BionX or American Vintage Electric Bikes, have the option of using regenerative braking, the motor acts as a generator to slow the bike down prior to the brake pads engaging. This is useful for extending the range and the life of brake pads and wheel rims. There are also experiments using fuel cells. e.g. the PHB.
+
+
+== Design variations ==
+Not all e-bikes take the form of conventional push-bikes with an incorporated motor, such as the Cytronex bicycles which use a small battery disguised as a water bottle. Converting a non-electric bicycle to its electric equivalent can be complicated but numerous 'replace a wheel' solutions are now available on the market.
+Electric cargo bikes allow the rider to carry large, heavy items which would be difficult to transport without electric power supplementing the human power input. These bikes can also allow for adults to continue biking into parenthood, enabling the transportation of children without using a car.
+There are many e-bikes design variations available, some with batteries attached to the frame, some housed within the tube. Some use fat tires for improved stability and off-road capability. Various designs (including those mentioned above) are designed to fit inside most area laws, and the ones that contain pedals can be used on roads in the United Kingdom, among other countries.
+Folding e-bikes are also available. Electric self-balancing unicycles do not conform to e-bike legislation in most countries and therefore cannot be used on the road, but may be legal to use on the sidewalk. They are the cheapest electric cycles and used by the last mile commuters, for urban use and to be combined with public transport, including buses. They are not legal for use on the public highway (including footways and cycle paths) in the United Kingdom.
+
+
+=== Tricycles ===
+
+Electric trikes have also been produced that conform to the e-bike legislation. These have the benefit of additional low speed stability and are often favored by people with disabilities. Cargo carrying tricycles are also gaining acceptance, with a small but growing number of couriers using them for package deliveries in city centers. Latest designs of these trikes resemble a cross-between a pedal cycle and a small van.
+
+
+== Health effects ==
+
+One research shows that E-bike use increased the amount of physical activity. E-bike users in seven European cities had 10% higher weekly energy expenditure than other cyclists because they cycled longer trips. However a study from  University of Tennessee provides evidence that energy expenditure (EE) and oxygen consumption (VO2) for e-bikes are 24% lower than that for conventional bicycles, and 64% lower than for walking. Further, the study notes that the difference between e-bikes and bicycles are most pronounced on the uphill segments.
+E-bikes can also provide a source of exercise for individuals who have trouble exercising for an extended time (due to injury or excessive weight, for example) as the bike can allow the rider to take short breaks from pedaling and also provide confidence to the rider that they'll be able to complete the selected path without becoming too fatigued or without having forced their knee joints too hard (people who need to use their knee joints without wearing them out unnecessarily may in some electric bikes adjust the level of motor assistance according to the terrain).
+There are individuals who claim to have lost considerable amounts of weight by using an electric bike. A recent prospective cohort study however found that people using e-bikes have a higher BMI than those using conventional bikes. By making the biking terrain less of an issue, people who would not otherwise consider biking can use the electric assistance when needed and otherwise pedal as they are able. 
+E-bikes can be a useful part of cardiac rehabilitation programs, since health professionals will often recommend a stationary bike be used in the early stages of these. Exercise-based cardiac rehabilitation programs can reduce deaths in people with coronary heart disease by around 27%.
+
+
+=== Road traffic safety ===
+Safety issues with e-bikes are a concern when more and longer trips and higher speeds lead to a higher number of and more severe accidents. Car drivers may underestimate how fast a cyclist is moving. Also, an elderly person may ride much faster on a pedelec than previously possible. Risky situations can also arise at road exits and junctions. To illustrate the consequences of such critical situations, the German Insurers Accident Research (UDV) has conducted a research project with road tests, performance tests and crash tests for pedelecs.
+On the other hand, many e-bike users report that they can ride more defensively with the auxiliary electric drive assisting them; unlike traditional bicyclists that tend to be averse to braking since this incurs effort to accelerate again, an e-bike rider can brake and then accelerate back to a normal speed with less effort. The Bavarian accident statistics for the first half of 2012 listed 6,186 accidents involving bicycles, of which 76 were e-bikes and notes that the accident risk of e-bikes is not higher than for other bicycles.
+The use of S-Pedelecs involves an additional risk due to often higher speeds and trip distances.
+Schleinitz et al. (2014) concluded that e-bike users in Germany were no more likely than conventional cyclists to be involved in "safety-critical situations". However, Dozza et al. (2015) concluded (from an analysis of Swedish cyclists) that e-bikers may be involved in more critical incidents but with "lower severity". Additionally, e-bikers were less likely to have dangerous interactions with motorized vehicles.
+In the United States, an estimated 53,200 e-bike-related emergency department visits occurred between 2017 and 2022. During this period, there were 104 e-bike fatalities, accounting for 45% of all micromobility-related deaths. Following a new state law, Assembly Bill 2234, cities in San Diego County can establish a minimum age for operating e-bikes.
+
+
+== Environmental effects ==
+
+E-bikes are zero-emissions vehicles, as they emit no combustion by-products, but the environmental effects of electricity generation and power distribution and of manufacturing and recycling batteries must be accounted for. 
+According to figures from a 2011 ECF-publication, updated with respect to electrical energy required, over their full life-cycle e-bikes on average emit 15 g CO₂e per passenger-km, including 7 g for manufacturing, 2 g for electric energy production and 6 g for food production. This is less than for unmotorized cycles, which rate at 21 g CO₂e per passenger-km with 5 g for manufacturing and 16 g for food energy. Other means of transport cause higher figures, e.g. roughly 50 g CO₂e per passenger-km for electric cars (driver only) or walking, or 100 g for buses with ten passengers. Within this data, buses with over 60 passengers would cluster with e-bikes. These comparisons are very approximate as the data varies considerably depending on the vehicles, humans, and energy statistics assumed. For example, an e-bike rider with access to climate-neutral food and electricity might emit 7 g CO₂e/km, whereas one eating beef might cause emissions of over 570 g CO₂e/km if other things remain equal.
+These emission rates are several times lower than conventional motorcycles and cars. E-bikes are generally seen as environmentally desirable in an urban environment.
+A 2018 study in England found that e-bikes, if used to replace car travel, have the capability to "cut car carbon dioxide (CO2) emissions in England by up to 50% (about 30 million tonnes per year)".
+A 2020 study focusing on the Yorkshire region of England suggested that the greatest opportunities are in rural and sub-urban settings: city dwellers already have many low-carbon travel options, so the greatest impact would be on encouraging use outside urban areas. The study further suggested there may also be scope for e-bikes to help people who are most affected by rising transport costs.
+The environmental effects involved in recharging the batteries can of course be reduced. The small size of the battery pack on an e-bike, relative to the larger pack used in an electric car, makes them very good candidates for charging via solar power or other renewable energy resources. Sanyo capitalized on this benefit when it set up "solar parking lots", in which e-bike riders can charge their vehicles while parked under photovoltaic panels.
+The environmental credentials of e-bikes, and electric / human powered hybrids generally, have led some municipal authorities to use them, such as Little Rock, Arkansas, with their Wavecrest electric power-assisted bicycles or Cloverdale, California police with Zap e-bikes. China's e-bike manufacturers, such as Xinri, are now partnering with universities in a bid to improve their technology in line with international environmental standards, backed by the Chinese government who is keen to improve the export potential of the Chinese manufactured e-bikes.
+Both land management regulators and mountain bike trail access advocates have argued for bans of electric bicycles on outdoor trails that are accessible to mountain bikes, citing potential safety hazards as well as the potential for electric bikes to damage trails. A study conducted by the International Mountain Bicycling Association, however, found that the physical impacts of low-powered pedal-assist electric mountain bikes (eMTB) may be similar to traditional mountain bikes (MTB).
+A 2010 study on the environment impact of e-bikes versus other forms of transportation found that e-bikes are:
+
+18 times more energy efficient than an SUV
+13 times more energy efficient than a sedan
+6 times more energy efficient than rail transit
+Of about equal impact to the environment as a conventional bicycle.
+There are strict shipping regulations for lithium-ion batteries, due to safety concerns. In this regard, lithium iron phosphate batteries are safer than lithium cobalt oxide batteries.
+
+
+== Experience by country ==
+
+
+=== China ===
+China has experienced an explosive growth of sales of non-assisted e-bikes including scooter type, with annual sales jumping from 56,000 units in 1998 to over 21 million in 2008, and reaching an estimated fleet of 120 million e-bikes in early 2010. This boom was triggered by Chinese local governments' efforts to restrict motorcycles in city centers to avoid traffic disruption and accidents. By late 2009 motorcycles, were banned or restricted in over ninety major Chinese cities. Commuters began replacing traditional bicycles and motorcycles and e-bike became an alternative to commuting by car. Nevertheless, road safety concerns continue as around 2,500 e-bike related deaths were registered in 2007. By late 2009, ten cities had also banned or imposed restrictions on e-bikes on the same grounds as motorcycles. Among these cities were Guangzhou, Shenzhen, Changsha, Foshan, Changzhou, and Dongguang.
+In April 2019, China's regulatory policies changed, and new standards around electric bikes were introduced, governing a bicycle's weight, maximum speed and nominal voltage among other factors. Vehicles which apply the new standard, including international 25 km/h speed limit, are legally considered as bicycles and do not require registration. E-bikes out of this standard are considered as motorcycles and are subject to helmet and license regulation.
+China is the world's leading manufacturer of e-bikes, with 22.2 million units produced in 2009. Some of the biggest manufacturers of E-bikes in the world are BYD and Geoby. Production is concentrated in five regions, Tianjin, Zhejiang, Jiangsu, Shandong, and Shanghai. China exported 370,000 e-bikes in 2009. In 2019, about 223,000 China companies were in businesses related to the electric-bike industry. As of 2025, there are 380 million registered ebikes. New ebikes must be made from fire resistant plastic, be at least 94.5% metal and a max weight of 63kg.
+
+
+=== Germany ===
+As of 2012 there were about 600,000 e-bikes, mostly pedelecs, on the road in Germany. Growth had been spectacular: the year before, 310,000–340,000 were sold in Germany and this in turn was 55% more than in 2010. In comparison, there were around 70 million conventional bicycles in Germany in 2011 according to ZIV, the German Bicycle Industry Association.
+By 2019 the yearly sales topped one million and in the year up to and including 2024 two million, slightly surpassing unmotorized bicycles from 2023 on.
+
+
+=== India ===
+In India electric bicycles market was valued at US$1.14 million in 2021, and is expected to reach US$2.31 million by 2027, projecting a CAGR of 12.69% during this forecast period.
+
+
+=== Japan ===
+Japan introduces e-bikes under new pedelec-legislation (PAS-system) in 1994 and by mid-year Yamaha had sold 30,000 and by mid-1997 200,000.
+Numbers by all manufacturers continued:
+
+
+=== Netherlands ===
+The Netherlands has a fleet of 23 million bicycles for its population of 18 million (as of 2024). E-bikes have reached a market share of 10% by 2009, as e-bikes sales quadrupled from 40,000 units to 153,000 between 2006 and 2009, and the electric-powered models represented 25% of the total bicycle sales revenue in that year. By early 2010 one in every eight bicycles sold in the country is electric-powered despite the fact that on average an e-bike is three times more expensive than a regular bicycle. E-bike sales have now overtaken those of unpowered bikes, reaching 423,000 in 2019 and 547,000 in 2020.
+A 2008 market survey showed that the average distance traveled in the Netherlands by commuters on a standard bicycle is 6.3 kilometres (3.9 mi) while with an e-bike this distance increases to 9.8 kilometres (6.1 mi). This survey also showed that e-bike ownership is particularly popular among people aged 65 and over, but limited among commuters. The e-bike is used in particular for recreational bicycle trips, shopping and errands.
+
+
+=== Switzerland ===
+
+
+=== United States ===
+In 2009 the U.S. had an estimated fleet of 200,000 e-bikes. In 2012 they were increasingly favored in New York as food-delivery vehicles. The North American Electric Bike Market is expected to grow at a CAGR of 10.13% from 2021 to 2028.
+
+
+== Use in warfare ==
+Ukraine used donated e-bikes in the 2022 Russian invasion of Ukraine to transport light anti-tank weapons. This echoes past usage of bicycle infantry in wartime, particularly by the Japanese forces.
+
+
+== Gallery ==
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+ Media related to Electrically powered bicycles at Wikimedia Commons

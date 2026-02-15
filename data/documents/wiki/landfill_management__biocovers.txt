@@ -1,0 +1,105 @@
+# Landfill Management: Biocovers
+Source: https://en.wikipedia.org/wiki/Landfill_gas_utilization
+
+Landfill gas utilization is a process of gathering, processing, and treating the methane or another gas emitted from decomposing garbage to produce electricity, heat, fuels, and various chemical compounds. After fossil fuel and agriculture, landfill gas is the third largest human generated source of methane. Compared to CO2, methane is 27 times more potent as a greenhouse gas. Since methane is a combustible gas, the captured landfill gas can be used to make energy. This means that landfill gas utilization avoids the emission of methane and can substitute fossil fuels, reducing two sources of greenhouse gases that contribute to climate change. 
+The number of landfill gas projects, which convert the gas into power, went from 399 in 2005 to 519 in 2009 in the United States, according to the U.S. Environmental Protection Agency. These projects are popular because they control energy costs and reduce greenhouse gas emissions. These projects collect the methane gas and treat it, so it can be used for electricity or upgraded to pipeline-grade gas to power homes, buildings, and vehicles.
+
+
+== Generation ==
+
+Landfill gas (LFG) is generated through the degradation of municipal solid waste (MSW) and other biodegradable waste, by microorganisms. Aerobic conditions (presence of oxygen) leads to predominately CO2 emissions. In anaerobic conditions, as is typical of landfills, methane and CO2 are produced in a ratio of 60:40. 
+Methane (CH4) is the important component of landfill gas as it has a higher heating value of 37.7 MJ/Sm3 which gives rise to energy generation benefits. The amount of methane that is produced varies significantly based on composition of the waste. Most of the methane produced in MSW landfills is derived from food waste, composite paper, and corrugated cardboard which comprise 19.4 ± 5.5%, 21.9 ± 5.2%, and 20.9 ± 7.1% respectively on average of MSW landfills in the United States. 
+The rate of landfill gas production varies with the age of the landfill. There are 4 common phases that a section of a MSW landfill undergoes after placement. Typically, in a large landfill, different areas of the site will be at different stages at the same time. The landfill gas production rate will reach a maximum at around 5 years and start to decline.  Landfill gas follows first-order kinetic decay after decline begins with a k-value ranging 0.02 yr-1 for arid conditions and 0.065 yr-1 for wet conditions. 
+The Landfill Methane Outreach Program (LMOP) provides the LandGEM (Landfill Gas Emissions Model), a first-order decay model which aids in the determination of landfill gas production for an individual landfill. Typically, gas extraction rates from a municipal solid waste (MSW) landfill range from 25 to 10000 m3/h where Landfill sites typically range from 100,000 m3 to 10 million m3 of waste in place. 
+MSW landfill gas typically has roughly 45 to 60% methane and 30 to 40% carbon dioxide. Air can also permeate in the landfill and be captured in landfill gas collection pipes. Oxygen is often consumed by microbes in the landfill meaning that air infiltration increases the composition of nitrogen gas. The amount of air infiltration depends on weather, landfill cover and suction controls in the landfill gas collection system. Depending on the composition of the waste in place, there are many other minor components that comprises roughly 1% which includes H2S, NOx, SO2, CO, non-methane volatile organic compounds (NMVOCs), polycyclic aromatic hydrocarbons (PAHs), polychlorinated dibenzodioxins (PCDDs), polychlorinated dibenzofurans (PCDFs), etc. All of these gases are harmful to human health at high doses.
+
+
+== LFG collection systems ==
+  
+ 
+
+Landfill gas collection is typically accomplished through the installation of wells – vertically and/or horizontally – in the waste mass. Design heuristics for vertical wells call for about one well per acre of landfill surface, whereas horizontal wells are normally spaced about 50 to 200 feet apart on center.
+Efficient gas collection can be accomplished at both open and closed landfills, but closed landfills have systems that are more efficient, owing to greater deployment of collection infrastructure since active filling is not occurring. On average, closed landfills have gas collection systems that capture about 84% of produced gas, compared to about 67% for open landfills. Landfill gas can also be extracted through horizontal trenches instead of vertical wells. Both systems are effective at collecting. 
+Landfill gas is extracted and piped to a main collection header, where it is sent to be treated or flared. The main collection header can be connected to the leachate collection system to collect condensate forming in the pipes. A blower is needed to pull the gas from the collection wells to the collection header and further downstream. A 40-acre (160,000 m2) landfill gas collection system with a flare designed for a 600 ft3/min extraction rate is estimated to cost $991,000 (approximately $24,000 per acre) with annual operation and maintenance costs of $166,000 per year at $2,250 per well, $4,500 per flare and $44,500 per year to operate the blower (2008). LMOP provides a software model to predict collection system costs.
+
+
+=== Flaring ===
+
+If gas extraction rates do not warrant direct use or electricity generation, the gas can be flared off in order to avoid uncontrolled release to the atmosphere. One hundred m3/h is a practical threshold for flaring in the U.S. In the U.K, gas engines are used with a capacity of less than 100m3/h. Flares are useful in all landfill gas systems as they can help control excess gas extraction spikes and maintenance down periods. In the U.K. and EU enclosed flares, from which the flame is not visible are mandatory at modern landfill sites. Flares can be either open or enclosed, but the latter are typically more expensive as they provide high combustion temperatures and specific residence times as well as limit noise and light pollution. Some US states require the use of enclosed flares over open flares. Higher combustion temperatures and residence times destroy unwanted constituents such as un-burnt hydrocarbons. General accepted values are an exhaust gas temperature of 1000 °C with a retention time of 0.3 seconds which is said to result in greater than 98% destruction efficiency. The combustion temperature is an important controlling factor as if greater than 1100 °C, there is a danger of the exponential formation of thermal NOx.
+
+
+=== Landfill gas treatment ===
+Landfill gas must be treated to remove impurities, condensate, and particulates. The treatment system depends on the end use. Minimal treatment is needed for the direct use of gas in boilers, furnaces, or kilns. Using the gas in electricity generation typically requires more in-depth treatment. Treatment systems are divided into primary and secondary treatment processing. Primary processing systems remove moisture and particulates. Gas cooling and compression are common in primary processing. Secondary treatment systems employ multiple cleanup processes, physical and chemical, depending on the specifications of the end use. Two constituents that may need to be removed are siloxanes and sulfur compounds, which are damaging to equipment and significantly increase maintenance cost. Adsorption and absorption are the most common technologies used in secondary treatment processing.
+
+
+== Use of landfill gas ==
+
+
+=== Direct use ===
+
+
+==== Boiler, dryer, and process heater ====
+
+Pipelines transmit gas to boilers, dryers, or kilns, where it is used much in the same way as natural gas. Landfill gas is cheaper than natural gas and holds about half the heating value at 16,785 – 20,495 kJ/m3 (450 – 550 Btu/ft3) as compared to 35,406 kJ/m3 (950 Btu/ft3) of natural gas. Boilers, dryers, and kilns are used often because they maximize use of the gas, limited treatment is needed, and the gas can be mixed with other fuels. Boilers use the gas to transform water into steam for use in various applications. For boilers, about 8,000 to 10,000  pounds per hour of steam can be generated for every 1  million metric tons of waste-in-place at the landfill. Most direct use projects use boilers. General Motors saves $500,000 on energy costs per year at each of the four plants owned by General Motors that has implemented landfill gas boilers. Disadvantages of Boilers, dryers, and kilns are that they need to be retrofitted in order to accept the gas and the end user has to be nearby (within roughly 5  miles) as pipelines will need to be built.
+
+
+==== Infrared heaters, greenhouses, artisan studios ====
+In situations with low gas extraction rates, the gas can go to power infrared heaters in buildings local to the landfill, provide heat and power to local greenhouses, and power the energy intensive activities of a studio engaged in pottery, metalworking or glass-blowing. Heat is fairly inexpensive to employ with the use of a boiler. A microturbine would be needed to provide power in low gas extraction rate situations.
+
+
+==== Leachate evaporation ====
+
+The gas coming from the landfill can be used to evaporate leachate in situations where leachate is fairly expensive to treat. The system to evaporate the leachate costs $300,000 to $500,000 to put in place with operations and maintenance costs of $70,000 to $95,000 per year. A 30,000 gallons per day evaporator costs $.05 - $.06 per gallon. The cost per gallon increases as the evaporator size decreases. A 10,000 gallons per day evaporator costs $.18 - $.20 per gallon. Estimates are in 2007 dollars.
+
+
+==== Biomethane ====
+
+Landfill gas can be upgraded to high calorific value gas by reducing its carbon dioxide, nitrogen, and oxygen content. The high calorific value gas is called renewable natural gas (RNG) or biomethane. Biomethane  can be compressed into compressed natural gas (CNG) or liquified into liquified natural gas (LNG). CNG and LNG made from biomethane is typically used as vehicle fuel.
+Three commonly used methods to extract the carbon dioxide from the gas are membrane separation, molecular sieve, and amine scrubbing. Oxygen and nitrogen are controlled by the proper design and operation of the landfill since the primary cause for oxygen or nitrogen in the gas is intrusion from outside into the landfill because of a difference in pressure. The high-Btu processing equipment can be expected to cost $2,600 to $4,300 per standard cubic foot per minute (scfm) of landfill gas. Annual costs range from $875,000 to $3.5 million to operate, maintain and provide electricity to. Costs depend on quality of the end product gas as well as the size of the project. The first landfill gas to LNG facility in the United States was the Frank R. Bowerman Landfill in Orange County, California. The same process is used for the conversion to CNG, but on a smaller scale. The CNG project at Puente Hills Landfill in Los Angeles has realized $1.40 per gallon of gasoline equivalent with the flow rate of 250 scfm. Cost per gallon equivalent reduces as the flow rate of gas increases. LNG can be produced through the liquification of CNG. However, the oxygen content needs to be reduced to be under 0.5% to avoid explosion concerns, the carbon dioxide content must be as close to zero as possible to avoid freezing problems encountered in the production, and nitrogen must be reduced enough to achieve at least 96% methane. A $20 million facility is estimated to achieve $0.65/gallon for a plant producing 15,000 gallons/day of LNG (3,000 scfm). Estimates are in 2007 dollars.
+
+
+=== Electricity generation ===
+If the landfill gas extraction rate is large enough, a gas turbine or internal combustion engine could be used to produce electricity to sell commercially or use on site.
+
+
+==== Reciprocating piston engine ====
+
+More than 70 percent of all landfill electricity projects use reciprocating piston (RP) engines, a form of internal combustion engine, because of relatively low cost, high efficiency, and good size match with most landfills. RP engines usually achieve an efficiency of 25 to 35 percent with landfill gas. However, RP engines can be added or removed to follow gas trends. Each engine can achieve 150 kW to 3 MW, depending on the gas flow. An RP engine (less than 1 MW) can typically cost $2,300 per kW with annual operation and maintenance costs of $210 per kW. An RP engine (greater than 800 kW) can typically cost $1,700 per kW with annual operation and maintenance costs of $180 per kW. Estimates are in 2010 dollars.
+
+
+==== Gas turbine ====
+
+Gas turbines, another form of internal combustion engine, usually meet an efficiency of 20 to 28 percent at full load with landfill gas. Efficiencies drop when the turbine is operating at partial load. Gas turbines have relatively low maintenance costs and nitrogen oxide emissions when compared to RP engines. Gas turbines require high gas compression, which uses more electricity to compress, therefore reducing the efficiency. Gas turbines are also more resistant to corrosive damage than RP engines. Gas turbines need a minimum of 1,300 cfm and typically exceed 2,100 cfm and can generate 1 to 10 MW. A gas turbine (greater than 3 MW) can typically cost $1,400 per kW with annual operation and maintenance costs of $130 per kW.  Estimates are in 2010 dollars.
+
+
+==== Microturbine ====
+Microturbines can produce electricity with lower amounts of landfill gas than gas turbines or RP engines.  Microturbines can operate between 20 and 200 cfm and emit less nitrogen oxides than RP engines. Also, they can function with less methane content (as little as 35 percent). Microturbines require extensive gas treatment and come in sizes of 30, 70, and 250 kW. A microturbine (less than 1 MW) can typically cost $5,500 per kW with annual operation and maintenance costs of $380 per kW. Estimates are in 2010 dollars.
+
+
+==== Fuel cell ====
+Research has been performed indicating that molten carbonate fuel cells could be fueled by landfill gas. Molten carbonate fuel cells require less purity than typical fuel cells, but still require extensive treatment. The separation of acid gases (HCl, HF, and SO2), VOC oxidation (H2S removal) and siloxane removal are required for molten carbonate fuel cells. Fuel cells are typically run on hydrogen and hydrogen can be produced from landfill gas. Hydrogen used in fuel cells have zero emissions, high efficiency, and low maintenance costs.
+
+
+== Project incentives ==
+
+Various landfill gas project incentives exist for United States projects at the federal and state level. The Department of the Treasury, Department of Energy, Department of Agriculture, and Department of Commerce all provide federal incentives for landfill gas projects. Typically, incentives are in the form of tax credits, bonds, or grants. For example, the Renewable Electricity Production Tax Credit (PTC) gives a corporate tax credit of 1.1 cents per kWh for landfill projects above 150 kW. Various states and private foundations give incentives to landfill gas projects. A Renewable Portfolio Standard (RPS) is a legislative requirement for utilities to sell or generate a percentage of their electricity from renewable sources including landfill gas. Some states require all utilities to comply, while others require only public utilities to comply.
+
+
+== Environmental impact ==
+In 2005, 166 million tons of MSW were discarded to landfills in the United States.  Roughly 120 kg of methane is generated from every ton of MSW. Methane has a global warming potential of 25 times more effective of a greenhouse gas than carbon dioxide on a 100-year time horizon. It is estimated that more than 10% of all global anthropogenic methane emissions are from landfills. Landfill gas projects help aid in the reduction of methane emissions. However, landfill gas collection systems do not collect all the gas generated. Around 4 to 10 percent of landfill gas escapes the collection system of a typical landfill with a gas collection system. The use of landfill gas is considered a green fuel source because it offsets the use of environmentally damaging fuels such as oil or natural gas, destroys the heat-trapping gas methane, and the gas is generated by deposits of waste that are already in place. 450 of the 2,300 landfills in the United States have operational landfill gas utilization projects as of 2007. LMOP has estimated that approximately 520 landfills that currently exist could use landfill gas (enough to power 700,000 homes). Landfill gas projects also decrease local pollution, and create jobs, revenues and cost savings.  Of the roughly 450 landfill gas projects operational in 2007, 11 billion kWh of electricity was generated and 78 billion cubic feet of gas was supplied to end users. These totals amount to roughly 17,500,000 acres (7,100,000 ha) of pine or fir forests or annual emissions from 14,000,000 passenger vehicles.
+
+
+== See also ==
+Anaerobic digestion
+Atmospheric methane
+Biogas
+Biodegradation
+Cogeneration
+Landfill gas migration
+Landfill gas monitoring
+Solar landfill
+Waste minimisation
+Underground coal gasification
+
+
+== References ==

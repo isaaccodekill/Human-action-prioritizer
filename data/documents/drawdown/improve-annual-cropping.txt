@@ -1,0 +1,690 @@
+# Improve Annual Cropping
+Source: https://drawdown.org/explorer/improve-annual-cropping
+
+Methods and Supporting Data
+
+
+## Improve Annual Cropping
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Farmers on much of the world’s 1.4 billionhaof cropland grow and harvestannual crops– crops like wheat, rice, and soybeans that live for one year or less. After harvest, croplands are often left bare for the rest of the year and sometimes tilled, exposing the soil to wind and rain. This keepssoil carbonlevels low and can lead to soil erosion. There are many ways to improve annual cropping to protect or enhance the health of the soil and increasesoil organic matter. Project Drawdown’s Improve Annual Cropping solution is a set of practices that protects soils by minimizing plowing (no-till/reduced tillage) and maintaining continuous soil cover (by retainingcrop residuesor growing cover crops). This increases soilcarbon sequestrationand reducesnitrous oxideemissions. These techniques are commonly used inconservation agriculture, regenerative, and agro-ecological cropping systems. Other annual cropping practices with desirable climate impacts – including compost application and crop rotations – are omitted here due to lack of data and much smaller scale of adoption.New adoption is estimated from the 2025 level as a baseline which is therefore set to zero.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted and CO₂
+ reduced due to activities or technologies that pull the gas out of the atmosphere and store it.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The Improve Annual Cropping solution incorporates several practices that minimize soil disturbance and introduce a physical barrier meant to prevent erosion to fragile topsoils. Our definition includes two of the three pillars of conservation agriculture: minimal soil disturbance and permanent soil cover (Kassam et al., 2022).
+
+
+## Minimal Soil Disturbance
+
+
+Soil organic carbon(SOC) – which originates from decomposed plants – helps soils hold moisture and provides the kinds of chemical bonding that allow nutrients to be stored and exchanged easily with plants. Soil health and productivity depend on microbial decomposition of plantbiomassresidues, which mobilizes critical nutrients in soil organic matter (SOM) and builds SOC. Conventional tillage inverts soil, buries residues, and breaks down compacted soil aggregates. This process facilitates microbial activity, weed removal, and water infiltration for planting. However, tillage can accelerateCO₂fluxes as SOC is lost to oxidation and runoff. Mechanical disturbance further exposes deeper soils to the atmosphere, leading to radiative absorption, higher soil temperatures, and catalyzed biological processes – all of which increase oxidation of SOC (Francaviglia et al., 2023).
+
+Reduced tillage limits soil disturbance to support increased microbial activity, moisture retention, and stable temperature at the soil surface. This practice can increase carbon sequestration, at least when combined with cover cropping. These effects are highly contextual, depending on tillage intensity and soil depth as well as the practice type, duration, and timing. Reduced tillage further reducesfossil fuelemissions from on-farm machinery. However, this practice often leads to increased reliance on herbicides for weed control (Francaviglia et al., 2023).
+
+Residue retention and cover cropping practices aim to provide permanent plant cover to protect and improve soils. This can improve aggregate stability, water retention, and nutrient cycling. Farmers practicing residue retention leave crop biomass residues on the soil surface to suppress weed growth, improve water infiltration, and reduceevapotranspirationfrom soils (Francaviglia et al., 2023).
+
+Cover cropping includes growth of spontaneous or seeded plant cover, either during or between established cropping cycles. In addition to SOC, cover cropping can help decrease nitrous oxide emissions and bind nitrogen typically lost via oxidation and leaching. Leguminous cover crops can also fix atmospheric nitrogen, reducing the need for fertilizer. Cover cropping can further be combined with reduced tillage for additive SOC and SOM gains (Blanco-Canqui et al., 2015; Francaviglia et al., 2023).
+
+Improved annual cropping practices can simultaneously reduceGHGemissions and improve SOC stocks. However, there are biological limits to SOC stocks – particularly inmineral soils. Environmental benefits are impermanent and only remain if practices continue long term (Francaviglia et al., 2023).
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of how effective this solution is at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut and/or carbon removed per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut and/or carbon removed per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Current adoption (the slider’s low value) is from Kassam et al., 2022. The high estimate for achievable adoption (the slider’s high value) is adoption over the current baseline and based on global adoption targets.
+
+This is the low end of the range for estimated combined achievable adoption by 2050.
+
+This is the high end of the range for estimated combined achievable adoption by 2050.
+
+This is the current combined adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = [[(Current Adoption x Carbon Sequestration Effectiveness x Adoption Adjustment Factor) + ((Selected Adoption - Current Adoption) x Carbon Sequestration Effectiveness)] + [Adoption x Nitrous Oxide Effectiveness]]/ 109
+
+(Note that for this calculator, we assume 71.4% of the combined effectiveness is attributed to carbon sequestration and 28.6% of the effectiveness is attributed to nitrous oxide)
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Adoption of this solution varies substantially across the globe. Currently, improved annual cropping practices are widely implemented in Australia and New Zealand (74% of annual cropland) and Central and South America (69%), with intermediate adoption in North America (34%) and low adoption in Asia, Europe, and Africa (1–5%) (Kassam et al., 2022), though estimates vary (see also Prestele et al., 2018). Future expansion of this solution is most promising in Asia, Africa, and Europe, where adoption has increased in recent years. Large areas of croplands are still available for implementation in these regions, whereas Australia, New Zealand, and Central and South America may be reaching a saturation point, and these practices may be less suitable for the relatively small area of remaining croplands.
+
+The carbon sequestrationeffectivenessof this solution also varies across space. Drivers of soil carbon sequestration rates are complex and interactive, with climate, initial soil carbon content, soil texture, soil chemical properties (such as pH), and other land management practices all influencing the effectiveness of adopting this solution. Very broadly, the carbon sequestration potential of improved annual cropping tends to be two to three times higher in warm areas than cool areas (Bai et al., 2019; Cui et al., 2024; Lessmann et al., 2022). Warm and humid conditions enable vigorous cover crop growth, providing additional carbon inputs into soils. Complicating patterns of effectiveness, however, arid regions often experience increased crop yields following adoption of this solution whereas humid regions are more likely to experience yield losses (Pittelkow et al., 2015). Yield losses may reduce adoption in humid areas and can lead to cropland expansion to compensate for lower production.
+
+Uptake of this solution may be constrained by spatial variation in places where cover cropping is suitable. In areas with double or triple cropping, there may not be an adequate interval for growth of a cover crop between harvests. In areas with an extended dry season, there may be inadequate moisture to grow a cover crop.
+
+
+## Thousands of years of agricultural land use have removed nearly 500 Gt CO2-eq from soils
+
+
+Agriculture has altered the soil carbon balance around the world, resulting in changes (mostly losses) of soil carbon. Much of the nearly 500 Gt CO2-eq lost in the last 12,000 years is now in the atmosphere in the form of CO2.
+
+Sanderman, J. et al. (2017).The soil carbon debt of 12,000 years of human land use[Data set]. PNAS 114(36): 9575–9580.Link to source:https://doi.org/10.1073/pnas.1706103114
+
+
+## Thousands of years of agricultural land use have removed nearly 500 Gt CO2-eq from soils
+
+
+Agriculture has altered the soil carbon balance around the world, resulting in changes (mostly losses) of soil carbon. Much of the nearly 500 Gt CO2-eq lost in the last 12,000 years is now in the atmosphere in the form of CO2.
+
+Sanderman, J. et al. (2017).The soil carbon debt of 12,000 years of human land use[Data set]. PNAS 114(36): 9575–9580.Link to source:https://doi.org/10.1073/pnas.1706103114
+
+Based on seven reviews and meta-analyses, which collectively analyzed over 500 studies, we estimate that this solution’s SOC sequestration potential is 1.28tCO₂‑eq/ha/yr. This is limited to the topsoil (>30 cm), with minimal effects at deeper levels (Sun et al., 2020; Tiefenbacher et al., 2021). Moreover, carbon sequestration potential is not constant over time. The first two decades show the highest increase, followed by an equilibrium or SOC saturation (Cai, 2022; Sun et al., 2020).
+
+The effectiveness of the Improve Annual Cropping solution heavily depends on local geographic conditions (e.g., soil properties, climate), crop management practices, cover crop biomass, cover crop types, and the duration of annual cropping production – with effects typically better assessed in the long term (Abdalla et al., 2019; Francaviglia et al., 2023; Moukanni et al., 2022; Paustian et al., 2019).
+
+Based on reviewed literature (three papers, 18 studies), we estimated that improved annual cropping can potentially reduce nitrous oxide emissions by 0.51 t CO₂‑eq/ha/yr (Table 1). Cover crops can increase direct nitrous oxide emissions by stimulating microbial activity, but – compared with conventional cropping – lowerindirect emissionsallow for reduced net nitrous oxide emissions from cropland (Abdalla et al., 2019).
+
+Nitrogen fertilizers drive direct nitrous oxide emissions, so genetic optimization of cover crops to increase nitrogen-use efficiencies anddecreasenitrogen leaching could further improvemitigationof direct nitrous oxide emissions (Abdalla et al., 2019).
+
+Table 1. Effectiveness at reducing emissions and removing carbon.
+
+Nitrous oxide emissions reduction
+
+Carbon sequestration (SOC)
+
+Combined effectiveness
+
+Unit: t CO₂‑eq/ha/yr, 100-yr basis
+
+Unit: t CO₂‑eq/ha/yr, 100-yr basis
+
+Unit: t CO₂‑eq/ha/yr, 100-yr basis
+
+Because baseline (conventional) annual cropping systems are already extensive and well established, we assume there is no cost to establish new baseline cropland. In the absence of global datasets on costs and revenues of cropping systems, we used data on the global average profit per ha of cropland from Damania et al. (2023) to create a weighted average profit of US$76.86/ha/yr.
+
+Based on 13 data points (of which seven were from the United States), the median establishment cost of the Improve Annual Cropping solution is $329.78/ha. Nine data points (three from the United States) provided a median increase in profitability of US$86.01/ha/yr.
+
+The net net cost of the Improve Annual Cropping solution is US$86.01. The cost per t CO₂‑eq
+ is US$47.80 (Table 2).
+
+Table 2. Cost per unit climate impact.
+
+Unit: 2023 US$/t CO₂‑eq, 100-yr basis
+
+We found limited information on this solution’slearning curve. A survey of farmers in Zambia found a reluctance to avoid tilling soils because of the increased need for weeding or herbicides and because crop residues may need to be used for livestock feed (Arslan et al., 2015; Searchinger et al., 2019).
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Improve Annual Cropping is aDELAYEDclimate solution. It works more slowly than gradual or emergency brake solutions. Delayed solutions can be robust climate solutions, but it’s important to recognize that they may not realize their full potential for some time.
+
+Kassam et al. (2022) provided regional adoption from 2008–2019. We used a linear forecast to project 2025 adoption. This provided a figure of 267.4Mhain 2025 (Table 3). Note that in Solution Basics in the dashboard we set current adoption at zero. This is a conservative assumption to avoid counting carbon sequestration from land that has already ceased to sequester net carbon due to saturation, which takes place after 20–50 years (Lal et al., 2018).
+
+Table 3. Current (2025) adoption level.
+
+Unit:Mha of improved annual cropping
+
+Between 2008–2009 and 2018–2019 (the most recent data available), the cropland area under improved annual cropping practices nearly doubled globally, increasing from 10.6 Mha to 20.5 Mha at an average rate of 1.0 Mha/yr (Kassam et al., 2022), equivalent to a 9.2% annual increase in area relative to 2008–2009 levels. Adoption slowed slightly in the latter half of the decade, with an average increase of 0.8 Mha/yr between 2015–2016 and 2018–2019, equivalent to 4.6% annual increase in area relative to 2015–2016 levels, as shown in Table 4.
+
+Table 4. 2008–2009 to 2018–2019 adoption trend.
+
+Griscom et al. (2017) estimate that 800 Mha of global cropland are suitable – but not yet used for – cover cropping, in addition to 168 Mha already in cover crops (Popelau and Don, 2015). We update the 168 Mha in cover crops to 267 Mha based on Kassam (2022). Griscom et al.’s estimate is based on their analysis that much cropland is unsuitable because it already is used to produce crops during seasons in which cover crops would be grown. Their estimate thus provides a maximum technical potential of 1,067 Mha  by adding 800 Mha of remaining potential to the 267.4 Mha of current adoption (Table 5).
+
+Table 5. Adoption ceiling.
+
+The 8th World Congress on Conservation Agriculture (8WCCA) set a goal to achieve adoption of improved annual cropping on 50% of available cropland by 2050 (WCCA 2021). That provides an Achievable – High of 700 Mha – though this is not a biophysical limit.
+
+We used the 2008–2019 data from Kassam (2022) to calculate average annual regional growth rates. From these we selected the 25th percentile as our low achievable level (Table 6).
+
+Table 6. Range of achievable adoption levels.
+
+Carbon sequestration continues only for a period of decades; because adoption of improved annual cropping was already underway in the 1970s (Kassam et al., 2022), we could not assume that previously adopted hectares continue to sequester carbon indefinitely. Much of the current adoption of improved annual cropping has been in place for decades and sequestration in some of this land has presumably already slowed down to almost zero. We apply an adoption adjustment factor of 0.5 to current adoption (see methodology) to reflect that an estimated half of current adoption is no longer sequestering significant carbon, yet there is substantial new adoption within the last 20-50 years.
+
+For new adoption, the calculation iseffectiveness * new adoption = climate impact.
+
+For calculating impact of current adoption, the calculation is the sum ofaandbwhere:
+
+a:  for carbon sequestration, the calculation is effectiveness * 0.5 * current adoption = climate impact, and
+
+b: for nitrous oxide reduction, the calculation is effectiveness * current adoption = climate impact.
+
+Climate impacts shown in Table 6 are the sum of current and new adoption impacts. Combined effect is 0.31GtCO2-eq/yr for current adoption, 0.43 for Achievable – Low, 1.09 for Achievable – High, and 1.87 for ourAdoption Ceiling.
+
+Table 8. Climate impact at different levels of adoption.
+
+Unit: Gt CO₂
+‑eq/yr, 100-yr basis
+
+Unit: Gt CO₂
+‑eq/yr, 100-yr basis
+
+Unit: Gt CO₂
+‑eq/yr, 100-yr basis
+
+
+## Extreme Weather Events
+
+
+The soil and water benefits of this solution can lead to agricultural systems that are more resilient to extreme weather events (Mrabet et al., 2023). These agricultural systems have improved uptake, conservation, and use of water, so they are more likely to successfully cope and adapt to drought, dry conditions, and other adverse weather events (Su et al., 2021). Additionally, more sustained year-round plant cover can increase the capacity of cropping systems to adapt to high temperatures and extreme rainfall (Blanco-Canqui & Francis, 2016; Martínez-Mena et al., 2020).
+
+Increased organic matter due to improved annual cropping increases soil water holding capacity. This increases drought resilience (Su et al., 2021).
+
+Conservation agriculture practices can reduce costs on fuel, fertilizer, and pesticides (Stavi et al., 2016). The highest revenues from improved annual cropping are often found in drier climates. Tambo et al. (2018) found whensmallholder farmersin sub-Saharan Africa jointly employed the three aspects of conservation agriculture – reduced tillage, cover crops, and crop rotation – households and individuals saw the largest income gains. Nyagumbo et al. (2020) found that smallholder farms in sub-Saharan Africa using conservation agriculture had the highest returns on crop yields when rainfall was low.
+
+Improved annual cropping can improve food security by increasing the amount and the stability of crop yields. A meta-analysis of studies of South Asian cropping systems found that those following conservation agriculture methods had 5.8% higher mean yield than cropping systems with more conventional agriculture practices (Jat et al., 2020). Evidence supports that conservation agriculture practices especially improve yields in water scarce areas (Su et al., 2021). Nyagumbo et al. (2020) found that smallholder farmers in sub-Saharan Africa experienced reduced yield variability when using conservation agriculture practices.
+
+Improved annual cropping can increase biodiversity below and above soils (Mrabet et al., 2023). Increased vegetation cover improves habitats for arthropods, which help with pest and pathogen management (Stavi et al., 2016).
+
+Improved annual cropping methods can lead to improved soil health through increased stability of soil structure, increased soil nutrients, and improved soil water storage (Francaviglia et al., 2023). This can reduce soil degradation and erosion (Mrabet et al., 2023). Additionally, more soil organic matter can lead to additional microbial growth and nutrient availability for crops (Blanco-Canqui & Francis, 2016).
+
+Runoff of soil and other agrochemicals can be minimized through conservation agricultural practices, reducing the amount of nitrate and phosphorus that leach into waterways and contribute to algal blooms andeutrophication(Jayaraman et al., 2021). Abdalla et al. (2019) found that cover crops reduced nitrogen leaching.
+
+As with otherbiosequestrationsolutions, carbon stored in soils via improved annual cropping is not permanent. It can be lost quickly through a return to conventional agriculture practices like plowing, and/or through a regional shift to a drier climate or other human- or climate change–driven disturbances. Carbon sequestration also only continues for a limited time, estimated at 20–50 years (Lal et al., 2018)).
+
+Herbicides – in place of tillage – are used in many but not all no-till cropping systems to kill (terminate) the cover crop. The large-scale use of herbicides in improved annual cropping systems can produce a range of environmental and human health consequences. Agricultural impacts can include development of herbicide-resistant weeds (Clapp, 2021).
+
+If cover crops are not fully terminated before establishing the main crop, there is a risk that cover crops can compete with the main crop (Quintarelli et al., 2022).
+
+Some studies have found that conservation tillagewithoutcover crops can reduce soil carbon stocks in deeper soil layers. They caution against overreliance on no-till as a sequestration solution in the absence of cover cropping. Reduced tillage should be combined with cover crops to ensure carbon sequestration (Luo et al., 2010; Ogle et al., 2019; Powlson et al., 2014).
+
+Improved annual cropping hascompetinginteractions with several other solutions related to shifting annual practices. For each of these other solutions, the Improve Annual Cropping solution can reduce the area on which the solution can be applied or the nutrient excess available for improved management.
+
+In no-till systems, cover crops are typically terminated with herbicides, often preventing incorporation of trees depending on the type of herbicide used.
+
+Deploy Biomass Crops on Degraded Land
+
+Land managed under the Improve Annual Cropping solution is not available for perennial crops.
+
+Deploy Perennial Crops
+
+Improved annual cropping typically reduces fertilizer demand, reducing the scale of climate impact under improved nutrient management.
+
+Improve Nutrient Management
+
+Our definition of improved annual cropping requires residue retention, limiting the additional area available for deployment of reduced burning.
+
+Reduce Crop Residue Burning
+
+Deploy Low-Emission Industrial Feedstocks
+
+Improve Cement Production
+
+Increase Centralized Composting
+
+
+## Consensus of effectiveness of cover cropping for sequestering carbon:
+
+
+The impacts of improved annual cropping practices on soil carbon sequestration have been extensively studied, and there is high consensus that adoption of cover crops can increase carbon sequestration in soils. However, estimates of how much carbon can be sequestered vary substantially, and sequestration rates are strongly influenced by factors such as climate, soil properties, time since adoption, and how the practices are implemented.
+
+The carbon sequestration benefits of cover cropping are well established. They have been documented in reviews and meta-analyses including Hu et al. (2023) and Vendig et al. (2023).
+
+
+## Consensus of effectiveness of reduced tillage for sequestering carbon: Mixed
+
+
+Relative to conventional tillage, estimates of soil carbon gains in shallow soils under no-till management include average increases of 5–20% (Bai et al., 2019; Cui et al., 2024; Kan et al., 2022). Lessmann et al. (2022) estimated that use of no-till is associated with an average annual increase in carbon sequestration of 0.88 t CO₂‑eq
+/ha/yr relative to high-intensity tillage.
+
+
+## Nitrous oxide reduction: Mixed
+
+
+Consensus on nitrous oxide reductions from improved annual cropping is mixed. Several reviews have demonstrated a modest reduction in nitrous oxide from cover cropping (Abdalla et al., 2019; Xing & Wang, 2024). Reduced tillage can result in either increased or decreased nitrous oxide emissions (Hassan et al., 2022).
+
+The results presented in this document summarize findings from 10 reviews and meta-analyses reflecting current evidence at the global scale. Nonetheless, not all countries are represented. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Provide local and regional institutional guidance for improving annual cropping that adapts to the socio-environmental context.
+
+Integrate soil protection into national climate mitigation and adaptation plans.
+
+Remove financial incentives, such as subsidies, for unsustainable practices and replace them with financial incentives for carbon sequestration practices.
+
+Place taxes or fines on emissions and related farm inputs (such as nitrogen fertilizers).
+
+Reform international agricultural trade, remove subsidies for emissions-intensive agriculture, and support climate-friendly practices.
+
+Strengthen and supportland tenurefor smallholder farmers.
+
+Mandate insurance schemes that allow farmers to use cover crops and reduce tillage.
+
+Support, protect, and promote traditional and Indigenous knowledge of land management practices.
+
+Set standards for measuring, monitoring, and verifying impacts on SOC accounting for varying socio-environmental conditions.
+
+Develop economic budgets for farmers to adopt these practices.
+
+Invest in or expand extension services to educate farmers and other stakeholders on the economic and environmental benefits of improved annual cropping.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate stakeholder discussions.
+
+The carbon farming solution: a global toolkit of perennial crops and regenerative agriculture practices for climate change mitigation and food security. Toensmeier (2016)
+
+Conservation agriculture and soil organic carbon: principles, processes, practices and policy options. Francaviglia et al. (2023)
+
+Farming our way out of the climate crisis. Project Drawdown (2020)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Implement no-till practices and use cover crops.
+
+Utilize or advocate for financial assistance and tax breaks for farmers to use improved annual cropping techniques.
+
+Adjust the timing and dates of the planting and termination of the cover crops in order to avoid competition for resources with the primary crop.
+
+Find opportunities to reduce initial operation costs of no-tillage and cover crops, such as selling cover crops as forage or grazing.
+
+Take advantage of education programs, support groups, and extension services focused on improved annual cropping methods.
+
+Create, support, or join stakeholder discussions, especially around standardized monitoring frameworks, ROI, and climate benefits.
+
+The carbon farming solution: a global toolkit of perennial crops and regenerative agriculture practices for climate change mitigation and food security. Toensmeier (2016)
+
+Conservation agriculture and soil organic carbon: principles, processes, practices and policy options. Francaviglia et al. (2023)
+
+Farming our way out of the climate crisis. Project Drawdown (2020)
+
+Source from producers implementing improved annual cropping practices, create programs that directly engage and educate farmers, and promote inspiring case studies with the industry and wider public.
+
+Create sustainability goals and supplier requirements that incorporate this solution and offer pricing incentives for compliant suppliers.
+
+Invest in companies that utilize improved annual cropping techniques or produce the necessary inputs.
+
+Promote and develop markets for products that employ improved annual cropping techniques and educate consumers about the importance of the practice.
+
+Stay abreast of recent scientific findings and use third-party verification to monitor sourcing practices.
+
+Offer financial services – including low-interest loans, micro-financing, and grants – to support low-carbon agriculture (e.g., sustainable land management systems).
+
+Support high-integritycarbon markets, institutions, rules, and norms to cultivate the demand for high-quality carbon credits.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate stakeholder discussions, especially around standardized monitoring frameworks, ROI, and climate benefits.
+
+The carbon farming solution: a global toolkit of perennial crops and regenerative agriculture practices for climate change mitigation and food security. Toensmeier (2016)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Conservation agriculture and soil organic carbon: principles, processes, practices and policy options. Francaviglia et al. (2023)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Farming our way out of the climate crisis. Project Drawdown (2020)
+
+Start model farms to demonstrate techniques, conduct experiments, and educate local farmers.
+
+Conduct and share research on improving annual cropping techniques and local policy options.
+
+Advocate to policymakers for improving annual cropping techniques, incentives, and regulations.
+
+Educate farmers on sustainable means of agriculture and support implementation.
+
+Help integrate improved annual cropping practices as part of the broader climate agenda.
+
+Engage with businesses to encourage corporate responsibility and/or monitor soil health.
+
+Offer resources and training in financial planning and yield risk management to farmers adopting improved annual cropping approaches.
+
+Partner with research institutions and businesses to co-develop and distribute region-specific best practices.
+
+Create, support, or join stakeholder discussions, especially around standardized monitoring frameworks, ROI, and climate benefits.
+
+The carbon farming solution: a global toolkit of perennial crops and regenerative agriculture practices for climate change mitigation and food security. Toensmeier (2016)
+
+Conservation agriculture and soil organic carbon: principles, processes, practices and policy options. Francaviglia et al. (2023)
+
+Farming our way out of the climate crisis. Project Drawdown (2020)
+
+Integrate science-based due diligence on improved annual cropping techniques and soil health measures into all farming and agritech investments.
+
+Encourage companies in your investment portfolio to adopt improved annual cropping practices.
+
+Offer access to capital, such as low-interest loans, micro-financing, and grants to improve annual cropping.
+
+Invest in companies developing technologies that improve annual cropping, such as soil management equipment and related software.
+
+Create, support, or join stakeholder discussions, especially around standardized monitoring frameworks, ROI, and climate benefits.
+
+The carbon farming solution: a global toolkit of perennial crops and regenerative agriculture practices for climate change mitigation and food security. Toensmeier (2016)
+
+Conservation agriculture and soil organic carbon: principles, processes, practices and policy options. Francaviglia et al. (2023)
+
+Farming our way out of the climate crisis. Project Drawdown (2020)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Start model farms to demonstrate techniques, conduct experiments, and educate local farmers.
+
+Offer access to capital, such as low-interest loans, micro-financing, and grants to support improving annual cropping, (e.g., traditional land management).
+
+Conduct and share research on improved annual cropping techniques and local policy options.
+
+Advocate to policymakers for improved annual cropping techniques, incentives, and regulations.
+
+Educate farmers on traditional means of agriculture and support implementation.
+
+Help integrate improved annual cropping practices as part of the broader climate agenda.
+
+Engage with businesses to encourage corporate responsibility and/or monitor soil health.
+
+Offer resources and training in financial planning and yield risk management to farmers adopting improved annual cropping approaches.
+
+Partner with research institutions and businesses to co-develop and distribute region-specific best practices.
+
+Create, support, or join stakeholder discussions, especially around standardized monitoring frameworks, ROI, and climate benefits.
+
+Invest in companies developing technologies that improve annual cropping, such as soil management equipment and related software.
+
+The carbon farming solution: a global toolkit of perennial crops and regenerative agriculture practices for climate change mitigation and food security. Toensmeier (2016)
+
+Conservation agriculture and soil organic carbon: principles, processes, practices and policy options. Francaviglia et al. (2023)
+
+Farming our way out of the climate crisis. Project Drawdown (2020)
+
+Start model farms to demonstrate techniques, conduct experiments, and educate local farmers.
+
+Conduct and share research on improved annual cropping techniques and local policy options.
+
+Advocate to policymakers for improved annual cropping techniques, incentives, and regulations.
+
+Educate farmers on traditional means of agriculture and support implementation.
+
+Engage with businesses to encourage corporate responsibility and/or monitor soil health.
+
+Research the regional impacts of cover crops on SOC and SOM and publish the data.
+
+Partner with research institutions and businesses to co-develop and distribute region-specific best practices.
+
+Create, support, or join stakeholder discussions, especially around standardized monitoring frameworks, ROI, and climate benefits.
+
+Work with farmers and other private organizations to improve data collection on uptake of improved annual cropping techniques, effectiveness, and regional best practices.
+
+The carbon farming solution: a global toolkit of perennial crops and regenerative agriculture practices for climate change mitigation and food security. Toensmeier (2016)
+
+Conservation agriculture and soil organic carbon: principles, processes, practices and policy options. Francaviglia et al. (2023)
+
+Farming our way out of the climate crisis. Project Drawdown (2020)
+
+
+## Technologists and Researchers
+
+
+Help develop standards for measuring, monitoring, and verifying impacts on SOC accounting for varying socio-environmental conditions.
+
+Research the regional impacts of cover crops (particularly outside the United States) on SOC and SOM, and publish the data.
+
+Create tracking and monitoring software to support farmers' decision-making.
+
+Research the application ofAIand robotics for crop rotation.
+
+Improve data and analytics to monitor soil and water quality, assist farmers, support policymaking, and assess the impacts of policies.
+
+Develop education and training applications to improve annual cropping techniques and provide real-time feedback.
+
+The carbon farming solution: a global toolkit of perennial crops and regenerative agriculture practices for climate change mitigation and food security. Toensmeier (2016)
+
+Conservation agriculture and soil organic carbon: principles, processes, practices and policy options. Francaviglia et al. (2023)
+
+Farming our way out of the climate crisis. Project Drawdown (2020)
+
+
+## Communities, Households, and Individuals
+
+
+Participate in urban agriculture or community gardening programs that implement these practices.
+
+Engage with businesses to encourage corporate responsibility and/or monitor soil health.
+
+Work with farmers and other private organizations to improve data collection on uptake of improved annual cropping techniques, effectiveness, and regional best practices.
+
+Advocate to policymakers for improved annual cropping techniques, incentives, and regulations.
+
+Start model farms to demonstrate techniques, conduct experiments, and educate local farmers.
+
+Educate farmers on traditional means of agriculture and support implementation.
+
+Create, support, or join stakeholder discussions, especially around standardized monitoring frameworks, ROI, and climate benefits.
+
+The carbon farming solution: a global toolkit of perennial crops and regenerative agriculture practices for climate change mitigation and food security. Toensmeier (2016)
+
+Conservation agriculture and soil organic carbon: principles, processes, practices and policy options. Francaviglia et al. (2023)
+
+Farming our way out of the climate crisis. Project Drawdown (2020)
+
+
+## “Take Action” Sources
+
+
+Responses of soil carbon sequestration to climate-smart agriculture practices: A meta-analysis. Bai et al. (2019)
+
+Cover crops do not increase soil organic carbon stocks as much as has been claimed: What is the way forward?Chaplot & Smith (2023)
+
+Conservation agriculture and soil organic carbon: principles, processes, practices and policy options. Francaviglia et al. (2023)
+
+New analysis shows cover crops and no-till reduce crop insurance claims. Gauthier (2023)
+
+Successful experiences and lessons from conservation agriculture worldwide. Kassam et al. (2022)
+
+Climate and soil characteristics determine where no-till management can store carbon in soils and mitigate greenhouse gas emissions. Ogle et al. (2019)
+
+Conservation & crop insurance research pilot. Sherrick et al. (2023)
+
+Methods and Supporting Data
+
+Abdalla, M., Hastings, A., Cheng, K., Yue, Q., Chadwick, D., Espenberg, M., Truu, J., Rees, R. M., & Smith, P. (2019). A critical review of the impacts of cover crops on nitrogen leaching, net greenhouse gas balance and crop productivity.Global Change Biology,25(8), 2530–2543.Link to source:https://doi.org/10.1111/gcb.14644
+
+Arslan, A., McCarthy, N., Lipper, L., Asfaw, S., Cattaneo, A., & Kokwe, M. (2015). Climate smart agriculture? Assessing the adaptation implications in Zambia.Journal of Agricultural Economics,66(3), 753-780.Link to source:https://doi.org/10.1111/1477-9552.12107
+
+Bai, X., Huang, Y., Ren, W., Coyne, M., Jacinthe, P.-A., Tao, B., Hui, D., Yang, J., & Matocha, C. (2019). Responses of soil carbon sequestration to climate-smart agriculture practices: A meta-analysis.Global Change Biology,25(8), 2591–2606.https://doi.org/10.1111/gcb.14658
+
+Blanco‐Canqui, H., Shaver, T. M., Lindquist, J. L., Shapiro, C. A., Elmore, R. W., Francis, C. A., & Hergert, G. W. (2015). Cover crops and ecosystem services: Insights from studies in temperate soils.Agronomy journal,107(6), 2449-2474.Link to source:https://doi.org/10.2134/agronj15.0086
+
+Blanco-Canqui, H., & Francis, C. A. (2016). Building resilient soils through agroecosystem redesign under fluctuating climatic regimes.Journal of Soil and Water Conservation, 71(6), 127A-133A.Link to source:https://doi.org/10.2489/jswc.71.6.127A
+
+Cai, A., Han, T., Ren, T., Sanderman, J., Rui, Y., Wang, B., Smith, P., Xu, M., & Li, Y. (2022). Declines in soil carbon storage under no tillage can be alleviated in the long run.Geoderma,425, 116028.Link to source:https://doi.org/10.1016/j.geoderma.2022.116028
+
+Clapp, J. (2021). Explaining growing glyphosate use: The political economy of herbicide-dependent agriculture.Global Environmental Change,67, 102239.Link to source:https://doi.org/10.1016/j.gloenvcha.2021.102239
+
+Cui, Y., Zhang, W., Zhang, Y., Liu, X., Zhang, Y., Zheng, X., Luo, J., & Zou, J. (2024). Effects of no-till on upland crop yield and soil organic carbon: A global meta-analysis.Plant and Soil,499(1), 363–377.https://doi.org/10.1007/s11104-022-05854-y
+
+Damania, R., Polasky, S., Ruckelshaus, M., Russ, J., Amann, M., Chaplin-Kramer, R., Gerber, J., Hawthorne, P., Heger, M. P., Mamun, S., Ruta, G., Schmitt, R., Smith, J., Vogl, A., Wagner, F., & Zaveri, E. (2023).Nature's Frontiers: Achieving Sustainability, Efficiency, and Prosperity with Natural Capital. World Bank Publications.Link to source:https://doi.org/10.1596/978-1-4648-1923-0
+
+Francaviglia, R., Almagro, M., & Vicente-Vicente, J. L. (2023). Conservation agriculture and soil organic carbon: Principles, processes, practices and policy options.Soil Systems,7(1), 17.Link to source:https://doi.org/10.3390/soilsystems7010017
+
+Griscom, B. W., Adams, J., Ellis, P. W., Houghton, R. A., Lomax, G., Miteva, D. A., Schlesinger, W. H., Shoch, D., Siikamäki, J. V., Smith, P., Woodbury, P., Zganjar, C., Blackman, A., Campari, J., Conant, R. T., Delgado, C., Elias, P., Gopalakrishna, T., Hamsik, M. R., Herrero, M., & Fargione, J. (2017). Natural climate solutions.Proceedings of the National Academy of Sciences,114(44), 11645-11650.Link to source:https://doi.org/10.1073/pnas.1710465114
+
+Hassan, M. U., Aamer, M., Mahmood, A., Awan, M. I., Barbanti, L., Seleiman, M. F., Bakhsh, G., Alkharabsheh, H. M., Babur, E., Shao, J., Rasheed, A., & Huang, G. (2022). Management strategies to mitigate N2O emissions in agriculture.Life,12(3), 439.Link to source:https://doi.org/10.3390/life12030439
+
+Hu, Q., Thomas, B. W., Powlson, D., Hu, Y., Zhang, Y., Jun, X., Shi, X., & Zhang, Y. (2023). Soil organic carbon fractions in response to soil, environmental and agronomic factors under cover cropping systems: A global meta-analysis.Agriculture, Ecosystems & Environment,355, 108591.https://doi.org/10.1016/j.agee.2023.108591
+
+Jat, H. S., Choudhary, K. M., Nandal, D. P., Yadav, A. K., Poonia, T., Singh, Y., Sharma, P. C., & Jat, M. L. (2020). Conservation agriculture-based sustainable intensification of cereal systems leads to energy conservation, higher productivity and farm profitability.Environmental Management,65(6), 774–786.Link to source:https://doi.org/10.1007/s00267-020-01273-w
+
+Jayaraman, S., Dang, Y. P., Naorem, A., Page, K. L., & Dalal, R. C. (2021). Conservation agriculture as a system to enhance ecosystem services. Agriculture, 11(8), 718.Link to source:https://doi.org/10.3390/agriculture11080718
+
+Kan, Z.-R., Liu, W.-X., Liu, W.-S., Lal, R., Dang, Y. P., Zhao, X., & Zhang, H.-L. (2022). Mechanisms of soil organic carbon stability and its response to no-till: A global synthesis and perspective.Global Change Biology,28(3), 693–710.https://doi.org/10.1111/gcb.15968
+
+Kassam, A., Friedrich, T., & Derpsch, R. (2022). Successful experiences and lessons from conservation agriculture worldwide.Agronomy,12(4), 769.https://doi.org/10.3390/agronomy12040769
+
+Lal, R., Smith, P., Jungkunst, H. F., Mitsch, W. J., Lehmann, J., Nair, P. K. R., McBratney, A. B., Sá, J. C. D. M., Schneider, J., Zinn, Y. L., Skorupa, A. L. A., Zhang, H.-L., Minasny, B., Srinivasrao, C., & Ravindranath, N. H. (2018). The carbon sequestration potential of terrestrial ecosystems.Journal of Soil and Water Conservation,73(6), 145A-152A.Link to source:https://doi.org/10.2489/jswc.73.6.145A
+
+Lessmann, M., Ros, G. H., Young, M. D., & de Vries, W. (2022). Global variation in soil carbon sequestration potential through improved cropland management.Global Change Biology,28(3), 1162–1177.https://doi.org/10.1111/gcb.15954
+
+Luo, Z., Wang, E., & Sun, O. J. (2010). Can no-tillage stimulate carbon sequestration in agricultural soils? A meta-analysis of paired experiments.Agriculture, Ecosystems & Environment,139(1), 224–231.https://doi.org/10.1016/j.agee.2010.08.006
+
+Martínez-Mena, M., Carrillo-López, E., Boix-Fayos, C., Almagro, M., García Franco, N., Díaz-Pereira, E., Montoya, I., & De Vente, J. (2020). Long-term effectiveness of sustainable land management practices to control runoff, soil erosion, and nutrient loss and the role of rainfall intensity in Mediterranean rainfed agroecosystems. CATENA, 187, 104352.Link to source:https://doi.org/10.1016/j.catena.2019.104352
+
+Moukanni, N., Brewer, K. M., Gaudin, A. C. M., & O’Geen, A. T. (2022). Optimizing carbon sequestration through cover cropping in Mediterranean agroecosystems: Synthesis of mechanisms and implications for management.Frontiers in Agronomy,4,844166.Link to source:https://doi.org/10.3389/fagro.2022.844166
+
+Mrabet, R., Singh, A., Sharma, T., Kassam, A., Friedrich, T., Basch, G., Moussadek, R., & Gonzalez-Sanchez, E. (2023). Conservation Agriculture: Climate Proof and Nature Positive Approach. In G. Ondrasek & L. Zhang (Eds.), Resource management in agroecosystems. IntechOpen.Link to source:https://doi.org/10.5772/intechopen.108890
+
+Nyagumbo, I., Mupangwa, W., Chipindu, L., Rusinamhodzi, L., & Craufurd, P. (2020). A regional synthesis of seven-year maize yield responses to conservation agriculture technologies in Eastern and Southern Africa. Agriculture, Ecosystems & Environment, 295, 106898.Link to source:https://doi.org/10.1016/j.agee.2020.106898
+
+Ogle, S. M., Alsaker, C., Baldock, J., Bernoux, M., Breidt, F. J., McConkey, B., Regina, K., & Vazquez-Amabile, G. G. (2019). Climate and Soil Characteristics Determine Where No-Till Management Can Store Carbon in Soils and Mitigate Greenhouse Gas Emissions.Scientific Reports,9(1), 11665.https://doi.org/10.1038/s41598-019-47861-7
+
+Paustian, K., Larson, E., Kent, J., Marx, E., & Swan, A. (2019). Soil C Sequestration as a Biological Negative Emission Strategy.Frontiers in Climate,1, 8.Link to source:https://doi.org/10.3389/fclim.2019.00008
+
+Pittelkow, C. M., Liang, X., Linquist, B. A., van Groenigen, K. J., Lee, J., Lundy, M. E., van Gestel, N., Six, J., Venterea, R. T., & van Kessel, C. (2015). Productivity limits and potentials of the principles of conservation agriculture.Nature,51, 365–368.https://doi.org/10.1038/nature13809
+
+Poeplau, C., & Don, A. (2015). Carbon sequestration in agricultural soils via cultivation of cover crops–A meta-analysis.Agriculture, Ecosystems & Environment,200, 33–41.Link to source:https://doi.org/10.1016/j.agee.2014.10.024
+
+Powlson, D. S., Stirling, C. M., Jat, M. L., Gerard, B. G., Palm, C. A., Sanchez, P. A., & Cassman, K. G. (2014). Limited potential of no-till agriculture for climate change mitigation.Nature Climate Change,4(8), 678–683.https://doi.org/10.1038/nclimate2292
+
+Prestele, R., Hirsch, A. L., Davin, E. L., Seneviratne, S. I., & Verburg, P. H. (2018). A spatially explicit representation of conservation agriculture for application in global change studies.Global Change Biology,24(9), 4038–4053.https://doi.org/10.1111/gcb.14307
+
+Project Drawdown (2020)Farming Our Way Out of the Climate Crisis. Project Drawdown.https://drawdown.org/publications/farming-our-way-out-of-the-climate-crisis
+
+Quintarelli, V., Radicetti, E., Allevato, E., Stazi, S. R., Haider, G., Abideen, Z., Bibi, S., Jamal, A., & Mancinelli, R. (2022). Cover crops for sustainable cropping systems: A review.Agriculture,12(12), 2076.Link to source:https://doi.org/10.3390/agriculture12122076
+
+Searchinger, T., R. Waite, C. Hanson, and J. Ranganathan. (2019).World Resources Report: Creating a Sustainable Food Future.Washington, DC: World Resources Institute.Link to source:https://research.wri.org/sites/default/files/2019-07/WRR_Food_Full_Report_0.pdf
+
+Stavi, I., Bel, G., & Zaady, E. (2016). Soil functions and ecosystem services in conventional, conservation, and integrated agricultural systems. A review.Agronomy for Sustainable Development, 36(2), 32.Link to source:https://doi.org/10.1007/s13593-016-0368-8
+
+Su, Y., Gabrielle, B., Beillouin, D., & Makowski, D. (2021). High probability of yield gain through conservation agriculture in dry regions for major staple crops.Scientific Reports, 11(1), 3344.Link to source:https://doi.org/10.1038/s41598-021-82375-1
+
+Sun, W., Canadell, J. G., Yu, L., Yu, L., Zhang, W., Smith, P., Fischer, T., & Huang, Y. (2020). Climate drives global soil carbon sequestration and crop yield changes under conservation agriculture.Global Change Biology, 26(6), 3325–3335.Link to source:https://doi.org/10.1111/gcb.15001
+
+Tambo, J. A., & Mockshell, J. (2018). Differential impacts of conservation agriculture technology options on household income in sub-Saharan Africa.Ecological Economics, 151,95–105.Link to source:https://doi.org/10.1016/j.ecolecon.2018.05.005
+
+Tiefenbacher, A., Sandén, T., Haslmayr, H.-P., Miloczki, J., Wenzel, W., & Spiegel, H. (2021). Optimizing carbon sequestration in croplands: A synthesis.Agronomy,11(5), 882.Link to source:https://doi.org/10.3390/agronomy11050882
+
+Toensmeier, E. (2016).The Carbon Farming Solution: A Global Toolkit of Perennial Crops and Regenerative Agriculture Practices for Climate Change Mitigation and Food Security. Green Publishing.Link to source:https://www.chelseagreen.com/product/the-carbon-farming-solution/?srsltid=AfmBOoqsMoY569HfsXOdBsRguOzsDLlRZKOnyM4nyKwZoIALvPoohZlq
+
+Vendig, I., Guzman, A., De La Cerda, G., Esquivel, K., Mayer, A. C., Ponisio, L., & Bowles, T. M. (2023). Quantifying direct yield benefits of soil carbon increases from cover cropping.Nature Sustainability,6(9), 1125–1134.https://doi.org/10.1038/s41893-023-01131-7
+
+WCCA (2021). The future of farming: Profitable and sustainable farming with conservation agriculture.8th World Congress on Conservation Agriculture, Vern Switzerland.Link to source:https://ecaf.org/8wcca
+
+Wooliver, R., & Jagadamma, S. (2023). Response of soil organic carbon fractions to cover cropping: A meta-analysis of agroecosystems.Agriculture, Ecosystems & Environment,351, 108497.https://doi.org/10.1016/j.agee.2023.108497
+
+Xing, Y., & Wang, X. (2024). Impact of agricultural activities on climate change: a review of greenhouse gas emission patterns in field crop systems.Plants,13(16), 2285.Link to source:https://doi.org/10.3390/plants13162285
+
+Megan Matthews, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Aishwarya Venkat, Ph.D.
+
+Aishwarya Venkat, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

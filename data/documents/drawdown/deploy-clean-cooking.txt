@@ -1,0 +1,656 @@
+# Deploy Clean Cooking
+Source: https://drawdown.org/explorer/deploy-clean-cooking
+
+Methods and Supporting Data
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+We define the Deploy Clean Cooking solution as the use of cleaner cooking fuels (liquidpetroleumgas,natural gas, electricity,biogas, and ethanol) in place of polluting fuels such as wood, charcoal, dung, kerosene, and coal, and/or the use of efficient cookstove technologies (together called cleaner cooking solutions). Replacing unclean fuel and cookstoves with cleaner approaches can drastically reduceGHGemissions while offering health and biodiversity benefits.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+household switching to cleaner cooking
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Worldwide, cooking is responsible for an estimated 1.7GtCO₂‑eq/yr(100-yr basis), (World Health Organization [WHO], 2023), or almost 3% of annual global emissions. Most of these emissions come from burningnonrenewablebiomassfuels. Only theCO₂‑eq
+ on a 100-yr basis is reported here due to lack of data on the relative contributions of GHGs. The International Energy Agency (IEA, 2023a) states that 2.3 billion people in 128 countries currently cook with coal, charcoal, kerosene, firewood, agricultural waste, or dung over open fires or inefficient cookstoves because they do not have the ability to regularly cook using cleaner cooking solutions. Even when sustainably harvested, biomass fuel is not climate neutral because it emitsmethaneandblack carbon(Smith, 2002).
+
+Clean cooking (Figure 1) reduces GHG emissions through three pathways:
+
+Traditional biomass or charcoal cookstoves are less than 15% efficient (Khavari et al., 2023), meaning most generated heat is lost to the environment rather than heating the cooking vessel and food. Cleaner fuels and technologies can be many times more efficient, using less energy to prepare meals than traditional fuels and cookstoves (Kashyap et al., 2024).
+
+
+## ReducingCarbon Intensity
+
+
+Cleaner fuels have lower carbon intensity, producing significantly fewer GHG emissions per unit of heat generated than conventional fuels. Carbon intensity includes CO₂,
+ methane, andnitrous oxideas well as black carbon. For instance, charcoal cookstoves emit approximately 572 kg CO₂‑eq
+/GJof heat delivered for cooking (Cashman et al., 2016). In contrast, liquefied petroleum gas (LPG) andbiogasemit about 292 and 11 kg CO₂‑eq
+/GJ, respectively (Cashman et al., 2016) and, excluding theembodied carbon, stoves that heat with electricity generated fromrenewableenergy sources such as solar, wind, or hydroelectric have zero emissions.
+
+
+## Reducing Deforestation
+
+
+Cleaner cooking also helpsmitigateclimate change by reducing deforestation (Clean Cooking Alliance [CCA], 2023) and associated GHG emissions.
+
+Figure 1. Classification of household cooking fuels as clean (green) and polluting (orange). Adapted from Stoner et al. (2021).
+
+Source: Stoner, O., Lewis, J., Martínez, I. L., Gumy, S., Economou, T., & Adair-Rohani, H. (2021). Household cooking fuel estimates at global and country level for 1990 to 2030.Nature communications,12(1), 5793.https://www.nature.com/articles/s41467-021-26036-x
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+We define adoption as households switching to clean cooking technologies after 2022. The minimum adoption of zero does not include any households that have adopted clean cooking before 2022, and therefore the climate impact does not account for the impact of the current state of this solution. See Adoption for more information.
+
+This is the estimated achievable adoption by 2050.
+
+This value is universal adoption of clean cooking globally by 2050.
+
+Current adoption is not determined.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+The Deploy Clean Cooking solution applies to geographies where low-cost, inefficient, and polluting cooking methods are common. Sub-Saharan Africa is the overwhelming target, with only 23% of the population relying on clean cooking technologies (WHO, 2025).
+
+There are significant correlations between the lack of clean cooking solutions and levels of extreme poverty (World Bank, 2024). The financial cost of clean fuel and cookstoves is a significant barrier to adoption (WHO, 2023).
+
+Some of the key benefits of deploying clean cooking will vary based on geography and landscape. For instance, freeing up time spent collecting firewood will be more notable in areas with less dense forest, since people in such locations would have to travel farther to harvest wood (Khavari et al., 2023).
+
+Barriers to the adoption of clean cooking can also vary with geography. Examples noted by Khavari et al. (2023) include robustness ofsupply chains, which can be influenced by population density and road networks.
+
+
+## Percentage of country population relying primarily on clean cooking technologies, 2023
+
+
+Access to clean cooking technology – and the benefits it confers – varies widely around the world.
+
+World Health Organization (2026).Proportion of population with primary reliance on clean fuels and technologies for cooking (%)[Data set]. The Global Health Observatory Indicators. Retrieved January 7, 2026 fromLink to source:https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-phe-primary-reliance-on-clean-fuels-and-technologies-proportion
+
+
+## Percentage of country population relying primarily on clean cooking technologies, 2023
+
+
+Access to clean cooking technology – and the benefits it confers – varies widely around the world.
+
+World Health Organization (2026).Proportion of population with primary reliance on clean fuels and technologies for cooking (%)[Data set]. The Global Health Observatory Indicators. Retrieved January 7, 2026 fromLink to source:https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-phe-primary-reliance-on-clean-fuels-and-technologies-proportion
+
+The climate impact of cleaner cooking depends on which fuel and technology is being replaced and what is replacing it. The WHO (2023) categorizes cooking fuels as clean, transitional, or polluting based primarily on health impacts. Clean fuels include solar, electric, biogas, LPG, and alcohols, while kerosene and unprocessed coal are polluting fuels. Biomass cooking technologies may be classified as clean, transitional, or polluting depending on the levels of fineparticulate matterandcarbon monoxideproduced. Switching from traditional cookstoves (polluting) to improved cookstoves (transitional) can reduce emissions 20–40%, while switching to an LPG or electric cookstove can reduce emissions more than 60% (Johnson, 2009). Not including the embodied carbon, switching completely to solar-powered electric cookstoves can reduce emissions 100%.
+
+We estimated theeffectivenessof cleaner cooking by calculating the reduction in GHG emissions per household switching to cleaner cooking solutions per year (Table 1). Our analysis of national, regional, and global studies suggested that switching to cleaner fuels and technologies can reduce emissions by 0.83–3.4tCO₂‑eq
+/household/yr (100-yr basis), including CO₂,
+ methane, black carbon, and sometimes other GHGs. The large range is due to varying assumptions. For example, the IEA arrived at 3.2 t CO₂‑eq
+/household/yr (100-yr basis) by assuming that >50% of the households switched to electricity or LPG. In comparison, Bailis et al. (2015) assumed a switch from unclean cookstoves to improved biomass cookstoves, resulting in an emissions reduction of only 0.98 t CO₂‑eq
+/household/yr (100-yr basis).
+
+Table 1. Effectiveness at reducing GHG emissions of switching from unclean cooking fuels and technologies to cleaner versions.
+
+Unit:t CO₂-eq/household switching to cleaner cooking solutions/yr, 100-yr basis
+
+While we calculated a median reduction of 2.3 t CO₂‑eq
+/household switching to cleaner cooking solutions/yr (100-yr basis), the actual reduction per household might be lower because households often stack cleaner cooking fuel with unclean fuel. This could result from multiple socioeconomic factors. For instance, a household may primarily rely on LPG as its main cooking fuel but occasionally turn to firewood or kerosene for specific dishes, price fluctuation, or fuel shortages (Khavari et al., 2023). In rural areas, cleaner fuels and traditional biomass (e.g., wood or dung) are used together to cut costs or due to personal preferences.
+
+People can obtain traditional unclean fuels and traditional woodstoves for little or no cost (Bensch et al., 2021; Kapsalyamova et al., 2021). Our analysis estimated the cost of woodstoves at US$1.50/household and the monetary cost of biomass fuel at US$0.00/household/yr. Over the two-yr lifespan of a woodstove, the net annualized cost is US$0.75/household/yr. While collecting this fuel might be free, it contributes to poverty because households can spend one to three hours daily collecting fuelwood. This can contribute to children, especially girls, missing school (Jameel et al., 2022).
+
+We estimated the median upfront cost of transitioning from primarily unclean cooking fuels and technology to cleaner cooking to be approximately US$58/household, with stoves lasting 3–10 years. However, the range of annual costs is large because several cleaner cooking technologies have significant variations in price, and cleaner fuel cost is even more variable. Our analysis showed a median annual fuel cost of US$56/household/yr with costs ranging from savings of US$9/household/yr when buying less biomass for more efficient biomass stoves to costs of US$187/household/yr for LPG. We estimated that over a five-year lifespan, cleaner cooking solutions have a net cost of US$64/household/yr.
+
+Our analysis may overestimate operational costs due to a lack of data on biomass and charcoal costs. The IEA (2023a) estimates that an annual investment of US$8 billion is needed to supply cleaner cookstoves, equipment, and infrastructure to support a transition to cleaner cooking. This translates to US$17/household/yr.
+
+The IEA (2023) assumes improved biomass and charcoal cookstoves are predominantly adopted in rural areas while LPG and electric stoves are adopted in urban regions because, inLMICs, economic and infrastructure challenges can limit access to LPG and electricity in rural areas. If every household were to switch exclusively to modern cooking (e.g., LPG and electricity), the cost would be much higher. The World Bank estimates the cost of implementing these solutions to be US$1.5 trillion between 2020 and 2030 or ~US$150 billion/yr over the next 10 years. This translates intoan average cost of US$214/household/yr (World Bank, 2020).
+
+The median cost per unit of climate impact was US$28/t CO₂‑eq
+ (100-yr basis, Table 2), obtained by taking the difference between median cost of cooking with polluting sources and the cost of adopting cleaner fuel, then dividing by the median reduction per household (Table 1). Beyond climate benefits, cleaner cooking offers significant other benefits (discussed below). While the median cost presented here is a reasonable first-order estimate, the actual cost of GHG reduction will depend upon several factors, including the type of stove adopted, stove usage, fuel consumption, and scale of adoption.
+
+Deploying cleaner cooking is a mature technology, and prices are unlikely to decrease in high-income countries where cleaner cooking fuels and technologies have been completely adopted. Nonetheless, the high cost of cleaner cooking technologies and the fluctuating prices of cleaner cooking fuel have been among the main impediments in the transition of households experiencing poverty away from unclean fuels and technologies. For example, recent price surges in Africa rendered LPG unaffordable for 30 million people (IEA, 2022). Electricity prices have also fluctuated regionally. In Europe and India, prices were higher in 2023 than in 2019 (IEA, 2023b). In contrast, U.S. electricity prices have remained stable over the past five years, while China experienced an 8% decrease.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Deploy Clean Cooking is anEMERGENCY BRAKEclimate solution. It has the potential to deliver a more rapid impact than gradual and delayed solutions. Because emergency brake solutions can deliver their climate benefits quickly, they can help accelerate our efforts to address dangerous levels of climate change. For this reason, they are a high priority.
+
+The WHO (2025) estimated that 74% of the global population in 2022 used cleaner cooking fuels and technologies. This translates to 1.2 billion households using cleaner cooking (Table 2) and 420 million households that have yet to switch to clean cooking solutions (Table 6). The adoption of cleaner cooking is not evenly spread across the world. On the higher end of the spectrum are the Americas and Europe, where, on average, more than 93% of people primarily rely on cleaner cooking fuels and technologies (WHO, 2025). On the lower end of the spectrum are sub-Saharan countries such as Madagascar, Mali and Uganda, where primary reliance on cleaner cooking fuel and technologies is <5%. While current adoption represents households that enjoy cleaner cooking today, our analysis for achievable adoption andadoption ceilingfocuses on quantifying households that currently use traditional cooking methods and can switch to cleaner cooking.
+
+To calculate climate impact of this solution, we defined theadoption unitas households switching to clean cooking after 2022. For this reason, current adoption in Table 6 and the solution summaries is not determined.
+
+Table 2. Current adoption level (2022).
+
+Unit: households using cleaner cooking solutions
+
+Global adoption of cleaner cooking fuel and technologies as the primary source of cooking increased from 61% of the population in 2013 to 74% in 2023 (WHO, 2025). This translates to roughly 21 million households adopting cleaner cooking technologies/yr (Table 3). This uptake, however, is not evenly distributed (see Maps section above).
+
+Large-scale adoption across China, India, and Indonesia has driven the recent increase. Between 2011 and 2021, use of cleaner fuels and technologies as the primary means of cooking rose from 61% to 83% of the population in China. In India, adoption expanded from 38% to 71%, and in Indonesia, it increased from 47% to 87% (WHO, 2024a). In contrast, primary reliance on cleaner cooking in sub-Saharan Africa only increased from 12% in 2010 to 16% in 2020 (Stoner et al., 2021).
+
+Based on the existing policies, population growth, and investments, more than 75% of the sub-Saharan African population will use unclean cooking fuels and technologies in 2030 (Stoner et al., 2021). In Central and Southern Asia, about 25% of the population will use unclean cooking fuels and technologies by 2030 (Stoner et al., 2021).
+
+Table 3. Adoption trend (2013–2023).
+
+Unit: households switching to cleaner cooking solutions/yr
+
+The World Bank (2020) estimated that universal adoption of modern energy cooking services by 2030 is possible with an annual investment of US$148–156 billion, with 26% of the investment coming from governments and development partners, 7% from private investment, and 67% from households. Universal adoption and use of cleaner fuels and technologies is possible with an investment of US$8–10 billion/yr (IEA, 2023a; World Bank, 2020). We therefore set the adoption ceiling at 100% of households adopting and using cleaner cooking solutions, which entails 420 million households switching from unclean solutions (Table 4).
+
+Table 4. Cleaner cooking adoption ceiling: upper limit for new adoption of cleaner cooking solutions.
+
+Unit: households switching to cleaner cooking solutions
+
+Universal adoption and use of cleaner cooking solutions is achievable before 2050 (Table 5). This is because if the current adoption trend continues, all households that currently use unclean cooking fuels and technologies will have switched to using cleaner versions by 2043.
+
+China, India, and Indonesia have shown that it is possible to rapidly expand adoption with the right set of policies and investments. In Indonesia, for example, use of cleaner cooking solutions increased from 9% of the population to 89% between 2002 and 2012 (WHO, 2025).
+
+Table 5. Range of achievable adoption levels.
+
+Unit: households switching to cleaner cooking solutions
+
+Cooking from all fuel types is responsible for approximately 1.7 Gt CO₂‑eq
+ (100-yr basis) emissions every year (WHO, 2023), on par with global emissions from the aviation industry (Bergero et al., 2023). Unclean cooking fuels and technologies are also the largest source of black carbon (Climate & Clean Air Coalition, 2024), a short-lived climate pollutant with aGWPseveral hundred times higher than CO₂that contributes to millions of premature deaths yearly (Garland et al., 2017).
+
+The actual reduction in climate impact will depend upon the mix of cleaner fuel and technologies that replace unclean fuel. The IEA (2023a) estimates that if the cleanest cooking fuels and technologies (e.g., electric and LPG) are adopted, emissions could be reduced by 1.5 Gt CO₂‑eq/yr
+ (100-yr basis) by 2030. In contrast, a greater reliance on improved cookstoves as cleaner cooking solutions will result in lower emissions reductions. The WHO (2023) estimates that much of the shift by 2030 will involve using improved biomass and charcoal cookstoves, especially in rural areas, reducing emissions 0.6 Gt CO₂‑eq/yr
+ (100-yr basis) by 2030 and ~1.6 CO₂‑eq/yr
+ (100-yr basis) by 2050, closely matching the IEA estimate.
+
+According to our analysis, deploying cleaner cooking can reduce emissions by 0.98 Gt CO₂‑eq/yr
+ (100-yr basis) between now and 2050 (Table 6). Our emissions reduction estimates are lower than those of the IEA because we do not assume that the shift to cleaner cooking will be dominated by LPG and renewables.
+
+Table 6. Climate impact at different levels of adoption.
+
+Unit:Gt CO₂-eq/yr, 100-yr basis
+
+Simkovich et al. (2019) found that time gained by switching to cleaner fuel can increase daily income by 3.8–4.7%. Their analysis excludes the expenses related to fuel, as well as the costs associated with delivery or transportation for refilling cleaner fuel. Mazorra et al. (2020) reported that if 50% of the time saved from not gathering firewood were redirected to income-generating activities, it could lead to an estimated annual income increase of approximately US$125 (2023 dollars) in the Gambia, US$113 in Guinea-Bissau, and US$200 in Senegal.Health and Air Quality
+
+Unclean cooking fuels and technologies producehousehold air pollution(HAP), with smoke and fine particulates sometimes reaching levels up to 100 times acceptable limits, particularly in poorly ventilated spaces (WHO, 2024b). HAP is linked to numerous health issues, such as stroke, ischemic heart disease, chronic obstructive pulmonary disease, lung cancer, and poor birth outcomes (Jameel et al., 2022). It accounts for more than 3.2 million early deaths annually (WHO, 2024b). In 2019, it accounted for over 4% of all the deaths globally (Bennitt et al., 2021). The World Bank (2020) estimated that the negative health impact of unclean cooking fuels and technologies is valued at US$1.4 trillion/yr. Globally, switching to cleaner fuels and technologies could prevent 21 million premature deaths from 2000–2100 (Lacey et al., 2017). A recent study offered empirical evidence of potential cardiovascular benefits stemming from household cleaner energy policies (Lee et al., 2024).
+
+Unclean cooking disproportionately impacts women and children who are traditionally responsible for collecting fuelwood or biomass. Typically, they spend an hour every day collecting solid fuel; however, in some countries (e.g., Senegal, Niger, and Cameroon), daily average collection time can exceed three hours (Jameel et al., 2022). Time-saving cooking fuels are associated with more education in women and children (Biswas & Das, 2022; Choudhuri & Desai, 2021) and can additionally promote gender equity through economic empowerment by allowing women to pursue additional employment opportunities (CCA, 2023). In conflict zones, adoption of cleaner fuels and technologies has been shown to reduce gender-based violence (Jameel et al., 2022). Finally, cleaner cooking fuels can improve health equity as women are disproportionately exposed to indoor air pollution generated from cooking (Fullerton et al., 2008; Po et al., 2011).
+
+The unsustainable harvest of wood for cooking fuel has led to deforestation and biodiversity loss in regions such as South Asia and sub-Saharan Africa (CCA, 2022). East African nations, including Eritrea, Ethiopia, Kenya, and Uganda, are particularly affected by the rapid depletion of sustainable wood fuel resources. In the Democratic Republic of the Congo, 84% of harvested wood is charcoal or firewood (World Bank, 2018). Switching to cleaner cooking fuels and technologies can reduce deforestation and protect biodiversity (Anenberg et al., 2013; CCA, 2022; Dagnachew et al., 2018).
+
+Households may continue using unclean cooking fuel and technologies alongside cleaner fuels and technologies (referred to as stacking). The data on cleaner cooking are typically measured as the number of households primarily relying on cleaner cooking fuel. This fails to capture the secondary fuel source used in the household. A review from LMICs revealed that stacking can range from low (28%) to as high as 100%, which would mean that every household is simultaneously using cleaner and unclean fuel (Shankar et al., 2020). This can happen due to factors like an increase in the cost of cleaner cooking fuel, cooking preference, unavailability of cleaner fuel, and unfamiliarity with cleaner cooking technologies. Stacking is challenging to avoid, and there is a growing realization from cleaner cookingpractitionersof the need for cleaner approaches, even when multiple stoves are used. For example, electric stoves can be supplemented with LPG or ethanol stoves.
+
+There are significant permanence challenges associated with cleaner cooking. Households switch back from cleaner cooking fuels and technologies to unclean fuels and technologies (Jewitt et al., 2020).
+
+Finance is vital to supercharge adoption of cleaner cooking. Investment in the cleaner cooking sector remains significantly below the scale of the global challenge, with current funding at approximately US$130 million. This is many times lower than the amount needed each year to expand adoption of cleaner cooking solutions for the 2.4 billion people who still rely on polluting fuels and technologies (CCA 2023). At the current business-as-usual adoption rate, limited by severe underfunding, more than 80% of the population in sub-Saharan Africa will continue to rely on unclean fuels and technologies in 2030 (Stoner et al., 2021)
+
+Climate funding, developmental finance, and subsidies have made some progress in increasing adoption of cleaner cooking. For instance, the World Bank invested more than US$562 million between 2015 and 2020, enabling 43 million people across 30 countries to adopt cleaner cooking solutions (ESMAP, 2023; World Bank, 2023). However, the emissions reductions these programs achieve can be overestimated. A recent analysis (Gill-Wiehl et al., 2024) found that 26.7 million clean cooking offset credits in reality only amounted to about 2.9 million credits. This discrepancy underscores the urgent need for updated methodologies and standards to accurately estimate emissions reductions and the cost of reduction per t CO₂‑eq
+ (100-yr basis).
+
+The expensive nature of cleaner cooking presents a significant barrier to adoption. Households that have recently transitioned to cleaner cooking face a high risk of defaulting back to unclean fuels and technologies. For example, among the households that received free LPG connection as a part of the Pradhan Mantri Ujjwala Yojana in India, low-income households reverted to unclean fuels and technologies during extensive periods of refill gaps (Cabiyo et al., 2020). In total, 9 million recipients could not refill their LPG cylinders even once in 2021–22 due to high LPG costs and other factors (Down to Earth, 2022).
+
+Beyond the cost, there is an adjustment period for the households adopting the cleaner cooking solution, which includes familiarizing themselves with the technology and fostering cultural and behavioral changes, including overcoming biases and adopting new habits.
+
+Switching to electric cooking will meaningfully reduce GHG emissions only if the grid is powered byclean energy. A life-cycle assessment of cooking fuels in India and China (Cashman et al., 2016) showed that unclean cooking fuels such ascrop residueand cow dung had a lowercarbon footprintthan electricity because in these countries >80% of the electricity was produced by coal and natural gas.
+
+LPG has been the leading cleaner fuel source replacing unclean cooking fuel globally (IEA, 2023a). The IEA (2023a) estimated that 33% of households transitioning to cleaner cooking fuels and technologies will do so using LPG to transition. Because LPG is a fossil fuel, increased reliance can hinder or slow the transition fromfossil fuels.
+
+This solution also decreases the demand for wood andwaste biomass. Because the total projected demand for wood and waste biomass across climate solutions exceeds the supply, reducing demand from clean cooking will help the following solutions increase their potential adoption by increasing the availability of raw agricultural waste and other biomass:
+
+Improve Forest Management
+
+Protect Grasslands & Savannas
+
+Restore Grasslands & Savannas
+
+Deploy Low-Emission Industrial Feedstocks
+
+Improve Cement Production
+
+Deploy Alternative Insulation Materials
+
+Improve Other Building Materials
+
+Increase Centralized Composting
+
+There is a strong consensus on the effectiveness of cleaner cooking as a climate solution. Research over the past two decades (e.g., Anenberg et al., 2013; Mazorra et al., 2020; Rosenthal et al., 2018) has supported the contention that replacing solid fuel cooking with cleaner fuel reduces GHG emissions.
+
+There is high agreement and robust evidence that switching cooking from unclean fuels and technologies to cleaner alternatives such as burning LPG or electric stoves offers health, air quality, and climate change benefits (Intergovernmental Panel on Climate Change [IPCC], 2022).
+
+The IPCC (2022) identified unclean fuels such as biomass as a major source of short-livedclimate pollutants(e.g., black carbon, organic carbon, carbon monoxide, and methane) and switching to cleaner fuels and technologies can reduce the emission of short-lived climate pollutants.
+
+Regional and country-level analyses provide additional evidence of the efficacy of cleaner cooking solutions. Khavari et al. (2023) reported that in sub-Saharan Africa, replacing unclean solid fuels with cleaner cooking could reduce GHG emissions by 0.5 Gt CO₂‑eq/yr
+ (100-yr basis). Life cycle assessments comparing different cooking fuels and technologies (Afrane & Ntiamoah, 2011; Afrane & Ntiamoah, 2012; Lansche & Müller, 2017; Singh et al., 2014) also have shown that cleaner cooking fuels and technologies emit less GHG per unit of energy delivered than unclean fuels.
+
+The IEA estimated that switching completely to clean cooking fuels and technologies by 2030 would result in a net reduction of 1.5 Gt CO₂‑eq/yr
+ (100-yr basis) by 2030 (IEA, 2023a).
+
+The results presented in this document summarize findings from five reviews and meta-analyses and 23 original studies and reports reflecting current evidence from 13 countries, primarily in sub-Saharan Africa. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Prioritize the issue at the national level to coordinate policy, coordinate resources, and ensure a robust effort.
+
+Create a dedicated coordinating body across relevant ministries, agencies, and sectors.
+
+Create subsidies and fuel price caps, and ban unclean cooking fuels and technologies.
+
+Remove taxes and levies on clean-cooking stoves.
+
+Create dedicated teams to deliver cleaner cooking equipment.
+
+Run public education campaignsappropriate for the context.
+
+A vision for clean cooking access for all. IEA (2023)
+
+The clean cooking declaration: making 2024 the pivotal year for clean cooking. IEA (2024)
+
+Tracking SDG7: the energy progress report. International Renewable Energy Agency (2023)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Clean cooking: an “emergency brake” climate solution with unparalleled co-benefits. Project Drawdown (2023)
+
+Clean cooking planning tool. World Bank - Energy Sector Management Assistance Program (ESMAP) (2022)
+
+Serve as a clean cooking ambassador to raise awareness within your industry and community.
+
+Participate in training programs.
+
+Develop feedback channels with manufacturers to enhance design and overcome local challenges.
+
+Restaurant owners and cooks can adopt clean cooking in their kitchens to reduce emissions, lower costs, and improve worker health and safety.
+
+Clean cookstove catalogue. CCA (n.d.)
+
+The value of clean cooking. CCA (n.d.)
+
+Clean cooking: an “emergency brake” climate solution with unparalleled co-benefits. Project Drawdown (2023)
+
+Behavior change approaches for clean cooking. USAID (2021)
+
+Use existing networks to incubate and scale business models such as the CCA’sCooking Industry Catalyst,Venture Accelerator, theNordic Green Bank’s Modern Cooking Facility for Africa, andSpark+ Africa.
+
+Serve both rural and urban markets, which has beenshownto increase revenue.
+
+Use rent-to-own sales models, which canincreaseconsumer trust and sales.
+
+If your company is participating in the voluntarycarbon market, look into funding projects that support cleaner cooking through the distribution of cleaner stoves or by increasing access to cleaner fuels.
+
+Cooking industry catalyst. CCA (n.d.)
+
+Clean cooking industry snapshot – third edition. CCA (2022)
+
+A vision for clean cooking access for all. IEA (2023)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Clean cooking: an “emergency brake” climate solution with unparalleled co-benefits. Project Drawdown (2023)
+
+Behavior change approaches for clean cooking. USAID (2021)
+
+Why investment in clean cooking is falling short. World Economic Forum (2023)
+
+Ensure operations use clean cooking methods.
+
+Educate the public on the benefits of clean cooking, available options, and applicable incentive programs.
+
+Advocate to policymakers on issues such as targeted subsidies and providing government support.
+
+Educateinvestorsand the business community on local needs and market trends.
+
+Clean cooking industry snapshot – third edition. CCA (2022)
+
+A vision for clean cooking access for all. IEA (2023)
+
+Tracking SDG7: the energy progress report. International Renewable Energy Agency (2023)
+
+The clean cooking declaration: making 2024 the pivotal year for clean cooking. IEA (2024)
+
+Behavior change approaches for clean cooking. USAID (2021)
+
+Clean cooking: an “emergency brake” climate solution with unparalleled co-benefits. Project Drawdown (2023)
+
+Why investment in clean cooking is falling short. World Economic Forum (2023)
+
+Use innovative funding mechanisms such asSpark+ Africa Fundand theNordic Green Bank’s Modern Cooking Facility for Africa.
+
+Deploy capital through carbon markets and credible, high-quality carbon reduction projects.
+
+Understand, endorse, and adhere to theCCA’s Principles for Responsible Carbon Finance in Clean Cooking.
+
+Clean cooking: an “emergency brake” climate solution with unparalleled co-benefits. Project Drawdown (2023)
+
+Clean cooking industry snapshot – third edition. CCA (2022)
+
+Cooking industry catalyst. CCA
+
+Modern energy cooking: review of the funding landscape. Modern Energy Cooking Services (2022)
+
+Why investment in clean cooking is falling short. World Economic Forum (2023)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Distribute cleaner cooking equipment and fuel.
+
+Work with local policymakers to ensure that recipient communities can maintain fuel costs over the long term (possibly through fuel subsidies).
+
+Provide grants to businesses in this sector.
+
+Fund education campaignsappropriatefor the context.
+
+Advance political action through public-private partnerships such as theCCA.
+
+Clean cooking industry snapshot – third edition. CCA (2022)
+
+Cooking industry catalyst. CCA
+
+Modern energy cooking: review of the funding landscape. Modern Energy Cooking Services And Energy 4 Impact (2022)
+
+Clean cooking: an “emergency brake” climate solution with unparalleled co-benefits. Project Drawdown (2023)
+
+Why investment in clean cooking is falling short. World Economic Forum (2023)
+
+Educate the public on the health, gender, climate, and environmental impacts of unclean cooking and the benefits of cleaner cooking.
+
+Hone your message to fit the context and share through appropriate messengers and platforms.
+
+Use mechanisms to promote trust, such as working with local health-care workers or other respected professionals.
+
+CCA and Tata Trusts launch clean cooking campaign in Gujarat. Clean Cooking Alliance (2019)
+
+Clean cooking: an “emergency brake” climate solution with unparalleled co-benefits. Project Drawdown (2023)
+
+Behavior change approaches for clean cooking. USAID (2021)
+
+
+## Technologists and Researchers
+
+
+Develop regional-specific technology that uses local sources of energy, such as biogas or high-efficiency charcoal.
+
+Create technology that works with the local environment and economy and has reliable supply chains.
+
+Clean cooking: an “emergency brake” climate solution with unparalleled co-benefits. Project Drawdown (2023)
+
+Clean cooking industry snapshot – third edition. CCA (2022)
+
+Clean cookstove catalogue. CCA
+
+Cooking industry catalyst. CCA
+
+
+## Communities, Households, and Individuals
+
+
+Learn about the benefits and harms associated with unclean fuels and technologies.
+
+Identify the right technology to purchase by considering the availability and affordability of fuels; practicality of the equipment in producing the quantity, quality, and type of preferred food, and ease of use.
+
+Clean cooking: an “emergency brake” climate solution with unparalleled co-benefits. Project Drawdown (2023)
+
+Clean cookstove catalogue. CCA
+
+Cooking industry catalyst. CCA
+
+The value of clean cooking. CCA
+
+
+## “Take Action” Sources
+
+
+A vision for clean cooking access for all – analysis.IEA (2023)
+
+Behavior change approaches for clean cooking.U.S. Agency for International Development (2015)
+
+Clean cooking: An “emergency brake” climate solution.Alexander et al. (2023)
+
+Clean cooking industry snapshot – third edition.CCA (2022)
+
+Cooking industry catalyst.CCA (n.d.)
+
+Modern energy cooking: review of the funding landscape.Energy 4 Impact (2022)
+
+The clean cooking planning tool: a new resource to explore the costs and benefits of transitioning to clean cooking.Energy Sector Management Assistance Program (2022)
+
+Tracking SDG7: the energy progress report 2023.International Renewable Energy Agency. (2023)
+
+Why investment in clean cooking is falling short.Coldrey et al. (2023)
+
+Methods and Supporting Data
+
+Afrane, G., & Ntiamoah, A. (2011). Comparative life cycle assessment of charcoal, biogas, and liquefied petroleum gas as cooking fuels in Ghana.Journal of Industrial Ecology,15(4), 539–549.Link to source:https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1530-9290.2011.00350.x
+
+Afrane, G., & Ntiamoah, A. (2012). Analysis of the life-cycle costs and environmental impacts of cooking fuels used in Ghana.Applied energy,98, 301–306.Link to source:https://www.sciencedirect.com/science/article/abs/pii/S0306261912002590
+
+Anenberg, S. C., Balakrishnan, K., Jetter, J., Masera, O., Mehta, S., Moss, J., & Ramanathan, V. (2013). Cleaner cooking solutions to achieve health, climate, and economic cobenefits.Link to source:https://pubs.acs.org/doi/10.1021/es304942e
+
+Bailis, R., Drigo, R., Ghilardi, A., & Masera, O. (2015). The carbon footprint of traditional woodfuels.Nature Climate Change,5(3), 266–272.Link to source:https://www.nature.com/articles/nclimate2491
+
+Bensch, G., Jeuland, M., & Peters, J. (2021). Efficient biomass cooking in Africa for climate change mitigation and development.One Earth,4(6), 879–890.Link to source:https://www.cell.com/one-earth/pdf/S2590-3322(21)00296-7.pdf
+
+Bennitt, F. B., Wozniak, S. S., Causey, K., Burkart, K., & Brauer, M. (2021). Estimating disease burden attributable to household air pollution: new methods within the Global Burden of Disease Study.The Lancet Global Health,9, S18.Link to source:https://doi.org/10.1016/S2214-109X(21)00126-1
+
+Bergero, C., Gosnell, G., Gielen, D., Kang, S., Bazilian, M., & Davis, S. J. (2023). Pathways to net-zero emissions from aviation.Nature Sustainability,6(4), 404–414.Link to source:https://www.nature.com/articles/s41893-022-01046-9
+
+​​Biswas, S., & Das, U. (2022). Adding fuel to human capital: Exploring the educational effects of cooking fuel choice from rural India. Energy Economics, 105, 105744.Link to source:https://doi.org/10.1016/j.eneco.2021.105744
+
+Cabiyo, B., Ray, I., & Levine, D. I. (2020). The refill gap: clean cooking fuel adoption in rural India.Environmental Research Letters,16(1), 014035.Link to source:https://iopscience.iop.org/article/10.1088/1748-9326/abd133
+
+Cashman, S., Rodgers, M., & Huff, M. (2016).Life-cycle assessment of cookstove fuels in India and China. US Environmental Protection Agency, Washington, DC. EPA/600/R-15/325.Link to source:https://cleancooking.org/wp-content/uploads/2021/07/496-1.pdf
+
+Clean Cooking Alliance (CCA). (2023). Accelerating clean cooking as a nature-based solution.Link to source:https://cleancooking.org/reports-and-tools/accelerating-clean-cooking-as-a-nature-based-climate-solution/
+
+Clean Cooking Alliance. (2022). Clean cooking as a catalyst for sustainable food systems.Link to source:https://cleancooking.org/wp-content/uploads/2023/11/CCA_Clean-Cooking-as-a-Catalyst-for-Sustainable-Food-Systems.pdf
+
+Climate & Clean Air Coalition. (2024). Nationally determined contributions and clean cooking.Link to source:https://www.ccacoalition.org/resources/nationally-determined-contributions-and-clean-cooking
+
+Choudhuri, P., & Desai, S. (2021). Lack of access to clean fuel and piped water and children’s educational outcomes in rural India. World Development, 145, 105535.Link to source:https://doi.org/10.1016/j.worlddev.2021.105535
+
+Dagnachew, A. G., Lucas, P. L., van Vuuren, D. P., & Hof, A. F. (2018). Towards universal access to clean cooking solutions in sub-Saharan Africa. PBL Netherlands Environmental Assessment Agency.Link to source:https://www.pbl.nl/uploads/default/downloads/pbl-2019-clean-cooking-solutions-sub-saharan-africa_3421_0.pdf
+
+Down to Earth. (2022). Ujjwala: Over 9 million beneficiaries did not refill cylinder last year, Centre admits. Retrieved June 20, 2024, fromLink to source:https://www.downtoearth.org.in/energy/ujjwala-over-9-million-beneficiaries-did-not-refill-cylinder-last-year-centre-admits-84130
+
+Energy Sector Management Assistance Program. (2023).Building evidence to unlock impact finance : A field assessment of lean cooking co-benefits for climate, health, and gender.Retrieved September 13, 2024, fromLink to source:https://www.esmap.org/Building_Evidence_To_unloc_Impact_Finance_Benefits
+
+Fullerton, D. G., Bruce, N., & Gordon, S. B. (2008). Indoor air pollution from biomass fuel smoke is a major health concern in the developing world. Transactions of the Royal Society of Tropical Medicine and Hygiene, 102(9), 843–851.Link to source:https://doi.org/10.1016/j.trstmh.2008.05.028
+
+Garland, C., Delapena, S., Prasad, R., L'Orange, C., Alexander, D., & Johnson, M. (2017). Black carbon cookstove emissions: A field assessment of 19 stove/fuel combinations.Atmospheric Environment,169, 140–149.Link to source:https://doi.org/10.1016/j.atmosenv.2017.08.040
+
+Gill-Wiehl, A., Kammen, D. M., & Haya, B. K. (2024). Pervasive over-crediting from cookstove offset methodologies.Nature Sustainability,7(2), 191–202.Link to source:https://doi.org/10.1038/s41893-023-01259-6
+
+International Energy Agency. (2022). Africa energy outlook.Link to source:https://www.iea.org/reports/africa-energy-outlook-2022/key-findings
+
+International Energy Agency. (2023a). A vision for clean cooking access for all.Link to source:https://iea.blob.core.windows.net/assets/f63eebbc-a3df-4542-b2fb-364dd66a2199/AVisionforCleanCookingAccessforAll.pdf
+
+International Energy Agency. (2023b). Electricity market report.Link to source:https://www.iea.org/reports/electricity-market-report-update-2023
+
+Intergovernmental Panel on Climate Change. (2022). Climate change 2022: mitigation of climate change. Contribution of the Working Group III to the sixth assessment report of the Intergovernmental Panel on Climate Change.Link to source:https://www.ipcc.ch/report/ar6/wg3/
+
+Jameel, Y., Patrone, C. M., Patterson, K. P., & West, P. C. (2022). Climate-poverty connections: Opportunities for synergistic solutions at the intersection of planetary and human well-being.Link to source:https://drawdown.org/publications/climate-poverty-connections-report
+
+Jewitt, S., Atagher, P., & Clifford, M. (2020). “We cannot stop cooking”: Stove stacking, seasonality and the risky practices of household cookstove transitions in Nigeria.Energy Research & Social Science,61, 101340.Link to source:https://www.sciencedirect.com/science/article/pii/S2214629619304700?via%3Dihub
+
+Johnson, E. (2009). Charcoal versus LPG grilling: a carbon-footprint comparison.Environmental Impact Assessment Review,29(6), 370–378.Link to source:https://www.sciencedirect.com/science/article/abs/pii/S0195925509000420
+
+Kashyap, S. R., Pramanik, S., & Ravikrishna, R. V. (2024). A review of energy-efficient domestic cookstoves. Applied Thermal Engineering, 236, 121510.Link to source:https://doi.org/10.1016/j.applthermaleng.2023.121510
+
+Kapsalyamova, Z., Mishra, R., Kerimray, A., Karymshakov, K., & Azhgaliyeva, D. (2021). Why energy access is not enough for choosing clean cooking fuels? Evidence from the multinomial logit model.Journal of Environmental Management,290, 112539.Link to source:https://www.sciencedirect.com/science/article/pii/S0301479721006010
+
+Khavari, B., Ramirez, C., Jeuland, M., & Fuso Nerini, F. (2023). A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa.Nature Sustainability,6(4), 447–457.Link to source:https://www.nature.com/articles/s41893-022-01039-8
+
+Lacey, F. G., Henze, D. K., Lee, C. J., van Donkelaar, A., & Martin, R. V. (2017). Transient climate and ambient health impacts due to national solid fuel cookstove emissions.Proceedings of the National Academy of Sciences,114(6), 1269–1274.Link to source:https://www.pnas.org/doi/full/10.1073/pnas.1612430114
+
+Lansche, J., & Müller, J. (2017). Life cycle assessment (LCA) of biogas versus dung combustion household cooking systems in developing countries–a case study in Ethiopia.Journal of cleaner production,165, 828–835.Link to source:https://www.sciencedirect.com/science/article/abs/pii/S0959652617315597
+
+Lee, M., Chang, J., Deng, Q., Hu, P., Bixby, H., Harper, S., ... & Liu, J. (2024). Effects of a coal to clean heating policy on acute myocardial infarction in Beijing: a difference-in-differences analysis.The Lancet Planetary Health,8(11), e924–e932.Link to source:https://doi.org/10.1016/S2542-5196(24)00243-2
+
+Mazorra, J., Sánchez-Jacob, E., de la Sota, C., Fernández, L., & Lumbreras, J. (2020). A comprehensive analysis of cooking solutions co-benefits at household level: Healthy lives and well-being, gender and climate change.Science of The Total Environment,707, 135968.Link to source:https://www.sciencedirect.com/science/article/abs/pii/S0048969719359637
+
+Po, J. Y. T., FitzGerald, J. M., & Carlsten, C. (2011). Respiratory disease associated with solid biomass fuel exposure in rural women and children: Systematic review and meta-analysis. Thorax, 66(3), 232–239.Link to source:https://doi.org/10.1136/thx.2010.147884
+
+Rosenthal, J., Quinn, A., Grieshop, A. P., Pillarisetti, A., & Glass, R. I. (2018). Clean cooking and the SDGs: Integrated analytical approaches to guide energy interventions for health and environment goals.Energy for Sustainable Development,42, 152–159.Link to source:https://www.sciencedirect.com/science/article/pii/S0973082617309857
+
+Shankar, A. V., Quinn, A. K., Dickinson, K. L., Williams, K. N., Masera, O., Charron, D., ... & Rosenthal, J. P. (2020). Everybody stacks: Lessons from household energy case studies to inform design principles for clean energy transitions.Energy Policy,141, 111468.Link to source:https://doi.org/10.1016/j.enpol.2020.111468
+
+Simkovich, S. M., Williams, K. N., Pollard, S., Dowdy, D., Sinharoy, S., Clasen, T. F., ... & Checkley, W. (2019). A systematic review to evaluate the association between clean cooking technologies and time use in low-and middle-income countries.International journal of environmental research and public health,16(13), 2277.Link to source:https://www.mdpi.com/1660-4601/16/13/2277
+
+Singh, P., Gundimeda, H., & Stucki, M. (2014). Environmental footprint of cooking fuels: a life cycle assessment of ten fuel sources used in Indian households.The International Journal of Life Cycle Assessment,19, 1036–1048.Link to source:https://link.springer.com/article/10.1007/s11367-014-0699-0
+
+Smith, K. R. (2002). In praise of petroleum?Science,298(5600), 1847–1847.DOI: 10.1126/science.298.5600.1847
+
+Stoner, O., Lewis, J., Martínez, I. L., Gumy, S., Economou, T., & Adair-Rohani, H. (2021). Household cooking fuel estimates at global and country level for 1990 to 2030.Nature communications,12(1), 5793.Link to source:https://www.nature.com/articles/s41467-021-26036-x
+
+World Bank. (2018). A recipe for protecting the Democratic Republic of Congo’s tropical forests. Retrieved January 16, 2025, fromLink to source:https://www.worldbank.org/en/news/feature/2018/01/24/a-recipe-for-protecting-the-democratic-republic-of-congos-tropical-forests
+
+World Bank. (2020). Energy Sector Management Assistance Program. (2020).The state of access to modern energy cooking services.Link to source:https://www.worldbank.org/en/topic/energy/publication/the-state-of-access-to-modern-energy-cooking-services
+
+World Bank. (2023). Moving the needle on clean cooking for all. Retrieved September 13, 2024, fromLink to source:https://www.worldbank.org/en/results/2023/01/19/moving-the-needle-on-clean-cooking-for-all
+
+World Health Organization. (2025). Proportion of population with primary reliance on clean fuels and technologies. Retrieved May 1, 2025, fromLink to source:https://www.who.int/data/gho/data/themes/air-pollution/household-air-pollution
+
+World Health Organization. (2023). Achieving universal access and net-zero emissions by 2050: a global roadmap for just and inclusive clean cooking transition.Link to source:https://www.who.int/publications/m/item/achieving-universal-access-by-2030-and-net-zero-emissions-by-2050-a-global-roadmap-for-just-and-inclusive-clean-cooking-transition
+
+World Health Organization. (2024a). WHO publishes new global data on the use of clean and polluting fuels for cooking by fuel type. Retrieved June 17, 2024, fromLink to source:https://www.who.int/news/item/20-01-2022-who-publishes-new-global-data-on-the-use-of-clean-and-polluting-fuels-for-cooking-by-fuel-type#:~:text=As%20of%202021%2C%202.3%20billion,%2D%20and%20middle%2Dincome%20countries.
+
+World Health Organization. (2024b). Household air pollution. Retrieved June 17, 2024, fromLink to source:https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Christina Swanson, Ph.D.
+
+Christina Swanson, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

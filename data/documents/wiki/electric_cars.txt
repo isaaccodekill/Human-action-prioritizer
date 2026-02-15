@@ -1,0 +1,249 @@
+# Electric Cars
+Source: https://en.wikipedia.org/wiki/Electric_car
+
+An electric car or electric vehicle (EV) is a passenger automobile that is propelled by an electric traction motor, using electrical energy as the primary source of propulsion. The term normally refers to a plug-in electric vehicle, typically a battery electric vehicle (BEV), which only uses energy stored in on-board battery packs, but broadly may also include plug-in hybrid electric vehicle (PHEV), range-extended electric vehicle (REEV) and fuel cell electric vehicle (FCEV), which can convert electric power from other fuels via a generator or a fuel cell.
+Compared to conventional internal combustion engine (ICE) vehicles, electric cars are quieter, more responsive, have superior energy conversion efficiency and no exhaust emissions, as well as a typically lower overall carbon footprint from manufacturing to end of life (even when a fossil-fuel power plant supplying the electricity might add to its emissions). Due to the superior efficiency of electric motors, electric cars also generate less waste heat, thus reducing the need for engine cooling systems that are often large, complicated and maintenance-prone in ICE vehicles.
+The electric vehicle battery typically needs to be plugged into a mains electricity power supply for recharging in order to maximize the cruising range. Recharging an electric car can be done at different kinds of charging stations; these charging stations can be installed in private homes, parking garages and public areas. There is also research and development in, as well as deployment of, other technologies such as battery swapping and inductive charging. As the recharging infrastructure (especially fast chargers) is still in its infancy, range anxiety and time cost are frequent psychological obstacles during consumer purchasing decisions against electric cars.
+Worldwide, 14 million plug-in electric cars were sold in 2023, 18% of new car sales, up from 14% in 2022. Many countries have established government incentives for plug-in electric vehicles, tax credits, subsidies, and other non-monetary incentives while several countries have legislated to phase-out sales of fossil fuel cars, to reduce air pollution and limit climate change. EVs are expected to account for over one-fifth of global car sales in 2024.
+China currently has the largest stock of electric vehicles in the world, with cumulative sales of 22.09 million units through December 2024, although these figures also include heavy-duty commercial vehicles such as buses, garbage trucks and sanitation vehicles, and only accounts for vehicles manufactured in China. In the United States and the European Union, as of 2020, the total cost of ownership of recent electric vehicles is cheaper than that of equivalent ICE cars, due to lower fueling and maintenance costs.
+In 2023, the Tesla Model Y became the world's best selling car. The Tesla Model 3 became the world's all-time best-selling electric car in early 2020, and in June 2021 became the first electric car to pass 1 million global sales.
+
+
+== Terminology ==
+
+The term "electric car" typically refers specifically to battery electric vehicles (BEVs) or all-electric cars, a type of electric vehicle (EV) that has an onboard rechargeable battery pack that can be plugged in and charged from the electric grid, and the electricity stored on the vehicle is the only energy source that provide propulsion for the wheels. The term generally refers to highway-capable automobiles, but there are also low-speed electric vehicles with limitations in terms of weight, power, and maximum speed that are allowed to travel on certain public roads. The latter are classified as Neighborhood Electric Vehicles (NEVs) in the United States, and as electric motorised quadricycles in Europe.
+
+
+== History ==
+
+
+=== Early developments ===
+Robert Anderson is often credited with inventing the first electric car some time between 1832 and 1839.
+The following experimental electric cars appeared during the 1880s:
+
+In 1881, Gustave Trouvé presented an electric car driven by an improved Siemens motor at the Exposition internationale d'Électricité de Paris.
+in 1882 Werner von Siemens presents the Electromote, the world's first trolleybus, in Berlin.
+In 1884, Thomas Parker built an electric car in Wolverhampton, England using his own specially designed high-capacity rechargeable batteries, although the only documentation is a photograph from 1895.
+In 1888, the German Andreas Flocken designed the Flocken Elektrowagen, regarded as the first "real" electric car.
+In 1890, Andrew Morrison introduced the first electric car to the United States.
+Electricity was among the preferred methods for automobile propulsion in the late 19th and early 20th centuries, providing a level of comfort and an ease of operation that could not be achieved by the gasoline-driven cars of the time. The electric vehicle fleet peaked at approximately 30,000 vehicles at the turn of the 20th century.
+In 1897, electric cars first found commercial use as taxis in Britain and in the United States. In London, Walter Bersey's electric cabs were the first self-propelled vehicles for hire at a time when cabs were horse-drawn. In New York City, a fleet of twelve hansom cabs and one brougham, based on the design of the Electrobat II, formed part of a project funded in part by the Electric Storage Battery Company of Philadelphia. During the 20th century, the main manufacturers of electric vehicles in the United States included Anthony Electric, Baker, Columbia, Anderson, Edison, Riker, Milburn, Bailey Electric, and Detroit Electric. Their electric vehicles were quieter than gasoline-powered ones, and did not require gear changes.
+Six electric cars held the land speed record in the 19th century. The last of them was the rocket-shaped La Jamais Contente, driven by Camille Jenatzy, which broke the 100 km/h (62 mph) speed barrier by reaching a top speed of 105.88 km/h (65.79 mph) in 1899.
+Electric cars remained popular until advances in internal-combustion engine (ICE) cars and mass production of cheaper gasoline- and diesel-powered vehicles, especially the Ford Model T, led to a decline. ICE cars' much quicker refueling times and cheaper production costs made them more popular. However, a decisive moment came with the introduction in 1912 of the electric starter motor that replaced other, often laborious, methods of starting the ICE, such as hand-cranking.
+
+
+=== Modern electric cars ===
+In the early 1990s the California Air Resources Board (CARB) began a push for more fuel-efficient, lower-emissions vehicles, with the ultimate goal of a move to zero-emissions vehicles such as electric vehicles. In response, automakers developed electric models. These early cars were eventually withdrawn from the U.S. market, because of a massive campaign by the US automakers to discredit the idea of electric cars.
+California electric-automaker Tesla Motors began development in 2004 of what would become the Tesla Roadster, first delivered to customers in 2008. The Roadster was the first highway-legal all-electric car to use lithium-ion battery cells, and the first production all-electric car to travel more than 320 km (200 miles) per charge.
+Better Place, a venture-backed company based in Palo Alto, California, but steered from Israel, developed and sold battery charging and battery swapping services for electric cars. The company was publicly launched on 29 October 2007 and announced deployment of electric vehicle networks in Israel, Denmark and Hawaii in 2008 and 2009. The company planned to deploy the infrastructure on a country-by-country basis. In January 2008, Better Place announced a memorandum of understanding with Renault-Nissan to build the world's first Electric Recharge Grid Operator (ERGO) model for Israel. Under the agreement, Better Place would build the electric recharge grid and Renault-Nissan would provide the electric vehicles. Better Place filed for bankruptcy in Israel in May 2013. The company's financial difficulties were caused by mismanagement, wasteful efforts to establish toeholds and run pilots in too many countries, the high investment required to develop the charging and swapping infrastructure, and a market penetration far lower than originally predicted.
+
+The Mitsubishi i-MiEV, launched in 2009 in Japan, was the first highway-legal series production electric car, and also the first all-electric car to sell more than 10,000 units. Several months later, the Nissan Leaf, launched in 2010, surpassed the i MiEV as the best selling all-electric car at that time.
+Starting in 2008, a renaissance in electric vehicle manufacturing occurred due to advances in batteries, and the desire to reduce greenhouse-gas emissions and to improve urban air quality. During the 2010s, the electric vehicle industry in China expanded rapidly with government support. Several automakers marked up the prices of their electric vehicles in anticipation of the subsidy adjustments, including Tesla, Volkswagen and Guangzhou-based GAC Group, which counts Fiat, Honda, Isuzu, Mitsubishi, and Toyota as foreign partners.
+In July 2019 US-based Motor Trend magazine awarded the fully-electric Tesla Model S the title "ultimate car of the year". In March 2020 the Tesla Model 3 passed the Nissan Leaf to become the world's all-time best-selling electric car, with more than 500,000 units delivered; it reached the milestone of 1 million global sales in June 2021.
+
+In the third quarter of 2021, the Alliance for Automotive Innovation reported that sales of electric vehicles had reached six percent of all US light-duty automotive sales, the highest volume of EV sales ever recorded at 187,000 vehicles. This was an 11% sales increase, as opposed to a 1.3% increase in gasoline and diesel-powered units. The report indicated that California was the US leader in EV with nearly 40% of US purchases, followed by Florida – 6%, Texas – 5% and New York 4.4%.
+Electric companies from the Middle East have been designing electric cars. Oman's Mays Motors have developed the Mays i E1 which was expected to begin production in 2023. Built from carbon fibre, it has a range of about 560 km (350 miles) and can accelerate from 0–130 km/h (0–80 mph) in about 4 seconds. In Turkey, the EV company Togg is starting production of its electric vehicles. Batteries will be created in a joint venture with the Chinese company Farasis Energy.
+
+
+== Economics ==
+
+
+=== Manufacturing cost ===
+The most expensive part of an electric car is its battery. The price decreased from €605 per kWh in 2010, to €170 in 2017, to €100 in 2019. In China LFP batteries are popular and are cheaper. 
+
+
+=== Costs ===
+
+
+==== Purchase cost ====
+
+Electric vehicles typically carry a higher initial purchase price than comparable ICE vehicles. As of 2021, the purchase price of an EV is often more, but the total cost of ownership of an EV varies wildly depending on location and distance travelled per year: in parts of the world where fossil fuels are subsidized, lifecycle costs of diesel or gas-powered vehicle are sometimes less than a comparable EV. 
+This elevated upfront cost constitutes a significant barrier to entry, impeding mass consumer adoption and creating an equity challenge that disproportionately affects low- and middle-income consumers. While long-term financial analyses may favor EVs, the immediate capital outlay often dictates purchasing decisions, slowing the pace of the overall market transition. Several national and local governments have established EV incentives to reduce the purchase price of electric cars and other plug-ins.
+Leasing or subscriptions are popular in some countries, depending somewhat on national taxes and subsidies, and end of lease cars are expanding the second hand market. 
+
+
+==== Total cost of ownership ====
+However, the higher initial price is often offset by superior total cost of ownership (TCO) over the vehicle's lifespan. Electricity almost always costs less than gasoline per kilometer travelled, but the price of electricity often varies depending on where and what time of day the car is charged. Cost savings are also affected by the price of gasoline which can vary by location. In the EU and US, the total cost of ownership of recent electric cars is cheaper than that of equivalent gasoline cars, due to lower fueling and maintenance costs. Data shows that EV drivers save approximately 50% on maintenance and repair costs, attributable to the simpler mechanical structure with far fewer moving parts than a combustion engine. Furthermore, drivers save roughly 60% on fuel/energy costs, assuming most charging is done affordably at home during off-peak hours, with only an estimated six fast-charging sessions required annually for a vehicle with a 250-mile (402 km) range. However, the operational savings vary regionally, with the highest potential annual savings (up to $1,777) found in states where gasoline prices are high and electricity costs are comparatively low.
+A 2024 Consumer Reports analysis of 29 car brands found Tesla was the least expensive to maintain over a 10-year period; Tesla was the only all-electric brand included.
+The greater the distance driven per year, the more likely the total cost of ownership for an electric car will be less than for an equivalent ICE car. The break-even distance varies by country depending on the taxes, subsidies, and different costs of energy. In some countries the comparison may vary by city, as a type of car may have different charges to enter different cities; for example, in England, London charges ICE cars more than Birmingham does.
+
+
+==== Battery replacement ====
+The risk of requiring an out-of-warranty battery replacement represents the greatest source of long-term financial uncertainty for many prospective EV retail owners. Costs for replacement battery packs outside of warranty typically range from $5,000 to $16,000, varying based on the size of the pack and the manufacturer. In extremely rare instances involving large, high-capacity trucks, replacement quotes have been reported to approach $47,000 for the Long Range Ford F-150 Lightning. This low-probability, high-consequence risk creates a substantial psychological barrier for consumers considering the purchase of a used electric vehicle.
+Despite consumer anxieties, actual battery replacement events are statistically rare, and modern EV batteries are demonstrating significantly greater durability than initially anticipated. Studies have confirmed that EV batteries can outlast the vehicle's lifetime with minimal degradation. To mitigate early-life risks, the industry standard warranty covers batteries for at least 8 years or 100,000 miles, guaranteeing minimum capacity retention, often at 70%.
+The financial risk associated with future replacement is collapsing due to advancements in battery manufacturing and economics. Global average pack prices are trending downwards, driven by technological improvements, such as the commercialization of lithium-iron phosphate (LFP) cells, which were observed as low as $56/kWh in early 2024. Industry reports project that global market oversupply will persist through 2028, accelerating price reductions.
+
+
+== Environmental aspects ==
+
+Electric cars have several benefits when replacing ICE cars, including a significant reduction of local air pollution, as they do not emit exhaust pollutants such as volatile organic compounds, hydrocarbons, carbon monoxide, ozone, lead, and various oxides of nitrogen. Similar to ICE vehicles, electric cars emit particulates from tyre and brake wear which may damage health, although regenerative braking in electric cars means less brake dust. More research is needed on non-exhaust particulates. The sourcing of fossil fuels (oil well to gasoline tank) causes further damage as well as use of resources during the extraction and refinement processes.
+Depending on the production process and the source of the electricity to charge the vehicle, emissions may be partly shifted from cities to the plants that generate electricity and produce the car as well as to the transportation of material. The amount of carbon dioxide emitted depends on the emissions of the electricity source and the efficiency of the vehicle. For electricity from the grid, the life-cycle emissions vary depending on the proportion of coal-fired power, but are always less than ICE cars.
+Some activists and journalists have raised concerns over the perceived lack of impact of electric cars in solving the climate change crisis compared to other, less popularized methods. These concerns have largely centered around the existence of less carbon-intensive and more efficient forms of transportation such as active mobility, mass transit and e-scooters and the continuation of a system designed for cars first.
+
+
+== Performance ==
+
+
+=== Acceleration and drivetrain design ===
+
+Electric motors can provide high power-to-weight ratios. Batteries can be designed to supply the electrical current needed to support these motors. Electric motors have a flat torque curve down to zero speed. For simplicity and reliability, most electric cars use fixed-ratio gearboxes and have no clutch.
+Many electric cars have faster acceleration than average ICE cars, largely due to reduced drivetrain frictional losses and the more quickly-available torque of an electric motor. However, NEVs may have a low acceleration due to their relatively weak motors.
+Electric vehicles can also use a motor in each wheel hub or next to the wheels; this is rare but claimed to be safer. Electric vehicles that lack an axle, differential, or transmission can have less drivetrain inertia. Some direct current motor-equipped drag racer EVs have simple two-speed manual transmissions to improve top speed. The concept electric supercar Rimac Concept One claims it can go from 0–97 km/h (0–60 mph) in 2.5 seconds. Tesla claims the upcoming Tesla Roadster will go 0–60 mph (0–97 km/h) in 1.9 seconds.
+
+
+== Energy efficiency ==
+
+Internal combustion engines have thermodynamic limits on efficiency, expressed as a fraction of energy used to propel the vehicle compared to energy produced by burning fuel. Gasoline engines effectively use only 15% of the fuel energy content to move the vehicle or to power accessories; diesel engines can reach on-board efficiency of 20%; electric vehicles convert over 77% of the electrical energy from the grid to power at the wheels. This is partially offset by power required to move the significant weight of the batteries. 
+Electric motors are more efficient than internal combustion engines in converting stored energy into driving a vehicle. However, they are not equally efficient at all speeds. To allow for this, some cars with dual electric motors have one electric motor with a gear optimised for city speeds and the second electric motor with a gear optimised for highway speeds. The electronics select the motor that has the best efficiency for the current speed and acceleration. Regenerative braking, which is most common in electric vehicles, can recover as much as one fifth of the energy normally lost during braking.
+
+
+=== Cabin heating and cooling ===
+Combustion powered cars harness waste heat from the engine to provide cabin heating, but this option is not available in an electric vehicle. While heating can be provided with an electric resistance heater, higher efficiency and integral cooling can be obtained with a reversible heat pump, such as on the Nissan Leaf. PTC junction cooling is also attractive for its simplicity—this kind of system is used, for example, in the 2008 Tesla Roadster.
+To avoid using part of the battery's energy for heating and thus reducing the range, some models allow the cabin to be heated while the car is plugged in. For example, the Nissan Leaf, the Mitsubishi i-MiEV, Renault Zoe and Tesla cars can be preheated while the vehicle is plugged in.
+Some electric cars (for example, the Citroën Berlingo Electrique) use an auxiliary heating system (for example gasoline-fueled units manufactured by Webasto or Eberspächer) but sacrifice "green" and "Zero emissions" credentials. Cabin cooling can be augmented with solar power external batteries and USB fans or coolers, or by automatically allowing outside air to flow through the car when parked; two models of the 2010 Toyota Prius include this feature as an option.
+
+
+== Safety ==
+
+The safety issues of BEVs are largely dealt with by the international standard ISO 6469. This document is divided into three parts dealing with specific issues:
+
+On-board electrical energy storage, i.e. the battery
+Functional safety means and protection against failures
+Protection of persons against electrical hazards
+Research published in the British Medical Journal in 2024 indicates that between 2013 and 2017 in the United Kingdom, electric cars killed pedestrians at twice the rate of petrol or diesel vehicles because "they are less audible to pedestrians in urban areas". Jurisdictions have passed laws requiring electric vehicles to be manufactured with sound generators.
+
+
+=== Weight ===
+The weight of the batteries themselves usually makes an EV far heavier than a comparable gasoline vehicle. In a collision, the occupants of a heavy vehicle will, on average, suffer fewer and less serious injuries than the occupants of a lighter vehicle; therefore, the additional weight brings safety benefits to the occupant, while increasing harm to others. On average, an accident will cause about 50% more injuries to the occupants of a 2,000 lb (900 kg) vehicle than those in a 3,000 lb (1,400 kg) vehicle. Heavier cars are more dangerous to people outside the car if they hit a pedestrian or another vehicle.
+
+
+=== Stability ===
+The battery in skateboard configuration lowers the center of gravity, increasing driving stability, lowering the risk of an accident through loss of control. Additionally, a lower center of gravity provides a greater resistance to roll-over crashes. If there is a separate motor near or in each wheel, this is claimed to be safer due to better handling.
+
+
+=== Risk of fire ===
+
+Like their ICE counterparts, electric vehicle batteries can catch fire after a crash or mechanical failure. Plug-in electric vehicle fire incidents have occurred, albeit fewer per distance traveled than ICE vehicles. Some cars' high-voltage systems are designed to shut down automatically in the event of an airbag deployment, and in case of failure firefighters may be trained for manual high-voltage system shutdown. Much more water may be required than for ICE car fires and a thermal imaging camera is recommended to warn of possible re-ignition of battery fires.
+
+
+== Controls ==
+As of 2018, most electric cars have similar driving controls to that of a car with a conventional automatic transmission. Even though the motor may be permanently connected to the wheels through a fixed-ratio gear, and no parking pawl may be present, the modes "P" and "N" are often still provided on the selector. In this case, the motor is disabled in "N" and an electrically actuated hand brake provides the "P" mode.
+In some cars, the motor will spin slowly to provide a small amount of creep in "D", similar to a traditional automatic transmission car.
+When an internal combustion vehicle's accelerator is released, it may slow by engine braking, depending on the type of transmission and mode. EVs are usually equipped with regenerative braking that slows the vehicle and recharges the battery somewhat. Regenerative braking systems also decrease the use of the conventional brakes (similar to engine braking in an ICE vehicle), reducing brake wear and maintenance costs.
+
+
+== Batteries ==
+
+Lithium-ion-based batteries are often used for their high power and energy density. Batteries with different chemical compositions are becoming more widely used, such as lithium iron phosphate which is not dependent on nickel and cobalt so can be used to make cheaper batteries and thus cheaper cars.
+
+
+=== Range ===
+
+The range of an electric car depends on the number and type of batteries used, and (as with all vehicles), the aerodynamics, weight and type of vehicle, performance requirements, and the weather. Cars marketed for mainly city use are often manufactured with a short range battery to keep them small and light.
+Most electric cars are fitted with a display of the expected range. This may take into account how the vehicle is being used and what the battery is powering. However, since factors can vary over the route, the estimate can vary from the actual range. The display allows the driver to make informed choices about driving speed and whether to stop at a charging point en route. Some roadside assistance organizations offer charge trucks to recharge electric cars in case of emergency.
+
+
+=== Charging ===
+
+
+==== Connectors ====
+
+Most electric cars use a wired connection to supply electricity for recharging. Electric vehicle charging plugs are not universal throughout the world. However vehicles using one type of plug are generally able to charge at other types of charging stations through the use of plug adapters.
+The Type 2 connector is the most common type of plug, but different versions are used in China and Europe.
+The Type 1 (also called SAE J1772) connector is common in North America but rare elsewhere, as it does not support three-phase charging.
+Wireless charging, either for stationary cars or as an electric road, is less common as of 2021, but is used in some cities for taxis.
+
+
+==== Home charging ====
+Electric cars are usually charged overnight from a home charging station; sometimes known as a charging point, wallbox charger, or simply a charger; in a garage or on the outside of a house. As of 2021 typical home chargers are 7 kW, but not all include smart charging. Compared to fossil fuel vehicles, the need for charging using public infrastructure is diminished because of the opportunities for home charging; vehicles can be plugged in and begin each day with a full charge. Charging from a standard outlet is also possible but very slow.
+
+
+==== Public charging ====
+
+Public charging stations are almost always faster than home chargers, with many supplying direct current to avoid the bottleneck of going through the car's AC to DC converter, as of 2021 the fastest being 350 kW.
+Combined Charging System (CCS) is the most widespread charging standard, whereas the GB/T 27930 standard is used in China, and CHAdeMO in Japan. The United States has no de facto standard, with a mix of CCS, Tesla Superchargers, and CHAdeMO charging stations.
+Charging an electric vehicle using public charging stations takes longer than refueling a fossil fuel vehicle. The speed at which a vehicle can recharge depends on the charging station's charging speed and the vehicle's own capacity to receive a charge. As of 2021 some cars are 400-volt and some 800-volt. Connecting a vehicle that can accommodate very fast charging to a charging station with a very high rate of charge can refill the vehicle's battery to 80% in 15 to 20 minutes.
+
+Vehicles and charging stations with slower charging speeds may take as long as two hours to refill a battery to 80%. As with a mobile phone, the final 20% takes longer because the systems slow down to fill the battery safely and avoid damaging it.
+
+Some companies are building battery swapping stations, to substantially reduce the effective time to recharge. Some electric cars (for example, the BMW i3) have an optional gasoline range extender. The system is intended as an emergency backup to extend range to the next recharging location, and not for long-distance travel.
+
+
+==== Vehicle-to-grid: uploading and grid buffering ====
+
+During peak load periods, when the cost of generation can be very high, electric vehicles with vehicle-to-grid capabilities could contribute energy to the grid. These vehicles can then be recharged during off-peak hours at cheaper rates while helping to absorb excess night time generation. The batteries in the vehicles serve as a distributed storage system to buffer power.
+
+
+=== Lifespan ===
+
+As with all lithium-ion batteries, electric vehicle batteries may degrade over long periods of time, especially if they are frequently charged to 100%; however, this may take at least several years before being noticeable. A typical warranty is 8 years or 100,000 mi (160,000 km), but for non-professional drivers mileage may not be relevant, and the batteries usually last much longer, perhaps 15 to 20 years in the car and then more years in another use.
+
+
+== Currently available electric cars ==
+
+
+=== Sales of electric cars ===
+Tesla became the world's leading electric vehicle manufacturer in December 2019. Its Model S was the world's top selling plug-in electric car in 2015 and 2016, its Model 3 has been the world's best selling plug-in electric car for four consecutive years, from 2018 to 2021, and the Model Y was the top selling plug-in car in 2022. The Tesla Model 3 surpassed the Leaf in early 2020 to become the world's cumulative best selling electric car. Tesla produced its 1 millionth electric car in March 2020, becoming the first auto manufacturer to do so, and in June 2021, the Model 3 became the first electric car to pass 1 million sales. Tesla has been listed as the world's top selling plug-in electric car manufacturer, both as a brand and by automotive group for four years running, from 2018 to 2021. At the end of 2021, Tesla's global cumulative sales since 2012 totaled 2.3 million units, with 936,222 of those delivered in 2021.
+BYD Auto is another leading electric vehicle manufacturer, with the majority of its sales coming from China. From 2018 to 2023, BYD produced nearly 3.18 million purely plug-in electric car, with 1,574,822 of those were produced in 2023 alone. In the fourth quarter of 2023, BYD surpassed Tesla as the top-selling electric vehicle manufacturer by selling 526,409 battery electric cars, while Tesla delivered 484,507 vehicles.
+As of December 2021, the Renault–Nissan–Mitsubishi Alliance listed as one of major all-electric vehicle manufacturers, with global all-electric vehicle sales totaling over 1 million light-duty electric vehicles, including those manufactured by Mitsubishi Motors since 2009.  Nissan leads global sales within the Alliance, with 1 million cars and vans sold by July 2023, followed by the Groupe Renault with more than 397,000 electric vehicles sold worldwide through December 2020, including its Twizy heavy quadricycle. As of July 2023, global sales totaled over 650,000 units since inception.
+Other leading electric vehicles manufacturers are GAC Aion (part of GAC Group, with 962,385 cumulative sales as of December 2023), SAIC Motor with 1,838,000 units (as of July 2023), Geely, and Volkswagen.
+The following table lists the all-time best-selling highway-capable all-electric cars with cumulative global sales of over 300,000 units:
+
+
+=== Electric cars by country ===
+
+In the year of 2021, the total number of electric cars on the world's roads went to about 16.5 million. The sales of electric cars in the first quarter of 2022 went up to 2 million. China has the largest all-electric car fleet in use, with 2.58 million at the end of 2019, more than half (53.9%) of the world's electric car stock.
+All-electric cars have oversold plug-in hybrids since 2012.
+
+
+== Public opinion ==
+
+A 2022 survey found that 33% of car buyers in Europe will opt for a petrol or diesel car when purchasing a new vehicle. 67% of the respondents mentioned opting for the hybrid or electric version. More specifically, it found that electric cars are only preferred by 28% of Europeans, making them the least preferred type of vehicle. 39% of Europeans tend to prefer hybrid vehicles, while 33% prefer petrol or diesel vehicles.
+44% Chinese car buyers, on the other hand, are the most likely to buy an electric car, while 38% of Americans would opt for a hybrid car, 33% would prefer petrol or diesel, while only 29% would go for an electric car.
+Specifically for the EU, 47% of car buyers over 65 years old are likely to purchase a hybrid vehicle, while 31% of younger respondents do not consider hybrid vehicles a good option. 35% would rather opt for a petrol or diesel vehicle, and 24% for an electric car instead of a hybrid.
+In the EU, only 13% of the total population do not plan on owning a vehicle at all.
+In a 2023 survey concentrated specifically on electric car ownership in the US, 50% of respondents planning to purchase a future car considered themselves unlikely to seriously consider buying an EV. The survey also found that support for banning the production of non-electric vehicles in the US by 2035 has declined from 47% to 40%.
+Tension between electric vehicles owners and traditional gasoline vehicle owners have also influenced public perception. Surveys were taken by the market research firm Ipsos in which they found that belief in EV's environmental benefits among Americans has declined from 63% to 58% over two years. Skepticism has risen mainly among non-EV considerers, who are becoming more united in the belief that EVs are not better for the environment. Cultural divides have contributed to the hostility, with EVs often being associated with coastal, urban elites. Misinformation about battery production, tire emissions, and electricity sources has further created negative attitudes among gasoline car supporters.
+Public perception of electric vehicles varies across different countries and regions even though there is an overall increase in EV interest worldwide. In Europe, environmental concerns are forcing EV adoption, while in the U.S., cost and range anxiety are major barriers and challenges to the purchasing of EVs. In China, government incentives and infrastructure growth have contributed to higher consumer confidence in EVs. The growing awareness of environmental benefits and government support are influencing public attitudes globally. This is gradually increasing EV adoption rate. Norway is leading the way in EV adoption and consumers are taking advantage of the tax lift from all electric vehicle purchases. 9 out of every 10 cars being sold are electric due to this generous government incentive and Norway's wide spread charging infrastructure.
+
+
+== Government policies and incentives ==
+
+Several national, provincial, and local governments around the world have introduced policies to support the mass-market adoption of plug-in electric vehicles. A variety of policies have been established to provide: financial support to consumers and manufacturers; non-monetary incentives; subsidies for the deployment of charging infrastructure; electric vehicle charging stations in buildings; and long-term regulations with specific targets.
+
+Financial incentives for consumers are aiming to make electric car purchase price competitive with conventional cars due to the higher upfront cost of electric vehicles. Depending on battery size, there are one-time purchase incentives such as grants and tax credits; exemptions from import duties; exemptions from road tolls and congestion charges; and exemption of registration and annual fees.
+Among the non-monetary incentives, there are several perks such allowing plug-in vehicles access to bus lanes and high-occupancy vehicle lanes, free parking and free charging. Some countries or cities that restrict private car ownership (for example, a purchase quota system for new vehicles), or have implemented permanent driving restrictions (for example, no-drive days), have these schemes exclude electric vehicles to promote their adoption. Several countries, including England and India, are introducing regulations that require electric vehicle charging stations in certain buildings.
+Some government have also established long term regulatory signals with specific targets such as zero-emissions vehicle (ZEV) mandates, national or regional CO2 emission regulations, stringent fuel economy standards, and the phase out of internal combustion engine vehicle sales. For example, Norway set a national goal that by 2025 all new car sales should be ZEVs (battery electric or hydrogen). While these incentives aim to facilitate a quicker transition from internal combustion cars, they have been criticized by some economists for creating excess deadweight loss in the electric car market, which may partially counteract environmental gains.
+
+
+== Geopolitics ==
+The emergence of China as the dominant force in the EV manufacturing sector has made the EV industry a theater of geopolitical strategy and trade friction. China's competitive position, built on vertical integration and overwhelming scale, has forced major economies like the European Union and the U.S. to implement protective trade measures for various reasons, such as dumping, state subsidies, production overcapacity, national security, and forced labor. Critics argue that such allegations are a justification for protectionism.
+China's competitive advantage is the culmination of a decades-long industrial policy aimed at seizing global leadership in the EV sector. While Western and Japanese automakers largely focused on refining internal combustion engines, Chinese policymakers employed a calculated, systematic approach that prioritized technological independence, manufacturing scale, and demand creation in EVs. It allows Chinese manufacturers to offer affordable EVs, putting pressure on established manufacturers.
+The export of Chinese EVs has created intense market pressure in Europe and North America, leading to a wave of protectionist measures aimed at shielding domestic industries. The European Commission, following a vote by EU member states on 4 October 2024, to impose definitive countervailing duties (CVDs) on imports of Chinese-manufactured battery electric vehicles. These duties are set to apply by 30 October 2024. These tariffs were levied in response to the competitive distortions alleged to stem from substantial Chinese state subsidies, which are viewed by the EU as potentially violating World Trade Organization (WTO) rules. China launched a WTO complaint in response. 
+During the first presidency of Donald Trump, the U.S. imposed a stiff 27.5 percent tariff for Chinese-made cars. In May 2024, the U.S. imposed a higher 100% import tariff on Chinese EVs, designed to effectively block Chinese EV imports from significantly impacting the domestic US market. In August 2024, Canada followed the U.S. by announcing a 100% tariff on imported Chinese electric vehicles in addition to other tariffs. As exports to North America and Europe are less profitable, Chinese manufacturers are aggressively focusing their expansion efforts on regions with fewer regulatory hurdles and soaring demand. The manufacturers recalibrated its strategy towards price-sensitive markets like Southeast Asia and Latin America.
+
+
+== EV plans from major manufacturers ==
+
+Electric vehicles (EVs) have gained significant traction as an integral component of the global automotive landscape in recent years. Major automakers from around the world have adopted EVs as a critical component of their strategic plans, indicating a paradigm shift toward sustainable transportation.
+
+
+== Forecasts ==
+Total global EV sales in 2030 were predicted to reach 31.1 million by Deloitte. The International Energy Agency predicted that the total global stock of EVs would reach almost 145 million by 2030 under current policies, or 230 million if Sustainable Development policies were adopted.
+As of 2024, there are approximately 600 million people in sub-Saharan Africa without access to electricity, representing 83% of the world's unelectrified population. The World Bank Group and the African Development Bank plan to provide access to electricity to 300 million people in that region by 2030. At this time, there are just over 20,000 electric vehicles and less than 1,000 charging stations in Africa. However, EV manufacturers have already built or are planning to build production plants in 21 African countries.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+How an electric car works
+Wikiversity:Can electric cars significantly help humanity get off fossil fuels?
+Electric cars range in 2022: table with 100 different models

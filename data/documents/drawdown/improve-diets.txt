@@ -1,0 +1,762 @@
+# Improve Diets
+Source: https://drawdown.org/explorer/improve-diets
+
+Methods and Supporting Data
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Agriculture produces about 12GtCO₂‑eq/yr,
+ or 21% of total human-causedGHGemissions (Intergovernmental Panel on Climate Change [IPCC], 2023). Animal agriculture contributes more than half of these emissions (Halpern et al., 2022; Poore and Nemecek, 2018).
+
+Ruminantanimals, such as cattle, sheep, and goats producemethane– a GHG with 80 times the warming potential ofCO₂in the near term – in their digestive system (Jackson et al., 2024). Since agriculture is the leading driver oftropicaldeforestation, particularly for cattle and animal feed production, reducing ruminant meat consumption can avoid additional forest loss and associated GHG emissions.
+
+We define improved diets as a reduction in ruminant meat consumption and a replacement with other protein-rich foods. Such a diet shift can be adopted incrementally through small behavioral changes that together lead to globally significant reductions in GHG emissions.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+kg avoided ruminant meat
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Reducing ruminant meat consumption, especially in high-consuming regions, has a globally significant potential for climate changemitigation. Ruminants contribute 30% of food-related emissions but generate only 5% of global dietary calories (Li et al., 2024).
+
+Ruminant animals have digestive systems with multiple chambers that allow them to ferment grass and leaves. However, this digestion generates methane emissions through a process calledenteric fermentation. In addition, clearing forests and grasslands for pastures and cropland to feed livestock emits CO₂,
+ and livestock manure emits methane andnitrous oxide.
+
+In 2019, an international team of scientists called the EAT-LancetCommission developed benchmarks for a healthy, sustainable diet based on peer-reviewed information on human health and environmental sustainability (Willett et al., 2019). The commission estimated that red meat (beef, lamb, and pork) should be limited to 14 grams (30 calories) per day per person, or 5.1 kg/person/yr. Although the EAT-Lancetdiet includes pork, our analysis looked specifically at limiting ruminant meat to 5.1 kg/person/yr because it has much higher GHG emissions than pork (Figure 1).
+
+Figure 1. Greenhouse gas emissions associated with the production of protein-rich foods. Beef has the highest emissions per kilogram. These emissions data are from Poore & Nemecek (2018), with the exception of  "Ruminant meat," which was calculated based on the amount of beef and lamb consumed in 2022.
+
+Poore, J., &  Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers.Science,360(6392), 987–992.
+
+In this solution, we explored reducing ruminant meat consumption in middle- and high-income countries in which consumption exceeds 5.1 kg/person/yr. Furthermore, our analysis assumed ruminant meat is replaced with approximately the same amount of protein-rich plant- or animal-based foods, which are estimated to be about 20% protein by weight (Poore and Nemecek, 2018).
+
+
+## What could cause effectiveness to change?
+
+
+We only report a mean effectiveness here, although effectiveness will change based on the types and proportions of ruminant meat and other protein-rich foods.
+
+This is the weighted average of the effectiveness values for different protein sources.
+
+
+## What is this range based on?
+
+
+A global value for current adoption was not determined, so the low end of the slider represents zero adoption. Our analysis used expert estimates to determine a high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+his is the high end of the range for estimated achievable adoption.
+
+This is the minimum adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Theemissions intensityof beef production varies considerably between countries, due to the contribution of regional deforestation and other land changes (Kim et al. 2020; Poore and Nemecek, 2018) and the intensity of different cattle raising systems, with extensive, pasture-based systems relatively less efficient (in terms of land and CO₂‑eq
+/kg beef) (Herrero et al. 2016). For example, GHG emissions per kilogram of bovine meat from Brazil and Paraguay were five and 17 times higher, respectively, than those of Danish bovine meat (Kim et al. 2020). These differences were attributable to higher deforestation for grazing lands and methane emissions from enteric fermentation.
+
+Emissions from beef production are skewed by producers with particularly high impacts. About a quarter of beef producers contribute more than 56% (an estimated 1.3 Gt CO₂‑eq
+) of all GHGs attributable to beef cattle production.
+
+Beef consumption per person in Mongolia and North and South America is especially high, and reducing it can benefit human health (see Benefits to People & Nature). According to the Food and Agriculture Organization of the United Nations (FAO), Mongolia had the highest per-person ruminant meat consumption (99 kg/person/yr) in 2022, followed by Argentina (47 kg/person/yr) and Turkmenistan (46 kg/person/yr).
+
+For this analysis, we examined high- and middle-income countries that consume more than 5.1 kg/person/yr of ruminant meat (what we define as “excess consumption”). The United States has more excess ruminant meat consumption than any other country. A 2023 assessment of health survey data found that in the United States, about 12% of the population ate about half of all beef supplies (Willits-Smith et al., 2023).
+
+Maps are based on global average emissions per kg of ruminant meat, which keeps the focus on consumption.
+
+
+## Per capita ruminant meat consumption
+
+
+Per capita ruminant meat consumption varies greatly around the world. According to the Food and Agriculture Organization of the United Nations (FAO), Mongolia had the highest per-person ruminant meat consumption (99 kg/person/yr) in 2022, followed by Argentina (47 kg/person/yr) and Turkmenistan (46 kg/person/yr).
+
+Food and Agriculture Organization of the United Nations (FAO). (2025).FAO‑FAOSTAT: Food balances (2010–)[Data set, food balances for individual countries for the year 2022]. Retrieved March 25, 2025, fromLink to source:https://www.fao.org/faostat/en/#data/FBS
+
+
+## Per capita ruminant meat consumption
+
+
+Per capita ruminant meat consumption varies greatly around the world. According to the Food and Agriculture Organization of the United Nations (FAO), Mongolia had the highest per-person ruminant meat consumption (99 kg/person/yr) in 2022, followed by Argentina (47 kg/person/yr) and Turkmenistan (46 kg/person/yr).
+
+Food and Agriculture Organization of the United Nations (FAO). (2025).FAO‑FAOSTAT: Food balances (2010–)[Data set, food balances for individual countries for the year 2022]. Retrieved March 25, 2025, fromLink to source:https://www.fao.org/faostat/en/#data/FBS
+
+We estimated that replacing 1 kg of ruminant meat with the same weight of other meat or protein-rich food reduces emissions by about 0.065tCO₂‑eq
+ (100-yr basis).
+
+We derived GHG emissions from 1 kg of ruminant meat, 0.075 t CO₂‑eq
+ (100-yr basis), from Poore and Nemecek’s (2018) database and modeling from Kim et al. (2020). Our calculation was based on the GHG footprint of a kg of meat from beef cattle, dairy cattle, and sheep. We weighted the average GHG footprint based on the fact that beef makes up the majority (83%) of ruminant meat consumption, with sheep meat making up a smaller proportion (17%), according to data from the United Nations’ Food and Agriculture Organization (FAO) Food Balances (FAO, 2025).
+
+From Poore and Nemecek’s database, we also derived the average GHG emissions from consuming 1 kg of other protein-rich foods in place of ruminant meat. These foods were: pig meat (pork), poultry meat, eggs, fish (farmed), crustaceans (farmed), peas, other pulses, groundnuts, nuts, and tofu, which are all around 20% protein by weight. Using FAO data on food availability in 2022 as a proxy for consumption, we calculated that the weighted average of these substitutes is 0.01 t CO₂‑eq
+/kg.
+
+We subtracted the weighted average emissions of these protein-rich foods (0.01 t CO₂‑eq
+/kg) from the weighted average emissions from ruminant meat production (0.075 t CO₂‑eq
+/kg) to calculate the emissions savings (0.065 t CO₂‑eq
+/kg) (Table 1). Our analysis assumed that substituting a serving of plant- or animal-based protein for ruminant meat reduces the production of that meat (see Caveats).
+
+Kim et al. (2020) did not provide species-specific emissions, but we assumed that for ruminant meat, the breakdown of CO₂,
+ nitrous oxide, and methane was the same as in Poore and Nemecek (2018) – 43% methane and 57% CO₂
+ and nitrous oxide.
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit:t CO₂‑eq
+/kg avoided ruminant meat
+
+Unit:t CO₂‑eq
+/kg avoided ruminant meat
+
+Based on our analysis, the average cost of 1 kg of ruminant meat was US$21.29 compared with the weighted average US$20.73 for other protein-rich foods. This resulted in a savings of US$0.56/kg of food. This translates to an estimated savings of US$8.54/t CO₂
+eq (Table 2).
+
+Since the publication of the EAT-LancetCommission's dietary benchmarks, several studies have been published on the affordability of shifting to the diet (Gupta et al., 2021; Hirvonen et al., 2020; Li et al., 2024; Springmann et al., 2021). Research findings have been mixed on whether this diet shift reduces costs for consumers. One modeling study found that while the diet may cost less in upper-middle-income to high-income countries, on average, it may be more expensive in lower-middle-income to low-income countries (Springmann et al., 2021).
+
+As opposed to the EAT-Lancetcommission, our analysis focused solely on the shift from ruminant meat toward other protein-rich foods, which doesn’t include other dietary shifts, such as reducing other kinds of meat, reducing dairy, or increasing fruits and vegetables. We found no published evidence on the economic impacts of the shift away from ruminant meat alone. However, we used data from Bai et al. (2020), which used food price data from the World Bank’s International Comparison Program (ICP) (2011), to estimate cost differences between ruminant meat and substitutes.
+
+We converted these prices into 2023 US$ and calculated a weighted average cost of food substitutes, based on food availability from the FAO Food Balances (2025).
+
+The limited information used for this estimate can create bias, and we hope this work inspires research and data sharing on the economic impact of reduced ruminant consumption.
+
+Table 2. Cost per unit climate impact. Negative values reflect cost savings.
+
+Unit:2023 US$/t CO₂‑eq
+, 100-year basis
+
+Improve Diets does not have alearning curveassociated with falling costs of adoption. This solution does not address synthetically derived animal products, such as lab-grown meat, which could serve as replacements for ruminant meat. SeeAdvance Cultivated Meatfor more information
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Improve Diets is anEMERGENCY BRAKEclimate solution. It has the potential to deliver a more rapid impact than nominal and delayed solutions. The impact of this solution is two-fold: first, it reduces methane from enteric fermentation and manure management. Second, the solution reduces pressure on natural ecosystems, reducing deforestation and other land use changes, which create a large, sudden “pulse” of CO₂
+ emissions.
+
+Because emergency brake solutions can deliver their climate benefits quickly, they can help accelerate our efforts to address dangerous levels of climate change. For this reason, they are a high priority.
+
+Household-level data on food consumption are limited and not often comparable. In this analysis, we summarized current levels of food consumption on a national level, based on data on food availability from FAO Food Balances (2025). Because the data are averaged at a country level, we couldn’t estimate the current level of adoption for individuals of reduced ruminant meat consumption or the EAT-Lancetdiet.
+
+The EAT-Lancetrecommended threshold of 5.1 kg of ruminant meat per person per year is in edible, retail weight. However, available data on per capita food availability from the FAO Food Balances is measured in carcass weight, which, for beef cattle, is about 1.4 times larger than a retail cut of meat. Therefore, in this analysis, we set the threshold of excess consumption in the Food Balances as greater than 7.2 kg carcass weight per person per year, which is 5.1 kg of retail ruminant meat per person per year.
+
+In 110 of the 146 countries tracked by FAO, average annual consumption was more than 5.1 kg of ruminant meat per person per year. Some of the highest consuming nations include Mongolia (70.1 kg/person/yr), Argentina (33.3 kg/person/yr), the United States (27.5 kg/person/yr), Australia (25.3 kg/person/yr), and Brazil (25 kg/person/yr).
+
+The 36 high- and middle-income countries with low (<5.1 kg/person/year) ruminant meat consumption include India (2 kg/person/yr), Peru (3.6 kg/person/yr), Poland (0.2 kg/person/yr), Vietnam (3.9 kg/person/yr), and Indonesia (2.4 kg/person/yr).
+
+Ruminant meat consumption in high- and middle-income countries remained fairly stable between 2010 and 2022, according to data from FAO’s Food Balances, increasing only 3% overall from 8.2 to 8.5 kg/person/yr.
+
+However, per capita ruminant meat consumption across high-consuming regions (the Americas, Europe, and Oceania) decreased. Consumption in South America and North America declined by 13% and 2%, respectively. Europe and Oceania saw the greatest declines, at 18% and 38%, respectively.
+
+Theadoption ceilingfor this solution is the amount of total ruminant meat consumption across all 146 high- and middle-income countries tracked by the FAO. In 2022, the consumption of ruminant meat totaled 81.2 billion kg (Table 3).
+
+Table 3. Adoption ceiling.
+
+Unit:kg avoided ruminant meat/yr
+
+If all of the 110 countries consuming more than the EAT-Lancetrecommendation cut consumption to 5.1 kg/person/yr (which is about an 85 g serving of ruminant meat every six days), that would lower annual global ruminant meat consumption by about half (53%), or 42.9 billion kg/yr. We used this as the estimated high achievable adoption value. The low achievable adoption value we estimated to be half of this reduction (26%), or 21.4 billion kg/yr (Table 4).
+
+Table 4. Range of achievable adoption levels.
+
+Unit:kg avoided ruminant meat/yr
+
+Improving diets by reducing ruminant meat consumption globally could mitigate emissions by 1.4–5.3 Gt CO₂‑eq/yr
+ (Table 5).
+
+Therefore, reducing ruminant meat consumption and replacing it with any other form of plant or animal protein can have a substantial impact on GHG emissions. Such a diet shift can be adopted incrementally with small behavioral changes that together lead to globally significant reductions in GHG emissions.
+
+Table 5. Climate impact at different levels of adoption.
+
+Reducing ruminant meat in diets of high-income countries can improve food security (Searchinger et al., 2019). Productive cropland that is used to grow animal feed could instead be used to produce food for human consumption (Ripple et al., 2014a).
+
+Reducing ruminant meat consumption has multiple health benefits. Diets high in red meat have been linked to increased risk of overall mortality and mortality from cancer (Pan et al., 2012; Sinha et al., 2009). Excess red meat consumption is also associated with increased risk of cardiovascular disease, stroke, type 2 diabetes, colorectal cancer, and weight gain (Bouvard et al., 2015; Bradbury et al., 2020; Kaluza et al., 2012; Pan et al., 2011; Vergnaud et al., 2010). Diets that incorporate other sources of protein such as fish, poultry, nuts, legumes, low-fat dairy, and whole grains are associated with a lower risk of mortality and a reduction in dietary saturated fat, and can improve the management of diabetes (Pan et al., 2012; Nelson et al., 2016; Toumpanakis et al., 2018).
+
+Reducing demand for meat also has implications for health outcomes associated with livestock production. Animal agriculture, especially industrial and confined feeding operations, commonly uses antibiotics to prevent and treat infections in livestock (Casey et al., 2013). Consistent direct contact with livestock exposes people, especially farmworkers, to antibiotic-resistant bacteria, which can lead to antibiotic-resistant health outcomes (Sun et al., 2020; Tang et al., 2017). Moreover, these exposures are not limited to farmworkers. In fact, a study in Pennsylvania found that people living near dairy/veal and swine industrial agriculture had a higher risk of developing methicillin-resistantStaphylococcus aureus(MRSA) infections (Casey et al., 2013).
+
+A lower demand for ruminant meat could promote environmental justice by reducing the amount of industrial animal agriculture operations. This may benefit communities near these operations by reducing exposure to air and water pollution, pathogens, and odors (Casey et al., 2013; Heederik et al., 2007; Steinfeld et al., 2006).
+
+Agricultural expansion for livestock production is a major driver of deforestation (Ripple et al., 2014b). Deforestation is associated with biodiversity loss through habitat degradation and destruction, as well as forest fragmentation (Steinfeld et al., 2006). Livestock farming can reduce the diversity of landscapes and can contribute to the loss of large carnivore, herbivore, and bird species (Ripple et al., 2015; Steinfeld et al., 2006). The clearing of forests for animal agriculture is especially prevalent in the tropics, and a lower demand for meat, particularly ruminant meat, could reduce tropical deforestation (Ripple et al., 2014b).
+
+Animal agriculture, especially ruminants such as cattle, requires a lot of land (Nijdam et al., 2012). Life-cycle analyses have found that beef consistently requires the most land use among animal-based proteins (Nijdam et al., 2012; Meier & Christen, 2013; Searchinger et al., 2019). This high land use is mostly due to the amount of land needed to grow crops that eventually feed livestock (Ripple et al., 2014a). In the European Union, Westhoek et al. (2014) estimated that halving consumption of meat, dairy, and eggs would result in a 23% reduction in per capita cropland use.
+
+While livestock is directly responsible for a small proportion of global water usage, a significant amount of water is required to produce forage and grain for animal feed (Steinfeld et al., 2006). In the United States, livestock production is the largest source of freshwater consumption, and producing 1 kg of animal protein uses 100 times more water than 1 kg of grain protein (Pimentel & Pimentel, 2003). Ruminant meats have some of the highest water usage rates of all animal protein sources (Kim et al., 2020; Searchinger et al., 2019; Steinfed et al., 2006).
+
+Livestock production can contribute to water pollution directly and indirectly through feed production and processing (Steinfeld et al., 2006). Manure contains nutrients such as nitrogen and phosphorus, as well as drug residues, heavy metals, and pathogens (Steinfeld et al., 2006). Manure can pollute water directly from feedlots and can also leach into water sources when used as a fertilizer on croplands (Porter & Cox, 2020). For example, animal agriculture is one of the top polluters of water basins in central California (Harter et al., 2012)
+
+In addition to CO₂,
+ ruminant agriculture is a source of air pollutants such as methane, nitrous oxides, ammonia, andvolatile organic compounds(Gerber et al., 2013). Fertilization of feed crops and deposition of manure on crops are the primary sources of nitrogen emissions from ruminant agriculture (Steinfeld et al., 2006). Air pollution in nearby communities can lead to poor odors and respiratory issues, which may affect stress levels and quality of life (Domingo et al., 2021; Heederik et al., 2007).
+
+We did not include Low-Income Food-Deficit countries (FAO, 2023) in this analysis because the solution does not apply to people who do not have access to affordable and healthy alternatives to ruminant meat or those with micronutrient deficiencies.
+
+Although some amino acids, which are building blocks of protein, are present in lower-than-optimal proportions for human needs in some plant-based foods, mixing plant protein sources, as is typically done in vegetarian diets, can address deficiencies (Mariotti & Gardner, 2019).
+
+Additionalityis a concern for this solution. While ruminant meat consumption in middle- to high-income countries remained fairly stable between 2010 and 2022, some high-income countries have recently started reducing their ruminant consumption (see Adoption Trends). However, it’s difficult to determine current adoption and trends from national-level statistics, which average out low and high consumers within a country.
+
+Another consideration is that the decision to eat less ruminant meat will ultimately lead farmers to produce fewer ruminant animals, but the substitution may not be one-to-one. For example, one modeling study found that cutting beef consumption by 1 kg may only reduce beef production by 0.7 kg (Norwood & Lusk, 2011).
+
+Humans use more land for animal agriculture than for any other activity. However, the potential to remove and store carbon from the atmosphere by freeing up the land used in food production, as estimated by Mbow et al. (2019), was not included in this analysis.
+
+A total replacement of ruminant meat with other food may reduce food availability in arid climates, where ruminants graze on land not suitable for crop production.
+
+While the shift from ruminant meat consumption to chicken and pork would curtail some of the demand for animal feed, it would not be reduced as much as a shift from ruminants to plant-based foods.
+
+There are climate and environmental trade-offs associated with the production of different kinds of protein. Producing ruminant meat is land-intensive and contributes to the conversion of natural ecosystems to pasture and animal feed. However, ruminants can live on land that is too dry for crop production and graze on plants not suitable for human consumption. In some low-income food-insecure countries (not included in this analysis), grazing animals may be an important source of protein.
+
+Substituting ruminant meat with chicken, fish, or other meat can substantially reduce methane emissions, but comes with some environmental and animal welfare trade-offs.
+
+Pastures for grazing ruminants occupy 3400 millionhaof land, more than any other human activity (Foley et al., 2011). Curtailing ruminant consumption can significantly reduce demand for land and facilitate the protection of carbon-rich ecosystems. If the adoption of this solution is aggressive, it could open up opportunities for the restoration of land-based ecosystems and some coastal wetlands.
+
+Restore Coastal Wetlands
+
+Restore Abandoned Farmland
+
+Protect Grasslands & Savannas
+
+Protect Coastal Wetlands
+
+Restore Grasslands & Savannas
+
+This solution increases the supply of food. This makes more raw material available to increase the adoption potential of the following solutions:
+
+Deploy Low-Emission Industrial Feedstocks
+
+Increase Centralized Composting
+
+(mixed) Reducing ruminant consumption could lead to less manure production and, therefore, nutrient pollution in proximal and downstream receiving ecosystems. However, if ruminant meat is replaced with food sources that generate more manure or require more fertilizer/pesticides, pollution could increase in proximal or downgradient receiving ecosystems.
+
+Protect Grasslands & Savannas
+
+Restore Grasslands & Savannas
+
+Protect Coastal Wetlands
+
+Reducing ruminant meat consumption can reduce the amount of nutrients and manure available to manage, depending on whether it is substituted with plant-based foods or other meat.
+
+Improve Manure Management
+
+Consensus ofeffectivenessin reducing ruminant meat: High
+
+There is a high level of consensus in the scientific literature that shifting diets away from ruminant meat mitigates GHG emissions. An IPCC special report on land found “broad agreement” that meat – particularly ruminant meat – was the single food with the greatest impact on the environment on a global basis, especially in terms of GHG emissions and land use (Mbow et al., 2019). The IPCC found that the range of cumulative emissions mitigation from diet shifts by 2050, depending on the type of shift, was as much as 2.7–6.4 Gt CO₂‑eq/yr.
+ This estimate included shifts away from all meat, whereas our analysis focused on shifting away from ruminant meat alone.
+
+The emissions associated with the production of different food products in this solution came from Poore and Nemecek (2018) and Kim et al. (2020). Poore and Nemecek developed a database of emissions footprints for different foods based on a meta-analysis of 570 studies with a median reference year of 2010 (Figure 1). It covers ~38,700 commercially viable farms in 119 countries and 40 products representing ~90% of global protein and calorie consumption.
+
+According to Poore and Nemecek (2018), producing 1 kg of beef emits 33 times the GHGs emitted by producing protein-rich plant-based foods, such as beans, nuts, and lentils. But beef can also be replaced with any other non-ruminant meat (poultry, pork, or fish) to cut emissions. Substituting ruminant meat with any other kind of meat reduces average emissions by roughly 85%.
+
+A 2024 study on dietary emissions from 140 food products in 139 countries found that shifting consumption toward the EAT-Lancetguidelines could reduce emissions from the food system 17%, or about 1.94 Gt CO₂‑eq/yr
+ (Li, Y. et al., 2024).
+
+The results presented in this document summarize findings from 42 studies (34 academic reviews and original studies, three reports from NGOs, and five reports from public and multilateral organizations). The results reflect current evidence from 119 countries, but observations are concentrated in Europe, North America, Oceania, Brazil, and China, and limited in Africa and parts of Asia. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Use a comprehensive approach to improving diets including both “hard” (e.g., regulations) and “soft” (e.g., educational programs) policies.
+
+Ensure public procurement avoids ruminant meat and favors plant-rich diets as the default, especially in schools, hospitals, and cafeterias for public workers.
+
+Require companies that sell food to the government to disclose Scope 3 supply-chain emissions and adopt science-based targets, including a no-deforestation commitment.
+
+Develop national dietary guidelines based on health and environmental factors; ensure the guidelines are integrated throughout procurement policies, public education programs, and government food aid programs.
+
+Establish coordination bodies with stakeholders, such as farmers, distributors, storage facilities, food processors, transportation companies, retail, and waste management services, to design the most optimal policy package.
+
+Set ambitious local, national, and international goals and climate plans to improve diets and include the agricultural sector in emissions reduction targets.
+
+Establish safety nets for growers, such as access to grants or low-interest capital, reliable access to price information, early warning systems for price fluctuations, and insurance programs.
+
+Use financial instruments such as grants, subsidies, or tax exemptions to support farmers, producers, start-ups, infrastructure, and related technology.
+
+Reallocate subsidies for ruminant animal agriculture to alternatives; provide extensive support to farmers and ranchers transitioning to more sustainable agriculture systems through financial assistance, buyout programs, and education programs.
+
+Remove or reconfigure other subsidies that artificially deflate the price of meat, such as animal feed and manure storage facilities.
+
+Requirecarbon footprintlabels on food and produce.
+
+Limit or prohibit the expansion of agricultural lands, especially for animal agriculture.
+
+Restrict advertising for unhealthy foods and/or require disclosures for health and environmental impacts for adverts.
+
+Work with the health-care industry to integrate plant-rich diets into public health programs, and educate the public on the benefits of plant-rich diets.
+
+Expand extension services to help food retailers develop plant-based items, design menus, develop marketing materials, and provide other assistance to improve the profitability of plant-rich diets.
+
+Implement a carbon tax on livestock or meat products in food-secure areas and ensure there is proper monitoring and enforcement capacity.
+
+Use zoning laws to give plant-based and healthy food outlets better visibility or higher traffic locations; designate favorable spaces for plant-based food trucks and street vendors.
+
+Create robust educational programs for schools and adults on plant-based and healthy cooking.
+
+Create, support, or join education campaigns and/or public-private partnerships that teach the importance of plant-based diets and the environmental impacts of common foods.
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050. Searchinger et al. (2019)
+
+Food in the Anthropocene: The EAT-LancetCommission on healthy diets from sustainable food systems. Willett et al. (2019)
+
+Scale up production of nutrient-dense plant-based foods.
+
+Create peer-to-peer networks to exchange best practices and local or industry troubleshooting tips.
+
+Increase the visibility of plant-based diets through repetitive ad campaigns, product placement, and displays.
+
+Design menus to avoid ruminant meat and center plant-based products.
+
+Invest inR&Dto improve plant-based products.
+
+Develop culturally relevant plant-based products to support acceptance and uptake.
+
+Develop mobile or web apps that help consumers plan and cook plant-based meals, find plant-based retailers, and learn about plant-rich diets.
+
+Take advantage of financial incentives such as grants, subsidies, or tax exemptions.
+
+Participate or help establish coordination bodies with stakeholders, such as farmers, distributors, storage facilities, food processors, transportation companies, retail, and waste management services, to design the most optimal food systems transformation.
+
+Work with the health-care industry to integrate plant-rich diets into public health programs, and educate the public on the benefits of plant-rich diets.
+
+Use labels to show the environmental and emissions impact of food and menu items.
+
+Hold local plant-based culinary challenges to promote products and services.
+
+Create, support, or join education campaigns and/or public-private partnerships that promote plant-rich diets.
+
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050. Searchinger et al. (2019)
+
+Food in the Anthropocene: The EAT-LancetCommission on healthy diets from sustainable food systems. Willett et al. (2019)
+
+Establish company goals for ruminant substitution and incorporate them into corporate net-zero strategies.
+
+Ensure company procurement avoids ruminant meat and favors plant-rich diets as the default.
+
+Participate in or help establish coordination bodies with stakeholders, such as farmers, distributors, storage facilities, food processors, transportation companies, retail, and waste management services, to design the most optimal food systems transformation.
+
+Take advantage of financial incentives such as grants, subsidies, or tax exemptions.
+
+Offer financial services, including low-interest loans, micro-financing, and grants, to support initiatives promoting plant-rich diets.
+
+Use labels to show the environmental and emissions impact of food and menu items.
+
+Increase the visibility of plant-based diets through repetitive ad campaigns, product placement, and displays.
+
+Fund start-ups or existing companies that are improving plant-based proteins and alternatives to animal agriculture.
+
+Develop mobile or web apps that help consumers plan and cook plant-based meals, find plant-based retailers, and learn about plant-rich diets.
+
+Hold local plant-based culinary challenges to promote products and services.
+
+Create, support, or join education campaigns and/or public-private partnerships that promote plant-rich diets.
+
+Include ruminant-free and plant-rich dietary support in employee wellness and benefits programs.
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050. Searchinger et al. (2019)
+
+Food in the Anthropocene: The EAT-LancetCommission on healthy diets from sustainable food systems. Willett et al. (2019)
+
+Ensure organization procurement avoids ruminant meat and favors plant-rich diets.
+
+Help develop and advocate for ambitious local, national, and international goals and climate plans to improve diets.
+
+Participate or help establish coordination bodies with stakeholders, such as farmers, distributors, storage facilities, food processors, transportation companies, retail, and waste management services, to design the most optimal food systems transformation.
+
+Advocate to reallocate subsidies for ruminant agriculture to plant-based alternatives.
+
+Advocate for financial instruments such as taxes, subsidies, or exemptions to support farmers, producers, start-ups, infrastructure, and related technology.
+
+Advocate for standardized and mandatory carbon footprint labels on food and produce.
+
+Advocate for a carbon tax on livestock or meat products in food-secure areas and ensure there is proper monitoring and enforcement capacity.
+
+Offer comprehensive training and technical assistance programs for farmers and producers supporting plant-rich diets.
+
+Implement campaigns promoting divestment from major animal agriculture polluters and challenge misleading claims on high-emissions meat products.
+
+Work with the health-care industry to integrate plant-rich diets into public health programs, and educate the public on the benefits of plant-rich diets.
+
+Create demonstration farms to show local examples, strategies to generate income, and how to use government programs.
+
+Create robust educational programs for schools and adults on plant-based and healthy cooking.
+
+Hold local plant-based culinary challenges to promote plant-rich diets.
+
+Create, support, or join education campaigns and/or public-private partnerships that promote plant-rich diets.
+
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050. Searchinger et al. (2019)
+
+Food in the Anthropocene: The EAT-LancetCommission on healthy diets from sustainable food systems. Willett et al. (2019)
+
+Ensure relevant portfolio companies avoid ruminant meat production and support plant-rich diets; avoid investing in animal agriculture in high-income countries or work with them to transition to plant-rich alternatives.
+
+Invest in companies developing plant-based foods or technologies that support processing, such as equipment, transportation, and storage.
+
+Fund start-ups or existing companies that are improving plant-based proteins and alternatives to animal agriculture.
+
+Offer financial services, including low-interest loans, micro-financing, and grants, for plant-based food initiatives.
+
+Participate or help establish coordination bodies with stakeholders, such as farmers, distributors, storage facilities, food processors, transportation companies, retail, and waste management services, to design the most optimal food systems transformation.
+
+Create, support, or join education campaigns and/or public-private partnerships that promote plant-rich diets.
+
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050. Searchinger et al. (2019)
+
+Food in the Anthropocene: The EAT-LancetCommission on healthy diets from sustainable food systems. Willett et al. (2019)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Ensure organization procurement avoids ruminant meat and favors plant-rich diets.
+
+Help develop and advocate for ambitious local, national, and international goals and climate plans to improve diets.
+
+Participate or help establish coordination bodies with stakeholders, such as farmers, distributors, storage facilities, food processors, transportation companies, retail, and waste management services, to design the most optimal food systems transformation.
+
+Invest in companies developing plant-based foods or technologies that support processing, such as equipment, transportation, and storage.
+
+Fund start-ups or existing companies that are improving plant-based proteins and alternatives to ruminant animal agriculture.
+
+Offer financial services, including low-interest loans, micro-financing, and grants, for plant-based food initiatives.
+
+Advocate to reallocate subsidies for animal agriculture to plant-based alternatives.
+
+Advocate for financial instruments such as taxes, subsidies, or exemptions to support plant-based farmers, producers, start-ups, infrastructure, and related technology.
+
+Advocate for standardized and mandatory environmental impact labels on food and produce.
+
+Advocate for a carbon tax on livestock or meat products in food-secure areas and ensure there is proper monitoring and enforcement capacity.
+
+Offer comprehensive training and technical assistance programs for farmers and producers supporting plant-rich diets.
+
+Create demonstration farms to show local examples, strategies to generate income, and how to use government programs.
+
+Create robust educational programs for schools and adults on plant-based and healthy cooking.
+
+Work with the health-care industry to integrate plant-rich diets into public health programs and educate the public on the benefits of plant-rich diets.
+
+Integrate plant-rich diets with ecosystem protection and restoration efforts such as education campaigns, national plans, and international agreements, when relevant.
+
+Create, support, or join education campaigns and/or public-private partnerships that promote plant-rich diets.
+
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050. Searchinger et al. (2019)
+
+Food in the Anthropocene: The EAT-LancetCommission on healthy diets from sustainable food systems. Willett et al. (2019)
+
+Help develop and advocate for ambitious local, national, and international goals and climate plans to improve diets.
+
+Participate or help establish coordination bodies with stakeholders, such as farmers, distributors, storage facilities, food processors, transportation companies, retail, and waste management services, to design the most optimal local food systems transformation.
+
+Help shift policy and academic goals around agriculture from quantity of outputs to nutritional quality of outputs.
+
+Help market and brand plant-based items appealing to average and/or conventional tastes.
+
+Find new ways to appeal to high-red-meat consumers and new markets – particularly, men and athletic communities.
+
+Highlight the social and environmental impacts of animal-based products in high-income countries.
+
+Design and implement robust educational programs for schools and adults on plant-based and healthy cooking.
+
+Advocate to reallocate subsidies for animal agriculture to plant-based alternatives.
+
+Advocate for financial instruments such as taxes, subsidies, or exemptions to support plant-based farmers, producers, start-ups, infrastructure, and related technology.
+
+Advocate for standardized and mandatory carbon footprint labels on food and produce.
+
+Create, support, or join education campaigns and/or public-private partnerships that promote plant-rich diets.
+
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050. Searchinger et al. (2019)
+
+Food in the Anthropocene: The EAT-LancetCommission on healthy diets from sustainable food systems. Willett et al. (2019)
+
+
+## Technologists and Researchers
+
+
+Research connections between plant-based agriculture and human well-being indicators such as nutrition, income, and human rights.
+
+Develop new or improve existing plant-based or lab-grown alternatives to ruminant meat and other animal-based proteins.
+
+Develop plant-based proteins that account for localsupply chainsand cultural preferences.
+
+Analyze the full suite of interventions that encourage plant-based diets and offer recommendations to policy and lawmakers on the most effective options.
+
+Use market data on food purchases and preferences to improve marketing and attractiveness of plant-based options.
+
+Develop mobile or web apps that help consumers plan and cook plant-based meals, find plant-based retailers, and learn about plant-rich diets.
+
+Research connections between plant-rich diets, food security, cultural cuisine preferences, and health indicators.
+
+Help develop national dietary guidelines based on health and environmental factors.
+
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050. Searchinger et al. (2019)
+
+Food in the Anthropocene: The EAT-LancetCommission on healthy diets from sustainable food systems. Willett et al. (2019)
+
+
+## Communities, Households, and Individuals
+
+
+Eat plant-rich diets and avoid ruminant meat as much as possible.
+
+Offer alternatives to ruminant meat at social gatherings and request plant-based options at public events.
+
+Talk to family, friends, and coworkers about avoiding beef; recommend your favorite restaurants, recipes, and cooking tips.
+
+Support educational programs for schools and adults on plant-based and healthy cooking.
+
+Advocate to reallocate subsidies for animal agriculture to plant-based alternatives.
+
+Advocate for financial instruments such as taxes, subsidies, or exemptions to support plant-based farmers, producers, start-ups, infrastructure, and related technology.
+
+Create, support, or join education campaigns and/or public-private partnerships that promote plant-rich diets.
+
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050. Searchinger et al. (2019)
+
+Food in the Anthropocene: The EAT-LancetCommission on healthy diets from sustainable food systems. Willett et al. (2019)
+
+
+## “Take Action” Sources
+
+
+A review of policy levers to reduce meat production and consumption. Bryant et al. (2024)
+
+Country-specific dietary shifts to mitigate climate and water crises. Kim et al. (2020)
+
+The future of plant-based diets: Aligning healthy marketplace choices with equitable, resilient, and sustainable food systems. Kraak et al. (2024)
+
+Increasing the uptake of plant-based diets: An analysis of the impact of a CO₂
+ food label. Maier (2024)
+
+Reducing food’s environmental impacts through producers and consumers. Poore & Nemecek (2018)
+
+Future fit farming: Policy solutions for diverse, resilient agricultural systems. ProVeg (2024)
+
+Barriers to adopting a plant-based diet in high-income countries: a systematic review. Rickerby & Green (2024)
+
+Ruminants, climate change and climate policy. Ripple et al. (2014)
+
+Dietary behavior as a target of environmental policy: Which policy instruments are adequate to incentivize plant-based diets?Scheilcher & Töller (2024)
+
+Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050. Searchinger et al. (2019)
+
+The shift from meat to plant-based proteins: Consumers and public policy.Siegrist et al. (2024)
+
+Livestock’s long shadow: Environmental issues and options. Steinfeld et al. (2006)
+
+Food in the Anthropocene: The EAT-LancetCommission on healthy diets from sustainable food systems. Willett et al. (2019)
+
+Methods and Supporting Data
+
+Bai, Y., Alemu, R., Block, S. A., Headey, D., & Masters, W. A. (2021). Cost and affordability of nutritious diets at retail prices: Evidence from 177 countries.Food policy,99, Article 101983.Link to source:https://doi.org/10.1016/j.foodpol.2020.101983
+
+Bouvard, V., Loomis, D., Guyton, K. Z., Grosse, Y., Ghissassi, F. E., Benbrahim-Tallaa, L., Guha, N., Mattock, H., & Straif, K. (2015). Carcinogenicity of consumption of red and processed meat.The Lancet Oncology,16(16), 1599–1600.https://doi.org/10.1016/S1470-2045(15)00444-1
+
+Bradbury, K. E., Murphy, N., & Key, T. J. (2020). Diet and colorectal cancer in UK Biobank: A prospective study.International Journal of Epidemiology,49(1), 246–258.Link to source:https://doi.org/10.1093/ije/dyz064
+
+Casey, J. A., Curriero, F. C., Cosgrove, S. E., Nachman, K. E., & Schwartz, B. S. (2013). High-density livestock operations, crop field application of manure, and risk of community-associated methicillin-resistantStaphylococcus aureusinfection in Pennsylvania.JAMA Internal Medicine,173(21), 1980–1990.Link to source:https://doi.org/10.1001/jamainternmed.2013.10408
+
+Domingo, N. G. G., Balasubramanian, S., Thakrar, S. K., Clark, M. A., Adams, P. J., Marshall, J. D., Muller, N. Z., Pandis, S. N., Polasky, S., Robinson, A. L., Tessum, C. W., & Hill, J. D. (2021). Air quality–related health damages of food.Proceedings of the National Academy of Sciences,118(20), Article e2013637118.Link to source:https://doi.org/10.1073/pnas.2013637118
+
+Foley, J. A., Ramankutty, N., Brauman, K. A., Cassidy, E. S., Gerber, J. S., Johnston, M., Mueller, N. D., O’Connell, C., Ray, D. K., West, P. C., Balzer, C., Bennett, E. M., Carpenter, S. R., Hill, J., Monfreda, C., Polasky, S., Rockström, J., Sheehan, J., Siebert, S., ... Zaks, D. P. M. (2011). Solutions for a cultivated planet.Nature,478, 337–342.Link to source:https://doi.org/10.1038/nature10452
+
+Food and Agriculture Organization of the United Nations (FAO). (2025).FAO‑FAOSTAT: Food balances (2010-)[Data set]. Food balances for individual countries for the year 2022 (most recent year available). Retrieved March 25, 2025, fromLink to source:https://www.fao.org/faostat/en/#data/FBS
+
+Food and Agriculture Organization of the United Nations (FAO). (2023). Low-Income Food-Deficit Countries (LIFDCs) - List updated June 2023. Retrieved March 25, 2025, fromLink to source:https://www.fao.org/member-countries/lifdc/en
+
+Food and Agriculture Organization of the United Nations (FAO). (2017).Livestock solutions for climate change[Technical paper].Link to source:https://www.fao.org/family-farming/detail/en/c/1634679/
+
+Gerber, P. J., Steinfeld, H., Henderson, B., Mottet, A., Opio, C., Dijkman, J., Falcucci, A., & Tempio, G. (2013).Tackling climate change through livestock: A global assessment of emissions and mitigation opportunities[Report]. Food and Agriculture Organization of the United Nations.Link to source:https://www.fao.org/4/i3437e/i3437e00.htm
+
+Godfray, H. C. J., Aveyard, P., Garnett, T., Hall, J. W., Key, T. J., Lorimer, J., Pierrehumbert, R. T., Scarborough, P., Springmann, M., & Jebb, S. A. (2018). Meat consumption, health, and the environment.Science,361(6399), Article eaam5324.Link to source:https://doi.org/10.1126/science.aam5324
+
+Gupta, S., Vemireddy, V., Singh, D. K., & Pingali, P. (2021). Ground truthing the cost of achieving the EAT lancet recommended diets: Evidence from rural India.Global Food Security,28, Article 100498.Link to source:https://doi.org/10.1016/j.gfs.2021.100498
+
+Halpern, B. S., Frazier, M., Verstaen, J., Rayner, P.-E., Clawson, G., Blanchard, J. L., Cottrell, R. S., Froehlich, H. E., Gephart, J. A., Jacobsen, N. S., Kuempel, C. D., McIntyre, P. B., Metian, M., Moran, D., Nash, K. L., Többen, J., & Williams, D. R. (2022). The environmental footprint of global food production.Nature Sustainability, 5, 1027–1039.Link to source:https://doi.org/10.1038/s41893-022-00965-x
+
+Harter, T., Lund, J. R., Darby, J., Fogg, G. E., Howitt, R., Jessoe, K. K., Pettygrove, G. S., Quinn, J. F., Viers, J. H., Boyle, D. B., Canada, H. E., De La Mora, N., Dzurella, K. N., Fryjoff-Hung, A., Hollander, A. D., Honeycutt, K. L., Jenkins, M. W., Jensen, V. B., King, A. M., ... Rosenstock, T. S. (2012).Addressing nitrate in California’s drinking water with a focus on Tulare Lake Basin and Salinas Valley groundwater[Report]. Center for Watershed Sciences, University of California.Link to source:https://ucanr.edu/sites/default/files/2012-03/138956.pdf
+
+Heederik, D., Sigsgaard, T., Thorne, P. S., Kline, J. N., Avery, R., Bønløkke, J. H., Chrischilles, E. A., Dosman, J. A., Duchaine, C., Kirkhorn, S. R., Kulhanková, K., & Merchant, J. A. (2007). Health effects of airborne exposures from concentrated animal feeding operations.Environmental Health Perspectives,115(2), 298–302.Link to source:https://doi.org/10.1289/ehp.8835
+
+Herrero, M., Henderson, B., Havlík, P., Thornton, P. K., Conant, R. T., Smith, P., Wirsenius, S., Hristov, A. N., Gerber, P., Gill, M., Butterbach-Bahl, K., Valin, H., Garnett, T., & Stehfest, E. (2016). Greenhouse gas mitigation potentials in the livestock sector.Nature Climate Change,6(5), 452–461.Link to source:https://doi.org/10.1038/nclimate2925
+
+Hirvonen, K., Bai, Y., Headey, D., & Masters, W. A. (2020). Affordability of the EAT–Lancet reference diet: A global analysis.The Lancet Global Health,8(1), e59–e66.Link to source:https://doi.org/10.1016/S2214-109X(19)30447-4
+
+Intergovernmental Panel on Climate Change. (2023).Climate change 2023: Synthesis report. Contribution of working groups I, II and III to the sixth assessment report of the intergovernmental panel on climate change[Core Writing Team, H. Lee, & J. Romero (Eds.)].Link to source:https://doi.org/10.59327/IPCC/AR6-9789291691647
+
+Jackson, R. B., Saunois, M., Martinez, A., Canadell, J. G., Yu, X., Li, M., Poulter, B., Raymond, P. A., Regnier, P., Ciais, P., Davis, S. J., & Patra, P. K. (2024). Human activities now fuel two-thirds of global methane emissions.Environmental Research Letters,19(10), Article 101002.Link to source:https://doi.org/10.1088/1748-9326/ad6463
+
+Kaluza, J., Wolk, A., & Larsson, S. C. (2012). Red meat consumption and risk of stroke: A meta-analysis of prospective studies.Stroke,43(10), 2556–2560.Link to source:https://doi.org/10.1161/STROKEAHA.112.663286
+
+Katare, B., Wang, H. H., Lawing, J., Hao, N., Park, T., & Wetzstein, M. (2020). Toward optimal meat consumption.American Journal of Agricultural Economics,102(2), 662–680.Link to source:https://doi.org/10.1002/ajae.12016
+
+Kim, B. F., Santo, R. E., Scatterday, A. P., Fry, J. P., Synk, C. M., Cebron, S. R., Mekonnen, M. M., Hoekstra, A. Y., de Pee, S., Bloem, M. W., Neff, R. A., & Nachman, K. E. (2020). Country-specific dietary shifts to mitigate climate and water crises.Global Environmental Change,62, Article 101926.Link to source:https://doi.org/10.1016/j.gloenvcha.2019.05.010
+
+Li, M., Wang, Y., Zhao, S., Chen, W., Liu, Y., Zheng, H., Sun, Z., He, P., Li, R., Zhang, S., Xing, P., & Li., Q. (2024). Improving the affordability and reducing greenhouse gas emissions of the EAT-Lancetdiet in China.Sustainable Production and Consumption,52, 445–457.Link to source:https://doi.org/10.1016/j.spc.2024.11.014
+
+Li, Y., He, P., Shan, Y., Li, Y., Hang, Y., Shao, S., Ruzzenenti, F., & Hubacek, K. (2024). Reducing climate change impacts from the global food system through diet shifts.Nature Climate Change,14(9), 943–953.Link to source:https://doi.org/10.1038/s41558-024-02084-1
+
+Mariotti, F., & Gardner, C. D. (2019). Dietary protein and amino acids in vegetarian diets—A review.Nutrients,11(11), Article 2661.Link to source:https://doi.org/10.3390/nu11112661
+
+Mbow, C., Rosenzweig, C., Barioni, L. G., Benton, T. G., Herrero, M., Krishnapillai, M., Liwenga, E., Pradhan, P., Rivera-Ferre, M. G., Sapkota, T., Tubiello, F. N., & Xu, Y. (2019). Food security. In P. R. Shukla, J. Skea, E. Calvo Buendia, V. Masson-Delmotte, H.-O. Pörtner, D. C. Roberts, P. Zhai, R. Slade, S. Connors, R. van Diemen, M. Ferrat, E. Haughey, S. Luz, S. Neogi, M. Pathak, J. Petzold, J. Portugal Pereira, P. Vyas, E. Huntley, K. Kissick, M. Belkacemi, & J. Malley (Eds.),Climate change and land: An IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems(pp. 437–550). Cambridge University Press.Link to source:https://doi.org/10.1017/9781009157988.007
+
+Meier, T., & Christen, O. (2013). Environmental impacts of dietary recommendations and dietary styles: Germany as an example.Environmental Science & Technology,47(2), 877–888.Link to source:https://doi.org/10.1021/es302152v
+
+Nelson, M. E., Hamm, M. W., Hu, F. B., Abrams, S. A., & Griffin, T. S. (2016). Alignment of healthy dietary patterns and environmental sustainability: A systematic review.Advances in Nutrition,7(6), 1005–1025.Link to source:https://doi.org/10.3945/an.116.012567
+
+Nijdam, D., Rood, T., & Westhoek, H. (2012). The price of protein: Review of land use and carbon footprints from life cycle assessments of animal food products and their substitutes.Food Policy,37(6), 760–770.Link to source:https://doi.org/10.1016/j.foodpol.2012.08.002
+
+Norwood, F. B., & Lusk, J. L. (2011).Compassion, by the pound: The economics of farm animal welfare. Oxford University Press.Link to source:https://global.oup.com/academic/product/compassion-by-the-pound-9780199551163?cc=ca&lang=en&
+
+Pan, A., Sun, Q., Bernstein, A. M., Schulze, M. B., Manson, J. E., Willett, W. C., & Hu, F. B. (2011). Red meat consumption and risk of type 2 diabetes: 3 cohorts of US adults and an updated meta-analysis.The American Journal of Clinical Nutrition,94(4), 1088–1096.Link to source:https://doi.org/10.3945/ajcn.111.018978
+
+Pan, A., Sun, Q., Bernstein, A. M., Schulze, M. B., Manson, J. E., Stampher, M. J., Willett, W. C., & Hu, F. B. (2012). Red meat consumption and mortality: Results from 2 prospective cohort studies.Archives of Internal Medicine,172(7), 555–563.Link to source:https://doi.org/10.1001/archinternmed.2011.2287
+
+Pimentel, D., & Pimentel, M. (2003). Sustainability of meat-based and plant-based diets and the environment.The American Journal of Clinical Nutrition,78(3), 660S–663S.Link to source:https://doi.org/10.1093/ajcn/78.3.660S
+
+Poore, J., & Nemecek, T. (2018) Reducing food’s environmental impacts through producers and consumers.Science,360(6392), 987–992.Link to source:https://doi.org/10.1126/science.aaq0216
+
+Porter, S., & Cox, C. (2020, May 28).Manure overload: Manure plus fertilizer overwhelms Minnesota’s land and water. Environmental Working Group.Link to source:https://www.ewg.org/interactive-maps/2020-manure-overload/
+
+Ripple, W. J., Smith, P., Haberl, H., Montzka, S. A., McAlpine, C., & Boucher, D. H. (2014a). Ruminants, climate change and climate policy.Nature Climate Change,4(1), 2–5.Link to source:https://doi.org/10.1038/nclimate2081
+
+Ripple, W. J., Estes, J. A., Beschta, R. L., Wilmers, C. C., Ritchie, E. G., Hebblewhite, M., Berger, J., Elmhagen, B., Letnic, M., Nelson, M. P., Schmitz, O. J., Smith, D. W., Wallach, A. D., & Wirsing, A. J. (2014b). Status and ecological effects of the world’s largest carnivores.Science,343(6167), Article 1241484.Link to source:https://doi.org/10.1126/science.1241484
+
+Ripple, W. J., Newsome, T. M., Wolf, C., Dirzo, R., Everatt, K. T., Galetti, M., Hayward, M. W., Kerley, G. I. H., Levi, T., Lindsey, P. A., Macdonald, D. W., Malhi, Y., Painter, L. E., Sandom, C. J., Terborgh, J., & Van Valkenburgh, B. (2015). Collapse of the world’s largest herbivores.Science Advances,1(4), Article e1400103.Link to source:https://doi.org/10.1126/sciadv.1400103
+
+Searchinger, T., Waite, R., Hanson, C., Ranganathan, J., Dumas, P., Matthews, E., & Klirs, C. (2019).Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050[Report]. World Resources Institute.Link to source:https://research.wri.org/wrr-food
+
+Sinha, R., Cross, A. J., Graubard, B. I., Leitzmann, M. F., & Schatzkin, A. (2009). Meat intake and mortality: A prospective study of over half a million people.Archives of Internal Medicine,169(6), 562–571.Link to source:https://doi.org/10.1001/archinternmed.2009.6
+
+Springmann, M., Clark, M. A., Rayner, M., Scarborough, P., & Webb, P. (2021). The global and regional costs of healthy and sustainable dietary patterns: A modelling study.The Lancet Planetary Health,5(11), e797–e807.Link to source:https://doi.org/10.1016/S2542-5196(21)00251-5
+
+Steinfeld, H., Gerber, P., Wassenaar, T., Castel, V., Rosales, M., & de Haan, C. (2006).Livestock’s long shadow: Environmental issues and options[Report]. Food and Agriculture Organization of the United Nations.Link to source:https://www.fao.org/4/a0701e/a0701e00.htm
+
+Sun, J., Liao, X.-P., D’Souza, A. W., Boolchandani, M., Li, S.-H., Cheng, K., Luis Martínez, J., Li, L., Feng, Y.-J., Fang, L.-X., Huang, T., Xia, J., Yu, Y., Zhou, Y.-F., Sun, Y.-X., Deng, X.-B., Zeng, Z.-L., Jiang, H.-X., Fang, B.-H., … Liu, Y.-H. (2020). Environmental remodeling of human gut microbiota and antibiotic resistome in livestock farms.Nature Communications,11(1), Article 1427.Link to source:https://doi.org/10.1038/s41467-020-15222-y
+
+Tang, K. L., Caffrey, N. P., Nóbrega, D. B., Cork, S. C., Ronksley, P. E., Barkema, H. W., Polachek, A. J., Ganshorn, H., Sharma, N., Kellner, J. D., & Ghali, W. A. (2017). Restricting the use of antibiotics in food-producing animals and its associations with antibiotic resistance in food-producing animals and human beings: A systematic review and meta-analysis.The Lancet Planetary Health,1(8), e316–e327.Link to source:https://doi.org/10.1016/S2542-5196(17)30141-9
+
+Toumpanakis, A., Turnbull, T., & Alba-Barba, I. (2018). Effectiveness of plant-based diets in promoting well-being in the management of type 2 diabetes: A systematic review.BMJ Open Diabetes Research & Care,6(1), Article e000534.Link to source:https://doi.org/10.1136/bmjdrc-2018-000534
+
+Van Boeckel, T. P., Brower, C., Gilbert, M., Grenfell, B. T., Levin, S. A., Robinson, T. P., Teillant, A., & Laxminarayan, R. (2015). Global trends in antimicrobial use in food animals.Proceedings of the National Academy of Sciences,112(18), 5649–5654.Link to source:https://doi.org/10.1073/pnas.1503141112
+
+Vergnaud, A.-C., Norat, T., Romaguera, D., Mouw, T., May, A. M., Travier, N., Luan, J., Wareham, N., Slimani, N., Rinaldi, S., Couto, E., Clavel-Chapelon, F., Boutron-Ruault, M.-C., Cottet, V., Palli, D., Agnoli, C., Panico, S., Tumino, R., Vineis, P., … Peeters, P. H. M. (2010). Meat consumption and prospective weight change in participants of the EPIC-PANACEA study.The American Journal of Clinical Nutrition,92(2), 398–407.Link to source:https://doi.org/10.3945/ajcn.2009.28713
+
+Westhoek, H., Lesschen, J. P., Rood, T., Wagner, S., De Marco, A., Murphy-Bokern, D., Leip, A., van Grinsven, H., Sutton, M. A., & Oenema, O. (2014). Food choices, health and environment: Effects of cutting Europe’s meat and dairy intake.Global Environmental Change,26, 196–205.Link to source:https://doi.org/10.1016/j.gloenvcha.2014.02.004
+
+Willett, W., Rockström, J., Loken, B., Springmann, M., Lang, T., Vermeulen, S., Garnett, T., Tilman, D., DeClerck, F., Wood, A., Jonell, M., Clark, M., Gordon, L. J., Fanzo, J., Hawkes, C., Zurayk, R., Rivera, J. A., De Vries, W., Majele Sibanda, L., ... Murray, C. J. L. (2019). Food in the Anthropocene: The EAT–Lancet Commission on healthy diets from sustainable food systems.The Lancet,393(10170), 447–492.Link to source:https://doi.org/10.1016/s0140-6736(18)31788-4
+
+Willits-Smith, A., Odinga, H., O’Malley, K., & Rose, D. (2023). Demographic and socioeconomic correlates of disproportionate beef consumption among US adults in an age of global warming.Nutrients,15(17), Article 3795.Link to source:https://doi.org/10.3390/nu15173795
+
+Ruthie Burrows, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

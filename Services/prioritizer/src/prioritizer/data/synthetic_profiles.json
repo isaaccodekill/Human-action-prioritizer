@@ -1,0 +1,229 @@
+{
+  "profiles": [
+    {
+      "city": "Lagos",
+      "climate_zone": "tropical",
+      "primary_transport": "motorcycle",
+      "diet": "moderate_meat",
+      "housing_type": "house",
+      "energy_source": "generator",
+      "income_level": "low"
+    },
+    {
+      "city": "Nairobi",
+      "climate_zone": "temperate",
+      "primary_transport": "public_transit",
+      "diet": "moderate_meat",
+      "housing_type": "house",
+      "energy_source": "grid",
+      "income_level": "medium"
+    },
+    {
+      "city": "Cairo",
+      "climate_zone": "arid",
+      "primary_transport": "public_transit",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "low"
+    },
+    {
+      "city": "Cape Town",
+      "climate_zone": "temperate",
+      "primary_transport": "car",
+      "diet": "moderate_meat",
+      "housing_type": "house",
+      "energy_source": "solar",
+      "income_level": "medium"
+    },
+    {
+      "city": "Accra",
+      "climate_zone": "tropical",
+      "primary_transport": "motorcycle",
+      "diet": "moderate_meat",
+      "housing_type": "house",
+      "energy_source": "grid",
+      "income_level": "low"
+    },
+    {
+      "city": "Mumbai",
+      "climate_zone": "tropical",
+      "primary_transport": "public_transit",
+      "diet": "vegetarian",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "low"
+    },
+    {
+      "city": "Beijing",
+      "climate_zone": "temperate",
+      "primary_transport": "public_transit",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "medium"
+    },
+    {
+      "city": "Tokyo",
+      "climate_zone": "temperate",
+      "primary_transport": "public_transit",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "high"
+    },
+    {
+      "city": "Bangkok",
+      "climate_zone": "tropical",
+      "primary_transport": "motorcycle",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "medium"
+    },
+    {
+      "city": "Jakarta",
+      "climate_zone": "tropical",
+      "primary_transport": "motorcycle",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "low"
+    },
+    {
+      "city": "Ulaanbaatar",
+      "climate_zone": "cold",
+      "primary_transport": "car",
+      "diet": "heavy_meat",
+      "housing_type": "house",
+      "energy_source": "grid",
+      "income_level": "low"
+    },
+    {
+      "city": "London",
+      "climate_zone": "temperate",
+      "primary_transport": "public_transit",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "high"
+    },
+    {
+      "city": "Berlin",
+      "climate_zone": "temperate",
+      "primary_transport": "bicycle",
+      "diet": "vegetarian",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "high"
+    },
+    {
+      "city": "Madrid",
+      "climate_zone": "temperate",
+      "primary_transport": "car",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "medium"
+    },
+    {
+      "city": "Stockholm",
+      "climate_zone": "cold",
+      "primary_transport": "bicycle",
+      "diet": "vegetarian",
+      "housing_type": "apartment",
+      "energy_source": "solar",
+      "income_level": "high"
+    },
+    {
+      "city": "Moscow",
+      "climate_zone": "cold",
+      "primary_transport": "public_transit",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "medium"
+    },
+    {
+      "city": "São Paulo",
+      "climate_zone": "tropical",
+      "primary_transport": "public_transit",
+      "diet": "heavy_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "medium"
+    },
+    {
+      "city": "Buenos Aires",
+      "climate_zone": "temperate",
+      "primary_transport": "car",
+      "diet": "heavy_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "medium"
+    },
+    {
+      "city": "Lima",
+      "climate_zone": "arid",
+      "primary_transport": "public_transit",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "low"
+    },
+    {
+      "city": "Bogotá",
+      "climate_zone": "temperate",
+      "primary_transport": "public_transit",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "medium"
+    },
+    {
+      "city": "Santiago",
+      "climate_zone": "temperate",
+      "primary_transport": "car",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "medium"
+    },
+    {
+      "city": "New York",
+      "climate_zone": "temperate",
+      "primary_transport": "public_transit",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "high"
+    },
+    {
+      "city": "Los Angeles",
+      "climate_zone": "temperate",
+      "primary_transport": "car",
+      "diet": "heavy_meat",
+      "housing_type": "house",
+      "energy_source": "grid",
+      "income_level": "high"
+    },
+    {
+      "city": "Mexico City",
+      "climate_zone": "temperate",
+      "primary_transport": "public_transit",
+      "diet": "moderate_meat",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "low"
+    },
+    {
+      "city": "Toronto",
+      "climate_zone": "cold",
+      "primary_transport": "public_transit",
+      "diet": "vegetarian",
+      "housing_type": "apartment",
+      "energy_source": "grid",
+      "income_level": "high"
+    }
+  ]
+}

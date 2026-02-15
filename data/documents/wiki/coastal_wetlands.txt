@@ -1,0 +1,315 @@
+# Coastal Wetlands
+Source: https://en.wikipedia.org/wiki/Wetland
+
+A Wetlands is a distinct semi-aquatic ecosystem whose groundcovers are flooded or saturated in water, either permanently, for years or decades, or only seasonally.  Flooding results in oxygen-poor (anoxic) processes taking place, especially in the soils. Wetlands form a transitional zone between waterbodies and dry lands, and are different from other terrestrial or aquatic ecosystems due to their vegetation's roots having adapted to oxygen-poor waterlogged soils. They are considered among the most biologically diverse of all ecosystems, serving as habitats to a wide range of aquatic and semi-aquatic plants and animals, with often improved water quality due to plant removal of excess nutrients such as nitrates and phosphorus.
+Wetlands exist on every continent, except Antarctica. The water in wetlands is either freshwater, brackish or saltwater. The main types of wetland are defined based on the dominant plants and the source of the water. For example, marshes are wetlands dominated by emergent herbaceous vegetation such as reeds, cattails and sedges. Swamps are dominated by woody vegetation such as trees and shrubs (although reed swamps in Europe are dominated by reeds, not trees). Mangrove forest are wetlands with mangroves and halophytic woody plants that have evolved to tolerate salty water.
+Examples of wetlands classified by the sources of water include tidal wetlands, where the water source is ocean tides; estuaries, water source is mixed tidal and river waters; floodplains, water source is excess water from overflowed rivers or lakes; and bogs and vernal ponds, water source is rainfall or meltwater, sometimes mediated through groundwater springs. The world's largest wetlands include the Amazon River basin, the West Siberian Plain, the Pantanal in South America, and the Sundarbans in the Ganges-Brahmaputra delta.  
+Wetlands contribute many ecosystem services that benefit people. These include for example water purification, stabilization of shorelines, storm protection and flood control. In addition, wetlands also process and condense carbon (in processes called carbon fixation and sequestration), and other nutrients and water pollutants. Wetlands can act as a sink or a source of carbon, depending on the specific wetland. If they function as a carbon sink, they can help with climate change mitigation. However, wetlands can also be a significant source of methane emissions due to anaerobic decomposition of soaked detritus, and some are also emitters of nitrous oxide. 
+Humans are disturbing and damaging wetlands in many ways, including oil and gas extraction, building infrastructure, overgrazing of livestock, overfishing, alteration of wetlands including dredging and draining, nutrient pollution, and water pollution. Wetlands are more threatened by environmental degradation than any other ecosystem on Earth, according to the Millennium Ecosystem Assessment from 2005. Methods exist for assessing wetland ecological health. These methods have contributed to wetland conservation by raising public awareness of the functions that wetlands can provide. Since 1971, work under an international treaty seeks to identify and protect "wetlands of international importance."  
+
+
+== Definitions and terminology ==
+
+
+=== Technical definitions ===
+A simplified definition of wetland is "an area of land that is usually saturated with water". More precisely, wetlands are areas where "water covers the soil, or is present either at or near the surface of the soil all year or for varying periods of time during the year, including during the growing season". A patch of land that develops pools of water after a rain storm would not necessarily be considered a "wetland", even though the land is wet. Wetlands have unique characteristics: they are generally distinguished from other water bodies or landforms based on their water level and on the types of plants that live within them. Specifically, wetlands are characterized as having a water table that stands at or near the land surface for a long enough period each year to support aquatic plants.
+A more concise definition is a community composed of hydric soil and hydrophytes.
+Wetlands have also been described as ecotones, providing a transition between dry land and water bodies. Wetlands exist "...at the interface between truly terrestrial ecosystems and aquatic systems, making them inherently different from each other, yet highly dependent on both."
+In environmental decision-making, there are subsets of definitions that are agreed upon to make regulatory and policy decisions.
+Under the Ramsar international wetland conservation treaty, wetlands are defined as follows:
+
+Article 1.1: "...wetlands are areas of marsh, fen, peatland or water, whether natural or artificial, permanent or temporary, with water that is static or flowing, fresh, brackish or salt, including areas of marine water the depth of which at low tide does not exceed six meters."
+Article 2.1: "[Wetlands] may incorporate riparian and coastal zones adjacent to the wetlands, and islands or bodies of marine water deeper than six meters at low tide lying within the wetlands."
+An ecological definition of a wetland is "an ecosystem that arises when inundation by water produces soils dominated by anaerobic and aerobic processes, which, in turn, forces the biota, particularly rooted plants, to adapt to flooding".
+Sometimes a precise legal definition of a wetland is required. The definition used for regulation by the United States government is: 'The term "wetlands" means those areas that are inundated or saturated by surface or ground water at a frequency and duration to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally included swamps, marshes, bogs, and similar areas.'
+For each of these definitions and others, regardless of the purpose, hydrology is emphasized (shallow waters, water-logged soils). The soil characteristics and the plants and animals controlled by the wetland hydrology are often additional components of the definitions.
+
+
+=== Types ===
+
+Wetlands can be tidal (inundated by tides) or non-tidal. The water in wetlands is either freshwater, brackish, saline, or alkaline. There are four main kinds of wetlands – marsh, swamp, bog, and fen (bogs and fens being types of peatlands or mires). Some experts also recognize wet meadows and aquatic ecosystems as additional wetland types. Sub-types include mangrove forests, carrs, pocosins, floodplains, peatlands, vernal pools, sinks, and many others.
+The following three groups are used within Australia to classify wetland by type: Marine and coastal zone wetlands, inland wetlands and human-made wetlands. In the US, the best known classifications are the Cowardin classification system and the hydrogeomorphic (HGM) classification system. The Cowardin system includes five main types of wetlands: marine (ocean-associated), estuarine (mixed ocean- and river-associated), riverine (within river channels), lacustrine (lake-associated) and palustrine (inland nontidal habitats).
+
+
+==== Peatlands ====
+Peatlands are a unique kind of wetland where lush plant growth and slow decay of dead plants (under anoxic conditions) results in organic peat accumulating; bogs, fens, and mires are different names for peatlands.
+
+
+=== Wetland names ===
+Variations of names for wetland systems:
+
+Some wetlands have localized names unique to a region such as the prairie potholes of North America's northern plain, pocosins, Carolina bays and baygalls of the Southeastern US, mallines of Argentina, Mediterranean seasonal ponds of Europe and California, turloughs of Ireland, billabongs of Australia, among many others.
+
+
+=== Locations ===
+
+
+==== By temperature zone ====
+
+Wetlands are found throughout the world in different climates. Temperatures vary greatly depending on the location of the wetland. Many of the world's wetlands are in the temperate zones, midway between the North or South Poles and the equator. In these zones, summers are warm and winters are cold, but temperatures are not extreme. In subtropical zone wetlands, such as along the Gulf of Mexico, average temperatures might be 11 °C (52 °F). Wetlands in the tropics are subjected to much higher temperatures for a large portion of the year. Temperatures for wetlands on the Arabian Peninsula can exceed 50 °C (122 °F) and these habitats would therefore be subject to rapid evaporation. In northeastern Siberia, which has a polar climate, wetland temperatures can be as low as −50 °C (−58 °F). Peatlands in arctic and subarctic regions insulate the permafrost, thus delaying or preventing its thawing during summer, as well as inducing its formation.
+
+
+==== By precipitation amount ====
+The amount of precipitation a wetland receives varies widely according to its area. Wetlands in Wales, Scotland, and western Ireland typically receive about 1,500 mm (59 in) per year. In some places in Southeast Asia, where heavy rains occur, they can receive up to 10,000 mm (390 in). In some drier regions, wetlands exist where as little as 180 mm (7.1 in) precipitation occurs each year.
+Temporal variation:
+
+Perennial systems
+Seasonal systems
+Episodic (periodic or intermittent) systems
+Ephemeral (short-lived) systems
+Surface flow may occur in some segments, with subsurface flow in other segments.
+
+
+== Processes ==
+Wetlands vary widely due to local and regional differences in topography, hydrology, vegetation, and other factors, including human involvement. Other important factors include fertility, natural disturbance, competition, herbivory, burial and salinity. When peat accumulates, bogs and fens arise.
+
+
+=== Hydrology ===
+
+The most important factor producing wetlands is hydrology, or flooding. The duration of flooding or prolonged soil saturation by groundwater determines whether the resulting wetland has aquatic, marsh or swamp vegetation. Other important factors include soil fertility, natural disturbance, competition, herbivory, burial, and salinity. When peat from dead plants accumulates, bogs and fens develop.
+Wetland hydrology is associated with the spatial and temporal dispersion, flow, and physio-chemical attributes of surface and ground waters. Sources of hydrological flows into wetlands are predominantly precipitation, surface water (saltwater or freshwater), and groundwater. Water flows out of wetlands by evapotranspiration, surface flows and tides, and subsurface water outflow. Hydrodynamics (the movement of water through and from a wetland) affects hydro-periods (temporal fluctuations in water levels) by controlling the water balance and water storage within a wetland.
+Landscape characteristics control wetland hydrology and water chemistry. The O2 and CO2 concentrations of water depend upon temperature, atmospheric pressure and mixing with the air (from winds or water flows). Water chemistry within wetlands is determined by the pH, salinity, nutrients, conductivity, soil composition, hardness, and the sources of water. Water chemistry varies across landscapes and climatic regions. Wetlands are generally minerotrophic (waters contain dissolved materials from soils) with the exception of ombrotrophic bogs that are fed only by water from precipitation.
+Because bogs receive most of their water from precipitation and humidity from the atmosphere, their water usually has low mineral ionic composition. In contrast, wetlands fed by groundwater or tides have a higher concentration of dissolved nutrients and minerals.
+Fen peatlands receive water both from precipitation and ground water in varying amounts so their water chemistry ranges from acidic with low levels of dissolved minerals to alkaline with high accumulation of calcium and magnesium.
+
+
+=== Role of salinity ===
+Salinity has a strong influence on wetland water chemistry, particularly in coastal wetlands and in arid and semiarid regions with large precipitation deficits. Natural salinity is regulated by interactions between ground and surface water, which may be influenced by human activity.
+
+
+=== Soil ===
+Carbon is the major nutrient cycled within wetlands. Most nutrients, such as sulfur, phosphorus, carbon, and nitrogen are found within the soil of wetlands. Anaerobic and aerobic respiration in the soil influences the nutrient cycling of carbon, hydrogen, oxygen, and nitrogen, and the solubility of phosphorus thus contributing to the chemical variations in its water. Wetlands with low pH and saline conductivity may reflect the presence of acid sulfates and wetlands with average salinity levels can be heavily influenced by calcium or magnesium. Biogeochemical processes in wetlands are determined by soils with low redox potential.
+
+
+== Biology ==
+The life forms of a wetland system includes its plants (flora) and animals (fauna) and microbes (bacteria, fungi). The most important factor is the wetland's duration of flooding. Other important factors include fertility and salinity of the water or soils. The chemistry of water flowing into wetlands depends on the source of water, the geological material that it flows through and the nutrients discharged from organic matter in the soils and plants at higher elevations. Plants and animals may vary within a wetland seasonally or in response to flood regimes.
+
+
+=== Flora ===
+
+There are four main groups of hydrophytes that are found in wetland systems throughout the world.
+Submerged wetland vegetation can grow in saline and fresh-water conditions. Some species have underwater flowers, while others have long stems to allow the flowers to reach the surface. Submerged species provide a food source for native fauna, habitat for invertebrates, and also possess filtration capabilities. Examples include seagrasses and eelgrass.
+Floating water plants or floating vegetation are usually small, like those in the Lemnoideae subfamily (duckweeds).
+Emergent vegetation like the cattails (Typha spp.), sedges (Carex spp.) and arrow arum (Peltandra virginica) rise above the surface of the water.
+When trees and shrubs comprise much of the plant cover in saturated soils, those areas in most cases are called swamps. The upland boundary of swamps is determined partly by water levels. This can be affected by dams Some swamps can be dominated by a single species, such as silver maple swamps around the Great Lakes. Others, like those of the Amazon basin, have large numbers of different tree species. Other examples include cypress (Taxodium) and mangrove swamps.
+
+
+=== Fauna ===
+
+Many species of fish are highly dependent on wetland ecosystems. Seventy-five percent of the United States' commercial fish and shellfish stocks depend solely on estuaries to survive.
+Amphibians such as frogs and salamanders need both terrestrial and aquatic habitats in which to reproduce and feed. Because amphibians often inhabit depressional wetlands like prairie potholes and Carolina bays, the connectivity among these isolated wetlands is an important control of regional populations. While tadpoles feed on algae, adult frogs forage on insects. Frogs are sometimes used as an indicator of ecosystem health because their thin skin permits absorption of nutrients and toxins from the surrounding environment resulting in increased extinction rates in unfavorable and polluted environmental conditions.
+Reptiles such as snakes, lizards, turtles, alligators and crocodiles are common in wetlands of some regions. In freshwater wetlands of the Southeastern US, alligators are common and a freshwater species of crocodile occurs in South Florida. The Florida Everglades is the only place in the world where both the American crocodiles and American alligators coexist. The saltwater crocodile inhabits estuaries and mangroves. Snapping turtles also inhabit wetlands.
+Birds, particularly waterfowl and waders use wetlands extensively.
+Mammals of wetlands include numerous small and medium-sized species such as voles, bats, muskrats and platypus in addition to large herbivorous and apex predator species such as the beavers, coypu, swamp rabbit, Florida panther, jaguar, and moose. Wetlands attract many mammals due to abundant seeds, berries, and other vegetation as food for herbivores, as well as abundant populations of invertebrates, small reptiles and amphibians as prey for predators.
+Invertebrates of wetlands include aquatic insects such as dragonflies, aquatic bugs and beetles, midges, mosquitos, crustaceans such as crabs, crayfish, shrimps, microcrustaceans, mollusks like clams, mussels, snails and worms. Invertebrates comprise more than half of the known animal species in wetlands, and are considered the primary food web link between plants and higher animals (such as fish and birds).
+
+
+== Ecosystem services ==
+
+Depending on a wetland's geographic and topographic location, the functions it performs can support multiple ecosystem services, values, or benefits. United Nations Millennium Ecosystem Assessment and Ramsar Convention described wetlands as a whole to be of biosphere significance and societal importance in the following areas:
+
+Water storage (flood control)
+Groundwater replenishment
+Shoreline stabilization and storm protection
+Water purification
+Wastewater treatment (in constructed wetlands)
+Reservoirs of biodiversity
+Pollination
+Wetland products
+Cultural values
+Recreation and tourism
+Climate change mitigation and adaptation
+According to the Ramsar Convention:
+
+The economic worth of the ecosystem services provided to society by intact, naturally functioning wetlands is frequently much greater than the perceived benefits of converting them to 'more valuable' intensive land use – particularly as the profits from unsustainable use often go to relatively few individuals or corporations, rather than being shared by society as a whole.
+To replace these wetland ecosystem services, enormous amounts of money would need to be spent on water purification plants, dams, levees, and other hard infrastructure, and many of the services are impossible to replace.
+
+
+=== Storage reservoirs and flood protection ===
+Floodplains and closed-depression wetlands can provide the functions of storage reservoirs and flood protection. The wetland system of floodplains is formed from major rivers downstream from their headwaters. "The floodplains of major rivers act as natural storage reservoirs, enabling excess water to spread out over a wide area, which reduces its depth and speed. Wetlands close to the headwaters of streams and rivers can slow down rainwater runoff and spring snowmelt so that it does not run straight off the land into water courses. This can help prevent sudden, damaging floods downstream." 
+Notable river systems that produce wide floodplains include the Nile River, the Niger river inland delta, the Zambezi River flood plain, the Okavango River inland delta, the Kafue River flood plain, the Lake Bangweulu flood plain (Africa), Mississippi River (US), Amazon River (South America), Yangtze River (China), Danube River (Central Europe) and Murray-Darling River (Australia).
+
+
+=== Groundwater replenishment ===
+Groundwater replenishment can be achieved for example by marsh, swamp, and subterranean karst and cave hydrological systems. The surface water visibly seen in wetlands only represents a portion of the overall water cycle, which also includes atmospheric water (precipitation) and groundwater. Many wetlands are directly linked to groundwater and they can be a crucial regulator of both the quantity and quality of water found below the ground. Wetlands that have permeable substrates like limestone or occur in areas with highly variable and fluctuating water tables have especially important roles in groundwater replenishment or water recharge. 
+Substrates that are porous allow water to filter down through the soil and underlying rock into aquifers which are the source of much of the world's drinking water. Wetlands can also act as recharge areas when the surrounding water table is low and as a discharge zone when it is high. 
+
+
+=== Shoreline stabilization and storm protection ===
+
+Mangroves, coral reefs, salt marsh can help with shoreline stabilization and storm protection. Tidal and inter-tidal wetland systems protect and stabilize coastal zones. Coral reefs provide a protective barrier to coastal shoreline. Mangroves stabilize the coastal zone from the interior and will migrate with the shoreline to remain adjacent to the boundary of the water. The main conservation benefit these systems have against storms and storm surges is the ability to reduce the speed and height of waves and floodwaters.
+The United Kingdom has begun the concept of managed coastal realignment. This management technique provides shoreline protection through restoration of natural wetlands rather than through applied engineering. In East Asia, reclamation of coastal wetlands has resulted in widespread transformation of the coastal zone, and up to 65% of coastal wetlands have been destroyed by coastal development. One analysis using the impact of hurricanes versus storm protection provided naturally by wetlands projected the value of this service at US$33,000/hectare/year.
+
+
+=== Water purification ===
+Water purification can be provided by floodplains, closed-depression wetlands, mudflat, freshwater marsh, salt marsh, mangroves. Wetlands cycle both sediments and nutrients, sometimes serving as buffers between terrestrial and aquatic ecosystems. A natural function of wetland vegetation is the up-take, storage, and (for nitrate) the removal of nutrients found in runoff water from the surrounding landscapes. 
+Precipitation and surface runoff induces soil erosion, transporting sediment in suspension into and through waterways. All types of sediments whether composed of clay, silt, sand or gravel and rock can be carried into wetland systems through erosion. Wetland vegetation acts as a physical barrier to slow water flow and then trap sediment for both short or long periods of time. Suspended sediment can contain heavy metals that are also retained when wetlands trap the sediment. 
+The ability of wetland systems to store or remove nutrients and trap sediment is highly efficient and effective but each system has a threshold. An overabundance of nutrient input from fertilizer run-off, sewage effluent, or non-point pollution will cause eutrophication. Upstream erosion from deforestation can overwhelm wetlands making them shrink in size and cause dramatic biodiversity loss through excessive sedimentation load. 
+
+
+=== Wastewater treatment ===
+Constructed wetlands are built for wastewater treatment. An example of how a natural wetland is used to provide some degree of sewage treatment is the East Kolkata Wetlands in Kolkata, India. The wetlands cover 125 square kilometres (48 sq mi), and are used to treat Kolkata's sewage. The nutrients contained in the wastewater sustain fish farms and agriculture.
+
+
+=== Reservoirs of biodiversity ===
+Wetland systems' rich biodiversity has become a focal point catalysed by the Ramsar Convention and World Wildlife Fund. The impact of maintaining biodiversity is seen at the local level through job creation, sustainability, and community productivity. A good example is the Lower Mekong basin which runs through Cambodia, Laos, and Vietnam, supporting over 55 million people.
+A key fish species which is overfished, the Piramutaba catfish, Brachyplatystoma vaillantii, migrates more than 3,300 km (2,100 mi) from its nursery grounds near the mouth of the Amazon River to its spawning grounds in Andean tributaries, 400 m (1,300 ft) above sea level, distributing plant seeds along the route.
+Intertidal mudflats have a level of productivity similar to that of some wetlands even while possessing a low number of species. The abundant invertebrates found within the mud are a food source for migratory waterfowl.
+Mudflats, saltmarshes, mangroves, and seagrass beds have high levels of both species richness and productivity, and are home to important nursery areas for many commercial fish stocks.
+Populations of many species are confined geographically to only one or a few wetland systems, often due to the long period of time that the wetlands have been physically isolated from other aquatic sources. For example, the number of endemic species in the Selenga River Delta of Lake Baikal in Russia classifies it as a hotspot for biodiversity and one of the most biodiverse wetlands in the entire world.
+
+
+=== Wetland products ===
+
+Wetlands naturally produce an array of vegetation and other ecological products that can be harvested for personal and commercial use. Many fishes have all or part of their life-cycle occurring within a wetland system. Fresh and saltwater fish are the main source of protein for about one billion people and comprise 15% of an additional 3.5 billion people's protein intake. Another food staple found in wetland systems is rice, a popular grain that is consumed at the rate of one fifth of the total global calorie count. In Bangladesh, Cambodia and Vietnam, where rice paddies are predominant on the landscape, rice consumption reach 70%. Some native wetland plants in the Caribbean and Australia are harvested sustainably for medicinal compounds; these include the red mangrove (Rhizophora mangle) which possesses antibacterial, wound-healing, anti-ulcer effects, and antioxidant properties.
+Other mangrove-derived products include fuelwood, salt (produced by evaporating seawater), animal fodder, traditional medicines (e.g. from mangrove bark), fibers for textiles and dyes and tannins.
+
+
+=== Additional services and uses of wetlands ===
+Some types of wetlands can serve as fire breaks that help slow the spread of minor wildfires. Larger wetland systems can influence local precipitation patterns. Some boreal wetland systems in catchment headwaters may help extend the period of flow and maintain water temperature in connected downstream waters. Pollination services are supported by many wetlands which may provide the only suitable habitat for pollinating insects, birds, and mammals in highly developed areas.
+
+
+== Disturbances and human impacts ==
+
+Wetlands, the functions and services they provide as well as their flora and fauna, can be affected by several types of disturbances. The disturbances (sometimes termed stressors or alterations) can be human-associated or natural, direct or indirect, reversible or not, and isolated or cumulative.
+Disturbances include exogenous factors such as flooding or drought. Humans are disturbing and damaging wetlands for example by oil and gas extraction, building infrastructure, overgrazing of livestock, overfishing, alteration of wetlands including dredging and draining, nutrient pollution and water pollution. Disturbance puts different levels of stress on an environment depending on the type and duration of disturbance. 
+Predominant disturbances of wetlands include:
+
+Disturbances can be further categorized as follows:
+
+Minor disturbance: Stress that maintains ecosystem integrity.
+Moderate disturbance: Ecosystem integrity is damaged but can recover in time without assistance.
+Impairment or severe disturbance: Human intervention may be needed in order for ecosystem to recover.
+Nutrient pollution comes from nitrogen inputs to aquatic systems and have drastically effected the dissolved nitrogen content of wetlands, introducing higher nutrient availability which leads to eutrophication.
+Biodiversity loss occurs in wetland systems through land use changes, habitat destruction, pollution, exploitation of resources, and invasive species. For example, the introduction of water hyacinth, a native plant of South America into Lake Victoria in East Africa as well as duckweed into non-native areas of Queensland, Australia, have overtaken entire wetland systems overwhelming the habitats and reducing the diversity of native plants and animals. 
+
+
+=== Conversion to dry land ===
+To increase economic productivity, wetlands are often converted into dry land with dykes and drains and used for agricultural purposes. The construction of dykes, and dams, has negative consequences for individual wetlands and entire watersheds. Their proximity to lakes and rivers means that they are often developed for human settlement. Once settlements are constructed and protected by dykes, the settlements then become vulnerable to land subsidence and ever increasing risk of flooding. The Mississippi River Delta around New Orleans, Louisiana is a well-known example; the Danube Delta in Europe is another.
+Water pollution is another key driver of the conversion of wetlands to dry land. Since wetlands tend to retain water with less influx or efflux compared to other bodies of water, they can quickly concentrate toxicants that originate from pollutants. This accumulation of toxicants will cause the biodiversity of a wetland to change, particularly since toxicants will be harmful to native aquatic species. The loss of wetland biodiversity is associated with wetland degradation, as the case of alpine wetlands demonstrates.
+
+
+=== Drainage of floodplains ===
+Drainage of floodplains or development activities that narrow floodplain corridors (such as the construction of levees) reduces the ability of coupled river-floodplain systems to control flood damage. That is because modified and less expansive systems must still manage the same amount of precipitation, causing flood peaks to be higher or deeper and floodwaters to travel faster.
+Water management engineering developments in the past century have degraded floodplain wetlands through the construction of artificial embankments such as dykes, bunds, levees, weirs, barrages and dams. All concentrate water into a main channel and waters that historically spread slowly over a large, shallow area are concentrated. Loss of wetland floodplains results in more severe and damaging flooding. Catastrophic human impact in the Mississippi River floodplains was seen in death of several hundred individuals during a levee breach in New Orleans caused by Hurricane Katrina. Human-made embankments along the Yangtze River floodplains have caused the main channel of the river to become prone to more frequent and damaging flooding. Some of these events include the loss of riparian vegetation, a 30% loss of the vegetation cover throughout the river's basin, a doubling of the percentage of the land affected by soil erosion, and a reduction in reservoir capacity through siltation build-up in floodplain lakes.
+
+
+=== Overfishing ===
+Overfishing is a major problem for sustainable use of wetlands. Concerns are developing over certain aspects of farm fishing, which uses natural wetlands and waterways to harvest fish for human consumption. Aquaculture is continuing to develop rapidly throughout the Asia-Pacific region especially in China where 90% of the total number of aquaculture farms occur, contributing 80% of global value. Some aquaculture has eliminated massive areas of wetland through practices such as the shrimp farming industry's destruction of mangroves. Even though the damaging impact of large-scale shrimp farming on the coastal ecosystem in many Asian countries has been widely recognized for quite some time now, it has proved difficult to mitigate since other employment avenues for people are lacking. Also burgeoning demand for shrimp globally has provided a large and ready market.
+
+
+== Conservation ==
+
+Wetlands have historically subjected to large draining efforts for development (real estate or agriculture), and flooding to create recreational lakes or generate hydropower. Some of the world's most important agricultural areas were wetlands that have been converted to farmland. Since the 1970s, more focus has been put on preserving wetlands for their natural functions. Since 1900, 65–70% of the world's wetlands have been lost. In order to maintain wetlands and sustain their functions, alterations and disturbances that are outside the normal range of variation should be minimized.
+
+
+=== Balancing wetland conservation with the needs of people ===
+Wetlands are vital ecosystems that enhance the livelihoods for the millions of people who live in and around them. Studies have shown that it is possible to conserve wetlands while improving the livelihoods of people living among them. Case studies conducted in Malawi and Zambia looked at how dambos – wet, grassy valleys or depressions where water seeps to the surface – can be farmed sustainably. Project outcomes included a high yield of crops, development of sustainable farming techniques, and water management strategies that generate enough water for irrigation.
+
+
+=== Ramsar Convention ===
+
+The Ramsar Convention (full title: Convention on Wetlands of International Importance, especially as Waterfowl Habitat), is an international treaty designed to address global concerns regarding wetland loss and degradation. The primary purposes of the treaty are to list wetlands of international importance and to promote their wise use, with the ultimate goal of preserving the world's wetlands. Methods include restricting access to some wetland areas, as well as educating the public to combat the misconception that wetlands are wastelands. The Convention works closely with five International Organisation Partners (IOPs). These are: Birdlife International, the IUCN, the International Water Management Institute, Wetlands International and the World Wide Fund for Nature. The partners provide technical expertise, help conduct or facilitate field studies and provide financial support.
+
+
+== Restoration ==
+Restoration and restoration ecologists intend to return wetlands to their natural trajectory by aiding directly with the natural processes of the ecosystem. These direct methods vary with respect to the degree of physical manipulation of the natural environment and each are associated with different levels of restoration. Restoration is needed after disturbance or perturbation of a wetland. There is no one way to restore a wetland and the level of restoration required will be based on the level of disturbance although, each method of restoration does require preparation and administration.
+
+
+=== Levels of restoration ===
+Factors influencing selected approach may include budget, time scale limitations, project goals, level of disturbance, landscape and ecological constraints, political and administrative agendas and socioeconomic priorities.
+
+
+==== Prescribed natural or assisted regeneration ====
+For this strategy, there is no biophysical manipulation and the ecosystem is left to recover based on the process of succession alone. The focus is to eliminate and prevent further disturbance from occurring and for this type of restoration requires prior research to understand the probability that the wetland will recover naturally. This is likely to be the first method of approach since it is the least intrusive and least expensive although some biophysical non-intrusive manipulation may be required to enhance the rate of succession to an acceptable level. Example methods include prescribed burns to small areas, promotion of site specific soil microbiota and plant growth using nucleation planting whereby plants radiate from an initial planting site, and promotion of niche diversity or increasing the range of niches to promote use by a variety of different species. These methods can make it easier for the natural species to flourish by removing environmental impediments and can speed up the process of succession.
+
+
+==== Partial reconstruction ====
+For this strategy, a mixture of natural regeneration and manipulated environmental control is used. This may require some engineering, and more intensive biophysical manipulations including ripping of subsoil, agrichemical applications of herbicides or insecticides, laying of mulch, mechanical seed dispersal, and tree planting on a large scale. In these circumstances the wetland is impaired and without human assistance it would not recover within an acceptable period of time as determined by ecologists. Methods of restoration used will have to be determined on a site by site basis as each location will require a different approach based on levels of disturbance and the local ecosystem dynamics. Another form of partial reconstruction includes the utilization of semi-natural wetlands, such as paddy fields that are agricultural plains covered by water during planting seasons. Human assistance is required in order to maintain paddy fields, as they are agricultural in nature, but they have the capacity to reduce flooding in more inland regions. 
+
+
+==== Complete reconstruction ====
+
+This most expensive and intrusive method of reconstruction requires engineering and ground up reconstruction. Because there is a redesign of the entire ecosystem it is important that the natural trajectory of the ecosystem be considered and that the plant species promoted will eventually return the ecosystem towards its natural trajectory.
+In many cases constructed wetlands are often designed to treat stormwater/wastewater runoff. They can be used in developments as part of water-sensitive urban design systems and have benefits such as flood mitigation, removing pollutants, carbon sequestration, providing habitat for wildlife and biodiversity in often highly urbanised and fragmented landscapes.
+The mechanism by which wetlands are able to support flood mitigation efforts is multifold. Due to their capacity to hold excess volumes of water during periods of heavy rainfall or inland water flow, wetlands are able to elicit reductions in flood area, flood depth, and flood duration. Furthermore, wetlands are able to reduce the velocity of inland water flow, which is an additional mechanism by which wetlands reduce damages to local ecosystems and property found in surrounding regions.
+
+
+==== Traditional knowledge ====
+The ideas from traditional ecological knowledge can be applied as a holistic approach to the restoration of wetlands. These ideas focus more on responding to the observations detected from the environment considering that each part of a wetland ecosystem is interconnected. Applying these practices on specific locations of wetlands increase productivity, biodiversity, and improve its resilience. These practices include monitoring wetland resources, planting propagules, and addition of key species in order to create a self-sustaining wetland ecosystem. 
+
+
+== Climate change aspects ==
+
+
+=== Greenhouse gas emissions ===
+In Southeast Asia, peat swamp forests and soils are being drained, burnt, mined, and overgrazed, contributing to climate change. As a result of peat drainage, the organic carbon that had built up over thousands of years and is normally under water is suddenly exposed to the air. The peat decomposes and is converted into carbon dioxide (CO2), which is then released into the atmosphere. Peat fires cause the same process to occur rapidly and in addition create enormous clouds of smoke that cross international borders, which now happens almost yearly in Southeast Asia. While peatlands constitute only 3% of the world's land area, their degradation produces 7% of all CO2 emissions.
+
+
+=== Climate change mitigation ===
+
+Studies have favorably identified the potential for coastal wetlands (also called blue carbon ecosystems) to provide some degree of climate change mitigation in two ways: by conservation, reducing the greenhouse gas emissions arising from the loss and degradation of such habitats, and by restoration, to increase carbon dioxide drawdown and its long-term storage. However, CO2 removal using coastal blue carbon restoration has questionable cost-effectiveness when considered only as a climate mitigation action, either for carbon-offsetting or for inclusion in Nationally Determined Contributions.
+When wetlands are restored they have mitigation effects through their ability to sink carbon, converting a greenhouse gas (carbon dioxide) to solid plant material through the process of photosynthesis, and also through their ability to store and regulate water.
+Wetlands store approximately 44.6 million tonnes of carbon per year globally (estimate from 2003). In salt marshes and mangrove swamps in particular, the average carbon sequestration rate is 210 g CO2 m−2 y−1 while peatlands sequester approximately 20–30 g CO2 m−2 y−1.
+Coastal wetlands, such as tropical mangroves and some temperate salt marshes, are known to be sinks for carbon that otherwise contribute to climate change in its gaseous forms (carbon dioxide and methane). The ability of many tidal wetlands to store carbon and minimize methane flux from tidal sediments has led to sponsorship of blue carbon initiatives that are intended to enhance those processes.
+
+
+=== Climate change adaptation ===
+
+The restoration of coastal blue carbon ecosystems is highly advantageous for climate change adaptation, coastal protection, food provision and biodiversity conservation.
+Since the middle of the 20th century, human-caused climate change has resulted in observable changes in the global water cycle. A warming climate makes extremely wet and very dry occurrences more severe, causing more severe floods and droughts. For this reason, some of the ecosystem services that wetlands provide (e.g. water storage and flood control, groundwater replenishment, shoreline stabilization and storm protection) are important for climate change adaptation measures. In most parts of the world and under all emission scenarios, water cycle variability and accompanying extremes are anticipated to rise more quickly than the changes of average values.
+
+
+== Valuation ==
+The value of a wetland to local communities typically involves first mapping a region's wetlands, then assessing the functions and ecosystem services the wetlands provide individually and cumulatively, and finally evaluating that information to prioritize or rank individual wetlands or wetland types for conservation, management, restoration, or development. Over the longer term, it requires keeping inventories of known wetlands and monitoring a representative sample of the wetlands to determine changes due to both natural and human factors.
+
+
+=== Assessment ===
+Rapid assessment methods are used to score, rank, rate, or categorize various functions, ecosystem services, species, communities, levels of disturbance, and/or ecological health of a wetland or group of wetlands. This is often done to prioritize particular wetlands for conservation (avoidance) or to determine the degree to which loss or alteration of wetland functions should be compensated, such as by restoring degraded wetlands elsewhere or providing additional protections to existing wetlands. Rapid assessment methods are also applied before and after a wetland has been restored or altered to help monitor or predict the effects of those actions on various wetland functions and the services they provide. Assessments are typically considered to be "rapid" when they require only a single visit to the wetland lasting less than one day, which in some cases may include interpretation of aerial imagery and geographic information system (GIS) analyses of existing spatial data, but not detailed post-visit laboratory analyses of water or biological samples.
+To achieve consistency among persons doing the assessment, rapid methods present indicator variables as questions or checklists on standardized data forms, and most methods standardize the scoring or rating procedure that is used to combine question responses into estimates of the levels of specified functions relative to the levels estimated in other wetlands ("calibration sites") assessed previously in a region. Rapid assessment methods, partly because they often use dozens of indicators of conditions surrounding a wetland as well as within the wetland itself, aim to provide estimates of wetland functions and services that are more accurate and repeatable than simply describing a wetland's class type. A need for wetland assessments to be rapid arises mainly when government agencies set deadlines for decisions affecting a wetland or when the number of wetlands needing information on their functions or condition is large.
+
+
+=== Inventory ===
+Although developing a global inventory of wetlands has proven to be a large and difficult undertaking, many efforts at more local scales have been successful. Current efforts are based on available data, but both classification and spatial resolution have sometimes proven to be inadequate for regional or site-specific environmental management decision making. Identifying small, long, and narrow wetlands within the landscape is difficult. Many of today's remote sensing satellites do not have sufficient spatial and spectral resolution to monitor wetland conditions, although multispectral IKONOS and QuickBird data may offer improved spatial resolutions once it is 4 m or higher. Most of the pixels are just mixtures of several plant species or vegetation types. They are difficult to isolate, translating into an inability to classify the vegetation that defines the wetland. The growing availability of 3D vegetation and topography data from LiDAR has partially addressed the limitation of traditional multispectral imagery, as demonstrated in some case studies worldwide.
+
+
+=== Monitoring and mapping ===
+A wetland needs to be monitored over time to assess whether it is functioning at an ecologically sustainable level or whether it is becoming degraded. Degraded wetlands will suffer a loss in water quality, loss of sensitive species, and aberrant functioning of soil geochemical processes.
+Practically, many natural wetlands are difficult to monitor from the ground as they quite often are difficult to access and may require exposure to dangerous plants and animals as well as diseases borne by insects or other invertebrates. Remote sensing such as aerial imagery and satellite imaging provides effective tools to map and monitor wetlands across large geographic regions and over time. Many remote sensing methods can be used to map wetlands. The integration of multi-sourced data such as LiDAR and aerial photos proves more effective at mapping wetlands than the use of aerial photos alone, especially with the aid of modern machine learning methods (e.g., deep learning). Overall, using digital data provides a standardized data-collection procedure and an opportunity for data integration within a geographic information system.
+
+
+== Legislation ==
+
+
+=== International efforts ===
+
+
+=== National efforts ===
+
+
+==== United States ====
+Each country and region tends to have a codified definition of wetlands for legal purposes. In the United States, wetlands are defined as "those areas that are inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs and similar areas". This definition has been used in the enforcement of the Clean Water Act. Some US states, such as Massachusetts and New York, have separate definitions that may differ from the federal government's.
+In the United States Code, the term wetland is defined "as land that (A) has a predominance of hydric soils, (B) is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions and (C) under normal circumstances supports a prevalence of such vegetation." Related to these legal definitions, "normal circumstances" are expected to occur during the wet portion of the growing season under normal climatic conditions (not unusually dry or unusually wet) and in the absence of significant disturbance. It is not uncommon for a wetland to be dry for long portions of the growing season. Still, under normal environmental conditions, the soils will be inundated to the surface, creating anaerobic conditions persisting through the wet portion of the growing season.
+
+
+==== Canada ====
+Wetlands and wetland policies in Canada
+Other Individual Provincial and Territorial Based Policies
+
+
+== Examples ==
+
+The world's largest wetlands include the swamp forests of the Amazon River basin, the peatlands of the West Siberian Plain, the Pantanal in South America, and the Sundarbans in the Ganges-Brahmaputra delta.
+
+
+== See also ==
+
+List of wetland plants
+All pages with titles containing wetland
+
+
+== References ==
+
+
+== External links ==
+ Media related to Wetlands at Wikimedia Commons

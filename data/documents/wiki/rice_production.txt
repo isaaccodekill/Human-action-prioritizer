@@ -1,0 +1,171 @@
+# Rice Production
+Source: https://en.wikipedia.org/wiki/Paddy_field
+
+A paddy field (or paddy) is a flooded field of arable land used for growing semiaquatic crops, most notably rice and taro. It originates from the Neolithic rice-farming cultures of the Yangtze River basin in southern China, associated with pre-Austronesian and Hmong-Mien cultures. It was spread in prehistoric times by the expansion of Austronesian peoples to Island Southeast Asia, Madagascar, Melanesia, Micronesia, and Polynesia. The technology was acquired by other cultures in mainland Asia for rice farming, spreading to East Asia, Mainland Southeast Asia, and South Asia.
+Fields can be built into steep hillsides as terraces or adjacent to depressed or steeply sloped features such as rivers or marshes. They require a great deal of labor and materials to create and need large quantities of water for irrigation. Oxen and water buffalo, adapted for life in wetlands, are important working animals used extensively in paddy field farming.
+Paddy field farming remains the dominant form of growing rice in modern times. It is practiced extensively in Bangladesh, Cambodia, China, India, Indonesia, northern Iran, Japan, Laos, Malaysia, Mongolia, Myanmar, Nepal, North Korea, Pakistan, the Philippines, South Korea, Sri Lanka, Taiwan, Thailand, and Vietnam. It has been introduced elsewhere since the colonial era, notably in northern Italy, the Camargue in France, and in Spain, particularly in the Albufera de València wetlands, the Ebro Delta in Catalonia, and the Guadalquivir wetlands in Andalusia, as well as along the eastern coast of Brazil, the Artibonite Valley in Haiti, Sacramento Valley in California, and West Lothian in Scotland.
+Paddy cultivation should not be confused with cultivation of deepwater rice, which is grown in flooded conditions with water more than 50 cm (20 in) deep for at least a month. Global paddy emissions account for at least 10% of global methane emissions. Drip irrigation systems have been proposed as a possible environmental and commercial solution.
+
+
+== Etymology ==
+The word "paddy" is derived from the Malay word padi, meaning "rice plant", which is itself derived from Proto-Austronesian *pajay ("rice in the field", "rice plant"). Cognates include Amis panay; Tagalog pálay; Kadazan Dusun paai; Javanese pari; and Chamorro faʻi, among others. In the original Malay language that English borrows, padi refers to both the rice plant and its unhusked grains, the fields are instead called sawah.
+
+
+== History ==
+
+
+=== Neolithic southern China ===
+
+Genetic evidence shows that all forms of paddy rice, including both indica and japonica, spring from a domestication of the wild rice Oryza rufipogon by cultures associated with pre-Austronesian and Hmong-Mien-speakers. This occurred 13,500 to 8,200 years ago south of the Yangtze River in present-day China.
+
+There are two likely centers of domestication for rice as well as the development of the wet-field technology. The first is in the lower Yangtze River, believed to be the homelands of the pre-Austronesians and possibly also the Kra-Dai, and associated with the Kuahuqiao, Hemudu, Majiabang, Songze, Liangzhu, and Maqiao cultures. The second is in the middle Yangtze River, believed to be the homelands of the early Hmong-Mien speakers and associated with the Pengtoushan, Nanmuyuan, Liulinxi, Daxi, Qujialing, and Shijiahe cultures. Both of these regions were heavily populated and had regular trade contacts with each other, as well as with early Austroasiatic speakers to the west, and early Kra-Dai speakers to the south, facilitating the spread of rice cultivation throughout southern China.
+
+The earliest paddy field found dates to 4330 BC, based on carbon dating of grains of rice and soil organic matter found at the Chaodun site in Kunshan. At Caoxieshan, a site of the Neolithic Majiabang culture, archaeologists excavated paddy fields. Some archaeologists claim that Caoxieshan may date to 4000–3000 BC. There is archaeological evidence that unhusked rice was stored for the military and for burial with the deceased from the Neolithic period to the Han dynasty in China.
+By the late Neolithic (3500 to 2500 BC), population in the rice cultivating centers had increased rapidly, centered around the Qujialing-Shijiahe and Liangzhu cultures. There was evidence of intensive rice cultivation in paddy fields as well as increasingly sophisticated material cultures in these two regions. The number of settlements among the Yangtze cultures and their sizes increased, leading some archeologists to characterize them as true states, with clearly advanced socio-political structures. However, it is unknown if they had centralized control.
+In the terminal Neolithic (2500 to 2000 BC), Shijiahe shrank in size, and Liangzhu disappeared altogether. This is largely believed to be the result of the southward expansion of the early Sino-Tibetan Longshan culture. Fortifications like walls (as well as extensive moats in Liangzhu cities) are common features in settlements during this period, indicating widespread conflict. This period coincides with the southward movement of rice-farming cultures to the Lingnan and Fujian regions, as well as the southward migrations of the Austronesian, Kra-Dai, and Austroasiatic-speaking peoples to Mainland Southeast Asia and Island Southeast Asia.
+
+
+=== Austronesian expansion ===
+
+The spread of japonica rice cultivation and paddy field agriculture to Southeast Asia started with the migrations of the Austronesian Dapenkeng culture into Taiwan between 3500 and 2000 BC. The Nanguanli site in Taiwan, dated to ca. 2800 BC, has yielded numerous carbonized remains of both rice and millet in waterlogged conditions, indicating intensive wetland rice cultivation and dryland millet cultivation.
+
+From about 2000 to 1500 BC, the Austronesian expansion began, with settlers from Taiwan moving south to migrate to Luzon in the Philippines, bringing rice cultivation technologies with them. From Luzon, Austronesians rapidly colonized the rest of Maritime Southeast Asia, moving westwards to Borneo, the Malay Peninsula and Sumatra; and southwards to Sulawesi and Java. By 500 BC, there is evidence of intensive wetland rice agriculture already established in Java and Bali, especially near very fertile volcanic islands.
+Rice did not survive the Austronesian voyages into Micronesia and Polynesia; however, wet-field agriculture was transferred to the cultivation of other crops, most notably for taro cultivation. The Austronesian Lapita culture came into contact with the non-Austronesian (Papuan) early agriculturists of New Guinea and introduced wetland farming techniques to them. In turn, they assimilated their range of indigenous cultivated fruits and tubers before spreading further eastward to Island Melanesia and Polynesia. In Hawaii, the conditions of available taro pondfields (loʻi) as worked by native Hawaiians later proved feasible for rice cultivation by Chinese and Japanese migrant farmers in the late 19th to early 20th century; rice plots were often enlarged by dismantling bunds (kuāuna) that bordered between smaller established loʻi.
+Rice and wet-field agriculture were introduced to Madagascar, the Comoros, and the coast of East Africa around the 1st millennium AD by Austronesian settlers from the Greater Sunda Islands.
+
+
+=== Korea ===
+There are ten archaeologically excavated rice paddy fields in Korea. The two oldest are the Okhyun and Yaumdong sites, found in Ulsan, dating to the early Mumun pottery period.
+Paddy field farming goes back thousands of years in Korea. A pit-house at the Daecheon-ni site yielded carbonized rice grains and radiocarbon dates, indicating that rice cultivation in dry-fields may have begun as early as the Middle Jeulmun pottery period (c. 3500–2000 BC) in the Korean Peninsula. Ancient paddy fields have been carefully unearthed in Korea by institutes such as Kyungnam University Museum (KUM) of Masan. They excavated paddy field features at the Geumcheon-ni Site near Miryang, South Gyeongsang Province. The paddy field feature was found next to a pit-house that is dated to the latter part of the Early Mumun pottery period (c. 1100–850 BC). KUM has conducted excavations, that have revealed similarly dated paddy field features, at Yaeum-dong and Okhyeon, in modern-day Ulsan.
+The earliest Mumun features were usually located in low-lying narrow gullies, that were naturally swampy and fed by the local stream system. Some Mumun paddy fields in flat areas were made of a series of squares and rectangles, separated by bunds approximately 10 cm in height, while terraced paddy fields consisted of long irregular shapes that followed natural contours of the land at various levels.
+Mumun Period rice farmers used all of the elements that are present in today's paddy fields, such as terracing, bunds, canals, and small reservoirs. We can grasp some paddy-field farming techniques of the Middle Mumun (c. 850–550 BC), from the well-preserved wooden tools excavated from archaeological rice fields at the Majeon-ni Site. However, iron tools for paddy-field farming were not introduced until sometime after 200 BC. The spatial scale of paddy-fields increased, with the regular use of iron tools, in the Three Kingdoms of Korea Period (c. AD 300/400-668).
+
+
+=== Japan ===
+The first paddy fields in Japan date to the Early Yayoi period (300 BC – 250 AD). The Early Yayoi has been re-dated, and based on studies of early Japanese paddy formations in Kyushu it appears that wet-field rice agriculture in Japan was directly adopted from the Lower Yangtze river basin in Eastern China.
+
+
+== Culture ==
+
+
+=== China ===
+
+Although China's agricultural output is the largest in the world, only about 15% of its total land area can be cultivated. About 75% of the cultivated area is used for food crops. Rice is China's most important crop, raised on about 25% of the cultivated area. Most rice is grown south of the Huai River, in the Yangtze valley, the Zhu Jiang delta, and in Yunnan, Guizhou, and Sichuan provinces.
+Rice appears to have been used by the Early Neolithic populations of Lijiacun and Yunchanyan in China. Evidence of possible rice cultivation from ca. 11,500 BC has been found, however it is still questioned whether the rice was indeed being cultivated, or instead being gathered as wild rice. Bruce Smith, an archaeologist at the Smithsonian Institution in Washington, D.C., who has written on the origins of agriculture, says that evidence has been mounting that the Yangtze was probably the site of the earliest rice cultivation. In 1998, Crawford & Shen reported that the earliest of 14 AMS or radiocarbon dates on rice from at least nine Early to Middle Neolithic sites is no older than 7000 BC, that rice from the Hemudu and Luojiajiao sites indicates that rice domestication likely began before 5000 BC, but that most sites in China from which rice remains have been recovered are younger than 5000 BC.
+
+During the Spring and Autumn period (722–481 BC), two revolutionary improvements in farming technology took place. One was the use of cast iron tools and beasts of burden to pull plows, and the other was the large-scale harnessing of rivers and development of water conservation projects. Sunshu Ao of the 6th century BC and Ximen Bao of the 5th century BC are two of the earliest hydraulic engineers from China, and their works were focused upon improving irrigation systems. These developments were widely spread during the ensuing Warring States period (403–221 BC), culminating in the enormous Du Jiang Yan Irrigation System engineered by Li Bing by 256 BC for the State of Qin in ancient Sichuan. During the Eastern Jin (317–420) and the Northern and Southern Dynasties (420–589), land-use became more intensive and efficient, rice was grown twice a year and cattle began to be used for plowing and fertilization.
+By about 750, 75% of China's population lived north of the Yangtze, but by 1250, 75% of China's population lived south of it. Such large-scale internal migration was possible due to introduction of quick-ripening strains of rice from Vietnam suitable for multi-cropping.
+Famous rice paddies in China include the Longsheng Rice Terraces and the fields of Yuanyang County, Yunnan.
+
+
+=== India ===
+
+India has the largest paddy output in the world and in 2020 was the largest exporter of rice in the world. In India, West Bengal is the largest rice producing state. Paddy fields are a common sight throughout India, both in the northern Gangetic Plains and the southern peninsular plateaus. Paddy is cultivated at least twice a year in most parts of India, the two seasons being known as Rabi and Kharif respectively. The former cultivation is dependent on irrigation, while the latter depends on the Monsoon. The paddy cultivation plays a major role in socio-cultural life of rural India. Many regional festivals celebrate the harvest, such as Onam, Bihu, Thai Pongal, Makar Sankranti, and Nabanna. The Kaveri delta region of Thanjavur is historically known as the rice bowl of Tamil Nadu, and Kuttanadu is called the rice bowl of Kerala. Gangavathi is known as the rice bowl of Karnataka.
+
+
+=== Indonesia ===
+
+In the island of Java, prime paddies yield roughly 6 metric tons of unmilled rice (2.5 metric tons of milled rice) per hectare. When irrigation is available, rice farmers typically plant Green Revolution rice varieties allowing three growing seasons per year. Since fertilizer and pesticide are relatively expensive inputs, farmers typically plant seeds in a very small plot. Three weeks following germination, the 15-20 centimetre (6–8 in) stalks are picked and replanted at greater separation, in a backbreaking manual procedure.
+Rice harvesting in Central Java is often performed not by owners or sharecroppers of paddies, but rather by itinerant middlemen, whose small firms specialize in the harvest, transport, milling, and distribution of rice.
+The fertile volcanic soil of much of the Indonesian archipelago—particularly the islands of Java and Bali—has made rice a central dietary staple. Steep terrain on Bali resulted in complex irrigation systems, locally called subak, to manage water storage and drainage for rice terraces.
+
+
+=== Italy ===
+
+Rice is grown in Northern Italy, especially in the valley of the Po River. The paddy fields are irrigated by fast-flowing streams descending from the Alps. In the 19th century and much of the 20th century, the paddy fields were farmed by the mondine, a subculture of seasonal rice paddy workers composed mostly of poor women.
+
+
+=== Japan ===
+
+The acidic soil conditions common in Japan due to volcanic eruptions have made the paddy field the most productive farming method. Paddy fields are represented by the kanji 田 (commonly read as ta or as den) that has had a strong influence on Japanese culture. In fact, the character 田, which originally meant 'field' in general, is used in Japan exclusively to refer to paddy fields. One of the oldest samples of writing in Japan is widely credited to the kanji 田 found on pottery at the archaeological site of Matsutaka in Mie Prefecture that dates to the late 2nd century.
+Ta (田) is used as a part of many place names as well as in many family names. Most of these places are somehow related to the paddy field and, in many cases, are based on the history of a particular location. For example, where a river runs through a village, the place east of the river may be called Higashida (東田), literally "east paddy field." A place with a newly irrigated paddy field, especially those made during or after the Edo period, may be called Nitta or Shinden (both 新田), "new paddy field." In some places, lakes and marshes were likened to a paddy field and were named with ta, like Hakkōda (八甲田).
+Today, many family names have ta as a component, a practice which can be largely attributed to a government edict in the early Meiji Period which required all citizens to have a family name. Many chose a name based on some geographical feature associated with their residence or occupation, and as nearly three-fourths of the population were farmers, many made family names using ta. Some common examples are Tanaka (田中), literally meaning "in the paddy field;" Nakata (中田), "middle paddy field;" Kawada (川田), "river paddy field;" and Furuta (古田), "old paddy field."
+In recent years, rice consumption in Japan has fallen and many rice farmers are increasingly elderly. The government has subsidized rice production since the 1970s, and favors protectionist policies regarding cheaper imported rice.
+
+
+=== Korea ===
+
+Arable land in small alluvial flats of most rural river valleys in South Korea are dedicated to paddy-field farming. Farmers assess paddy fields for any necessary repairs in February. Fields may be rebuilt, and bund breaches are repaired. This work is carried out until mid-March, when warmer spring weather allows the farmer to buy or grow rice seedlings. They are transplanted (usually by rice transplanter) from the indoors into freshly flooded paddy fields in May. Farmers tend and weed their paddy fields through the summer until around the time of Chuseok, a traditional holiday held on 15 August of the Lunar Calendar (circa mid-September on the Solar Calendar). The harvest begins in October. Coordinating the harvest can be challenging because many Korean farmers have small paddy fields in a number of locations around their villages, and modern harvesting machines are sometimes shared between extended family members. Farmers usually dry the harvested grains in the sun before bringing them to market.
+The Hanja character for 'field', jeon (Korean: 전; Hanja: 田), is found in some place names, especially small farming townships and villages. However, the specific Korean term for 'paddy' is a purely Korean word, "non" (Korean: 논).
+
+
+=== Madagascar ===
+
+In Madagascar, the average annual consumption of rice is 130 kg per person, one of the largest in the world. According to a 1999 study of UPDRS/FAO:
+The majority of rice is related to irrigation (1,054,381 ha).  The choice of methods conditioning performance is determined by the variety and quality control of water.
+The tavy is traditionally the culture of flooded upland rice on burning of cleared natural rain forest (135,966 ha).  Criticized as being the cause of deforestation, tavy is still widely practiced by farmers in Madagascar, who find a good compromise between climate risks, availability of labour and food security.
+By extension, the tanety, which literally means "hill," grows upland rice, on the grassy slopes that have been deforested for the production of charcoal (139,337ha).
+Among the many varieties, rice of Madagascar includes: Vary lava - a translucent long and large grain rice, considered a luxury rice; Vary Makalioka - a translucent long and thin grain rice; Vary Rojofotsy - a half-long grain rice; and Vary mena, or red rice, exclusive to Madagascar.
+
+
+=== Malaysia ===
+
+Paddy fields can be found in most states on the Malay Peninsula, with most of the fields being located in the northern states such as Kedah, Perlis, Perak, and Penang. Paddy fields can be found on the east coast region including states of Kelantan and Terengganu, their growth relies on seasonal rainfall from the northeast monsoon winds of the South China Sea. The state of Selangor on further south has its fair share of paddy fields, especially in the districts of Kuala Selangor and Sabak Bernam.
+Before the regions that formed Malaysia became heavily reliant on its industrial output, people were mainly involved in agriculture, especially in the production of rice. It was for that reason, that people usually built their houses next to paddy fields. Some research pertaining to Rainfed lowland rice in Sarawak has been reported.
+
+
+=== Myanmar ===
+
+Rice is grown in Myanmar primarily in three areas – the Irrawaddy Delta, the area along and the delta of the Kaladan River, and the Central plains around Mandalay, though there has been an increase in rice farming in Shan State and Kachin State in recent years. Up until the later 1960s, Myanmar was the main exporter of rice. Termed the rice basket of Southeast Asia, much of the rice grown in Myanmar does not rely on fertilizers and pesticides, thus, although "organic" in a sense, it has been unable to cope with population growth and other rice economies which utilized fertilizers.
+Rice is now grown in all the three seasons of Myanmar, though primarily in the Monsoon season – from June to October. Rice grown in the delta areas relies heavily on the river water and sedimented minerals from the northern mountains, whilst the rice grown in the central regions require irrigation from the Irrawaddy River.
+The fields are tilled when the first rains arrive – traditionally measured at 40 days after Thingyan, the Burmese New Year – around the beginning of June. In modern times, tractors are used, but traditionally, buffalos were employed. The rice plants are planted in nurseries and then transplanted by hand into the prepared fields. The rice is then harvested in late November – "when the rice bends with age". Most of the rice planting and harvesting is done by hand. The rice is then threshed and stored, ready for the mills.
+
+
+=== Nepal ===
+
+In Nepal, rice (Nepali: धान, Dhaan) is grown in the Terai and hilly regions. It is mainly grown during the summer monsoon in Nepal.
+
+
+=== Philippines ===
+
+Paddy fields are a common sight in the Philippines. Several vast paddy fields exist in the provinces of Ifugao, Nueva Ecija, Isabela, Cagayan, Bulacan, Quezon, and other provinces. Nueva Ecija is considered the main rice growing province of the Philippines.
+The Banaue Rice Terraces are an example of paddy fields in the country. They are located in Banaue in Northern Luzon, Philippines and were built by the Ifugaos 2,000 years ago. Streams and springs found in the mountains were tapped and channeled into irrigation canals that run downhill through the rice terraces. Other notable Philippine paddy fields are the Batad Rice Terraces, the Bangaan Rice Terraces, the Mayoyao Rice Terraces and the Hapao Rice Terraces.
+Located at Barangay Batad in Banaue, the Batad Rice Terraces are shaped like an amphitheatre, and can be reached by a 12-kilometer ride from Banaue Hotel and a 2-hour hike uphill through mountain trails. The Bangaan Rice Terraces portray the typical Ifugao community, where the livelihood activities are within the village and its surroundings. The Bangaan Rice Terraces are accessible by a one-hour ride from Poblacion, Banaue, then a 20-minute trek down to the village. It can be viewed best from the road to Mayoyao. The Mayoyao Rice Terraces are located at Mayoyao, 44 kilometers away from Poblacion, Banaue. The town of Mayoyao lies in the midst of these rice terraces. All dikes are tiered with flat stones. The Hapao Rice Terraces are within 55 kilometers from the capital town of Lagawe. Other Ifugao stone-walled rice terraces are located in the municipality of Hungduan.
+
+
+=== Sri Lanka ===
+
+Sri Lankan paddy cultivation history dates back to more than 2000 years ago. The historical reports say that Sri Lanka is regarded as the "paddy store of the east" because it produced an excessive quantity of rice. Paddy cultivation can be found all over the island and a considerable amount of land is allocated for it. Both upcountry and low country wetlands use paddy cultivation. The majority of paddy land is in the dry zone, and it uses special irrigation systems for cultivation. The water storing tank called "Wewa" facilitates a supply of water to paddy lands in the cultivation period. Agriculture in Sri Lanka mainly depends on rice production. Sri Lanka sometimes exports rice to its neighboring countries. Around 1.5 million hectares of land are cultivated in Sri Lanka for paddy in 2008/2009 maha: 64% of which is cultivated during the dry season and 35% cultivated during the wet season. Around 879,000 farmer families are engaged in paddy cultivation in Sri Lanka. They make up 20% of the country's population and 32% of the employment.
+
+
+=== Thailand ===
+
+Rice production in Thailand represents a significant portion of the Thai economy. It uses over half of the farmable land area and labor force in Thailand.
+Thailand has a strong tradition of rice production. It has the fifth-largest amount of land used for rice cultivation in the world and is the world's largest exporter of rice. Thailand has plans to further increase its land available for rice production, with a goal of adding 500,000 hectares to the 9.2 million hectares of rice-growing areas already cultivated. The Thai Ministry of Agriculture expected rice production to yield around 30 million tons of rice for 2008. The most produced strain of rice in Thailand is jasmine rice, which has a significantly lower yield rate than other types of rice, but normally fetches more than double the price of other strains in a global market.
+
+
+=== Vietnam ===
+
+Rice fields in Vietnam (ruộng or cánh đồng in Vietnamese) are the predominant land use in the valley of the Red River and the Mekong Delta. In the Red River Delta of northern Vietnam, control of seasonal river flooding is achieved by an extensive network of dykes which over the centuries total some 3000 km. In the Mekong Delta of southern Vietnam, there is an interlacing drainage and irrigation canal system that has become the symbol of this area. The canals additionally serve as transportation routes, allowing farmers to bring their produce to market. In Northwestern Vietnam, Thai people built their "valley culture" based on the cultivation of glutinous rice planted in upland fields, requiring terracing of the slopes.
+The primary festival related to the agrarian cycle is "lễ hạ điền" (literally "descent into the fields") held as the start of the planting season in hope of a bountiful harvest. Traditionally, the event was officiated with much pomp. The monarch carried out the ritual plowing of the first furrow while local dignitaries and farmers followed suit. Thổ địa (deities of the earth), thành hoàng làng (the village patron spirit), Thần Nông (god of agriculture), and thần lúa (god of rice plants) were all venerated with prayers and offerings.
+In colloquial Vietnamese, wealth is frequently associated with the vastness of the individual's land holdings. Paddy fields so large as for "storks to fly with their wings out-stretched" ("đồng lúa thẳng cánh cò bay") can be heard as a common metaphor. Wind-blown undulating rice plants across a paddy field in literary Vietnamese is termed figuratively "waves of rice plants" ("sóng lúa").
+
+
+== Ecology ==
+Paddy fields are a major source of atmospheric methane which contributes to global warming, having been estimated to contribute in the range of 50 to 100 million tonnes of the gas per annum. Studies have shown that this can be significantly reduced while boosting crop yield by draining the paddies to allow the soil to aerate to interrupt methane production.  Studies have shown the variability in assessment of methane emission using local, regional and global factors and calling for better inventorization based on micro level data.
+Rice paddies are responsible for 10% of global methane emissions, roughly equal to the emissions of the aviation industry. Drip irrigation systems developed by Netafim and N-Drip were introduced in several countries and according to The Times of Israel can reduce up to 85% of emissions.
+
+
+== Gallery ==
+
+
+== See also ==
+Kuk Swamp
+Rice-fish system
+Upland rice – Rice grown in dry fields
+
+
+== References ==
+
+
+== Further reading ==
+Bale, Martin T. Archaeology of Early Agriculture in Korea: An Update on Recent Developments. Bulletin of the Indo-Pacific Prehistory Association 21(5):77–84, 2001.
+Barnes, Gina L. Paddy Soils Now and Then. World Archaeology 22(1):1–17, 1990.
+Crawford, Gary W. and Gyoung-Ah Lee. Agricultural Origins in the Korean Peninsula. Antiquity 77(295):87–95, 2003.
+Kwak, Jong-chul. Urinara-eui Seonsa – Godae Non Bat Yugu [Dry- and Wet-field Agricultural Features of the Korean Prehistoric].In Hanguk Nonggyeong Munhwa-eui Hyeongseong [The Formation of Agrarian Societies in Korea]: 21–73. Papers of the 25th National Meetings of the Korean Archaeological Society, Busan, 2001.
+
+
+== External links ==
+
+How a paddy-field works
+Paddy cultivation

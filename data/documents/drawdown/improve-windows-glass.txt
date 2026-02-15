@@ -1,0 +1,665 @@
+# Improve Windows & Glass
+Source: https://drawdown.org/explorer/improve-windows-glass
+
+Methods and Supporting Data
+
+
+## Improve Windows & Glass
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+We define Improve Windows & Glass as reducing the heat transferred through typical windows used in residential and nonresidential buildings by improving the thermal insulation capacity of the glass. Windows typically constitute a small portion of abuilding envelopebut account for a substantial portion of the heat transferred (gained or lost) between the indoor space and the external environment. Usingdouble-glazedrather thansingle-glazedwindows cutsGHGemissions by reducing the energy required to heat or cool a building’s interior and improves the thermal comfort of its occupants.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+m2windows minimum double-glazed
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Windows represent 15–40% of a building's total envelope surface area (Shah et al., 2024). A significant amount of the heat transmitted through the building envelope occurs via windows (Basok et al., 2022; Cuce & Riffat, 2015), and the uncontrolled flow of heat due to poor thermal insulation capabilities of windows and glass can generally increase the energy required for heating or cooling indoor spaces by 30–50% (Arasteh et al., 2006; Balali et al., 2023; Gustavsen et al., 2011). Improving windows and glass helps reduce heat gain in warm climates and heat loss in cold climates, thereby reducing the energy required to thermally condition indoor spaces and cutting energy-related emissions while improving occupant comfort.
+
+Operating buildings accounts for approximately 30% of global energy consumption (Delmastro & Chen, 2023). The International Energy Agency (IEA, 2023e) stated that heating indoor spaces accounted for more than 41EJof energy in 2022 (an equivalent of about 11,400TWh). This energy is mainlyfossil fuel–based (oil,natural gas, and coal), but also includes electricity, modernbioenergy, and solar thermal (IEA, 2023b; 2023e) (Figure 1). Space cooling is largely achieved through air conditioners. In 2022, cooling buildings used approximately 2,111 TWh (an equivalent of about 8 EJ) (IEA, 2023d; Ritchie, 2024). According to the IEA (2018), annual space-cooling energy consumption in 2016 (2,020 TWh) was more than three times its levels in 1990. Considering the mix of energy sources (IEA, 2023b), this solution potentially cutsCO₂,methane, andnitrous oxideemissions and reducesblack carbonandF-gasrefrigerantemissions from operating heating and cooling systems (Richardson, 2024; Pistochini et al., 2022).
+
+Figure 1. Energy used in buildings globally largely originates from fossil fuel–based sources.
+
+Source: International Energy Agency. (2023b, June 15).Energy consumption in buildings by fuel in the net zero scenario, 2010-2030.
+
+The properties of a window determine the rate of heat transfer (i.e., itsthermal transmittanceor U-value) and thus its efficacy at decreasing the flow of heat between the indoors and outdoors (Aguilar-Santana, 2020; Saint-Gobain, 2018). Window types such as double-glazed, double-glazed with low emissivity (low-e) coating, ortriple-glazed(Figure 2) perform better than single-glazed windows due to their lower U-values (Aguilar-Santana et al., 2020; Li et al., 2023; Salazar et al., 2024). In more resourced countries or regions such as the United States, Canada, and the European Union, a minimum of doubleglazingis considered standard practice, accounting for a growing share of the number of windows installed or sold annually (Hermelink et al., 2017; Janssens, 2021). However, the minimum glazing U-value standards set by building energy regulations in most low- and middle-income countries, where the bulk of new construction occurs (IEA, 2023c), often do not mandate the use of better performing windows in buildings (Gaum, 2023).
+
+Improve Windows and Glass assesses the impact of retrofitting single-glazed windows in the current (2022) global building stock, focusing on scaling up the use of double glazing as the minimum. Retrofitting extends the lifespan of building components and helps these buildings remain in use. The U-value of 2.7W/m2K we used for double glazing during our analysis also includes other double pane window types with similar U-values such assecondary glazingwhere a second window is added to the outside of the existing one.
+
+Figure 2. Multiple-glazed windows reduce heat transmission better than single glazed windows and so create less demand for GHG-producing fuels. Modified from Aguilar-Santana et al. (2020) and Moghaddam et al. (2023).
+
+Sources: Aguilar-Santana, J. L., Jarimi, H., Velasco-Carrasco, M., & Riffat, S. (2020). Review on window-glazing technologies and future prospects.International Journal of Low-Carbon Technologies,15(1), 112–120; Moghaddam, S. A., Serra, C., Gameiro da Silva, M., & Simões, N. (2023). Comprehensive review and analysis of glazing systems towards nearly zero-energy buildings: Energy performance, thermal comfort, cost-effectiveness, and environmental impact perspectives.Energies,16(17), Article 6283.
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how and where this solution is implemented, including different climates and heating and cooling fuel mixes.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption by 2050 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2050.
+
+This is the high end of the range for estimated achievable adoption by 2050.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Each 1 m2of single-glazed window glass in buildings that is upgraded to double glazing has the potential to cut GHG emissions by approximately 0.07tCO₂‑eq/yr(20-yr and100-yr basis).
+
+To determine the solution’seffectiveness(Table 1), we evaluated the emissions cut from reducing space heating and space cooling. Since studies often capture different U-value ratings for similar window glass, we weighted the energy saved (kWh/yr) from improving the glass using consistent U-values for the baseline and solution (see Figure 2). Thereafter, we weighted the energy impact by the total area of glass substituted (m2) to determine the savings intensity (kWh/m2/yr) and multiplied the estimate by emission intensities of heating and cooling fuels based on the IEA’s world energy balances data (IEA, 2024).
+
+This solution cuts CO₂,
+ methane, and nitrous oxide emissions by reducing the amount of fossil fuels used for heating and for producing electricity used for cooling. The analysis includes studies from countries representative of heating-dominated and cooling-dominated climates such as the United States (Calautit et al., 2025) and Malaysia (Balasbaneh et al., 2022), respectively. Notably, the solution is also effective in other climates (Magraoui et al., 2025).
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit:t CO₂‑eq
+/m2/yr, 100-yr basis
+
+Our estimate of the cost per unit climate impact (Table 2) indicates that replacing single-glazed windows with double-glazed windows in buildings globally results in considerable savings of approximately US$123/t CO₂‑eq.
+
+We found that the solution’s initial cost varies considerably, from about US$31/m2in Malaysia (Balasbaneh et al., 2022) to US$257–684/m2in France (Harkouss et al., 2018), highlighting regional price differences that could affect adoption. Ultimately, we chose an initial cost of approximately US$144/m2for double glazing. Using the cost of single glazing we found in studies from different regions (Aruta et al., 2025; Krarti & Ihm, 2016), our analysis determined a baseline initial cost of approximately US$35/m2. While the solution cost is more than four times the baseline, less energy is used for space heating or cooling, reducing the annual operating cost from US$23/m2to approximately US$12/m2. After amortizing the initial cost over 30 years, the solution resulted in a net savings of US$8/m2/yr, compared with the baseline.
+
+During our analysis, we normalized the initial cost by the baseline and solution U-value (see Figure 2) to ensure consistency. We assumed the initial cost includes the glass component alone, but some of our sources were ambiguous about the scope of the investment and may have also included frames and installation costs. To determine the cost peradoption unit, we weighted the amount of energy consumed for heating and cooling in each data source using the total area of windows upgraded in the respective case study buildings. The analysis does not include revenues because building owners typically do not generate any revenue from window glass installed.
+
+Table 2. Cost per unit of climate impact.
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+We found no definitive data on the solution’slearning rate. While the adoption of double glazing grows, some studies have reported rising cost of glass in recent periods (MLI Building Products, 2023). In an assessment of regionalfloat glassprice trends, Procurement Resource (n.d.) argued that rising material, energy, and labor costs amid other economic pressures are driving up the cost of glass. Since modern windows are often made using float glass (Asahi India Glass Ltd., 2025), the initial cost could become more expensive.
+
+Speed of actionrefers to how quickly a climate solution physically affects the atmosphere after it is deployed. This is different from speed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Improve Windows and Glass is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere.
+
+To determine the current adoption of double-glazed windows, we first estimated the total amount of window glass installed in buildings by applying window-to-floor area ratios from studies to the currently existing 198.1 billion m2residential and 54.6 billion m2nonresidential building floor space (IEA, 2023f). This yielded approximately 23.3 billion m2and 42.2 billion m2of window glass installed in high-income countries (HICs) and low- and middle-income countries (LMICs), respectively (IEA, 2023c).
+
+We found limited data for the proportion of minimum double-glazed windows in HICs. The U.S. Energy Information Administration (U.S. EIA, 2023) reported that 80 million housing units (65%) in the U.S. have double-glazed windows installed. Percentages reported for other countries include 88% of housing units in the United Kingdom (Department for Levelling Up, Housing and Communities, 2023), 90% in Canada (Natural Resources Canada, n.d.), and 15% in Australia (Paarhammer, n.d.). Using these percentages, we estimated a 76% (median) solution adoption rate in HICs.
+
+Since we found no definitive data for the solution’s adoption in LMICs, and considering a few LMICs have building energy codes that either mandate or encourage the use of higher performing windows (Gaum, 2023; Gaum & Laubscher, 2022), we assumed that double-glazed windows represent a conservative underestimate of 5%.
+
+All told, we estimate that as of 2022, installed double-glazed windows in buildings cover roughly 19.9 billion m2globally (Table 3).
+
+Table 3. Current (2022) adoption level.
+
+Unit:m2 windows minimum double-glazed
+
+According to the Department for Levelling Up, Housing and Communities (2023), the percentage of UK homes that have double-glazed windows increased by 9% between 2012 and 2022. Similarly, adoption grew by about 6% in five years (2015–2020) in the United States (U.S. EIA, 2018). Using these countries as representatives, this growth translates to approximately 438–448 million m2of double-glazed or better windows being added every year in HICs.
+
+We found limited data for adoption trends in LMICs. Based on our assumption for the current adoption in LMICs, we assumed that the percentage adoption of double-glazed windows grew by 4% over 10 years (2012–2022). This assumption, which is likely a conservative underestimate, translates to an annual addition of about 178 million m2/yr of double glazing.
+
+Based on these findings, we estimate that the adoption of double glazing or better windows has grown globally by nearly 622 million m2annually (Table 4).
+
+Historically, the bulk of the solution’s adoption has occurred in HICs. However, the Global Alliance for Buildings and Construction, IEA, and the United Nations Environment Programme (UNEP) emphasize that adopting double-glazed windows is a necessary sustainability strategy for the building sector, especially in Africa and LMICs (GlobalABC/IEA/UNEP, 2020). This indicates considerable potential for scaling the solution, with 76% of the global building sector’s growth in the past 12 years occurring in LMICs (IEA, 2023f), where there has been less adoption of double glazing or better windows.
+
+Table 4. 2010–2022 adoption trend.
+
+We estimated anadoption ceiling(Table 5) of approximately 46.7 billionm2of double-glazed windows globally. For this adoption scenario, 90% and 61% of window glass that existed in 2022 will be retrofitted to double-glazed or better by 2050 in buildings in HICs and buildings in LMICs, respectively.
+
+In our analysis, we used the current double-glazed windows ratio of 90% in Canada (Natural Resources Canada, n.d) as a benchmark for the building sector’s adoption ceiling in HICs. For buildings in LMICs, we used the IEA’s recommended 2%/yr retrofit rate (IEA, 2022b) over 28 years (2022–2050). This estimated 56% growth was added to the current adoption of 5% to determine the region’s adoption ceiling. The analysis results in about 21 billion m2and 26 billion m2of double-glazed windows installed in buildings in HICs and LMICs, respectively.
+
+Table 5. Adoption ceiling.
+
+Unit:m2 windows minimum double-glazed
+
+Our analysis estimated a low achievable adoption of approximately 32.9 billion m2of double-glazed or better windows installed in buildings globally (Table 6). For this scenario, we estimate that the percentage of windows that were at minimum double-glazed as of 2022 in buildings in HICs (76%) and buildings in LMICs (5%) grows to 81% and 33%, respectively.
+
+Under the high achievable scenario, 86% of window glass in buildings in HICs and 47% of window glass in buildings in LMICs is at minimum double-glazed. This translates to a total of nearly 40.0 billion m2of double glazing or better installed by 2050.
+
+The achievable adoption scenarios are largely driven by the growth that is possible in LMICs. We assumed a retrofit rate of 1%/yr for the Achievable – Low scenario, which is the current global retrofit rate in the building industry (IEA, 2022b); for Achievable – High, we used 1.5%/yr. We also assumed that the current (2022) building stock will still be in use by 2050.
+
+Table 6. Range of achievable adoption levels.
+
+Unit:m2 windows minimum double-glazed
+
+The current adoption of double-glazed windows in buildings reduces global GHG emissions by approximately 1.3GtCO₂‑eq/yr
+ on a 100-yr and20-yr basis(Table 7). If the low achievable adoption scenario is reached, this solution could potentially cut about 2.1 Gt CO₂‑eq/yr
+ (100-yr and 20-yr basis). The high achievable scenario would decrease global emissions 2.6 Gt CO₂‑eq/yr
+ year (100-yr and 20-yr basis). We estimated that the adoption ceiling could avoid up to 3.0 Gt CO₂‑eq/yr
+ of emissions on a 100-yr basis (3.1 Gt CO₂‑eq/yr,
+ 20-yr basis).
+
+This solution only accounts for the impact of retrofitting the building stock that exists as of 2022. However, the current global built floor area (252.7 billion m2) is projected to grow by an additional 183 billion m2, by 2050 (IEA, 2022a; 2023b). This means a possible addition of 1.6 billion m2of new window glass every year, indicating that the potential for scaling the climate impact exists.
+
+Table 7. Climate impact at different levels of adoption.
+
+Unit:Gt CO₂‑eq/yr,
+ 100-yr basis
+
+While multi-glazed windows are often more of an initial investment than single-pane windows, improved performance of these windows is associated with more energy and cost savings (Menzies & Wherrett, 2005). Regional climates often affect the most appropriate window type and the amount of savings (Karabay & Arici, 2012). In residential buildings, double-glazed windows can add value to homes and increase property values (Aroul & Hansz, 2011).
+
+Reductions in air pollution due to lower heating and cooling demand decrease exposures to pollutants such as mercury and fineparticulate mattergenerated from fossil fuel–based power plants, improving the health of nearby communities (U.S. Environmental Protection Agency [EPA], 2025). These pollutants have been linked to increased morbidity from cardiovascular and respiratory disease, asthma, infections, and cancer (Gasparotto & Martinello, 2021) and to increased risk of mortality (Henneman et al., 2023).
+
+Better-performing windows can benefit health through improved thermal comfort (Bulut et al., 2021). When combined with other measures to reduce cooling loads, double-glazed windows can help with the risk of indoor heat stress (Ren et al., 2014). Improved windows may also reduce condensation and mold growth in buildings (Lozinsky et al., 2025). Residents of households with double-glazed windows have reported improvements in noise insulation after retrofitting single-pane windows (Bulut et al., 2021).
+
+Higher-performing glass can reduce air pollution by lowering gas and electricity demand for heating and cooling, which can decrease pollutants such as CO₂,nitrogen oxides, methane, mercury, and fine particulate matter generated from fossil fuel–based power plants (U.S. EPA, 2025).
+
+Our analysis for this solution focused on the U-value of the glass component alone. It did not include other parameters such as the material type of the window frames or coatings on windows, though these also impact space heating and cooling energy use (Owolabi et al., 2023). We ensured that the data used in our analysis aligned with our approach (i.e., indicated the impact of solely substituting double-glazed or better glass for single-glazed). Due to limited data, we assumed that current adoption in LMICs is 5%. The adoption scenarios and climate impact may be influenced if the actual percentage is higher or lower.
+
+A window’s orientation impacts the solar heat gain. Thus, the influence of upgrading to double-glazing on heating or cooling loads is affected by window placement. We found limited data that incorporates orientation and did not account for this difference.
+
+Recently, some studies have indicated concerns about the payback period of upgrading to double glazing for building owners (Calautit et al., 2025), especially in LMICs, where higher initial costs could be a barrier. Creative initiatives such as incentive schemes can improve the payback period (Aruta et al., 2025).
+
+Faulty installation could compromise the expected benefits of double glazing. It could also lead to condensation on the inner pane if the sealant deteriorates, affecting visibility, aesthetics, and performance and resulting in a potential shorter lifespan than single glazing (Duan et al., 2021; Likins-White, 2023). Additional costs may be incurred when attempting to secure adequate expertise and equipment to ensure proper handling and installation (DIY Double Glaze, n.d.). Depending on the extent of the retrofits, this may drive up construction costs, which is a concern for building developers. However, it also represents opportunities to improve available technical expertise in regions where these services are unavailable or underdeveloped.
+
+Manufacturing double-glazed or better windows generates more industrial sector emissions than does manufacturing single-glazed windows due to the additional materials used. However, life-cycle analysis studies such as Balasbaneh et al. (2022) compared different glazing options ranging from single to triple glazing and determined that the emissions reduced by using better windows outweighs theembodied emissions. Although it is outside the scope of this solution, window frames account for as much as 46–80% of a window's embodied emissions, especially when using conventional window frame materials such as polyvinyl chloride and aluminum (Saadatian et al., 2021). Despite the higher embodied emissions, the emissions reductions from implementing the solution are substantial.
+
+Improve Windows and Glass reduces the amount of space heating and cooling required. This may reduce the required size and complexity of heating and cooling systems, making them more economically accessible.
+
+Improve District Heating: Buildings
+
+Upgrading window glass can motivate building owners to improve other elements of the building envelope. This could improve the cost efficiency of the upgrades when approached holistically.
+
+Improve Building Envelopes
+
+The potential climate impact of deploying these solutions could be lower due to the reduced amount of space heating and cooling required in buildings from improving window glass.
+
+Improve Building Envelopes
+
+Improve District Heating: Buildings
+
+Consensus of effectiveness in reducing GHG emissions: High
+
+Improving windows and glass helps optimize the amount of heating required in buildings by reducing heat loss. Calautit et al. (2025) reported that energy used for heating in a United Kingdom residence dropped nearly 23% after reducing the glass U-value from 5.6 W/m2K to 2.8 W/m2K. Using the same building parameters, the study tested the impact of reducing the U-value by 1.35 W/m2K in the climatic conditions of Netherlands, Japan, United States, Sweden and Australia. The outcomes were similar, with about a 10–12% reduction in heating loads (Calautit et al., 2025). The results from Yuk et al. (2024), Magraoui et al. (2025), and Ahmed et al. (2025) further support these findings.
+
+Similarly, the solution reduces heat gained from the outdoors into buildings, thereby cutting cooling loads. Gomaa et al. (2025) reported that energy use in a Saudi Arabian residence was reduced by 1,265 kWh/yr (49%) after improving the glass U-value from 5.6 to 0.9 W/m2K (84%). Es-sakali et al. (2022) recorded 36% less electricity consumed after reducing the U-value by 1.44 W/m2K in Morocco’s climate.
+
+The results presented in this document summarize findings from 10 original studies reflecting current evidence from 13 countries. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions. The studies we found used simulations to assess the impact of retrofitting windows due to the inherent difficulty of real-world experiments. However, we used studies that include field measurements and calibration of the building simulations to validate their models.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Set clear and measurable targets for building efficiency, emissions reduction, and the deployment of improved windows.
+
+Enact holistic policy plans and building codes to reduce GHG emissions from buildings through improved windows and framing systems.
+
+Set public procurement standards for windows and glass, using double-glazed windows, at minimum, for public buildings.
+
+Amend building codes to include minimum requirements based on window performance; gradually increase the standards over time if necessary.
+
+Periodically update codes, policies, and public guidance to keep pace with research and development.
+
+Make double-glazed windows the minimum standard option through a range of policy interventions, including regulations, subsidies, and educational programs where relevant; extend incentives to high performing secondary-, double- or triple-glazed windows, if relevant.
+
+Offer financial incentives such as subsidies, tax credits, and grants for consumers, manufacturers, start-ups, and improved window installers.
+
+Ensure financial incentives reach, and offer additional incentives for, low- and middle-income communities.
+
+Ensure financial incentives cover both new installations and retrofits.
+
+Create financial disincentives such as higher taxes and fines for lower performing windows.
+
+Subsidize workforce or skills development and/or work with businesses to identify gaps and needs such as technical knowledge or the advantages of new technology.
+
+Invest in research and development to improve window design, manufacturing, adoption,supply chainaccess, and circularity.
+
+Create green building certification schemes and/or public-private partnerships that offer information, training, and general support for improved windows.
+
+Offer educational resources, one-stop shops for windows, and demonstrations for installation and retrofits; offer tours of model builds that feature improved windows for commercial and private developers, highlighting the cost savings, and environmental benefits.
+
+Energy system: Buildings. Delmastro et al. (2023)
+
+Space cooling. Delmastro et al. (2023)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Finance or develop only new construction and retrofits that use improved windows and other low-carbon practices.
+
+Take advantage of financial incentives such as subsidies, tax credits, and grants for installing improved windows.
+
+Seek or negotiate preferential loan agreements for developers using improved windows and other climate-friendly practices.
+
+Use double-glazed windows as the most basic standard and offer a variety of better-performing options such as triple-glazed.
+
+Work with designers and architects who integrate efficient windows and other efficient materials into their designs.
+
+Integrate improved window designs into construction databases, including listing prices, thermal insulation properties, and environmental benefits.
+
+Advocate for financial incentives, improved building codes, and educational programs advancing the use of improved windows.
+
+Use educational resources, one-stop shops for retrofitting andweatherization, installation demonstrations, and tours of model builds.
+
+Conduct research to improve the manufacturing, adoption, supply chain access, and circularity of windows.
+
+Create or join green building certification schemes, green building councils, and/or public-private partnerships that offer information, training, and general support for improving windows.
+
+Energy system: Buildings. Delmastro et al. (2023)
+
+Space cooling. Delmastro et al. (2023)
+
+Finance only new construction and retrofits that use improved windows and other low-carbon practices.
+
+Expand product lines to include improved window designs.
+
+Integrate improved window designs into construction databases, listing prices, thermal insulation properties, and environmental benefits.
+
+Invest in research and development to improve window design, manufacturing, adoption, supply chain access, and circularity.
+
+Advocate for financial incentives, improved building codes, and educational programs advancing the use of improved windows.
+
+Join green building certification schemes and/or public-private partnerships that offer information, training, and general support for improved windows.
+
+Create long-term purchasing agreements with improved window manufacturers to support stable demand and improve economies of scale.
+
+Create or join green building certification schemes, green building councils, and/or public-private partnerships that offer information, training, and general support for improved windows.
+
+Energy system: Buildings. Delmastro et al. (2023)
+
+Space cooling. Delmastro et al. (2023)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Finance or develop only new construction and retrofits that use improved windows and other low-carbon practices.
+
+Advocate for clear and measurable public targets for building efficiency, emissions reduction, and deployment of improved windows.
+
+Advocate for holistic policy plans and building codes to reduce GHG emissions from buildings that include improved windows and framing systems.
+
+Advocate for financial incentives, improved building codes, and educational programs advancing the use of improved windows.
+
+Conduct research to improve window design, manufacturing, adoption, supply chain access, and circularity.
+
+Work with businesses for workforce or skills development.
+
+Offer educational resources, one-stop shops for windows, and demonstrations for installation and retrofits; offer tours of model builds that feature improved windows for commercial and private developers, highlighting the cost savings and environmental benefits.
+
+Create, join, or administer green building certification schemes and/or public-private partnerships that offer information, training, and general support for improved windows.
+
+Energy system: Buildings. Delmastro et al. (2023)
+
+Space cooling. Delmastro et al. (2023)
+
+Finance only new construction and retrofits that use improved windows and other low-carbon practices.
+
+Invest in research and development and start-ups to improve window design, manufacturing, adoption, supply chain access, and circularity.
+
+Issuegreen bondsto invest in projects that use improved windows and integrate other climate-friendly construction practices.
+
+Offer preferential loan agreements for developers using improved windows and other climate-friendly practices.
+
+Join green building certification schemes and/or public-private partnerships that offer information, training, and general support for improved windows.
+
+Energy system: Buildings. Delmastro et al. (2023)
+
+Space cooling. Delmastro et al. (2023)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Finance only new construction and retrofits that use improved windows and other low-carbon practices.
+
+Offer grants for developers using improved windows and other climate-friendly practices.
+
+Create financing programs for private construction in low-income or under-resourced communities requiring the use of improved windows.
+
+Advocate for clear and measurable public targets for building efficiency, emissions reduction, and the deployment of improved windows.
+
+Advocate for holistic policy plans and building codes to reduce GHG emissions from buildings that include improved windows and framing systems.
+
+Advocate for financial incentives, improved building codes, and educational programs for improved windows.
+
+Fund research to improve window design, manufacturing, adoption, supply chain access, and circularity.
+
+Offer educational resources, one-stop shops for retrofitting and weatherization, installation demonstrations, and tours of model builds for commercial and private developers, highlighting the cost savings and environmental benefits.
+
+Create, join, or administer green building certification schemes and/or public-private partnerships that offer information, training, and general support for improved windows.
+
+Energy system: Buildings. Delmastro et al. (2023)
+
+Space cooling. Delmastro et al. (2023)
+
+Advocate for clear and measurable public targets for building efficiency, emissions reduction, and the deployment of improved windows.
+
+Advocate for holistic policy plans and building codes to reduce GHG emissions from buildings that include improved windows and framing systems.
+
+Advocate for financial incentives, improved building codes, and educational programs for improved windows.
+
+Conduct research to improve window design, manufacturing, adoption, supply chain access, and circularity.
+
+Contract with businesses for workforce or skills development.
+
+Offer or support educational resources, one-stop shops for retrofitting and weatherization, installation demonstrations, and tours of model builds for commercial and private developers, highlighting the cost savings and environmental benefits of improved windows.
+
+Create, join, or administer green building certification schemes and/or public-private partnerships that offer information, training, and general support for improved windows.
+
+Energy system: Buildings. Delmastro et al. (2023)
+
+Space cooling. Delmastro et al. (2023)
+
+
+## Technologists and Researchers
+
+
+Research and develop high-performance window technologies such as vacuum glazing, aerogel applications, potential integration of solar photovoltaic glass, and the use of unconventional gases to fill multi-pane windows and improve performance.
+
+Create improved alternatives to common practices for air and vapor sealing.
+
+Find alternative materials for spacers with reduced thermal conductivity in double- and triple-glazed windows.
+
+Research and develop alternative window frame designs to improve thermal performance, structural insulating materials, and improve ease of installation (e.g., out-of-the-box window installation kits).
+
+Improve efficiency of the window manufacturing process, supply chain access, and thecircular economyof glass.
+
+Glass waste circular economy - Advancing to high-value glass sheets recovery using industry 4.0 and 5.0 technologies. Delbari and Hof (2024)
+
+Energy system: Buildings. Delmastro et al. (2023)
+
+Space cooling. Delmastro et al. (2023)
+
+
+## Communities, Households, and Individuals
+
+
+Finance or develop only new construction and retrofits that use improved windows and other low-carbon practices.
+
+Take advantage of financial incentives such as subsidies, tax credits, and grants for installing improved windows.
+
+Advocate for clear and measurable public targets for building efficiency, emissions reduction, and the deployment of improved windows.
+
+Advocate for holistic policy plans and building codes to reduce GHG emissions from buildings that include improved windows and framing systems.
+
+Advocate for financial incentives, improved building codes, and educational programs for improved windows.
+
+Organize local “green home tours” and open houses to showcase climate-friendly builds, fostering demand by highlighting cost savings and environmental benefits of improved windows.
+
+Capture community feedback and share it with local policymakers to address barriers such as permitting logistics or up-front costs, helping to shape policies that drive adoption.
+
+Create, join, or administer green building certification schemes and/or public-private partnerships that offer information, training, and general support for improved windows.
+
+Energy system: Buildings. Delmastro et al. (2023)
+
+Space cooling. Delmastro et al. (2023)
+
+
+## “Take Action” Sources
+
+
+Review on window-glazing technologies and future prospects. Aguilar-Santana et al. (2020)
+
+Global Prospects, Advance Technologies and Policies of Energy-Saving and Sustainable Building Systems: A Review. Akram et al. (2022)
+
+Identifying optimum glazing property for conserving energy in hot semi-arid climate regions. Altaf & Hill (2021)
+
+Energy system: Buildings. Delmastro et al. (2023)
+
+Space cooling. Delmastro et al. (2023)
+
+Application of cumulative prospect theory in understanding energy retrofit decision: a study of homeowners in the Netherlands. Ebrahimigharehbaghi et al. (2022)
+
+Building energy codes in the global south: comparing selected variables to develop a decision-making model to address climate-change guidelines. Gaum (2023)
+
+Key elements of and material performance targets for highly insulating window frames. Gustavsen et al. (2011)
+
+Minimum energy performance requirements for window replacement in the 28 eu member states. Janssens (2021)
+
+Importance of window installation in residential building envelopes having continuous external insulation in order to realize energy efficiency. Shah et al. (2024)
+
+Methods and Supporting Data
+
+Aguilar-Santana, J. L., Jarimi, H., Velasco-Carrasco, M., & Riffat, S. (2020). Review on window-glazing technologies and future prospects.International Journal of Low-Carbon Technologies,15(1), 112–120.Link to source:https://doi.org/10.1093/ijlct/ctz032
+
+Ahmed, A. E., Suwaed, M. S., Shakir, A. M., & Ghareeb, A. (2025). The impact of window orientation, glazing, and window-to-wall ratio on the heating and cooling energy of an office building: The case of hot and semi-arid climate.Journal of Engineering Research,13(1), 409–422.Link to source:https://doi.org/10.1016/j.jer.2023.10.034
+
+Arasteh, D., Selkowitz, S., Apte, J., & LaFrance, M. (2006). Zero energy windows.Lawrence Berkeley National Laboratory.Link to source:https://escholarship.org/uc/item/2zp5m6x8
+
+Aroul, R., & Hansz, J. A. (2011). The role of dual-pane windows and improvement age in explaining residential property values.Journal of Sustainable Real Estate,3(1), 142–161.Link to source:https://doi.org/10.1080/10835547.2011.12091822
+
+Aruta, G., Ascione, F., Iovane, T., & Mastellone, M. (2025). Double-skin façades for the refurbishment of historic buildings: Energy-economic feasibility for different types of glazing and ventilation rates.Journal of Building Engineering,103, Article 112125.Link to source:https://doi.org/10.1016/j.jobe.2025.112125
+
+Asahi India Glass Ltd. (2025, April 25).Top benefits of float glass in modern homes.Link to source:https://www.aisglass.com/blog/top-benefits-of-float-glass-in-modern-homes/
+
+Balali, A., Yunusa-Kaltungo, A., & Edwards, R. (2023). A systematic review of passive energy consumption optimisation strategy selection for buildings through multiple criteria decision-making techniques.Renewable and Sustainable Energy Reviews,171, Article 113013.Link to source:https://doi.org/10.1016/j.rser.2022.113013
+
+Balasbaneh, A. T., Yeoh, D., Ramli, M. Z., & Valdi, M. H. T. (2022). Different alternative retrofit to improving the sustainability of building in tropical climate: Multi-criteria decision-making.Environmental Science and Pollution Research,29(27), 41669–41683.Link to source:https://doi.org/10.1007/s11356-022-18647-8
+
+Basok, B., Davydenko, B., Novikov, V., Pavlenko, A. M., Novitska, M., Sadko, K., & Goncharuk, S. (2022). Evaluation of heat transfer rates through transparent dividing structures.Energies,15(13), Article 4910.Link to source:https://doi.org/10.3390/en15134910
+
+Bulut, M., Wilkinson, S., Khan, A., Jin, X.-H., & Lee, C. L. (2021). Perceived benefits of retrofitted residential secondary glazing: An exploratory Australian study.International Journal of Building Pathology and Adaptation,39(5), 720–733.Link to source:https://doi.org/10.1108/IJBPA-09-2020-0083
+
+Calautit, J. K., Sun, H., Li, J., Dik, A., & Mohammadi, M. (2025). Keeping it simple: Field testing and techno-economic assessment of a low-cost secondary quad glazing for enhanced energy efficiency in buildings [Corrected proof].Energy and Built Environment.Link to source:https://doi.org/10.1016/j.enbenv.2025.03.004
+
+Cuce, E., & Riffat, S. B. (2015). Aerogel-assisted support pillars for thermal performance enhancement of vacuum glazing: A CFD research for a commercial product.Arabian Journal for Science and Engineering,40(8), 2233–2238.Link to source:https://doi.org/10.1007/s13369-015-1727-5
+
+Delmastro, C., & Chen, O. (2023, July 11).Energy system: Buildings. International Energy Agency.Link to source:https://www.iea.org/energy-system/buildings
+
+Department for Levelling Up, Housing and Communities. (2023, December 14).Accredited official statistics chapter 5: Energy efficiency. GOV.UK.Link to source:https://www.gov.uk/government/statistics/chapters-for-english-housing-survey-2022-to-2023-headline-report/chapter-5-energy-efficiency#contents
+
+DIY Double Glaze. (n.d.).6 problems with double glazed windows and how you can resolve them. Retrieved September 13, 2025, fromLink to source:https://www.diydoubleglaze.com.au/6-problems-with-double-glazed-windows-and-how-you-can-resolve-them/
+
+Duan, Q., Hinkle, L., Wang, J., Zhang, E., & Memari, A. (2021). Condensation effects on energy performance of building window systems.Energy Reports,7, 7345–7357.Link to source:https://doi.org/10.1016/j.egyr.2021.10.096
+
+Es-sakali, N., Kaitouni, S. I., Laasri, I. A., Mghazli, M. O., Cherkaoui, M., & Pfafferott, J. (2022). Assessment of the energy efficiency for a building energy model using different glazing windows in a semi-arid climate.Proceedings of the 13th International Renewable Energy Congress (IREC), 1–5.Link to source:https://doi.org/10.1109/IREC56325.2022.10001934
+
+Gasparotto, J., & Da Boit Martinello, K. (2021). Coal as an energy source and its impacts on human health.Energy Geoscience,2(2), 113–120.Link to source:https://doi.org/10.1016/j.engeos.2020.07.003
+
+Gaum, T. (2023).Building energy codes in the Global South: Comparing selected variables to develop a decision-making model to address climate-change guidelines[Spreadsheet]. SLIM3.Link to source:https://docs.google.com/spreadsheets/d/1aP4zaeDvfwSI-3Abuj8Z_VUUEHJzjMZS/edit?gid=988383392#gid=988383392
+
+Gaum, T., & Laubscher, J. (2022). Building energy codes: Reviewing the status of implementation strategies in the Global South.International Journal of Built Environment and Sustainability,9(1), 39–53.Link to source:https://doi.org/10.11113/ijbes.v9.n1.871
+
+Global Alliance for Buildings and Construction, International Energy Agency, & the United Nations Environment Programme. (2020).GlobalABC regional roadmap for buildings and construction in Africa 2020-2050: Towards a zero-emission, efficient and resilient buildings and construction sector[Report]. International Energy Agency.Link to source:https://globalabc.org/sites/default/files/inline-files/Africa_Buildings%20Roadmap_FINAL_1.pdf
+
+Gomaa, M. M., Abdallah, A. S. H., Aloshan, M. A., & Ragab, A. (2025). A comparative analysis of advanced glazing technologies for energy-efficient buildings in Jeddah city, Saudi Arabia.Buildings,15(9), Article 1477.Link to source:https://doi.org/10.3390/buildings15091477
+
+Gustavsen, A., Grynning, S., Arasteh, D., Jelle, B. P., & Goudey, H. (2011). Key elements of and material performance targets for highly insulating window frames.Energy and Buildings,43(10), 2583–2594.Link to source:https://doi.org/10.1016/j.enbuild.2011.05.010
+
+Harkouss, F., Fardoun, F., & Biwole, P. H. (2018). Multi-objective optimization methodology for net zero energy buildings.Journal of Building Engineering,16, 57–71.Link to source:https://doi.org/10.1016/j.jobe.2017.12.003
+
+Henneman, L., Choirat, C., Dedoussi, I., Dominici, F., Roberts, J., & Zigler, C. (2023). Mortality risk from United States coal electricity generation.Science,382(6673), 941–946.Link to source:https://doi.org/10.1126/science.adf4915
+
+Hermelink, A., von Manteuffel, B., & Grözinger, J. (2017).Minimum performance requirements for window replacement in the residential sector[Report]. ECOFYS.Link to source:https://glassforeurope.com/wp-content/uploads/2018/04/Minimum-performance-requirements-for-window-replacement-in-the-residential-sector.pdf
+
+International Energy Agency. (2018).The future of cooling: Opportunities for energy-efficient air conditioning.Link to source:https://www.iea.org/reports/the-future-of-cooling
+
+International Energy Agency. (2022a, September 1).Global buildings sector CO2 emissions and floor area in the net zero scenario, 2020-2050.Link to source:https://www.iea.org/data-and-statistics/charts/global-buildings-sector-co2-emissions-and-floor-area-in-the-net-zero-scenario-2020-2050
+
+International Energy Agency. (2022b).Renovation of near 20% of existing building stock to zero-carbon-ready by 2030 is ambitious but necessary.Link to source:https://www.iea.org/reports/renovation-of-near-20-of-existing-building-stock-to-zero-carbon-ready-by-2030-is-ambitious-but-necessary
+
+International Energy Agency. (2023b, June 15).Energy consumption in buildings by fuel in the net zero scenario, 2010-2030.Link to source:https://www.iea.org/data-and-statistics/charts/energy-consumption-in-buildings-by-fuel-in-the-net-zero-scenario-2010-2030-2
+
+International Energy Agency. (2023c, June 15).Global floor area and buildings energy intensity in the net zero scenario, 2010-2030.Link to source:https://www.iea.org/data-and-statistics/charts/global-floor-area-and-buildings-energy-intensity-in-the-net-zero-scenario-2010-2030
+
+International Energy Agency. (2023d).Space cooling: Net zero emissions guide.Link to source:https://www.iea.org/reports/space-cooling-2
+
+International Energy Agency. (2023e).Space heating: Net zero emissions guide.Link to source:https://www.iea.org/reports/space-heating
+
+International Energy Agency. (2023f, July 11).Total floor area by use in the net zero scenario, 2010-2030.Link to source:https://www.iea.org/data-and-statistics/charts/total-floor-area-by-use-in-the-net-zero-scenario-2010-2030-2
+
+International Energy Agency. (2024).World energy balances.Link to source:https://www.iea.org/data-and-statistics/data-product/world-energy-balances
+
+Janssens, C. (2021, September 27).Minimum energy performance requirements for window replacement in the 28 EU member states. Glassonweb.Link to source:https://www.glassonweb.com/article/minimum-energy-performance-requirements-window-replacement-28-eu-member-states
+
+Karabay, H., & Arici, M. (2012). Multiple pane window applications in various climatic regions of Turkey.Energy and Buildings,45, 67–71.Link to source:https://doi.org/10.1016/j.enbuild.2011.10.020
+
+Krarti, M., & Ihm, P. (2016). Evaluation of net-zero energy residential buildings in the MENA region.Sustainable Cities and Society,22, 116–125.Link to source:https://doi.org/10.1016/j.scs.2016.02.007
+
+Li, N., Meng, Q., Zhao, L., Li, H., Wang, J., Zhang, N., Wang, P., & Lu, S. (2023). Thermal performance study of multiple thermal insulating glazings with polycarbonate films as interval layers.Journal of Building Engineering,76, Article 107159.Link to source:https://doi.org/10.1016/j.jobe.2023.107159
+
+Likins-White, M., Tenent, R. C., & Zhai, Z. (2023). Degradation of insulating glass units: Thermal performance, measurements and energy impacts.Buildings,13(2), Article 551.Link to source:https://doi.org/10.3390/buildings13020551
+
+Lozinsky, C. H., Casquero-Modrego, N., & Walker, I. S. (2025). The health and indoor environmental quality impacts of residential building envelope retrofits: A literature review.Building and Environment,270, Article 112568.Link to source:https://doi.org/10.1016/j.buildenv.2025.112568
+
+Magraoui, C., Derradji, L., Hamid, A., Oukaci, S., Limam, A., & Merabtine, A. (2025). A smart roller shutters control for enhancing thermal comfort and sustainable energy efficiency in office buildings.Sustainability,17(5), Article 2116.Link to source:https://doi.org/10.3390/su17052116
+
+Menzies, G. F., & Wherrett, J. R. (2005). Multiglazed windows: Potential for savings in energy, emissions and cost.Building Services Engineering Research & Technology,26(3), 249–258.Link to source:https://doi.org/10.1191/0143624405bt132tn
+
+MLI Building Products. (2023, February 27).Are glass prices set to rise in 2023?Link to source:https://www.mlibuildingproducts.co.uk/glass-prices-rise-2023/
+
+Moghaddam, S. A., Serra, C., Gameiro da Silva, M., & Simões, N. (2023). Comprehensive review and analysis of glazing systems towards nearly zero-energy buildings: Energy performance, thermal comfort, cost-effectiveness, and environmental impact perspectives.Energies,16(17), Article 6283.Link to source:https://doi.org/10.3390/en16176283
+
+Natural Resources Canada. (n.d.).Table 4.5a – Windows by region. Government of Canada. Retrieved July 23, 2025, fromLink to source:https://oee.nrcan.gc.ca/corporate/statistics/neud/dpa/showTable.cfm?type=SH&sector=aaa&juris=ca&year=2019&rn=35&page=1
+
+Owolabi, A. B., Suh, D., & Pignatta, G. (2023). Investigating the energy use in an Australian building: A case study of a west-facing apartment in Sydney.Ain Shams Engineering Journal,14(8), Article 102040.Link to source:https://doi.org/10.1016/j.asej.2022.102040
+
+Paarhammer. (n.d.). New building regulations coming soon.Paarhammer windows and doors. Retrieved August 15, 2025, fromLink to source:https://www.paarhammer.com.au/blog/new-building-regulations-coming-soon
+
+Pistochini, T., Dichter, M., Chakraborty, S., Dichter, N., & Aboud, A. (2022). Greenhouse gas emission forecasts for electrification of space heating in residential homes in the US.Energy Policy,163, Article 112813.Link to source:https://doi.org/10.1016/j.enpol.2022.112813
+
+Procurement Resource. (n.d.).Float glass price trend and forecast. Retrieved September 19, 2025, fromLink to source:https://www.procurementresource.com/resource-center/glass-price-trends
+
+Ren, Z., Wang, X., & Chen, D. (2014). Heat stress within energy efficient dwellings in Australia.Architectural Science Review,57(3), 227–236.Link to source:https://doi.org/10.1080/00038628.2014.903568
+
+Richardson, J. (2024, December 31).CO2 carbon savings of a heat pump and their environmental cost. The Renewable Energy Hub UK.Link to source:https://www.renewableenergyhub.co.uk/main/heat-pumps-information/co2-carbon-savings-of-a-heat-pump-and-their-environmental-cost#:~:text=Fluorinated%20hydrocarbons%20such%20as%20HFCs,warming%20potential
+
+Ritchie, H. (2024).Air conditioning causes around 3% of greenhouse gas emissions. How will this change in the future?Our World in Data.Link to source:https://archive.ourworldindata.org/20251125-173858/air-conditioning-causes-around-greenhouse-gas-emissions-will-change-future.html
+
+Saadatian, S., Freire, F., & Simões, N. (2021). Embodied impacts of window systems: A comparative assessment of framing and glazing alternatives.Journal of Building Engineering,35, Article 102042.Link to source:https://doi.org/10.1016/j.jobe.2020.102042
+
+Saint-Gobain. (2018).Solar & thermal 1e thermal insulation.Link to source:https://www.saint-gobain-glass.co.uk/wp-content/uploads/2022/05/Solar-Thermal-1E-Thermal-Insulation-19-09-2018.pdf
+
+Salazar, S. L., Simá, E., Vargas-López, R., Yang, R., Li, D., & Hernández-López, I. (2024). Assessing different glazing types for energy savings and CO2 reduction in a tropical climate: A comparative study.Journal of Building Engineering,82, Article 108188.Link to source:https://doi.org/10.1016/j.jobe.2023.108188
+
+Shah, B., Bhandari, M., & Tang, M. (2024). Importance of window installation in residential building envelopes having continuous external insulation in order to realize energy efficiency.Energies,17(17), Article 4273.Link to source:https://doi.org/10.3390/en17174273
+
+U.S. Energy Information Administration. (2018, May).2015 Residential Energy Consumption Survey (RECS) survey data: Housing characteristics tables - structural and geographic characteristics - by housing unit type (HC2.1). Retrieved August 15, 2025, fromLink to source:https://www.eia.gov/consumption/residential/data/2015/hc/php/hc2.1.php
+
+U.S. Energy Information Administration. (2023).Table HC2.1 Structural and geographic characteristics of U.S. homes by housing unit type, 2020.Link to source:https://www.eia.gov/consumption/residential/data/2020/hc/pdf/HC%202.1.pdf
+
+U.S. Environmental Protection Agency. (2024).Climate change indicators in the United States.Link to source:https://www.epa.gov/system/files/documents/2024-07/climate_indicators_2024.pdf
+
+U.S. Environmental Protection Agency. (2025).Power sector programs – Progress report.Link to source:https://www.epa.gov/power-sector/progress-report
+
+Yuk, H., Choi, J. Y., Yang, S., & Kim, S. (2024). Balancing preservation and utilization: Window retrofit strategy for energy efficiency in historic modern building.Building and Environment,259, Article 111648.Link to source:https://doi.org/10.1016/j.buildenv.2024.111648
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

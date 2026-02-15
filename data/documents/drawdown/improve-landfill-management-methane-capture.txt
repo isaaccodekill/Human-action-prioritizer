@@ -1,0 +1,802 @@
+# Improve Landfill Management: Methane capture
+Source: https://drawdown.org/explorer/improve-landfill-management-methane-capture
+
+Methods and Supporting Data
+
+
+## Improve Landfill Management
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Landfill management is the process of reducingmethaneemissions fromlandfill gas(LFG). As bacteria break downorganic wastein an environment without oxygen, they produce methane and release it into the atmosphere if there are no controls in place. This solution focuses on two methaneabatementstrategies: 1) methane capture/use/destruction and 2) biocovers. When methane is used or destroyed it is converted intoCO₂(Garland et al., 2023).
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Landfill management relies on several practices and technologies that prevent methane from being released into the atmosphere. When organic material is broken down, it creates LFG, which usually is half methane and half CO₂,
+ and water vapor (U.S. Environmental Protection Agency [U.S.EPA], 2024a). Methane that is directly released into the atmosphere has aGWPof 81 over a20-yr basisand a GWP of 28 over a100-yr basis(Intergovernmental Panel on Climate Change [IPCC], 2023). This means methane is 81 times more effective at trapping heat than CO₂.
+ Because methane is a short-lived climate pollutant that has a much stronger warming effect than CO₂
+ over a given time period, abating methane will have a relatively large near-term impact on slowing global climate change (International Energy Agency [IEA], 2023). LFG contains trace amounts of oxygen, nitrogen, sulfides,hydrogen, and other organic compounds that can negatively affect nearby environments with odors, acid rain, and smog (New York State Government, 2024).
+
+Methods for reducing methane emissions can be put into two broad strategies, with Figure 1 illustrating in which parts of a landfill the strategies can be used (Garland et al., 2023):
+
+GCCS and methane captureutilizes pipes to route LFG to be used as an energy source or to flare. The gas can be used on-site for landfill equipment or refined intobiomethaneand sold; unrefined LFG can also be sold to local utilities or industries for their own use. In areas where electricity generation is carbon intensive, the LFG can help to reduce local emissions by displacingfossil fuels. Methane that cannot be used for energy is burned in a flare during system downtime or at the end of the landfill life, when LFG production has decreased and collecting it no longer makes economic sense. High-efficiency (enclosed) flares have a 99% methane destruction rate. Open flares can be used but research from Plant et al. (2022) has found that the methane destruction rate in practice is much lower than the 90% value the U.S. EPA assumes.
+
+Biocoversare a type of landfill cover designed to promote bacteria that convert methane to CO₂
+ and water. Biocovers have an organic layer that provides an environment for the bacteria to grow and a gas distribution layer to separate the landfill waste from the organic layer. Non-biocover landfill covers – made with impermeable material like clay or synthetic materials – can also be used to prevent methane from being released. The methane oxidation from these covers will be minimal – they mostly serve to limit LFG from escaping – but they can then be used in conjunction with GCCS to improve gas collection. Landfills also use daily and interim landfill covers. It is important to note that studies on biocover abatement potential and cost are limited and biocovers may not be appropriate for all situations.
+
+Leak Detection and Repair(LDAR) involves regularly monitoring for methane leaks and modifying or replacing leaking equipment. LDAR does not directly reduce emissions but is used to determine where to apply the above technology and practices and is considered a critical part of methane abatement strategies. Methane can be monitored through satellites, drones, continuous sensors, or on-site walking surveys (Carbon Mapper, 2024). LDAR is an important step in identifying where methane escapes from the gas collection infrastructure or landfill cover. Quick repairs help reduceGHGemissions while allowing more methane to be used for energy or fuel. The Appendix shows where methane can escape from landfills.
+
+Figure 1.Areas where different on-site landfill methane abatement strategies can take place. Source: Garland et al. (2023)
+
+Source:Garland E., Alves O., Frankiewicz T., & Ayandele E. (2023). Mitigating landfill methane.RMI.
+
+
+## What could cause effectiveness to change?
+
+
+It would not, because effectiveness per Mt methane abated is based on methane’s global warming potential. The 100-yr and 20-yr effectiveness values are different due to methane’s short atmospheric lifetime.
+
+This is the 100-yr effectiveness of abating 1 Mt methane.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from limited expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption by 2030 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2030.
+
+This is the high end of the range for estimated achievable adoption by 2030.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+## What could cause effectiveness to change?
+
+
+It would not because effectiveness per Mt methane abated is based on methane’s global warming potential. The 100-yr and 20-yr effectiveness values are different due to methane’s short atmospheric lifetime.
+
+This is the 100-yr effectiveness of abating 1 Mt methane.
+
+
+## What is this range based on?
+
+
+We could not find sources measuring current adoption of biocovers, so we set a minimum adoption value of zero. Expert estimates determined the high level for achievable adoption by 2030 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2030.
+
+This is the high end of the range for estimated achievable adoption by 2030.
+
+The minimum adoption is zero since current adoption could not be determined.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Methane emissions from landfills can vary geographically (IPCC, 2006) since rates of organic matter decomposition and methane generation depend on climate. In practice, however, landfill management has a more significant impact on related emissions and is correlated with country income levels.
+
+Many high-income countries have landfills that are considered sanitary landfills (where waste is covered daily and isolated from the environment) and have high waste collection rates. Basic covers are placed on the landfills to reduce the risk of odor, scavenging, and wildlife accessing the waste, and regulations are in place to manage and capture LFG emissions. These landfills are better prepared to install GCCS and methane use/destruction infrastructure than are other landfills.
+
+For landfills in low- and middle-income countries, existing waste management practices and regulations vary widely. In countries such as the Dominican Republic, Guatemala, and Nigeria, waste may not be regularly collected; when it is, it is often placed in open landfills where waste lies uncovered, as documented by Ayandele et al. (2024d). This can harm the environment by attracting scavengers and pest animals to the landfill. When this occurs, methane is more easily released to the atmosphere or burned as waste. the latter process creates pollutants that impact the nearby environment and generate additional GHG emissions.
+
+Overall, managing methane emissions from landfills can be improved everywhere. In high-income countries, stronger regulations can ensure the methane generated from landfills is captured with GCCS and used or destroyed. In low- and middle-income countries, regular waste collection and storage of waste in sanitary landfills need to be implemented first before GCCS technology can be installed. Biocovers can be used around the world but may have the most impact in low- and middle-income countries that lack the expertise or infrastructure to effectively use GCCS methane use or destruction strategies (Ayandele et al., 2024d).
+
+
+## Annual emissions from solid waste disposal sites, 2024
+
+
+Landfills release methane when organic material breaks down. Globally, municipal solid waste was responsible for about 70 Mt out of the 354 Mt of anthropogenic methane emissions in 2024. This methane contributed 18% of total anthropogenic methane emissions in 2024, and is equivalent to 1,941 Mt CO2-eq based on a 100-year time scale.
+
+Raniga, K., (2024).Waste sector: Estimating CH4 emissions from solid waste disposal sites[Data set]. WattTime, Climate TRACE Emissions Inventory. Retrieved April 21, 2025 fromLink to source:https://climatetrace.org
+
+International Energy Agency. (2025).Global methane tracker 2025: Data tools.Link to source:https://www.iea.org/data-and-statistics/data-tools/methane-tracker
+
+
+## Annual emissions from solid waste disposal sites, 2024
+
+
+Landfills release methane when organic material breaks down. Globally, municipal solid waste was responsible for about 70 Mt out of the 354 Mt of anthropogenic methane emissions in 2024. This methane contributed 18% of total anthropogenic methane emissions in 2024, and is equivalent to 1,941 Mt CO2-eq based on a 100-year time scale.
+
+Raniga, K., (2024).Waste sector: Estimating CH4 emissions from solid waste disposal sites[Data set]. WattTime, Climate TRACE Emissions Inventory. Retrieved April 21, 2025 fromLink to source:https://climatetrace.org
+
+International Energy Agency. (2025).Global methane tracker 2025: Data tools.Link to source:https://www.iea.org/data-and-statistics/data-tools/methane-tracker
+
+According to the IPCC, preventing 1Mtof emitted methane avoids 81.2 MtCO₂‑eqon a 20-yrbasis and 27.9 Mt CO₂‑eq
+ on a 100-yr basis (Smith et al., 2021, Table 1). If the methane is burned (converted into CO₂), the contribution to GHG emissions is still less than that of methane released directly into the atmosphere. Methane abatement can immediately limit future global climate change because of methane’s outsized impact on global temperature change, especially when looking at a 20-yr basis.
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit: t CO₂‑eq/Mt of methane abated
+
+To abate 1 Mt of methane,GCCS and methane capturehave an initial cost of around US$410 million, an operating cost of roughly US$191 million, and revenue in the neighborhood of US$383 million. The net savings over a 30-yramortizationperiod is US$179 million. This means capturing and selling landfill methane will be a net economic gain for most landfill operators. We included LDAR operating costs in the overall operating costs for GCCS and methane use/destruction, although LDAR can be used prior to installation or with other strategies such as biocovers. We split the median costs for GCCS and methane use/destruction between 20-yr and 100-yr GWP (Table 2a).
+
+Biocovershave an initial cost to abate 1 Mt of methane around US$380 million, operating costs of roughly US$0.4 million, and revenue of about US$0 million, and an overall net cost over a 30-yr amortization period of US$13 million. This means that using biocovers to abate landfill methane has a net cost. If a carbon credit system is in place, biocovers can recoup the costs or generate profits. Biocovers are reported to have lower installation and operation costs than GCCS because they are simpler to install and maintain, and can be used where local regulations might limit a landfill operator’s ability to capture and use methane (Fries, 2020). Table 2b shows that the median costs for biocovers are split between 20-yr and 100-yr GWP.
+
+We found very limited data for the baseline scenario, which follows current practices without methane abatement. We considered the baseline costs to be zero for initial costs, operational costs, and revenue because landfills without management – such as open landfills or sanitary landfills with no methane controls – release methane as part of their regular operations, do not incur added maintenance or capital costs, and lack any energy savings from capturing and using methane.
+
+Few data were available to characterize the initial costs of implementing landfill methane capture. We referenced reports from Ayandele et al. (2024a), City of Saskatoon (2023), DeFabrizio et al. (2021), and Government of Canada (2024), but the context and underlying assumptions costs were not always clear.
+
+Landfills are typically 202–243ha(Sweeptech, 2022); however, the size can vary greatly, with the world’s largest landfill covering 890 ha (Trashcans Unlimited, 2022). Because larger landfills make more methane, facility size helps determine which methane management strategies make the most sense. We assumed the average landfill covered 243 ha when converting costs to ourcommon unit.
+
+Data on revenues from the sale of collected LFG are also limited. We found some reports of revenue generated at a municipal level or monetized benefits from GHG emission reductions priced according to a social cost of methane or carbon credit system (Abichou, 2020; Government of Canada, 2024). These values may not apply at a global scale, especially when the credits are supported by programs such as the United States’ use ofRenewableIdentification Numbers.
+
+Table 2. Cost per unit climate impact.
+
+Unit:2023 US$/t CO₂‑eq
+
+Unit:2023 US$/t CO₂‑eq
+
+Landfill GCCSs are mature; we do not foresee declining implementation costs for these solutions due to extensive use of the same installation equipment and materials in other industries and infrastructure. Automation of GCCS settings and monitoring may improve efficiencies, but installation costs will stay largely the same.
+
+Landfill covers are a mature technology, having been used to control odors, fires, litter, and scavenging since 1935 (Barton, 2020). Biocover landfill cover costs could decrease as recycled organic materials are increasingly used in their construction. It is not clear how the cost of biocovers might decrease as adoption grows.
+
+Though LDAR might provide gains around efficiencies, little research offers insights here.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Improve Landfill Management is anEMERGENCY BRAKEclimate solution. It has the potential to deliver a more rapid impact than gradual and delayed solutions. Because emergency brake solutions can deliver their climate benefits quickly, they can help accelerate our efforts to address dangerous levels of climate change. For this reason, they are a high priority.
+
+We found little literature quantifying the current adoption of LFG methane abatement. We estimate thatmethane capture/use/destruction accounts for approximately 1.6 Mt/yr of abated global methane.
+
+We did not find unaggregated data about current adoption of biocovers or global data for landfill methane abatement that we could use to allocate the contribution to each landfill methane abatement strategy. A large portion of data for current adoption is from sources focused on landfills in the United States. Around 70 Mt of methane is currently being emitted globally from landfills in 2024 (IEA, 2025; Ocko et al., 2021).
+
+Table 3a shows the statistical ranges among the sources we found for current adoption ofmethane capture/use/destruction. We were not able to find sources measuring the current adoption of biocovers and the amount of methane abated and therefore report it as not determined (Table 3b)."
+
+The U.S. EPA’s Landfill Methane Outreach Program helps reduce methane emissions from U.S. landfills. The program has worked with 535 of more than 3,000 U.S. landfills (U.S. EPA, 2024; Vasarhelyi, 2021). Global Methane Initiative (GMI) members abated 4.7 Mt of methane from 2004 to 2023 (GMI, 2024). Because GMI members cover only 70% of human-caused methane emissions overall – including wastewater and agricultural emissions this is an overestimate of current landfill methane abatement. Holley et al. (2024) determined that while some methane abatement was occuring in Mexico, only 0.13 Mt of methane was abated from 2018 to 2020, which is about 12% of Mexico’s 2021 solid waste sector methane emissions. India and Nigeria recently installed somemethane capture/use/destruction systems, but these are excluded from our analysis due to unclear data (Ayandele et al., 2024b; Ayandele et al., 2024c). Industrious Labs (2024b) found that GCCS were less common than expected – the U.S. EPA assumes a 75% gas recovery rate for well-managed landfills. A study on Maryland landfills found that only half had GCCS in place, with an average collection efficiency of 59% (Industrious Labs, 2024b).
+
+Table 3. Current (2023) adoption level.
+
+Unit:Mt/yr methane abated
+
+Unit:Mt/yr methane abated
+
+Few studies explicitly quantify the adoption of methane abatement technologies over time; we estimated the adoption trend to be 0.22 Mt/yr of methane abated – mainly frommethane capture/use/destruction. We were not able to find unaggregated data for the adoption trend of biocovers, so we estimated adoption from the U.S. EPA (2024), GMI (2024), Industrious Labs (2024b), and Van Dingenen et al. (2018). The U.S. EPA (2024) provided adoption data for a limited number of U.S. landfills that showed increasing methane abatement 2000–2013, a plateau 2013–2018, and slower progress 2018–2023 (Figure 2).
+
+GMI (2024) show a gradual increase in methane abatement 2011–2022. However, these data do not differentiate landfill methane abatement from other abatement opportunities, and even include wastewater systems and agriculture. When the GMI (2024) data are used to estimate adoption trends, they result in an overestimate. Van Dingenen et al. (2018) attributed a decreasing trend in landfill methane emissions 1990–2012 to landfill regulations implemented in the 1990s. Table 4a shows statistical ranges among the sources we found for the adoption trend of landfill methane strategies. Due to a lack of sources, we assume a zero value for the adoption trend of biocovers (and the amount of methane abated) as shown in Table 4b.
+
+Table 4. 2011–2022 adoption trend.
+
+Unit: Mt/yr methane abated
+
+Unit: Mt/yr methane abated
+
+GCCS and methane capturehave an estimatedadoption ceilingof 70 Mt/yr of methane abated based on the IEA’s (2025) estimate for methane emissions from the landfill waste sector. We assumed that current landfill methane emissions would remain the same into the future with no changes in waste produced or waste diversion employed.
+
+Biocovershave an estimated adoption ceiling of 70 Mt/yr of methane based on the IEA’s (2025) estimate for methane emissions from the landfill waste sector. We assumed that current landfill methane emissions would remain the same into the future with no changes in waste produced or waste diversion employed.
+
+The maximum possible abatement of LFG methane critically depends on the efficiency of the abatement technology; Powell et al. (2015) found that closed landfills (those not actively receiving new waste) were 17% more efficient than open landfills. Even so, research from Nesser et al. (2024) found that the gas capture efficiency among United States landfills was significantly lower than U.S. EPA assumptions – closer to 50% rather than 75%. Industrious Labs (2024b) found that landfill methane emissions could be reduced by up to 104 Mt of methane 2025–2050. Using biocovers and installing GCCS earlier (with consistent operation standards) may help reduce emissions throughout the landfill’s lifespan. Tables 5a and 5b show the adoption ceiling for GCCS and methane use/destruction strategies, and for biocovers when used separately.
+
+Table 5. Adoption ceiling.
+
+Unit:Mt/yr methane abated
+
+Unit:Mt/yr methane abated
+
+The amount of methane that can be abated from landfills is highly uncertain due to the difficulty in quantifying where and how much methane is emitted and how much of those emissions can be abated.
+
+GCCS and methane capture strategieshave an achievable adoption range of 5–35 Mt/yr of methane (Table 6a). These values are aligned with estimates from DeFabrizio et al. (2021) and Scharff et al. (2023) for landfill methane abatement.
+
+Biocovershave an achievable adoption range of 35–57 Mt/yr of methane (Table 6b). This value is aligned with estimates of biocover gas destruction efficiency from Duan et al. (2022) and Scheutz et al. (2014).
+
+The use of these methane abatement strategies would still release around 13–65 Mt/yr of methane into the atmosphere (IEA, 2025). The amount of methane abated from both GCCS and methane use/destruction strategies and biocovers will vary with what kind of waste reduction and organic diversion is used (which can increase or decrease depending on the amount of organics sent to landfills).
+
+We referenced CCAC (2024), U.S. EPA (2011), Fries (2020), Industrious Labs (2024b), Lee et al. (2017), and Sperling Hansen (2020) when looking at the achievable adoption for global landfill methane abatement. Several resources focused on landfills in Canada, Denmark, South Korea, and the United States. We based the adoption achievable for biocovers only on sources that include the percentage of gas capture (destruction) efficiency over landfill sites. We exclude studies that include the percentage ofbiogasoxidized because they focus on specific areas where biocovers were applied. It is important to note that biocovers do not capture methane – they destroy it through methane oxidation. In addition, biocovers’ gas capture efficiency will not reach its optimal rate until the bacteria establishes. It may take up to three months (Stern et al., 2007) for methane oxidation rates to stabilize, and – because environmental changes can impact the bacteria’s methane oxidation rate – the value presented here likely overestimates biocover methane abatement potential in practice. Stern et al. (2007) found that biocovers can be a methane sink and oxidation rates of 100% have been measured at landfills.
+
+Few studies have examined how methane abatement is affected when all strategies are combined. A single landfill’s total methane abatement would likely increase with each added strategy, the total methane abatement is not expected to be additive between the strategies. For example, If a GCCS system can capture a large portion of LFG methane, then adding a biocover to the same landfill will play a reduced role in methane abatement. The values presented do not consider which geographies are best suited for specific methane abatement strategies. Compared with reality, those values may appear generous.
+
+Long-term landfill methane abatement will be necessary to manage emissions from previously deposited organic waste. Strong regulations for waste management can encourage methane abatement strategies at landfills and/or reduce the amount of organics sent their way. The infrastructure for these methane abatement strategies can still be employed in geographies without strong regulations. Tables 6a and 6b show the statistical low and high achievable ranges for GCCS and methane use/destruction strategies and for biocovers (when used separately) based on different reported sources for adoption ceilings.
+
+Table 6. Range of achievable adoption levels.
+
+Unit:Mt/yr methane abated
+
+Unit:Mt/yr methane abated
+
+Landfill methane abatement has a high potential for climate impact.
+
+GCCS and methane capture strategiescan significantly reduce landfill GHG emissions (Table 7a).
+
+Biocoverscan be a useful strategy for controlling LFG methane (Table 7b) because they can oxidize methane in areas where GCCS and methane use/destruction strategies are not applicable. In addition, this strategy can help destroy methane missed from GCCS and even remove methane from the atmosphere (Stern et al., 2007). The lower cost for installation and operation when compared to installing GCCS systems and increased applicability at landfills large and small are encouraging factors for broadening their use around the world.
+
+LDAR can help identify methane leaks,allowing for targeted abatement (Industrious Labs, 2024a).
+
+Research has not quantified how methane abatement is affected by combining these strategies. We anticipate that the total methane abatement would increase with each additional strategy, but we do not expect them to be additive. The general belief is that biocovers are useful for reducing methane emissions in areas where a GCCS cannot be installed and will also help to remove residual methane emissions from GCCS systems. If there is a large increase in waste diversion, the abatement potential could be 0.13–1.59GtCO₂‑eq/yr
+ for landfill methane abatement (DeFabrizio et al, 2021; Duan et al., 2022). In this scenario there will also be reduced sources of revenue due to lower LFG methane production affecting the economics.
+
+UNEP(2021) underscored the need for additional methane measures to stay aligned with 1.5 °C scenarios. Meeting these goals requires the implementation of landfill GCCS and biocovers as well as improved waste diversion strategies – such as composting or reducingfood loss and waste– to reduce methane emissions. The amount of landfill methane available to abate will grow or shrink depending on the amount of organic waste sent to landfills. Previously deposited organic waste will still produce methane for many years and will still require methane abatement.
+
+Table 7. Climate impact at different levels of adoption.
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Unit: Gt CO₂‑eq/yr,
+ 20-yr basis
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Unit: Gt CO₂‑eq/yr,
+ 20-yr basis
+
+Generating electricity from LFG can create local jobs in drilling, piping, design, construction, and operation of energy projects. In the United States, LFG energy projects can create 10–70 jobs per project (EPA, 2024b).
+
+Landfill emissions can contribute to health issues such as cancer, respiratory and neurological problems, low birth weight, and birth defects (Brender et al., 2011; Industrious Labs, 2024a; Siddiqua et al. 2022). By reducing harmful air pollutants, capturing landfill methane emissions minimizes the health risks associated with exposure to these toxic landfill compounds. Capturing LFG can reduce malodorous landfill emissions – pollutants such as ammonia and hydrogen sulfide – that impact human well-being (Cai et al., 2018).
+
+Landfill management practices that reduce community exposure to air pollution have implications for environmental justice (Casey et al., 2021). A large review of waste sites in the United States and Europe found that landfills are disproportionately located near low-income communities and near neighborhoods with racially and ethnically marginalized populations (Marzutti et al., 2010). Reducing disproportionate exposures to air pollution from landfills may reduce poor health outcomes in surrounding communities (Brender et al., 2011).
+
+Using LFG for energy in place of othernon-renewablesources – such as coal or fuel oil – reduces emissions of air pollutants such assulfur dioxide, nitrous oxides, andparticulate matter(EPA, 2024b; Siddiqua et al., 2022). Untreated LFG is also a source ofvolatile organic compounds(VOCs) in low concentrations. Capturing and burning LFG to generate electricity reduces the hazards of these air pollutants. Methane emissions can contribute to landfill fires, which pose risks to the health and safety of nearby communities by releasingblack carbonandcarbon monoxide(Global Climate & Health Alliance [GCHA], 2024). Reducing landfill fires by capturing methane can also help improve local air quality. Landfill methane emissions can contribute to ozone pollution, particularly when other non-methane ozone precursors are present (Olaguer, 2021).
+
+Approximately 61% of methane generated fromfood wastehappens within 3.6 years of being landfilled (Krause, et al., 2023). In the United States, the EPA requires GCCS to be installed after five years of the landfill closing, meaning that much of the food waste methane will evade GCCS before it is installed (Industrious Labs, 2024b). In contrast, biocovers can quickly (up to three months) reduce methane emissions once the bacteria have established (Stern et al., 2007). GCCS and biocovers should be installed as soon as possible to capture as much of the early methane produced from food waste. Due to unstable methane production during early- and end-of-life gas production, low-calorific flares or biocovers may be needed to destroy any poor-quality gas that has collected. Strategies that prevent organic waste from being deposited at landfills are captured in other Project Drawdown solutions:Deploy Methane Digesters,Increase Composting, andReduce Food Loss & Waste.
+
+Theeffectivenessof landfill management depends on methane capture and destruction efficiency. The U.S. EPA previously assumed methane capture efficiency to be 75% and then revised it to 65%; however, the actual recovery rate in the United States is closer to 43% (Industrious Labs, 2024b).
+
+Our assessment does not include the impact of the CO₂
+ created from the destruction of methane.
+
+GCCS can be voluntarily implemented with sufficient methane generated by the landfill and favorablenatural gasprices, but when natural gas prices are low, it makes less economic sense (IEA, 2021). There is also a risk of encouraging organics to be sent to landfills in order to maintain methane capture rates. Reducing the amount of waste made in the first place will allow us to better utilize our resources and for the organic waste that is created; it can be better served with waste diversion strategies such as composting or methane digesters.
+
+Without policy support, regulation, carbon pricing mechanism, or other economic incentives – biocover adoption may be limited by installation costs. Some tools (like the United Nations’ clean development mechanism) encourage global landfill methane abatement projects. There have been criticisms of this mechanism’s effectiveness for failing to support waste diversion practices and focusing solely on GCCS and incinerator strategies (Tangri, 2010). Collected LFG methane can be used to reduce GHG emissions forhard to abatesectors but continued reliance on methane for industries where it is easier to switch to clean alternatives could encourage new natural gas infrastructure to be built which risks becoming a stranded asset and locking infrastructure to emitting forms of energy (Auth & Kincer, 2022).
+
+Landfill management strategies outlined in this solution can help to reduce methane emissions that reach the atmosphere. However, the methane used as fuel or destroyed will still emit GHGs. Strategies to capture CO₂
+ emissions from methane use will be needed to avoid adding any GHG emissions to the atmosphere. Research on this topic takes global methane emissions from landfills in 2023, and assumes they were fully combusted and converted to CO₂
+ emissions.
+
+Landfill management can have areinforcingimpact on other solutions that reduce the amount of methane released to the atmosphere. By using strategies like GCCS, methane destruction, and LDAR, the landfill waste sector can help demonstrate the effectiveness and economic case for abating methane. This would build momentum for widespread adoption of methane abatement because successes in this sector can be leveraged in others as well. For example, processes and tools for identifying methane leaks are useful beyond landfills; LDAR as a key strategy for identifying methane emissions can be applied and studied more widely.
+
+Manage Coal Mine Methane
+
+Manage Oil & Gas Methane
+
+Landfill management can have a competing impact with solutions that provide clean electricity. Capturing methane uses natural gas infrastructure and can reduce the cost of using methane and natural gas as a fuel source. As a result, it could prolong the use of fossil fuels and slow down the transition to clean electricity sources.
+
+Deploy Distributed Solar PV
+
+Deploy Geothermal Power
+
+Deploy Offshore Wind Turbines
+
+Deploy Onshore Wind Turbines
+
+Deploy Utility-Scale Solar PV
+
+Deploy Concentrated Solar
+
+Deploy Small Hydropower
+
+Deploy Solar Hot Water
+
+Reducing the release of landfill methane will mean that solutions which divert organic waste from landfills will be less effective relative to landfill disposal.
+
+Increase Centralized Composting
+
+
+## Consensus of effectiveness in abating landfill methane emissions: High
+
+
+There is a high consensus that methane abatement technologies are effective; they can often be deployed cost effectively with an immediate mitigating effect on climate change.
+
+Though many strategies are universally agreed-upon as effective, waste management practices vary between countries from what we found in our research. China, India, and the United States are the three largestG20generators ofmunicipal solid waste, though much of the data used in our assessment are from Western countries (Zhang, 2020). Ocko et al. (2021) found that economically feasible methane abatement options (including waste diversion) could reduce 80% of landfill methane emissions from 2020 levels by 2030. Methane abatement can reduce methane emissions from existing organic waste – which Stone (2023) notes can continue for more than 30 years.
+
+Scharff et al. (2023) found capture efficiencies of 10–90% depending on the LFG strategy used. They compared passive methods, late control of the landfill life, and early gas capture at an active landfill. The U.S. EPA (Krause et al., 2023) found that 61% of methane generated by food waste – which breaks down relatively quickly – evades gas capture systems at landfills. This illustrates how early installation of these capture systems can greatly help reduce the total amount of methane emitted from landfills. The U.S. EPA findings also highlight the potential impact of diverting organic waste from landfills, preventing LFG from being generated in the first place.
+
+Ayandele et al. (2024c) found that the working face of a landfill can be a large source of LFG and suggest that timely landfill covers – biocover-style or otherwise – can reduce methane released; timing of abatement strategies is important. Daily and interim landfill covers can prevent methane escape before biocovers are installed.
+
+Biocovers have a reported gas destruction rate of 26–96% (U.S. EPA, 2011; Lee et al., 2017). They could offer a cost-effective way to manage any LFG that is either missed by GCCS systems or emitted in the later stages of the landfill when LFG production decreases and is no longer worth capturing and selling (Martin Charlton Communications, 2020; Nisbet et al., 2020; Sperling Hansen Associates, 2020). Biocovers can also be applied soon after organic waste is deposited at a landfill as daily or interim covers where it is not as practical to install GCCS infrastructure and gas production has not yet stabilized (Waste Today, 2019). Scarapelli et al. (2024) found in the landfills they studied that emissions from working faces are poorly monitored and 79% of the observed emissions originated from landfill work faces. Covering landfill waste with any type of landfill cover (biocover or not), will reduce the work face emissions.
+
+LDAR can reduce landfill methane emissions by helping to locate the largest methane leaks and so allowing for more targeted abatement strategies. LDAR can also help identify leaks in landfill covers or in the GCCS infrastructure (Industrious Labs, 2024a).
+
+The results presented in this document summarize findings from 24 reviews and meta-analyses and 26 original studies reflecting current evidence from six countries, Canada, China, Denmark, Mexico, South Korea, and the United States, and from sources examining global landfill methane emissions. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Set standards for landfill emissions and goals for reductions.
+
+Improve LDAR and emissions estimates by setting industry standards and investing in public research.
+
+Mandate early installation of landfill covers and/or GCCSs for new landfills; mandate immediate installation for existing landfills.
+
+Set standards for landfill covers and GCCS.
+
+Invest in infrastructure to support biogas production and utilization.
+
+Regulate industry practices for timely maintenance, such as wellhead turning and equipment monitoring.
+
+Set standards for methane destruction, such as high-efficiency flares.
+
+Conduct or fund research to fill the literature gap on policy options for landfill methane.
+
+Reduce public food waste and loss, invest in infrastructure to separate organic waste before reaching the landfill (see ReduceFood Lossand Waste, Increase Composting, and Deploy Methane Digesters solutions).
+
+Mitigating landfill methane. Garland et al. (2023)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Basic information about landfill gas. U.S. EPA (2024)
+
+Benefits of landfill gas energy projects. U.S. EPA (2024)
+
+Improve LDAR at landfills for surface andfugitive emissions.
+
+Install landfill biocovers as well as GCCSs.
+
+Invest in infrastructure to support biogas production and utilization.
+
+Ensure timely maintenance, such as wellhead turning and equipment monitoring.
+
+Improve methane destruction practices, such as using high-efficiency flares.
+
+Set goals to reduce landfill methane emissions from operations and help set regional, national, international, and industry reduction goals.
+
+Conduct, contribute to, or fund research on technical solutions (e.g., regional abatement strategies) and policy options for landfill methane.
+
+Separate food and organic waste from non-organic waste to create separate disposal streams (seeReduce Food Loss & Waste,Increase Centralized Composting, andDeploy Methane Digesterssolutions).
+
+Mitigating landfill methane. Garland et al. (2023)
+
+Basic information about landfill gas. U.S. EPA (2024)
+
+Benefits of landfill gas energy projects. U.S. EPA (2024)
+
+Contract with waste collection facilities that utilize methane reduction strategies such as landfill covers, GCCSs, and robust monitoring systems.
+
+Require suppliers to meet standards for low-carbon waste management.
+
+If your company participates in the voluntarycarbon market, fund high-integrity projects that reduce landfill emissions.
+
+Proactively collaborate with government and regulatory actors to support policies that abate landfill methane.
+
+Reduce your company’s food waste and loss (seeReduce Food Loss & Waste,Increase Centralized Composting, andDeploy Methane Digesterssolutions).
+
+Mitigating landfill methane. Garland et al. (2023)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Basic information about landfill gas. U.S. EPA (2024)
+
+Benefits of landfill gas energy projects. U.S. EPA (2024)
+
+Contract with waste collection facilities that utilize methane reduction strategies such as landfill covers, GCCSs, and robust monitoring systems.
+
+Assist with monitoring and estimating landfill emissions.
+
+Help design policies and regulations that support landfill methane abatement.
+
+Publish research on policy options for landfill methane abatement.
+
+Join or support efforts such as theGlobal Methane Alliance.
+
+Encourage policymakers to create ambitious targets and regulations.
+
+Pressure landfill companies and operators to improve their practices.
+
+Reduce your organization’s food waste and loss, separate organic waste from other forms, and compost organic waste (seeReduce Food Loss & Waste,Increase Centralized Composting, andDeploy Methane Digesterssolutions).
+
+Mitigating landfill methane. Garland et al. (2023)
+
+Basic information about landfill gas. U.S. EPA (2024)
+
+Benefits of landfill gas energy projects. U.S. EPA (2024)
+
+Contract with waste collection facilities that utilize methane reduction strategies such as landfill covers, GCCSs, and robust monitoring systems.
+
+Invest in projects that abate landfill methane emissions.
+
+Pressure and influence private landfill operators within investment portfolios to implement methane abatement strategies, noting that some strategies, such as selling captured methane, can be sources of revenue and add value forinvestors.
+
+Pressure and influence other portfolio companies to incorporate waste management and landfill methane abatement into their operations and/or net-zero targets.
+
+Provide capital for nascent or regional landfill methane abatement technologies and LDAR instruments.
+
+Seek impact investment opportunities, such as sustainability-linked loans in entities that set landfill methane abatement targets.
+
+Reduce your company’s food waste and loss, separate organic waste from other forms, and compost organic waste (seeReduce Food Loss & Waste,Increase Centralized Composting, andDeploy Methane Digesterssolutions).
+
+Mitigating landfill methane. Garland et al. (2023)
+
+Basic information about landfill gas. U.S. EPA (2024)
+
+Benefits of landfill gas energy projects. U.S. EPA (2024)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Contract with waste collection facilities that utilize methane reduction strategies such as landfill covers, GCCSs, and robust monitoring systems.
+
+Provide capital for methane monitoring, de-risking, and abatement in the early stages of implementing landfill methane reduction technologies.
+
+Support global, national, and local policies that reduce landfill methane emissions.
+
+Support accelerators or multilateral initiatives like theGlobal Methane Hub.
+
+Explore opportunities to fund landfill methane abatement strategies such as landfill covers, GCCSs, proper methane destruction, monitoring technologies, and other equipment upgrades.
+
+Advance awareness of the air quality, public health, and climate benefits of landfill methane abatement.
+
+Reduce your organization’s food waste and loss, separate organic waste from other forms, and compost organic waste (seeReduce Food Loss & Waste,Increase Centralized Composting, andDeploy Methane Digesterssolutions).
+
+Mitigating landfill methane. Garland et al. (2023)
+
+Basic information about landfill gas. U.S. EPA (2024)
+
+Benefits of landfill gas energy projects. U.S. EPA (2024)
+
+If applicable, contract with waste collection facilities that utilize methane reduction strategies such as landfill covers, GCCSs, and robust monitoring systems.
+
+Provide technical assistance (e.g., monitoring and reporting landfill emissions) to businesses, government agencies, and landfill operators working to reduce methane emissions.
+
+Help design policies and regulations that support landfill methane abatement.
+
+Educate the public on the urgent need to abate landfill methane.
+
+Join or support joint efforts such as theGlobal Methane Alliance.
+
+Advocate to policymakers for more ambitious targets and regulations for landfill emissions.
+
+Pressure landfill operators to improve their practices.
+
+Reduce your food waste and loss, separate organic waste from other forms, and compost organic waste (seeReduce Food Loss & Waste,Increase Centralized Composting, andDeploy Methane Digesterssolutions).
+
+Mitigating landfill methane. Garland et al. (2023)
+
+Basic information about landfill gas. U.S. EPA (2024)
+
+Benefits of landfill gas energy projects. U.S. EPA (2024)
+
+
+## Technologists and Researchers
+
+
+Develop new LDAR technologies that reduce cost and required capacity.
+
+Develop new biocover technologies sensitive to regionalsupply chainsand/or availability of materials.
+
+Improve methane destruction practices to reduce CO₂
+ emissions.
+
+Research and improve estimates of landfill methane emissions.
+
+Create new mechanisms to reduce public food waste and loss, and separate organic waste from landfill waste (seeReduce Food Loss & Waste,Increase Centralized Composting, andDeploy Methane Digesterssolutions).
+
+Mitigating landfill methane. Garland et al. (2023)
+
+Basic information about landfill gas. U.S. EPA (2024)
+
+Benefits of landfill gas energy projects. U.S. EPA (2024)
+
+
+## Communities, Households, and Individuals
+
+
+If possible, contract with waste collection facilities that utilize methane reduction strategies such as landfill covers, GCCSs, and robust monitoring systems.
+
+If harmful landfill management practices impact you, document your experiences.
+
+Share documentation of harmful practices and/or other key messages with policymakers, the press, and the public.
+
+Advocate to policymakers for more ambitious targets and regulations for landfill emissions.
+
+Support public education efforts on the urgency and need to address landfill methane.
+
+Reduce your food waste and loss, separate organic waste from other forms, and compost organic waste (seeReduce Food Loss & Waste,Increase Centralized Composting, andDeploy Methane Digesterssolutions).
+
+Mitigating landfill methane. Garland et al. (2023)
+
+Basic information about landfill gas. U.S. EPA (2024)
+
+Benefits of landfill gas energy projects. U.S. EPA (2024)
+
+
+## “Take Action” Sources
+
+
+Features: ﻿landfill biocovers. Association of Professional Engineers and Geoscientists of Saskatchewan (2020)
+
+If it matters, measure it: a review of methane sources and mitigation policy in Canada. Dobson et al. (2023)
+
+Mitigating landfill methane. Garland et al. (2023)
+
+A comprehensive model for promoting effective decision-making and sustained climate change stabilization for South Africa. Gómez-Sanabria et al. (2024)
+
+Global methane tracker 2021: methane abatement and regulation. IEA (2021)
+
+Important things to know about landfill gas. New York State Government (2024)
+
+Methane mitigation: Methods to reduce emissions, on the path to the Paris Agreement. Nisbet et al. (2023)
+
+The impact of landfill management approaches on methane emissions. Scharff et al. (2023)
+
+Chapter 3: solid waste disposal.Towprayoon et al. (2019)
+
+Basic information about landfill gas. U.S. EPA (2024)
+
+Benefits of landfill gas energy projects. U.S. EPA (2024)
+
+Policy maker’s handbook for measurement, reporting, and verification in the biogas sector. U.S. EPA (2022)
+
+Methods and Supporting Data
+
+Abichou, T. (2020). Using methane biological oxidation to partially finance sustainable waste management systems and closure of dumpsites in the Southern Mediterranean region.Euro-Mediterranean Journal for Environmental Integration.Link to source:https://doi.org/10.1007/s41207-020-00157-z
+
+Auth, K., & Kincer, J. (2022). Untangling ‘stranded assets’ and ‘carbon lock-in.’Energy for Growth Hub.Link to source:https://energyforgrowth.org/article/untangling-stranded-assets-and-carbon-lock-in/
+
+Ayandele, E., Bodas, J., Gautam, S., & Velijala, V. (2024c). Sustainable organic waste management: A playbook for Lucknow, India.RMI.Link to source:https://www.teriin.org/policy-brief/sustainable-organic-waste-management-playbook-lucknow-india
+
+Ayandele, E., Bodas, J., Krishnakumar, A., & Orakwe, L. (2024b). Mitigating methane emissions from municipal solid waste: A playbook for Lagos, Nigeria.RMI.Link to source:https://rmi.org/insight/waste-methaneassessment-platform/
+
+Ayandele, E., Frankiewicz, T., & Garland, E. (2024a). Deploying advanced monitoring technologies at US landfills.RMI.Link to source:https://rmi.org/wp-content/uploads/dlm_uploads/2024/03/wasteMAP_united_states_playbook.pdf
+
+Ayandele, E., Frankiewicz, T., & Wu, Y. (2024d). A playbook for municipal solid waste methane mitigation.RMI.Link to source:https://rmi.org/wp-content/uploads/dlm_uploads/2024/03/wastemap_global_strategy_playbook.pdf
+
+Barton, D. (2020).Fourth five-year review report for Fresno municipal sanitary landfill superfund site Fresno county, California. U.S. Environmental Protection Agency.Link to source:https://semspub.epa.gov/work/09/100021516.pdf
+
+Brender, J. D., Maantay, J. A., Chakraborty, J. (2011). Residential proximity to environmental hazards and adverse health outcomes.American Journal of Public Health, 101(S1).Link to source:https://pmc.ncbi.nlm.nih.gov/articles/PMC3222489/pdf/S37.pdf
+
+Cai, B., Lou, Z., Wang, J., Geng, Y., Sarkis, J., Liu, J., & Gao, Q. (2018). CH4mitigation potentials from China landfills and related environmental co-benefits.Science Advances, 4(7).Link to source:https://doi.org/10.1126/sciadv.aar8400
+
+Carbon Mapper (2024, March 28).Study finds landfill point source emissions have an outsized impact and opportunity to tackle U.S. waste methane.Link to source:https://carbonmapper.org/articles/studyfinds-landfill
+
+Casey, J. A., Cushing, L., Depsky, N., & Morello-Frosch, R. (2021). Climate justice and California's methane superemitters: Environmental equity assessment of community proximity and exposure intensity.Environmental Science & Technology, 55(21), 14746–14757.Link to source:https://doi.org/10.1021/acs.est.1c04328
+
+City of Saskatoon. (2023).Landfill gas collection & power generation system. Retrieved September 2, 2024.Link to source:https://www.saskatoon.ca/services-residents/power-water-sewer/saskatoon-light-power/sustainable-electricity/landfill-gas-collection-power-generation-system
+
+DeFabrizio, S., Glazener, W., Hart, C., Henderson, K., Kar, J., Katz, J., Pratt, M. P., Rogers, M., Ulanov, A., & Tryggestad, C. (2021). Curbing methane emissions: How five industries can counter a major climate threat. McKinsey Sustainability.Link to source:https://www.mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/curbing%20methane%20emissions%20how%20five%20industries%20can%20counter%20a%20major%20climate%20threat/curbing-methane-emissions-how-five-industries-can-counter-a-major-climate-threat-v4.pdf
+
+Dobson, S., Goodday, V., & Winter, J. (2023). If it matters, measure it: A review of methane sources and mitigation policy in Canada.International Review of Environmental and Resource Economics,16(3-4), 309–429.Link to source:https://doi.org/10.1561/101.00000146
+
+Fries, J. (2020, March 26). Unique landfill gas solution found.Penticton Herald.Link to source:https://www.pentictonherald.ca/news/article_874b5c9c-6fb5-11ea-87ce-2b2aedf77300.html
+
+Garland E., Alves O., Frankiewicz T., & Ayandele E. (2023). Mitigating landfill methane.RMI.Link to source:https://rmi.org/wp-content/uploads/dlm_uploads/2023/06/landfill_monitoring_memo_series.pdf
+
+Global Climate & Health Alliance. (2024).Methane & health. Retrieved September 24, 2024.Link to source:https://climateandhealthalliance.org/initiatives/methane-health/
+
+Global Methane Initiative. (2022).Policy maker’s handbook for measurement, reporting, and verification in the biogas sector.Link to source:https://www.globalmethane.org/resources/details.aspx?resourceid=5182
+
+Global Methane Initiative (2024). 2023 accomplishments in methane mitigation, recovery, and use through U.S.-supported international efforts.Link to source:https://www.epa.gov/gmi/us-government-global-methane-initiative-accomplishments
+
+Global Methane Pledge (2023).Lowering organic waste methane initiative (LOW-Methane). Retrieved March 6, 2025.Link to source:https://www.globalmethanepledge.org/news/lowering-organic-waste-methane-initiative-low-methane
+
+Gómez-Sanabria, A., & Höglund-Isaksson, L. (2024).A comprehensive model for promoting effective decision-making and sustained climate change stabilization for South Africa. International Institute for Applied Systems Analysis.Link to source:https://pure.iiasa.ac.at/id/eprint/19897/1/Final_Report_SAFR.pdf
+
+Government of Canada. (2024).Canada gazette, part I, volume 158, number 26: Regulations respecting the reduction in the release of methane (waste sector). Retrieved September 2, 2024.Link to source:https://canadagazette.gc.ca/rp-pr/p1/2024/2024-06-29/html/reg5-eng.html
+
+Industrious Labs. (2024a).The hidden cost of landfills.Link to source:https://cdn.sanity.io/files/xdjws328/production/657706be7f29a20fe54692a03dbedce8809721e8.pdf
+
+Industrious Labs. (2024b).Turning down the heat: How the U.S. EPA can fight climate change by cutting landfill emissions.Link to source:https://cdn.sanity.io/files/xdjws328/production/b562620948374268b8c6da61ec1c44960a8d5879.pdf
+
+Intergovernmental Panel on Climate Change. (2023). Sixth assessment report (AR6).Link to source:https://www.ipcc.ch/assessment-report/ar6/
+
+International Energy Agency. (2021). Global methane tracker 2021: Methane abatement and regulation.Link to source:https://www.iea.org/reports/methane-tracker-2021/methane-abatement-and-regulation
+
+International Energy Agency. (2023). Net zero roadmap: A global pathway to keep the 1.5℃ goal in reach - 2023 update.Link to source:https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-0c-goal-in-reach
+
+International Energy Agency. (2025). Methane tracker: Data tools.Link to source:https://www.iea.org/data-and-statistics/data-tools/methane-tracker
+
+IPCC (2006). 2006 IPCC guidelines for national greenhouse gas inventories volume 5 waste.Link to source:https://www.ipcc-nggip.iges.or.jp/public/2006gl/vol5.html
+
+Krause, M. Kenny, S., Stephensons, J. & Singleton, A (2023).Food waste management: Quantifying methane emissions from landfilled food waste. U.S. Environmental Protection Agency.Link to source:https://www.epa.gov/system/files/documents/2023-10/food-waste-landfill-methane-10-8-23-final_508-compliant.pdf
+
+Malley, C. S., Borgford-Parnell, N. Haeussling, S., Howard, L. C., Lefèvre E. N., & Kuylenstierna J. C. I. (2023). A roadmap to achieve the global methane pledge.Environmental Research: Climate, 2(1).Link to source:https://doi.org/10.1088/2752-5295/acb4b4
+
+Martin Charlton Communications. (2020). Features: ﻿Landfill biocovers.APEGS.Link to source:https://www.apegs.ca/features-landfill-biocovers
+
+Martuzzi, M., Mitis, F., & Forastiere, F. (2010). Inequalities, inequities, environmental justice in waste management and health.European Journal of Public Health, 20(1), 21–26.Link to source:https://doi.org/10.1093/eurpub/ckp216
+
+MethaneSAT. (n.d.).Solving a crucial climate challenge. Retrieved September 2, 2024.Link to source:https://www.methanesat.org/satellite/
+
+Nesser, H., Jacob, D. J., Maasakkers, J. D., Lorente, A., Chen, Z., Lu, X., Shen, L., Qu, Z., Sulprizio, M. P., Winter, M., Ma, S., Bloom, A. A., Worden, J. R., Stavins, R. N., & Randles, C. A. . (2024). High-resolution US methane emissions inferred from an inversion of 2019 TROPOMI satellite data: Contributions from individual states, urban areas, and landfills.Atmospheric Chemistry and Physics,24, 5069–5091.Link to source:https://doi.org/10.5194/acp-24-5069-2024
+
+New York State Government. (2024).Important things to know about landfill gas. Retrieved September 3, 2024.Link to source:https://www.health.ny.gov/environmental/outdoors/air/landfill_gas.htm
+
+Nisbet, E. G., Fisher, R. E., Lowry, D., France, J. L., Allen, G., Bakkaloglu, S., Broderick, T. J., Cain, M., Coleman, M., Fernandez, J., Forster, G., Griffiths, P. T., Iverach, C. P., Kelly, B. F. J., Manning, M. R., Nisbet-Jones, P. B. R., Pyle, J. A., Townsend-Small, A., al-Shalaan, A., Warwick, N., & Zazeri, G. (2020). Methane mitigation: Methods to reduce emissions,on the path to the Paris agreement.Review of Geophysics, 58(1).Link to source:https://doi.org/10.1029/2019RG000675
+
+Ocko, I. B., Sun, T., Shindell, D., Oppenheimer, M. Hristov, A. N., Pacala, S. W., Mauzerall, D. L., Xu, Y. & Hamburg, S. P. (2021). Acting rapidly to deploy readily available methane mitigation measures by sector can immediately slow global warming.Environmental Research, 16(5).Link to source:https://doi.org/10.1088/1748-9326/abf9c8
+
+Olaguer, E. P. (2021). The potential ozone impacts of landfills.Atmosphere, 12(7), 877.Link to source:https://doi.org/10.3390/atmos12070877
+
+Plant, G., Kort, E. A., Brandt, A. R., Chen, Y., Fordice, G., Negron, A. M. G., Schwietzke, S., Smith, M., & Zavala-araiza, D. (2022). Estimates of solid waste disposal rates and reduction targets for landfill gas emissions.Science,377(6614), 1566–1571.Link to source:https://doi.org/10.1126/science.abq0385
+
+Powell J. T., Townsend, T. G., & Zimmerman, J. B. (2015). Estimates of solid waste disposal rates and reduction targets for landfill gas emissions.Nature Climate Change,6, 162-165.Link to source:https://www.nature.com/articles/nclimate2804
+
+Raniga, K., (2024).Waste Sector: Estimating CH4 Emissions from Solid Waste Disposal Sites[Data set]. WattTime, Climate TRACE Emissions Inventory. Retrieved April 21, 2025, fromLink to source:https://climatetrace.org
+
+SaveOnEnergy. (2024).Landfills: The truths about trash dumps by the numbers. Retrieved September 2, 2024, fromLink to source:https://www.saveonenergy.com/resources/landfill-statistics/
+
+Scarapelli, T. R., Cusworth, D. H., Duren, R. M., Kim, J., Heckler, J., Asner, G. P., Thoma, E., Krause, M. J., Heins, D., & Thorneloe, S. (2024). Investigating major sources of methane emissions at US landfills.Environmental Science & Technology.58(29).Link to source:https://doi.org/10.1021/acs.est.4c07572
+
+Scharff, H. Soon, H., Taremwa, S. R., Zegers, D., Dick, B., Zanon, T. V. B., & Shamrock, J. (2023). The impact of landfill management approaches on methane emissions.Waste Management & Research.Link to source:https://doi.org/10.1177/0734242X231200742
+
+Scheutz, C., Pedersen, R. B., Petersen, P. H., Jørgensen, J. H. B., Ucendo, I. M. B., Mønster, J. G., Samuelsson, J., Kjeldsen, P. (2014). Mitigation of methane emission from an old unlined landfill in Klintholm, Denmark using a passive biocover system.Waste Management.34(7), 1179–1190.Link to source:https://doi.org/10.1016/j.wasman.2014.03.015
+
+Siddiqua, A., Hahladakis, J.N. & Al-Attiya, W.A.K.A. (2022). An overview of the environmental pollution and health effects associated with waste landfilling and open dumping.Environmental Science and Pollution Research29, 58514–58536Link to source:https://doi.org/10.1007/s11356-022-21578-z
+
+Sperling Hansen Associates (2020).7 Mile landfill operational biocover study.Link to source:https://www.rdmw.bc.ca/media/2020%2003%2017%207Mile%20Landfill%20Operational%20Biocover%20Study.pdf
+
+Stern, J. C., Chanton, J., Ahicou, T., Powelson, D., Yuan, L., Escoriza, S. & Bogner, J.. (2007). Use of a biologically active cover to reduce landfill methane emissions and enhance methane oxidation.Waste Management27(9), 1248–1258.Link to source:https://doi.org/10.1016/j.wasman.2006.07.018
+
+Stone, E. (2023, September 7).Landfills: 'Zombie' landfills emit tons of methane decades after shutting down. Here's why that's a big problem. LAist.Link to source:https://laist.com/news/climate-environment/zombie-landfills-emit-tons-of-methane-decades-after-shutting-down-heres-why-thats-a-big-problem
+
+Sweeptech. (2022).What is a landfill site’s environmental impact?. Retrieved March 7, 2025, fromLink to source:https://www.sweeptech.co.uk/what-is-a-landfill-site-and-how-does-landfill-impact-the-environment/#:~:text=The%20average%20size%20of%20a,for%20these%20massive%20waste%20dumps.
+
+Tangri, N. (2010). Respect for recyclers: Protecting the climate through zero waste.Gaia.Link to source:https://www.no-burn.org/wp-content/uploads/2021/11/Respect-for-Recyclers-English_1.pdf
+
+Towprayoon, S., Ishigaki, T., Chiemchaisri, C., & Abdel-Aziz, A. O. (2019). Chapter 3: Solid waste disposal. In2019 refinement to the 2006 IPCC guidelines for national greenhouse gas inventories. International Panel on Climate Change.Link to source:https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/5_Volume5/19R_V5_3_Ch03_SWDS.pdf
+
+Trashcans Unlimited. (2022).Biggest landfill in the world. Retrieved March 7, 2025.Link to source:https://trashcansunlimited.com/blog/biggest-landfill-in-the-world/
+
+UN Environment Program. (2021). Global methane assessment: Benefits and costs of mitigating methane emissions.Link to source:https://www.unep.org/resources/report/global-methane-assessment-benefits-and-costs-mitigating-methane-emissions
+
+U.S. Environmental Protection Agency. (2019).Global non-CO2greenhouse gas emission projections & mitigation 2015–2050.Link to source:https://www.epa.gov/ozone-layer-protection/transitioning-low-gwp-alternatives-residential-and-commercial-air
+
+U.S. Environmental Protection Agency. (2024a).Basic information about landfill gas. Retrieved September 2, 2024.Link to source:https://www.epa.gov/lmop/basic-information-about-landfill-gas
+
+U.S. Environmental Protection Agency. (2024b).Benefits of landfill gas energy projects. Retrieved September 23, 2024.Link to source:https://www.epa.gov/lmop/benefits-landfill-gas-energy-projects
+
+U.S. Environmental Protection Agency. (2025).Accomplishments of the landfill methane outreach program. Retrieved March 5, 2025.Link to source:https://www.epa.gov/lmop/accomplishments-landfill-methane-outreach-program
+
+Van Dingenen, R., Crippa, M., Maenhout, G., Guizzardi, D., & Dentener, F. (2018).Global trends of methane emissions and their impacts on ozone concentrations. European Commission.Link to source:https://op.europa.eu/en/publication-detail/-/publication/c40e6fc4-dbf9-11e8-afb3-01aa75ed71a1/language-en
+
+Vasarhelyi, K. (2021, April 15). The hidden damage of landfills.University of Colorado Boulder.Link to source:https://www.colorado.edu/ecenter/2021/04/15/hidden-damage-landfills#:~:text=The%20average%20landfill%20size%20is,liners%20tend%20to%20have%20leaks
+
+Waste Today. (2019, June 26). How landfill covers can help improve operations. Retrieved April 13, 2025, fromLink to source:https://www.wastetodaymagazine.com/news/interim-daily-landfill-covers/
+
+Zhang, T. (2020, May 8). Landfill earth: A global perspective on the waste problem.Universitat de Barcelona.Link to source:https://diposit.ub.edu/dspace/bitstream/2445/170328/1/Landfill%20Eart.%20A%20Global%20Perspective%20on%20the%20Waste%20Problem.pdf
+
+The following figures provide examples of where methane can escape from landfills and where sources of emissions have been found. This shows the difficulty in identifying where methane emissions are coming from and the importance of well maintained infrastructure to ensure methane is being abated.
+
+Figure A1. Sources of methane emissions at landfills. Source: Garland et al. (2023).
+
+Source:Garland E., Alves O., Frankiewicz T., & Ayandele E. (2023). Mitigating landfill methane.RMI.Link to source:https://rmi.org/wp-content/uploads/dlm_uploads/2023/06/landfill_monitoring_memo_series.pdf
+
+Figure A2. Source of methane leaks at landfills. Source: Ayandele et al. (2024a).
+
+Source:Ayandele, E., Frankiewicz, T., & Garland, E. (2024a). Deploying advanced monitoring technologies at US landfills.RMI.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

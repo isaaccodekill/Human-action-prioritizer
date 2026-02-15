@@ -1,0 +1,86 @@
+# Recycling: Paper and Cardboard
+Source: https://en.wikipedia.org/wiki/Paper_recycling
+
+Paper recycling is the process by which waste paper is turned into new paper products.  After repeated processing the fibres become too short for the production of new paper, which is why virgin fibre (from sustainably farmed trees) is frequently added to the pulp recipe.
+Waste paper recycling most often involves mixing used/old paper with water and chemicals to break it down. Three categories of paper can be used as feedstocks for making recycled paper: mill broke, pre-consumer waste, and post-consumer waste. The industrial process of removing printing ink from paper fibres of recycled paper to make deinked pulp is called deinking, an invention of the German jurist Justus Claproth.
+Recycling of paper saves waste paper from occupying the homes of people and producing methane as it breaks down. Industrialized papermaking affects the environment where raw materials are acquired and processed with waste-disposal impacts.
+
+
+== Description ==
+The recycling of paper is the process by which waste paper is turned into new paper products. After repeated processing the fibres become too short for the production of new paper, which is why virgin fibre (from sustainably farmed trees) is frequently added to the pulp recipe.
+
+
+== Process ==
+Waste paper recycling most often involves mixing used/old paper with water and chemicals to break it down. It is then chopped up and heated, which breaks it down further into strands of cellulose, a type of organic plant material; this resulting mixture is called pulp, or slurry. It is strained through screens, which removes plastic (especially from plastic-coated paper) that may still be in the mixture. It is then cleaned, de-inked (ink is removed), bleached, and mixed with water. Then it can be made into new recycled paper.
+The industrial process of removing printing ink from paper fibres of recycled paper to make deinked pulp is called deinking, an invention of the German jurist Justus Claproth. The share of ink in a wastepaper stock is up to about 2% of the total weight.
+In the mid-19th century, there was an increased demand for books and writing material. Up to that time, paper manufacturers had used discarded linen rags for paper, but supply could not keep up with the increased demand. Books were bought at auctions to recycle fibre content into new paper, at least in the United Kingdom, by the beginning of the 19th century.
+
+
+== Feedstocks ==
+Three categories of paper can be used as feedstocks for making recycled paper: mill broke, pre-consumer waste, and post-consumer waste. Mill broke is paper trimmings and other paper scraps from the manufacture of paper, and is recycled in a paper mill. Pre-consumer waste is a material which left the paper mill but was discarded before it was ready for consumer use. Post-consumer waste is discarded after consumer use, such as old corrugated containers (OCC), magazines, and newspapers. Paper suitable for recycling is called scrap paper, often used and iso produces moulded pulp packaging.
+
+
+== Rationale for recycling ==
+Recycling of paper has several important benefits: It saves waste paper from occupying the homes of people and producing methane as it breaks down. Because paper fibre contains carbon (originally absorbed by the tree from which it was produced), recycling keeps the carbon locked up for longer and out of the atmosphere.
+Industrialized papermaking affects the environment both upstream (where raw materials are acquired and processed) and downstream (waste-disposal impacts).
+In 2023, 92% of pulp was made from wood sources (in most modern mills only 9–16% of pulp is made from pulp logs; the rest comes from waste wood that was traditionally burnt). Paper production accounts for about 35% of felled trees. Recycling one ton of newsprint saves about 1 ton of wood while recycling 1 ton of printing or copier paper saves slightly more than 2 tons of wood. This is because kraft pulping requires twice as much wood since it removes lignin to produce higher quality fibres than mechanical pulping processes. Relating tons of paper recycled to the number of trees not cut is meaningless, since tree size varies tremendously and is the major factor in how much paper can be made from how many trees. In addition, trees raised specifically for pulp production account for 16% of world pulp production, old growth forests 9% and second- and third- and more generation forests account for the balance. Most pulp mill operators practice reforestation to ensure a continuing supply of trees. The Programme for the Endorsement of Forest Certification (PEFC) and the Forest Stewardship Council (FSC) certify paper made from trees harvested according to guidelines meant to ensure good forestry practices. Both policies settle on a different ratio of stringency to reasonable output of goods, and are thus preferred by varying parties.
+
+
+=== Energy ===
+Energy consumption is reduced by recycling, although there is debate concerning the actual energy savings realized. The Energy Information Administration claims a 40% reduction in energy when paper is recycled versus paper made with unrecycled pulp, while the Bureau of International Recycling (BIR) claims a 64% reduction. Some estimates claim that paper recycling is capable of saving 70% of the energy required to create fresh paper. Some calculations show that recycling one ton of newspaper saves about 4,000 kWh (14 GJ) of electricity, although this may be too high (see comments below on unrecycled pulp). This is enough electricity to power a 3-bedroom European house for an entire year or enough energy to heat and air-condition the average North American home for almost six months. Recycling paper to make pulp consumes more fossil fuels than making new pulp via the kraft process; these mills generate most of their energy from burning waste wood (bark, roots, sawmill waste) and byproduct lignin (black liquor). Pulp mills producing new mechanical pulp use large amounts of energy; a very rough estimate of the electrical energy needed is 10 gigajoules per tonne of pulp (2500 kW·h per short ton).
+
+
+=== Landfill use ===
+In 2019, about 110 million metric tons of paper products were disposed in the United States. Of that, 56% was landfilled and 38% recycled, with the rest being incinerated. Roughly one quarter of municipal solid waste was paper products. Landfilling paper products led to an estimated $4 billion in lost economic value.
+
+
+=== Water and air pollution ===
+The United States Environmental Protection Agency (EPA) has found that recycling causes 35% less water pollution and 74% less air pollution than making virgin paper. Pulp mills can be sources of both air and water pollution, especially if they are producing bleached pulp. Modern mills produce considerably less pollution than those of a few decades ago. Recycling paper provides an alternative fibre for papermaking. Recycled pulp can be bleached with the same chemicals used to bleach virgin pulp, but hydrogen peroxide and sodium hydrosulfite are the most common bleaching agents. Recycled pulp, or paper made from it, is known as PCF (process chlorine free) if no chlorine-containing compounds were used in the recycling process.
+
+
+=== Greenhouse gas emissions ===
+Studies on paper and cardboard production estimate the emissions of recycling paper to be 0.2 to 1.5 kg CO2-equivalent/kg material. This is about 70% of the CO2 emissions connected with production of virgin material.
+
+
+== Recycling statistics ==
+
+
+== By region ==
+
+
+=== European Union ===
+
+The industry self-initiative European Recovered Paper Council (ERPC) was set up in 2000 to monitor progress towards meeting the paper recycling targets set out in the 2000 European Declaration on Paper Recycling. Since then, the commitments in the Declaration have been renewed every five years. In 2011, the ERPC committed itself to meeting and maintaining both a voluntary recycling rate target of 70% in the then E-27, plus Switzerland and Norway by 2015, as well as qualitative targets in areas such as waste prevention, ecodesign and research and development. In 2014, the paper recycling rate in Europe was 71.7%, as stated in the 2014 Monitoring Report. It was believed that the paper recycling rate in the EU could not surpass 78% under the pre-2023 model. Despite this, Europe's recycling rate increased to 79.3% recycling rate in 2023, due to a decrease in paper consumption. In 2022, 19 European countries exceeded a 70% recycling rate, while 4 countries had a recycling rate below 60%.
+
+
+=== United States ===
+
+Recycling has long been practised in the United States. In 1690, nearly a century before the American Revolution, the first paper mill to use recycled linen rags was established by the Rittenhouse family. In 1993, 300 years later, another milestone was reached when, for the first time, more paper was recycled than was landfilled.
+By 1998, some 9,000 curbside recycling programs and 12,000 recyclable drop-off centers existed nationwide. As of 1999, 480 materials recovery facilities had been established to process the collected materials.
+In 2008, the Great Recession caused the price of old newspapers to drop in the U.S. from $130 to $40 per short ton ($140/t to $45/t) in October.
+In 2018, paper and paperboard accounted for 67.39 million tons of municipal solid waste (MSW) generated in the U.S., down from more than 87.74 million tons in 2000. As of 2018, paper products are still the largest component of MSW generated in the United States, making up 23% by weight. While paper is the most commonly recycled material (68.2 percent of paper waste was recovered in 2018, up from 33.5 percent in 1990) it is being used less overall than at the turn of the century. As of 2018, paper accounted for a third of all recyclables collected in the US, by weight. The widespread adoption of the internet and email has led to a change in the composition of the waste paper stream, with junk mail becoming a larger part of the materials collected, as reading of newspapers and writing of personal letters declines.
+
+
+=== India ===
+
+After China put restrictions on waste imports in January 2018, much paper was being shipped to India. However, India's domestic recycling only produces 30% of the total paper demand. India seeks to increase this percentage to follow its rising literacy rates, and environmental factors and limited access to renewable forests put further pressure on this desire. Discussion on possible administrative options is in effect. Recycled paper is economically favorable when forests are in short supply.
+
+
+=== Mexico ===
+In Mexico, recycled paper, rather than wood pulp, was the principal feedstock in paper mills accounting for about 90% of raw materials in 2020.
+
+
+=== South Africa ===
+In 2018, South Africa recovered 1.285 million tonnes of recyclable paper products, putting the country's paper recovery rate at 71.7%. More than 90% of this recovered paper is used for the local beneficiation of new paper packaging and tissue.
+
+
+== Limitations and effects ==
+Along with fibres, paper can contain a variety of inorganic and organic constituents, including up to 10,000 different chemicals, which can potentially contaminate the newly manufactured paper products. As an example, bisphenol A (a chemical commonly found in thermal paper) has been verified as a contaminant in a variety of paper products resulting from paper recycling. Groups of chemicals as phthalates, phenols, mineral oils, polychlorinated biphenyls (PCBs) and toxic metals have all been identified in paper material. Although several measures might reduce the chemical load in paper recycling (e.g., improved decontamination, optimized collection of paper for recycling), even completely terminating the use of a particular chemical (phase-out) might still result in its circulation in the paper cycle for decades.
+
+
+== See also ==
+
+
+== References ==
+
+ This article incorporates public domain material from the United States government

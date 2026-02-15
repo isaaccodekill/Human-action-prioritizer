@@ -1,0 +1,734 @@
+# Improve Rice Production
+Source: https://drawdown.org/explorer/improve-rice-production
+
+Methods and Supporting Data
+
+
+## Improve Rice Production
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Rice production is a significant source ofmethaneemissions and a minor source ofnitrous oxideemissions. Most rice production occurs in flooded fields called paddies, where anaerobic conditions trigger high levels of methane production. This solution includes two related practices that each reduce emissions from paddy rice production: noncontinuous flooding and nutrient management. Noncontinuous flooding is a water management technique that reduces the amount of time rice paddy soils spend fully saturated, thereby reducing methane. Unfortunately, noncontinuous flooding increases nitrous oxide emissions. Nutrient management helps to address this challenge by controlling the timing, amount, and type of fertilization to maximize plant uptake and minimize nitrous oxide emissions.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Rice is a staple crop of critical importance, occupying 11% of global cropland (FAOstat 2025). Rice production has higherGHGemissions than most crop production, accounting for 9% of all anthropogenic methane and 10% of cropland nitrous oxide (Wang et al., 2020). Nabuurs et al. (2022) found methane emissions from global rice production to be 0.8–1.0GtCO₂‑eq/yrand growing 0.4% annually.
+
+Rice paddysystems are fields with berms and plumbing to permit the flooding of rice for the production periods, which helps with weed and pest control (rice thrives in flooded conditions, though it does not require them). Paddy rice is the main source of methane from rice production. Upland riceis grown outside of paddies and does not produce significant methane emissions, so we excluded it from this analysis. Irrigated paddies are provided with irrigation water, while rain-fedpaddies are only filled by rainfall and runoff (Raffa, 2021). For this analysis, we considered both irrigated and rain-fed paddies.
+
+Flooded rice paddies encourage the production of methane by microbes. Conventional paddy rice production uses continuous flooding, in which the paddy is flooded for the full rice production period. Several approaches can reduce methane, with the most widespread being noncontinuous flooding. This is a collection of practices (such as alternate wetting and drying) that drain the fields one or more times during the rice production period. As a result, the paddy spends less time in its methane-producing state. This can be done without reducing rice yields in many, but not all, cases, and also significantly reduces irrigation water use (Bo et al., 2022). Impacts on yields depend on soils, climate, and other variables (Cheng et al., 2022).
+
+
+## Nitrous Oxide Reduction
+
+
+A major drawback to noncontinuous flooding is that it increases nitrous oxide emissions from fertilizer compared to continuous flooding. High nitrogen levels in flooded paddies encourage the growth of bacteria that produce methane, reduce the natural breakdown of methane, and facilitate emissions of nitrous oxide to the atmosphere (Li et al., 2024). The effect is small compared to themitigatedemissions from methane reduction (Jiang et al., 2019), but remains serious. Use of nutrient management techniques, such as controlling fertilizer amount, type (e.g., controlled-release urea), timing, and application techniques (e.g., deep fertilization), can reduce these emissions. This is in part because nitrogen fertilizers are often overapplied, leaving room to increase efficiency without reducing rice yields (Hergoualc’h et al., 2019; Li et al., 2024).
+
+
+## Other Promising Practices
+
+
+Other practices also show potential but were not included in our analysis. These include the application of biochar to rice paddies and the use of rice cultivars that produce fewer emissions (Qian et al., 2023). Other approaches include saturated soil culture, System of Rice Intensification (“SRI”), ground-cover systems, raised beds, and improved irrigation and paddy infrastructure (Surendran et al., 2021).
+
+Note that some practices, such as incorporating rice straw or the use of compost or manure, can increase nitrous oxide emissions (Li et al., 2024).
+
+There is also evidence that, under some circumstances, noncontinuous flooding cansequestersoil organic carbonby increasingsoil organic matter. However, there are not enough data available to quantify this (Qian et al., 2023). Indeed, one meta-analysis found that noncontinuous flooding can actually lead to a decrease in soil organic carbon (Livsey et al., 2019). One complication is that many production areas plant rice two or even three times per year, and data are typically presented on a per-harvest or even per-flooded day basis. To overcome this challenge, we use data on the percentage of global irrigated rice land in single, double, and triple cropping from Carlson et al. (2016) to create weighted average values as appropriate.
+
+
+## What could cause effectiveness to change?
+
+
+This is an average effectiveness across 53 countries, weighted by the rice paddy area of each country. Effectiveness can change based on cultivation period lengths, number of harvests, and nitrogen application rates, among other factors.
+
+This is the average of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used mean values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Improved rice production has its greatest potential in regions where there is substantial paddy rice production and adequate water availability to allow farmers to implement drain/flood cycles throughout the growing season (noncontinuous flooding). Rice production is dominated by Asia, so the greatest potential for solution uptake is there. Brazil and the United States rank 9th and 11th for rice production, and each has regions where this solution would have multiple benefits. Because improved rice production solution may not decrease yields, not all paddy rice-growing areas are suitable. There are regions of great potential throughout Southeast Asia, particularly in Vietnam and Thailand.
+
+Other factors besides biophysical factors govern the suitability of noncontinuous flooding. For example, farmers are more likely to release water in their fields if they are confident that water will be available for subsequent irrigation, which often depends on community structures.
+
+There is very scarce information on adoption of noncontinuous flooding, although Bangladesh, China, Japan, and South Korea have relatively high uptake.
+
+
+## Paddy rice area, 2020
+
+
+Rice is the third most widely grown crop in terms of cultivated area and provides more calories directly to people than any other crop. It also is an important source of methane emissions. Here we show pixels in which at least 1% of the area is devoted to paddy (flooded) rice. Upland (unflooded) rice is included in theImprove Nutrient Managementsolution.
+
+Cao, P., Bilotto, F., Gonzalez Fischer, C., Mueller, N. D., Carlson, K. M., Gerber, J.S., Smith, P., Tubiello, F. N., West, P. C., You, L., & Herrero, M. (2025).Mapping greenhouse gas emissions from global cropland circa 2020[Data set, PREPRINT Version 1]. In review at Nature Climate Change.Link to source:https://doi.org/10.21203/rs.3.rs-6622054/v1Tang, F. H. M., Nguyen, T. H., Conchedda, G., Casse, L., Tubiello, F. N., & Maggi, F. (2024).CROPGRIDS: A global geo-referenced dataset of 173 crops[Data set]. Scientific Data, 11(1), 413.Link to source:https://doi.org/10.1038/s41597-024-03247-7
+
+
+## Paddy rice area, 2020
+
+
+Rice is the third most widely grown crop in terms of cultivated area and provides more calories directly to people than any other crop. It also is an important source of methane emissions. Here we show pixels in which at least 1% of the area is devoted to paddy (flooded) rice. Upland (unflooded) rice is included in theImprove Nutrient Managementsolution.
+
+Cao, P., Bilotto, F., Gonzalez Fischer, C., Mueller, N. D., Carlson, K. M., Gerber, J.S., Smith, P., Tubiello, F. N., West, P. C., You, L., & Herrero, M. (2025).Mapping greenhouse gas emissions from global cropland circa 2020[Data set, PREPRINT Version 1]. In review at Nature Climate Change.Link to source:https://doi.org/10.21203/rs.3.rs-6622054/v1Tang, F. H. M., Nguyen, T. H., Conchedda, G., Casse, L., Tubiello, F. N., & Maggi, F. (2024).CROPGRIDS: A global geo-referenced dataset of 173 crops[Data set]. Scientific Data, 11(1), 413.Link to source:https://doi.org/10.1038/s41597-024-03247-7
+
+We calculated per-hectaremethaneemissions using Intergovernmental Panel on Climate Change (IPCC) methodology (Ogle et. al, 2019). To develop regional emissions per rice harvest, we multiplied standard regional daily baseline emissions by standard cultivation period lengths, then multiplied by the mean scaling factor for noncontinuous flooding systems. However, the total number of rice harvests per year ranged from one to three. Carlson et al. (2016) reported a global figure of harvests on rice fields: 42% were harvested once, 50% were harvested twice, and 8% were harvested three times. We used this to develop a weighted average methane emissions figure for each region. Nationaleffectivenessranged from 1.55 to 3.29tCO₂‑eq
+/ha/yr (Table 1a).
+
+Nitrous Oxide Reduction
+
+Using data from Adalibieke et al. (2024) and Gerber et al. (2024), we calculated the current country-level rate of nitrogen application per hectare and a target rate reflecting improved efficiency through nutrient management. For a full methodology, see the Appendix.
+
+In noncontinuously flooded systems, nitrous oxide emissions are 1.66 times higher per t of nitrogen applied (Hergoualc’h et al., 2019). Using the different emissions factors, we calculated total nitrous oxide emissions for 1) flooded rice with current nitrogen application rates, and 2) noncontinuously flooded rice with target nitrogen application rates.
+
+The effectiveness of nutrient management for each country with over 100,000 ha of rice production ranged from –0.48 to 0.11 t CO₂‑eq
+/ha/yr (Table 1).
+
+Combined effectiveness of methane and nitrous oxide reduction was 1.49–3.39 t CO₂‑eq
+/ha/yr (Table 1).
+
+Table 1a. Combined effectiveness at reducing emissions, by country, for noncontinuous flooding with nutrient management.
+
+Methane reduction (100-yr)
+
+Nitrous oxide reduction (100-yr)
+
+Combined effectiveness (100-yr)
+
+Unit:t CO₂‑eq
+/ha rice paddies/yr
+
+Table 1b. Combined effectiveness at reducing emissions, by country, for noncontinuous flooding with nutrient management.
+
+Methane reduction (20-yr)
+
+Nitrous oxide reduction (20-yr)
+
+Combined effectiveness (20-yr)
+
+Unit:t CO₂‑eq
+/ha rice paddies/yr
+
+Unit:t CO₂‑eq
+/ha rice paddies/yr
+
+Unit:t CO₂‑eq
+/ha rice paddies/yr
+
+For conventional paddy rice, we assumed an initial cost of US$0 because many millions of hectares of paddies are already in place (Table 2). We used regional per-hectare average profits from Damania et al. (2024) as the source for net profit per year. Because the initial cost per hectare is US$0, the net cost per hectare is the negative of the per-hectare annual profit.
+
+Table 2. Net cost and profit of conventional paddy rice by region in 2023.
+
+Unit: US$/ha rice paddies
+
+Unit: US$/ha rice paddies/yr
+
+Unit: US$/ha rice paddies/yr
+
+For noncontinuous flooding, we assumed an initial cost of US$0 because no new inputs or changes to paddy infrastructure are required in most cases. Median impact on net profit was an increase of 17% based on nine data points from seven sources. National results are shown in Table 3.
+
+We assumed nutrient management has an initial cost of US$0 because in many cases, nutrient management begins with reducing the overapplication of fertilizer. Here we used the mean value from Gu et al. (2023), a savings of US$507.8/t nitrogen. We used our national-level data on overapplication of nitrogen to calculate savings per hectare. National results are shown in Table 3.
+
+Combined Net Profit per Hectare
+
+Net profit per hectare varies by country due to regional and some country-specific variables. Country-by-country results are shown in Table 3.
+
+Net Net Cost Compared to Conventional Paddy Rice
+
+Net net cost varies by country. Country-by-country results are shown in Table 3.
+
+Table 3. Net cost and profit of noncontinuous flooding with nutrient management by region.
+
+Unit: US$/ha rice paddies
+
+Non-continuous flooding and nutrient management.
+
+Unit: US$/ha rice paddies/yr
+
+Non-continuous flooding and nutrient management.
+
+Unit: US$/ha rice paddies/yr
+
+Non-continuous flooding and nutrient management.
+
+Unit: US$/ha rice paddies/yr
+
+Non-continuous flooding and nutrient management.
+
+Non-continuous flooding and nutrient management.
+
+Cost per unit climate impact
+
+The cost per t CO₂‑eq
+ varies by country. Country-by-country results are shown in Table 3. The global weighted average is a savings of US$175.0/t CO₂‑eq
+ (Table 4). Note that this is the same for both 100- and 20-yr results.
+
+Table 4. Weighted average cost per unit climate impact.
+
+Learning curvedata are not available for improved rice cultivation.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asgradual,emergency brake, ordelayed.
+
+The noncontinuous flooding component of Improve Rice Production is anEMERGENCY BRAKEclimate solution. It has a disproportionately fast impact after implementation because it reduces the short-lived climate pollutant methane.
+
+The nutrient management component is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+Noncontinuous Flooding
+
+Rigorous, up-to-date country-level data about the extent of noncontinuous flooding in rice production are in short supply. We found five sources reporting adoption in seven major rice-producing countries. We used these to create regional averages and applied them to all countries that produce more than 100,000 ha of rice (paddy and upland). The total estimated current adoption is 48.65Mha, or 47% of global rice paddy area (Table 5). This should be considered an extremely rough estimate.
+
+The available sources encompass different forms of noncontinuous flooding, including alternate wetting and drying (Philippines, Vietnam, Bangladesh), mid-season drainage (Japan), or both (China).
+
+Table 5. Current adoption level (2025).
+
+Noncontinuous flooding, ha installed.
+
+We based nutrient management adoption on our analysis of the overapplication of nitrogen fertilizer on a national basis. Rather than calculate adoption in a parallel way to noncontinuous flooding, this approach provided a national average overapplication rate (the amount of nitrogen fertilizer which is applied that is not needed for crop growth and ends up as nitrous oxide emissions). We assume that every hectare of noncontinuous flooding is also using nutrient management.
+
+We assume the adoption of both noncontinuous flooding and nutrient management for each hectare.
+
+Adoption trend information here takes the form of annual growth rate (%), with a median of 3.76% (Table 6). Adoption rate data are somewhat scarce.
+
+Table 6. Adoption trend.
+
+Percent annual growth rate.
+
+There are barriers to adoption of these techniques and practices. Not all paddy rice is suitable for improved water management, and under certain conditions, undesirable yield reductions are possible (Bo et al., 2022). Other challenges include water access, coordinating water usage between multiple users, and ownership of water pumps (Nabuurs et al., 2022).
+
+There are many challenges in estimating paddy rice land. Food and Agriculture Organization (FAO) statistics can overcount because land that produces more than one crop is double or triple counted. Satellite imagery is often blocked by clouds in thetropicalhumid areas where rice paddies are concentrated.
+
+A comprehensive effort to calculate total world rice paddy land reported 66.00 Mha of irrigated paddy and 63.00 Mha of rain-fed paddy (Salmon et al., 2015). Our own calculation of the combined paddy rice area of countries producing over 100,000 ha of rice found 104.1 Mha of paddy rice.
+
+We summed high-resolution maps of paddy rice area appropriate for noncontinuous flooding (Bo et al., 2022) over maps of irrigated and rain-fed rice areas (Salmon et al., 2015) to determine a maximumadoption ceilingfor each country. Several countries have already exceeded this threshold, and we included their higher adoption in our calculation. The sum of these, and therefore, the median adoption ceiling, is 77.53 Mha (Table 7).
+
+Table 7. Adoption ceiling: upper limit for adoption level.
+
+Mha of improved rice production installed.
+
+Table 8. Range of achievable adoption levels.
+
+Mha of improved rice production installed.
+
+Given that both China and Japan have already attained adoption rates above our adoption ceiling (Bo et al., 2022; Zhang et al., 2019), we selected for our adoption ceiling our Achievable – High adoption level, which is 77.53 Mha (Table 8).
+
+In contrast, the countries with the lowest adoption rates had rates under 3%. In the absence of a modest adoption example, we chose to use current adoption plus 10% as our Achievable – Low adoption level. This provides an adoption of 49.56 Mha.
+
+As described under Adoption Ceiling above, adoption of nutrient management is already weighted based on regional or national adoption and should not be overcounted in the achievable range calculations.
+
+We calculated the potential impact of improved rice, on a100-yr basis, at 0.10 Gt CO₂‑eq/yr
+ from current adoption, and 0.10, 0.16, and 0.16 from Achievable – Low, Achievable – High, and Adoption Ceiling, respectively (Table 9). On a20-yr basis, the totals are 0.29, 0.29, 0.46, and 0.46, respectively.
+
+Table 9. Climate impact at different levels of adoption.
+
+The IPCC estimated a technical potential at 0.3 Gt CO₂‑eq/yr,
+ with 0.2 Gt CO₂‑eq/yr
+ as economically achievable at US$100/t CO₂
+ (100-yr basis; Nabuurs et al., 2022). Achieving the adoption ceiling of 76% of global flooded rice production could reduce rice paddy methaneby 47% (Bo et al., 2022). Applying this percentage to the IPCC reported total paddy methaneemissions of 0.49–0.73 Gt CO₂‑eq/yr
+ yields a reduction of 0.23–0.34 Gt CO₂‑eq/yr
+ (Nabuurs et al., 2022). Roe et al. (2021) calculated 0.19 Gt CO₂‑eq/yr.
+ Note that these benchmarks only calculate methane from paddy rice, while we also addressed nitrous oxide from nutrient management.
+
+The additional benefits of improved rice production arise from both practices (noncontinuous flooding and improved nutrient management) that form this solution.
+
+Noncontinuous flooding can reduce the accumulation of arsenic in rice grains (Ishfaq et al., 2020). Arsenic is a carcinogen that is responsible for thousands of premature deaths in South and Southeast Asia (Jameel et al., 2021). The amount of arsenic reduced can vary by 0–90% depending upon the timing of the wetting and drying periods (Ishfaq et al., 2020).
+
+Better nutrient management improves soil fertility and health, increasing resilience to extreme heat and droughts. Noncontinuous flooding also slows down the rate of soil salinization, protecting soil from degradation (Carrijo et al., 2017).
+
+Rice irrigation is responsible for 40% of all freshwater use in Asia, and rice requires two to three times more water per metric ton of grain than other cereals (Surendran et al., 2021). Field studies across South and Southeast Asia have shown that noncontinuous flooding can typically reduce irrigation requirements 20–30% compared to conventional flooded systems (Suwanmaneepong et al., 2023; Carrijo et al., 2017) without adversely affecting rice yield or grain quality. This reduction in water usage alleviates pressure on water resources in drought-prone areas (Alauddin et al., 2020).
+
+Adoption of noncontinuous flooding up to the adoption ceiling of 76% would reduce rice irrigation needs by 25%.
+
+Both noncontinuous flooding and improved nutrient management reduce water pollution. Nitrogen utilization is generally poor using existing growing techniques, with two-thirds of the nitrogen fertilizer being lost through surface runoff anddenitrification(Zhang et al., 2021). While noncontinuous flooding is primarily a water-efficiency and methane reduction technique, it can improve nitrogen use efficiency and reduce nitrogen runoff into water bodies (Liang et al., 2017; Liang et al., 2023). Improved nutrient management also reduces the excess fertilizers that could end up in local water bodies. Both mechanisms can mitigateeutrophicationand harmful algal blooms, protect aquatic ecosystems, and ensure safer drinking water supplies (Bijay-Sing and Craswell, 2021).
+
+Caveats likeadditionalityandpermanencedo not apply to improve rice production as described here. If its carbon sequestration component were included, those caveats would apply.
+
+Not all paddies are suitable, with variables including soil type, irrigation infrastructure and ownership, community partitioning and scheduling of water resources, field size, and more (Nabuurs et al., 2022; Enriquez et al., 2021).
+
+Many rice farmers in Asia do not directly control irrigation access, but instead use a municipal system, which is not always available when needed for noncontinuous flooding production. In addition, they may not actually experience cost savings, as pricing may be based on area rather than amount of water. An additional change is that multiple plots owned or rented by multiple farmers may be irrigated by a single irrigation gate, meaning that all must agree to an irrigation strategy. Generally speaking, pump-based irrigation areas see the best adoption, with poor adoption in gravity-based irrigation system areas. Improved irrigation infrastructure is necessary to increase adoption of noncontinuous flooding (Enriquez et al., 2021).
+
+Continuously flooded paddies have lower weed pressure than noncontinuous paddies, so noncontinuous flooding can raise labor costs or increase herbicide use. Not all rice varieties grow well in noncontinuous flooding (Li et al., 2024). In addition, it is difficult for farmers, especially smallholders, to monitor soil moisture level, which makes determining the timing of the next irrigation difficult (Livsey et al., 2019).
+
+In some cases, rice yields are reduced (Nabuurs et al., 2022). However, this has been excluded from our calculations because we worked from the adoption ceiling of Bo et al. (2022), which explicitly addresses the question of maximum adoption without reducing yields.
+
+Long-term impacts on soil health of water-saving irrigation strategies have not been widely studied, but a meta-analysis by Livsey et al. (2019) indicates a risk of decreases insoil carbonand fertility.
+
+We did not identify any aligned orcompetinginteractions with other solutions.
+
+There is high consensus on the effectiveness and potential of noncontinuous flooding and nutrient management (Jiang et al., 2019; Zhang et al., 2023; Nabuurs et al., 2022; Qian et al., 2023).
+
+Hergoualc’h et al. (2019) describe methane reduction and associated nitrous oxide increase from noncontinuous flooding in detail(2019). Bo et al. (2022) calculate that 76% of global rice paddy area is suitable to switch to noncontinuous flooding without reducing yields. Carlson et al. (2016) provide emissions intensities for croplands, including rice production. Ludemann et al. (2024) provide country-by-country and crop-by-crop fertilizer use data. Qian et al. (2023) review methaneemissions production and reduction potential.
+
+The results presented in this document summarize findings from 12 reviews and meta-analyses and 26 original studies reflecting current evidence from countries across the Asian rice production region. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Set national targets for improving rice production and incorporate them into planning documents such as Nationally Determined Contributions.
+
+If possible and appropriate, encourage rice farmers to adopt noncontinuous flooding.
+
+Use policies and regulations to improve nutrient management by focusing on the four principles – right rate, right type of fertilizer, right time, and right place.
+
+Invest in research and development to improve rice varieties to require less water, have shorter growth periods, produce higher yields, and tolerate more stress.
+
+Invest in research and development to improve water monitoring technology and discover alternative fertilizers.
+
+Improve the reliability of water irrigation systems.
+
+Work with farmers and private organizations to improve data collection on advanced cultivation uptake and water management.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving rice cultivation.
+
+Economic and environmental indicators of sustainable rice cultivation: A comparison across intensive irrigated rice cropping systems in six Asian countries. Devkota et al. (2019)
+
+Challenges and opportunities in productivity and sustainability of rice cultivation system: A critical review in Indian perspective. Kumar et al. (2021)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Small farms, big ideas. Proximity Designs (n.d.)
+
+Sustainable rice platform. (n.d)
+
+The role of rice cultivation in changes in atmospheric methane concentration and the Global Methane Pledge. Wang et al. (2023)
+
+Practice noncontinuous flooding.
+
+Take advantage of financial incentives such as tax rebates and subsidies for improved rice cultivation.
+
+Improve nutrient management by focusing on the four principles – right rate, right type of fertilizer, right time, and right place.
+
+Plant improved rice varieties that require less water, have shorter growth periods, produce higher yields, and tolerate more stress.
+
+Work with policymakers and private organizations to improve data collection on advanced cultivation uptake and water management.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving rice cultivation.
+
+Economic and environmental indicators of sustainable rice cultivation: A comparison across intensive irrigated rice cropping systems in six Asian countries. Devkota et al. (2019)
+
+Challenges and opportunities in productivity and sustainability of rice cultivation system: A critical review in Indian perspective. Kumar et al. (2021)
+
+Small farms, big ideas. Proximity Designs (n.d.)
+
+Sustainable rice platform. (n.d)
+
+The role of rice cultivation in changes in atmospheric methane concentration and the Global Methane Pledge. Wang et al (2023)
+
+Source food from farms that practice improved rice cultivation.
+
+Invest in companies that utilize improved rice cultivation techniques or produce the necessary inputs.
+
+Promote products that employ improved rice cultivation techniques and educate consumers about the importance of the practice.
+
+Enter intoofftakeagreements for rice grown with improved techniques.
+
+Invest in research and development to improve rice varieties to require less water, have shorter growth periods, produce higher yields, and tolerate more stress.
+
+Invest in research and development to improve water monitoring technology and identify alternative fertilizers.
+
+Work with farmers and private organizations to improve data collection on advanced cultivation uptake and water management.
+
+Advocate to policymakers for improved rice cultivation techniques, incentives, and regulations.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving rice cultivation.
+
+Economic and environmental indicators of sustainable rice cultivation: a comparison across intensive irrigated rice cropping systems in six Asian countries. Devkota et al. (2019)
+
+Challenges and opportunities in productivity and sustainability of rice cultivation system: A critical review in Indian perspective. Kumar et al. (2021)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Small farms, big ideas. Proximity Designs (n.d.)
+
+Sustainable rice platform. (n.d)
+
+The role of rice cultivation in changes in atmospheric methane concentration and the Global Methane Pledge. Wang et al (2023)
+
+Source food from farms that practice improved rice cultivation.
+
+Start model farms to demonstrate techniques, conduct experiments, and educate local farmers.
+
+Engage with businesses to encourage corporate responsibility and/or monitor rice production.
+
+Help develop rice varieties to require less water, have shorter growth periods, produce higher yields, and tolerate more stress.
+
+Help improve water monitoring technology and develop alternative fertilizers.
+
+Work with farmers and other private organizations to improve data collection on advanced cultivation uptake and water management.
+
+Advocate to policymakers for improved rice cultivation techniques, incentives, and regulations.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving rice cultivation.
+
+Economic and environmental indicators of sustainable rice cultivation: A comparison across intensive irrigated rice cropping systems in six Asian countries. Devkota et al. (2019)
+
+Challenges and opportunities in productivity and sustainability of rice cultivation system: A critical review in Indian perspective. Kumar et al. (2021)
+
+Small farms, big ideas. Proximity Designs (n.d.)
+
+Sustainable rice platform. (n.d)
+
+The role of rice cultivation in changes in atmospheric methane concentration and the Global Methane Pledge. Wang et al (2023)
+
+Ensure portfolio companies and company procurement use improved rice cultivation techniques.
+
+Offer financial services, including low-interest loans, micro-financing, and grants to support improving rice cultivation.
+
+Invest in electronically-traded funds (ETFs); environmental, social and governance (ESG) funds; andgreen bondsissued by companies committed to improved rice cultivation.
+
+Invest in companies developing technologies that support improved nutrient management, such as precision fertilizer applicators, alternative fertilizers, soil management equipment, and software.
+
+Invest in start-ups that aim to improve rice varieties to require less water, have shorter growth periods, produce higher yields, and tolerate more stress.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving rice cultivation.
+
+Economic and environmental indicators of sustainable rice cultivation: A comparison across intensive irrigated rice cropping systems in six Asian countries. Devkota et al. (2019)
+
+Challenges and opportunities in productivity and sustainability of rice cultivation system: A critical review in Indian perspective. Kumar et al. (2021)
+
+Small farms, big ideas. Proximity Designs (n.d.)
+
+Sustainable rice platform. (n.d)
+
+The role of rice cultivation in changes in atmospheric methane concentration and the Global Methane Pledge. Wang et al. (2023)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Work with agriculturalsupply chainsources to ensure partners employ improved rice production methods, if relevant.
+
+Start model farms to demonstrate techniques, conduct experiments, and educate local farmers.
+
+Offer financial services, including low-interest loans, micro-financing, and grants to support improving rice cultivation.
+
+Engage with businesses to encourage corporate responsibility and/or monitor rice production.
+
+Help develop rice varieties to require less water, have shorter growth periods, produce higher yields, and tolerate more stress.
+
+Help improve water monitoring technology and identify alternative fertilizers.
+
+Work with farmers and other private organizations to improve data collection on advanced cultivation uptake and water management.
+
+Advocate to policymakers for improved rice cultivation techniques, incentives, and regulations.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving rice cultivation.
+
+Economic and environmental indicators of sustainable rice cultivation: A comparison across intensive irrigated rice cropping systems in six Asian countries. Devkota et al. (2019)
+
+Challenges and opportunities in productivity and sustainability of rice cultivation system: A critical review in Indian perspective. Kumar et al. (2021)
+
+Small farms, big ideas. Proximity Designs (n.d.)
+
+Sustainable rice platform. (n.d)
+
+The role of rice cultivation in changes in atmospheric methane concentration and the Global Methane Pledge. Wang et al (2023)
+
+Source rice from farms that practice improved rice cultivation.
+
+Start model farms to demonstrate techniques, conduct experiments, and educate local farmers.
+
+Engage with businesses to encourage corporate responsibility and/or monitor rice production.
+
+Help develop rice varieties to require less water, have shorter growth periods, produce higher yields, and tolerate more stress.
+
+Help improve water monitoring technology and identify alternative fertilizers.
+
+Work with farmers and other private organizations to improve data collection on advanced cultivation uptake and water management.
+
+Advocate to policymakers for improved rice cultivation techniques, incentives, and regulations.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving rice cultivation.
+
+Economic and environmental indicators of sustainable rice cultivation: A comparison across intensive irrigated rice cropping systems in six Asian countries. Devkota et al. (2019)
+
+Challenges and opportunities in productivity and sustainability of rice cultivation system: A critical review in Indian perspective. Kumar et al. (2021)
+
+Small farms, big ideas. Proximity Designs (n.d.)
+
+Sustainable rice platform. (n.d)
+
+The role of rice cultivation in changes in atmospheric methane concentration and the Global Methane Pledge. Wang et al (2023)
+
+
+## Technologists and Researchers
+
+
+Improve technology and cost-effectiveness of precision fertilizer application, slow-release fertilizer, alternative organic fertilizers, nutrient recycling, and monitoring equipment.
+
+Create tracking and monitoring software to support farmers' decision-making.
+
+Research the application ofAIand robotics for precise fertilizer application and water management.
+
+Improve data and analytics to monitor soil and water quality, assist farmers, support policymaking, and assess the impacts of policies.
+
+Improve rice methane emissions modeling and monitoring using all available technologies such as satellites, low-flying instruments, and on-the-ground methods.
+
+Develop education and training applications to promote improved rice cultivation techniques and provide real-time feedback.
+
+Improve data collection on water management and advanced cultivation uptake.
+
+Improve rice varieties to require less water, have shorter growth periods, produce higher yields, and tolerate more stress.
+
+Economic and environmental indicators of sustainable rice cultivation: A comparison across intensive irrigated rice cropping systems in six Asian countries. Devkota et al. (2019)
+
+Challenges and opportunities in productivity and sustainability of rice cultivation system: A critical review in Indian perspective. Kumar et al. (2021)
+
+Small farms, big ideas. Proximity Designs (n.d.)
+
+Sustainable rice platform. (n.d)
+
+The role of rice cultivation in changes in atmospheric methane concentration and the Global Methane Pledge. Wang et al (2023)
+
+
+## Communities, Households, and Individuals
+
+
+Purchase rice from farms or suppliers that practice improved rice cultivation.
+
+Engage with businesses to encourage corporate responsibility and/or monitor rice production.
+
+Work with farmers and other private organizations to improve data collection on advanced cultivation uptake and water management.
+
+Advocate to policymakers for improved rice cultivation techniques, incentives, and regulations.
+
+Join, create, or participate in partnerships or certification programs dedicated to improving rice cultivation.
+
+Economic and environmental indicators of sustainable rice cultivation: A comparison across intensive irrigated rice cropping systems in six Asian countries. Devkota et al. (2019)
+
+Challenges and opportunities in productivity and sustainability of rice cultivation system: A critical review in Indian perspective. Kumar et al. (2021)
+
+Small farms, big ideas. Proximity Designs (n.d.)
+
+Sustainable rice platform. (n.d)
+
+The role of rice cultivation in changes in atmospheric methane concentration and the Global Methane Pledge. Wang et al (2023)
+
+
+## “Take Action” Sources
+
+
+Economic and environmental indicators of sustainable rice cultivation: A comparison across intensive irrigated rice cropping systems in six Asian countries. Devkota et al. (2019)
+
+Challenges and opportunities in productivity and sustainability of rice cultivation system: A critical review in Indian perspective. Kumar et al. (2021)
+
+The role of rice cultivation in changes in atmospheric methane concentration and the Global Methane Pledge. Wang et al. (2023)
+
+Small farms, big ideas. Proximity Designs (n.d.)
+
+Methods and Supporting Data
+
+Adalibieke, W., Cui, X., Cai, H., You, L., & Zhou, F. (2023). Global crop-specific nitrogen fertilization dataset in 1961–2020.Scientific Data,10(1), Article 617.Link to source:https://doi.org/10.1038/s41597-023-02526-z
+
+Alauddin, M., Rashid Sarker, Md. A., Islam, Z., & Tisdell, C. (2020). Adoption of alternate wetting and drying (AWD) irrigation as a water-saving technology in Bangladesh: Economic and environmental considerations.Land Use Policy,91, Article 104430.Link to source:https://doi.org/10.1016/j.landusepol.2019.104430
+
+Bijay-Singh, & Craswell, E. (2021). Fertilizers and nitrate pollution of surface and ground water: An increasingly pervasive global problem.SN Applied Sciences,3(4), Article 518.Link to source:https://doi.org/10.1007/s42452-021-04521-8
+
+Bo, Y., Jägermeyr, J., Yin, Z., Jiang, Y., Xu, J., Liang, H., & Zhou, F. (2022). Global benefits of non‐continuous flooding to reduce greenhouse gases and irrigation water use without rice yield penalty.Global Change Biology,28(11), 3636–3650.Link to source:https://doi.org/10.1111/gcb.16132
+
+Carlson, K. M., Gerber, J. S., Mueller, N. D., Herrero, M., MacDonald, G. K., Brauman, K. A., Havlik, P., O’Connell, C.S., Johnson, J.A., Saatchi, S., & West, P.C. (2017). Greenhouse gas emissions intensity of global croplands.Nature Climate Change,7(1), 63–68.Link to source:https://doi.org/10.1038/nclimate3158
+
+Carrijo, D. R., Lundy, M. E., & Linquist, B. A. (2017). Rice yields and water use under alternate wetting and drying irrigation: A meta-analysis.Field Crops Research,203, 173–180.Link to source:https://doi.org/10.1016/j.fcr.2016.12.002
+
+Cheng, H., Shu, K., Zhu, T., Wang, L., Liu, X., Cai, W., Qi, Z., & Feng, S. (2022). Effects of alternate wetting and drying irrigation on yield, water and nitrogen use, and greenhouse gas emissions in rice paddy fields.Journal of Cleaner Production,349, Article 131487.Link to source:https://doi.org/10.1016/j.jclepro.2022.131487
+
+Cui, X., Zhou, F., Ciais, P., Davidson, E. A., Tubiello, F. N., Niu, X., Ju, X., Canadell, J.P., Bouwman, A.F., Jackson, R.B., Mueller, N.D., Zheng, X., Kanter, D.R., Tian, H., Adalibieke, W., Bo, Y., Wang, Q., Zhan, X., & Zhu, D. (2021). Global mapping of crop-specific emission factors highlights hotspots of nitrous oxide mitigation.Nature Food,2(11), 886–893.Link to source:https://doi.org/10.1038/s43016-021-00384-9
+
+Damania, R., Polasky, S., Ruckelshaus, M., Russ, J., Chaplin-Kramer, R., Gerber, J., Hawthorne, P., Heger, M.P., Mamun, S., Amann, M., Ruta, G., & Wagner, F. (2023).Nature's Frontiers: Achieving Sustainability, Efficiency, and Prosperity with Natural Capital. World Bank Publications.Link to source:https://openknowledge.worldbank.org/entities/publication/855c2e15-c88b-4c04-a2e5-2d98c25b8eca
+
+Enriquez, Y., Yadav, S., Evangelista, G. K., Villanueva, D., Burac, M. A., & Pede, V. (2021). Disentangling challenges to scaling alternate wetting and drying technology for rice cultivation: Distilling lessons from 20 years of experience in the Philippines.Frontiers in Sustainable Food Systems,5, 1-16.Link to source:https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.675818/full
+
+Food and Agriculture Organization of the United Nations. (2025).FAOSTAT Statistical Database, [Rome]: FAO, 1997.Link to source:https://www.fao.org/faostat/en/
+
+Gerber, J. S., Ray, D. K., Makowski, D., Butler, E. E., Mueller, N. D., West, P. C., Johnson, J. A., Polasky, S., Samberg, L. H., & Siebert, S. (2024). Global spatially explicit yield gap time trends reveal regions at risk of future crop yield stagnation.Nature Food,5(2), 125–135.Link to source:https://doi.org/10.1038/s43016-023-00913-8
+
+Gu, B., Zhang, X., Lam, S. K., Yu, Y., Van Grinsven, H. J., Zhang, S., Wang, X., Bodirsky, B.L., Wang, S., Duan, J., Ren, C., Bouwman, L., de Vries, W., Xu, J., & Chen, D. (2023). Cost-effective mitigation of nitrogen pollution from global croplands.Nature,613(7942), 77–84.Link to source:https://doi.org/10.1038/s41586-022-05481-8
+
+Hergoualc’h, K., Akiyama, H., Bernoux, M., Chirinda, N., del Prado, A., Kasimir, A., MacDonald, J.D., Ogle, S.M., Regina, K., van der Weerden, T.J. (2019)2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Chapter 11: N2O Emissions from Managed Soils, and CO2 Emissions from Lime and Urea Application.Cambridge University Press.Link to source:https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_11_Ch11_N2O%26CO2.pdf
+
+Ishfaq, M., Farooq, M., Zulfiqar, U., Hussain, S., Akbar, N., Nawaz, A., & Anjum, S. A. (2020). Alternate wetting and drying: A water-saving and ecofriendly rice production system.Agricultural Water Management,241, Article 106363.Link to source:https://doi.org/10.1016/j.agwat.2020.106363
+
+Jameel, Y., Mozumder, M. R. H., Van Geen, A., & Harvey, C. F. (2021). Well‐Switching to Reduce Arsenic Exposure in Bangladesh: Making the Most of Inaccurate Field Kit Measurements.GeoHealth,5(12), Article e2021GH000464.Link to source:https://doi.org/10.1029/2021GH000464
+
+Jiang, Y., Carrijo, D., Huang, S., Chen, J., Balaine, N., Zhang, W., Van Groenigen, K.J. & Linquist, B. (2019). Water management to mitigate the global warming potential of rice systems: A global meta-analysis. Field Crops Research, 234, 47–54.Link to source:https://doi.org/10.1016/j.fcr.2019.02.101
+
+Lampayan, R. M., Rejesus, R. M., Singleton, G. R., & Bouman, B. A. (2015). Adoption and economics of alternate wetting and drying water management for irrigated lowland rice.Field Crops Research,170, 95–108.Link to source:https://doi.org/10.1016/j.fcr.2014.10.013
+
+Li, L., Huang, Z., Mu, Y., Song, S., Zhang, Y., Tao, Y., & Nie, L. (2024). Alternate wetting and drying maintains rice yield and reduces global warming potential: A global meta-analysis.Field Crops Research,318, Article 109603.Link to source:https://doi.org/10.1016/j.fcr.2024.109603
+
+Liang, K., Zhong, X., Fu, Y., Hu, X., Li, M., Pan, J., Liu, Y., Hu, R., & Ye, Q. (2023). Mitigation of environmental N pollution and greenhouse gas emission from double rice cropping system with a new alternate wetting and drying irrigation regime coupled with optimized N fertilization in South China.Agricultural Water Management,282, Article 108282.Link to source:https://doi.org/10.1016/j.agwat.2023.108282
+
+Linquist, B. A., Adviento-Borbe, M. A., Pittelkow, C. M., van Kessel, C., & van Groenigen, K. J. (2012). Fertilizer management practices and greenhouse gas emissions from rice systems: a quantitative review and analysis.Field Crops Research,135, 10–21.Link to source:https://doi.org/10.1016/j.fcr.2012.06.007
+
+Liang, X. Q., Chen, Y. X., Nie, Z. Y., Ye, Y. S., Liu, J., Tian, G. M., Wang, G. H., & Tuong, T. P. (2013). Mitigation of nutrient losses via surface runoff from rice cropping systems with alternate wetting and drying irrigation and site-specific nutrient management practices.Environmental Science and Pollution Research,20(10), 6980–6991.Link to source:https://doi.org/10.1007/s11356-012-1391-1
+
+Livsey, J., Kätterer, T., Vico, G., Lyon, S. W., Lindborg, R., Scaini, A., Da, C.T,. & Manzoni, S. (2019). Do alternative irrigation strategies for rice cultivation decrease water footprints at the cost of long-term soil health?Environmental Research Letters,14(7), 074011.Link to source:https://doi.org/10.1088/1748-9326/ab2108
+
+Ludemann, C. I., Gruere, A., Heffer, P., & Dobermann, A. (2022). Global data on fertilizer use by crop and by country.Scientific data,9(1), 1–8.Link to source:https://doi.org/10.1038/s41597-022-01592-z
+
+Nabuurs, G-J., R. Mrabet, A. Abu Hatab, M. Bustamante, H. Clark, P. Havl.k, J. House, C. Mbow, K.N. Ninan, A. Popp, S. Roe, B. Sohngen, S. Towprayoon, 2022: Agriculture, Forestry and Other Land Uses (AFOLU). InIPCC, 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change[P.R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, J. Malley, (eds.)]. Cambridge University Press, Cambridge, UK and New York, NY, USA. doi: 10.1017/9781009157926.009
+
+Ogle, S. M., Wakelin, S. J., Buendia, L., McConkey, B., Baldock, J., Akiyama, H., ... & Zheng, X. (2019).2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Chapter 4: Cropland.Cambridge University Press.Link to source:https://www.ipcc.ch/report/2019-refinement-to-the-2006-ipcc-guidelines-for-national-greenhouse-gas-inventories/
+
+Qian, H., Zhu, X., Huang, S., Linquist, B., Kuzyakov, Y., Wassmann, R., ... & Jiang, Y. (2023). Greenhouse gas emissions and mitigation in rice agriculture.Nature Reviews Earth & Environment, 4(10), 716–732.Link to source:https://doi.org/10.1038/s43017-023-00482-1
+
+Raffa, D.W. & Morales-Abubakar, A. L. (2021)Soil Health for Paddy Rice.Food and Agriculture Organization of the United Nations.Link to source:https://openknowledge.fao.org/server/api/core/bitstreams/fcd04aae-0389-411b-8a47-a622b23d642f/content
+
+Roe, S., Streck, C., Beach, R., Busch, J., Chapman, M., Daioglou, V., Deppermann, A., Doelman, J., Emmet-Booth, J., Engelmann, J., Fricko, O., Frischmann, C., Funk, J., Grassi, G., Griscom, B., Havlik, P., Hanssen, S., Humpenöder, F., Landholm, D., LOmax, G., Lehmann, J., Mesnildrey, L., Nabuurrs, G., Popp, A., Rivard, C., Sanderman, J., Sohngen, B., Smith, P., Stehfest, E., Woolf, D., & Lawrence, D. (2021). Land‐based measures to mitigate climate change: Potential and feasibility by country.Global Change Biology,27(23), 6025–6058.Link to source:https://doi.org/10.1111/gcb.15873
+
+Salmon, J. M., Friedl, M. A., Frolking, S., Wisser, D., & Douglas, E. M. (2015). Global rain-fed, irrigated, and paddy croplands: A new high resolution map derived from remote sensing, crop inventories and climate data.International Journal of Applied Earth Observation and Geoinformation,38, 321–334.Link to source:https://doi.org/10.1016/j.jag.2015.01.014
+
+Surendran, U., Raja, P., Jayakumar, M., & Subramoniam, S. R. (2021). Use of efficient water saving techniques for production of rice in India under climate change scenario: A critical review.Journal of Cleaner Production,309.Link to source:https://doi.org/10.1016/j.jclepro.2021.127272
+
+Suwanmaneepong, S., Kultawanich, K., Khurnpoon, L., Sabaijai, P. E., Cavite, H. J., Llones, C., Lepcha, N., & Kerdsriserm, C. (2023). Alternate Wetting and Drying as Water-Saving Technology: An Adoption Intention in the Perspective of Good Agricultural Practices (GAP) Suburban Rice Farmers in Thailand.Water,15(3), Article 402.Link to source:https://doi.org/10.3390/w15030402
+
+Xia, L., Lam, S. K., Chen, D., Wang, J., Tang, Q., & Yan, X. (2017). Can knowledge‐based N management produce more staple grain with lower greenhouse gas emission and reactive nitrogen pollution? A meta‐analysis.Global change biology,23(5), 1917–1925.Link to source:https://doi.org/10.1111/gcb.13455
+
+Zhang, W., Yu, J., Xu, Y., Wang, Z., Liu, L., Zhang, H., Gu, J., Zhang, J., & Yang, J. (2021). Alternate wetting and drying irrigation combined with the proportion of polymer-coated urea and conventional urea rates increases grain yield, water and nitrogen use efficiencies in rice.Field Crops Research,268, Article 108165.Link to source:https://doi.org/10.1016/j.fcr.2021.108165
+
+Zhang, Y., Wang, W., Li, S., Zhu, K., Hua, X., Harrison, M.T., Liu, K., Yang, J., Liu, L, & Chan, Y. (2023). Integrated management approaches enabling sustainable rice production under alternate wetting and drying irrigation.Agricultural Water Management, 281.Link to source:https://doi.org/10/1016/j.agwat.2023.108265
+
+In this analysis, we calculated the potential for reducing crop nitrogen inputs and associated nitrous oxide emissions by integrating spatially explicit, crop-specific data on nitrogen inputs, crop yields, attainable yields, irrigated extent, and climate. Broadly, we calculated a “target” yield-scaled nitrogen input rate based on pixels with low yield gaps and calculated the difference between nitrous oxide emissions under the current rate and under the hypothetical target emissions rate, using nitrous oxide emissions factors disaggregated by fertilizer type and climate.
+
+We used Tier 1 emissions factors from the IPCC 2019 Refinement to the 2006 Guidelines for NationalGreenhouse GasInventories, includingdirect emissionsfactors as well asindirect emissionsfrom volatilization and leaching pathways. Direct emissions factors represent the proportion of applied nitrogen emitted as nitrous oxide, while we calculated volatilization and leaching emissions factors by multiplying the proportion of applied nitrogen lost through these pathways by the proportion of volatilized or leached nitrogen ultimately emitted as nitrous oxide. Including both direct and indirect emissions, organic and synthetic fertilizers emit 4.97 kg CO₂‑eq/kg nitrogen and 8.66 kg CO₂‑eq/kg nitrogen, respectively, in wet climates, and 2.59 kg CO₂‑eq/kg nitrogen and 2.38 kg CO₂‑eq/kg nitrogen in dry climates. We included uncertainty bounds (2.5th and 97.5th percentiles) for all emissions factors.
+
+We classified each pixel as “wet” or “dry” using an aridity index (AI) threshold of 0.65, calculated as the ratio of annual precipitation to potentialevapotranspiration(PET) from TerraClimate data (1991–2020), based on a threshold of 0.65. For pixels in dry climates that contained irrigation, we took the weighted average of wet and dry emissions factors based on the fraction of cropland that was irrigated (Mehta et al., 2024). We excluded irrigated rice from this analysis due to large differences in nitrous oxide dynamics in flooded rice systems.
+
+
+## Current, Target, and Avoidable Nitrogen Inputs and Emissions
+
+
+Using highly disaggregated data on nitrogen inputs from Adalibieke et al. (2024) for 21 crop groups, we calculated total crop-specific inputs of synthetic and organic nitrogen. We then averaged over 2016–2020 to reduce the influence of interannual variability in factors like fertilizer prices. These values are subsequently referred to as “current” nitrogen inputs. We calculated nitrous oxide emissions under current nitrogen inputs as the sum of the products of nitrogen inputs and the climatically relevant emissions factors for each fertilizer type.
+
+Next, we calculated target nitrogen application rates in terms of kg nitrogen per ton of crop yield using data on actual and attainable yields for 17 crops from Gerber et al., 2024. For each crop, we first identified pixels in which the ratio of actual to attainable yields was above the 80th percentile globally. The target nitrogen application rate was then calculated as the 20th percentile of nitrogen application rates across low-yield-gap pixels. Finally, we calculated total target nitrogen inputs as the product of actual yields and target nitrogen input rates. We calculated hypothetical nitrous oxide emissions from target nitrogen inputs as the product of nitrogen inputs and the climatically relevant emissions factor for each fertilizer type.
+
+The difference between current and target nitrogen inputs represents the amount by which nitrogen inputs could hypothetically be reduced without compromising crop productivity (i.e., “avoidable” nitrogen inputs). We calculated avoidable nitrous oxide emissions as the difference between nitrous oxide emissions with current nitrogen inputs and those with target nitrogen inputs. For crops for which no yield or attainable yield data were available, we applied the average percent reduction in nitrogen inputs under the target scenario from available crops to the nitrogen input data for missing crops to calculate the avoidable nitrogen inputs and emissions.
+
+This simple and empirically driven method aimed to identify realistically low but nutritionally adequate nitrogen application rates by including only pixels with low yield gaps, which are unlikely to be substantially nutrient-constrained. We did not control for other factors affecting nitrogen availability, such as historical nutrient application rates or depletion, rotation with nitrogen fixing crops, or tillage and residue retention practices.
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

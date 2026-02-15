@@ -1,0 +1,888 @@
+# Reduce Food Loss & Waste
+Source: https://drawdown.org/explorer/reduce-food-loss-waste
+
+Methods and Supporting Data
+
+
+## Reduce Food Loss & Waste
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+More than one-third of all food produced for human consumption is lost or wasted before it can be eaten. This means that the GHGs emitted during the production and distribution of that particular food – including emissions from agriculture-related deforestation and soil management,methaneemissions from livestock and rice production, andnitrous oxideemissions from fertilizer management – are also wasted. This solution reduces emissions by lowering the amount of food and its associated emissions that are lost or wasted across thesupply chain, from production through consumption.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The global food system, including land use, production, storage, and distribution, generates more than 25% of globalGHGemissions (Poore and Nemecek, 2018). More than one-third of this food is lost or wasted before it can be eaten, with estimated associated emissions being recorded at 4.9GtCO₂‑eq/yr(our own calculation).FLWemissions arise from supply chainembodied emissions(i.e., the emissions generated from producing food and delivering to consumers). Reducingfood loss and wasteavoids the embodied emissions while simultaneously increasing food supply and reducing pressure to expand agricultural land use and intensity.
+
+FLW occurs at each stage of the food supply chain (Figure 1).Food lossrefers to the stages of production, handling, storage, and processing within the supply chain.Food wasteoccurs at the distribution, retail, and consumer stages of the supply chain.
+
+Figure 1. GHG emissions occur at each stage of the food supply chain. Food loss occurs at the pre-consumer stages of the supply chain, whereas food waste occurs at the distribution, market, and consumption stages.Credit: Project Drawdown
+
+Food loss can be reduced through improved post-harvest management practices, such as increasing the number and storage capacity of warehouses, optimizing processes and equipment, and improving packaging to increase shelf life. Retailers can reduce food waste by improving inventory management, forecasting demand, donating unsold food to food banks, and standardizing date labeling. Consumers can reduce food waste by educating themselves, making informed purchasing decisions, and effectively planning meals. The type of interventions to reduce FLW will depend on the type(s) of food product, the supply chain stage(s), and the location(s).
+
+When FLW cannot be prevented,organic wastecan be managed in ways that limit its GHG emissions. Waste management is not included in this solution but is addressed in other Drawdown Explorer solutions (seeDeploy Methane Digesters,Improve Landfill Management, andIncrease Centralized Composting).
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+We could not find sources measuring current adoption of reduced food loss and waste, so we set a minimum adoption value of zero. Expert estimates determined the low and high achievable adoption by 2050 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2050, corresponding to a 25% reduction in FLW.
+
+This is the high end of the range for estimated achievable adoption by 2050, corresponding to a 50% reduction in FLW.
+
+The minimum adoption is zero since current adoption could not be determined.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Our analysis estimates that reducing FLW reduces emissions 2.82tCO₂‑eq
+ (100-yr basis) for every metric ton of food saved (Table 1). This estimate is based on selected country and global assessments from nongovernmental organizations (NGOs), public agencies, and development banks (ReFED, 2024; World Bank, 2020; WRAP, 2024). All studies included in this estimate reported a reduction in both volumes of FLW and GHG emissions. However, it is important to recognize that the range of embodied emissions varies widely across foods (Poore & Nemecek, 2018). For example, reducing meat waste can be more effective than reducing fruit waste because the embodied emissions are much higher.
+
+Effectivenessis only reported on a 100-yr time frame here because our data sources did not include enough information to separate out the contribution of different GHGs and calculate the effectiveness on a 20-yr time frame.
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit:t CO₂‑eq
+/t reduced FLW, 100-yr basis
+
+The net cost of baseline FLW is US$932.56/t waste, based on values from the Food and Agriculture Organization of the United Nations (FAO, 2014) and Hegensholt et al. (2018). The median net cost of implementing strategies and practices that reduce FLW is US$385.5/t waste reduced, based on values from ReFED (2024) and Hanson and Mitchell (2017). These costs include, but are not limited to, improvements to inventory tracking, storage, and diversion to food banks. Therefore, the net cost of the solution compared to baseline is a total savings of US$547.0/t waste reduced.
+
+Therefore, reducing emissions for FLW is cost-effective, saving US$194.0/t avoided CO₂‑eq
+ on a 100-yr basis (Table 2).
+
+Table 2. Net cost per unit climate impact.
+
+Unit:US$/t CO₂‑eq
+, 2023
+
+Learning curvedata were not yet available for this solution.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Reduce Food Loss and Waste is anEMERGENCY BRAKEclimate solution. It has the potential to deliver a more rapid impact than nominal and delayed solutions. Because emergency brake solutions can deliver their climate benefits quickly, they can help accelerate our efforts to address dangerous levels of climate change. For this reason, they are a high priority.
+
+Due to a lack of data we were not able to quantify current adoption for this solution.
+
+Data on adoption trends were not available.
+
+We assumed anadoption ceilingof 1.75 Gt of FLW reduction in 2023, which reflects a 100% reduction in FLW (Table 3). While reducing FLW by 100% is unrealistic because some losses and waste are inevitable (e.g., trimmings, fruit pits and peels) and some surplus food is needed to ensure a stable food supply (HLPE, 2014), we kept that simple assumption because there wasn’t sufficient information on the amount of inevitable waste, and it is consistent with other research used in this assessment.
+
+Table 3. Adoption ceiling.
+
+Unit:t reduced FLW/yr
+
+Studies consider that halving the reduction in FLW by 2050 is extremely ambitious and would require “breakthrough technologies,” whereas a 25% reduction is classified as highly ambitious, and a 10% reduction is more realistic based on coordinated efforts (Searchinger, 2019; Springmann et al., 2018). With our estimate of 1.75 Gt of FLW per year, a 25% reduction equals 0.48 Gt, while a 50% reduction would represent 0.95 Gt of reduced FLW.
+
+It is important to acknowledge that, 10 years after the 50% reduction target was set in the Sustainable Development Goals (SDGs, Goal 12.3), the world has not made sufficient progress. The challenge has therefore become larger as the amounts of FLW keep increasing at a rate of 2.2%/yr (Gatto & Chepeliev, 2023; Hegnsholt, et al. 2018; Porter et al., 2016).
+
+As a result of these outcomes, we have selected a 25% reduction in FLW as our Achievable – Low and 50% as our Achievable – High. Reductions in FLW are 437.5, 875.0, and 1,750MtFLW/year for Achievable – Low, Achievable – High, and Adoption Ceiling, respectively (Table 4).
+
+Table 4. Adoption levels.
+
+Unit:t reduced FLW/yr
+
+An Achievable – Low (25% FLW reduction) could represent 1.23 Gt CO₂‑eq/yr
+ (100-yr basis) of reduced emissions, whereas an Achievable – High (50% FLW reduction) could represent up to 2.47 Gt CO₂‑eq/yr.
+ The adoption potential (100% FLW reduction) would result in 4.94 Gt CO₂‑eq/yr
+ (Table 5). We only report emissions outcomes on a 100-yr basis here because most data sources did not separate the percentage of type of food wasted or disaggregate their associated emissions factors by GHG type. Estimated impacts would be higher on a20-yr basisdue to the higherGWPof methane associated with meat and rice production.
+
+Table 5. Climate impact at different levels of adoption.
+
+Unit:Gt CO₂‑eq/yr,
+ 100-yr basis
+
+We also compiled studies that have modeled the climate impacts of different FLW reduction scenarios, from 10% to 75%. For an achievable 25% reduction, Scheringer (2019) estimated a climate impact of 1.6 Gt CO₂‑eq/yr.
+ Studies that modeled the climate impact of a 50% reduction by 2050 estimated between 0.5 Gt CO₂‑eq/yr
+ (excluding emissions from agricultural production and land use change; Roe at al., 2021) to 3.1–4.5 Gt CO₂‑eq/yr
+ (including emissions from agricultural production and land use change; Roe at al., 2021; Searchinger et al., 2019).
+
+Multiple studies stated that climate impacts from FLW reduction would be greater when combined with the implementation of dietary changes (see theImprove Dietssolution; Almaraz et al., 2023; Babiker et al.; 2022; Roe et al., 2021; Springmann et al., 2018; Zhu et al., 2023).
+
+
+## Extreme Weather Events
+
+
+Households and communities can strengthen adaptation to climate change by improving food storage, which helps reduce food loss (Ziervogel & Ericksen, 2010). Better food storage infrastructure improves food security from extreme weather events such as drought or floods which make it more difficult to grow food and can disrupt food distribution (Mbow et al., 2019).
+
+FLW accounts for a loss of about US$1 trillion annually (World Bank, 2020). In the United States, a four-person household spends about US$2,913 on food that is wasted (Kenny, 2025). These household-level savings are particularly important for low-income families because they commonly spend a higher proportion of their income on food (Davidenko & Sweitzer, 2024). Reducing FLW can improve economic efficiency (Jaglo et al., 2021). In fact, a report by Champions 12.3 found efforts to reduce food waste produced positive returns on investments in cities, businesses, and households in the United Kingdom (Hanson & Mitchell, 2017). FLW in low- and middle-income countries mostly occurs during the pre-consumer stages, such as storage, processing, and transport (Kaza et al., 2018). Preventive measures to reduce these losses have been linked to improved incomes and profits (Rolker et al., 2022).
+
+Reducing FLW increases the amount of available food, thereby improving food security without requiring increased production (Neff et al., 2015). The World Resources Institute estimated that halving the rate of FLW could reduce the projected global need for food approximately 20% by 2050 (Searchinger et al., 2019). In the United States, about 30–40% of food is wasted (U.S. Food and Drug Administration [U.S. FDA], 2019) with this uneaten food accounting for enough calories to feed more than 150 million people annually (Jaglo et al., 2021). These studies demonstrate that reducing FLW can simultaneously decrease the demand for food production while improving food security.
+
+Policies that reduce food waste at the consumer level, such as those that improve food packaging and require clearer information on shelf life and date labels, can reduce the number of foodborne illnesses (Neff et al., 2015; U.S. FDA, 2019). Additionally, efforts to improve food storage and food handling can further reduce illnesses and improve working conditions for food-supply-chain workers (Neff et al., 2015). Reducing FLW can lower air pollution from food production, processing, and transportation and from disposal of wasted food (Nutrition Connect, 2023). Gatto and Chepeliev (2024) found that reducing FLW can improve air quality (primarily through reductions incarbon monoxide, ammonia,nitrogen oxides, andparticulate matter), which lowers premature mortality from respiratory infections. These benefits were primarily observed in China, India, and Indonesia, where high FLW-embedded air pollution is prevalent across all stages of the food supply chain (Gatto & Chepeliev, 2024).
+
+For a description of the land resources benefits, please refer to the “water resources” subsection below.
+
+Reducing FLW can conserve resources and improve biodiversity (Cattaneo, Federighi, & Vaz, 2021). A reduction in FLW reflects improvements in resource efficiency of freshwater, synthetic fertilizers, and cropland used for agriculture (Kummu et al., 2012). Reducing the strain on freshwater resources is particularly relevant in water-scarce areas such as North Africa and West-Central Asia (Kummu et al., 2012). In the United States, halving the amount of FLW could reduce approximately 290,000metric tonsof nitrogen from fertilizers, thereby reducing runoff, improving water quality, and decreasing algal blooms (Jaglo et al., 2021).
+
+Reducing FLW through consumer behavior, supply chain efficiencies, or other means can lead to lower food prices, creating arebound effectthat leads to increased consumption and GHG emissions (Hegwood et al., 2023). This rebound effect could offset around 53–71% of themitigationbenefits (Hegwood et al., 2023). Population and economic growth also increase FLW. The question remains however, who should bear the cost of implementing FLW solutions. A combination of value chain investments by governments and waste taxes for consumers may be required for optimal FLW reduction (Gatto, 2023; Hegwood, 2023; The World Bank, 2020).
+
+Strategies for managing post-consumer waste through composting and landfills are captured in other Project Drawdown solutions (seeImprove Landfill Management,Increase Centralized Composting, andDeploy Methane Digesters).
+
+Interventions to address FLW risk ignoring economic factors such as price transmission mechanisms and cascading effects, both upstream and downstream in the supply chain. The results of a FLW reduction policy or program depend greatly on the commodity, initial FLW rates, and market integration (Cattaneo, 2021; de Gorter, 2021).
+
+On the consumer side, there is a risk of a rebound effect: Avoiding FLW can lower food prices, leading to increased consumption and net increase in GHG emissions (Hegwood et al., 2023). Available evidence is highly contextual and often difficult to scale, so relevant dynamics must be studied with care (Goossens, 2019).
+
+The production site is a critical loss point, and farm incomes, scale of operations, and expected returns to investment affect loss reduction interventions (Anriquez, 2021; Fabi, 2021; Sheahan and Barrett, 2017).
+
+Some FLW reduction strategies have trade-offs for emission reductions (Cattaneo, 2021; de Gorter et al., 2021). For example, improved cold storage and packaging are important interventions for reducing food loss, yet they require additional electricity andrefrigerants, which can increase GHG emissions (Babiker et al., 2022; FAO, 2019).
+
+Deploy Low-Emission Industrial Feedstocks
+
+Increase Centralized Composting
+
+Reducing FLW can lower new demand for high-emissions foods, likeruminantmeat.
+
+Reducing FLW can lower demand for new production of livestock and crops, reducing the use of fertilizers or manure and therefore associated emissions.
+
+Improve Nutrient Management
+
+Reducing FLW can reduce the demand to expand agriculture, support land conservation and restoration, and benefit water quality.
+
+Restore Grasslands & Savannas
+
+Protect Grasslands & Savannas
+
+Protect Coastal Wetlands
+
+Reducing food loss and waste can reduce the demand for wild-harvested macroalgae.
+
+(mixed) Reducing FLW can increase demand for cold storage, more efficient appliances, and optimized transport, which could reinforce the adoption of solutions targeting these improvements. However, reducing FLW could compete with other solutions if loss reductions are achieved mainly from producing less food, which could lead to lower refrigeration demand.
+
+Improve Refrigerant Management
+
+Deploy Alternative Refrigerants
+
+Food waste is used as raw material for methane digestors and composting. Reducing FLW may reduce the impact of those solutions as a result of decreasedfeedstockavailability.
+
+Increase Centralized Composting
+
+A large volume of scientific research exists regarding reducing emissions of FLW effectively. TheIPCCSixth Assessment Report (AR6) estimates the mitigation potential of FLW reduction (through multiple reduction strategies) to be 2.1 Gt CO₂‑eq/yr
+ (with a range of 0.1–5.8 Gt CO₂‑eq/yr
+) (Nabuurs et al., 2022). This accounts for savings along the whole value chain.
+
+Following the 2011 FAO report – which estimated that around one-third (1.3 Gt) of food is lost and wasted worldwide per year – global coordination has prioritized the measurement of the FLW problem. This statistic has served as a baseline for multiple FLW reduction strategies. However, more recent studies suggest that the percentage of FLW may be closer to 40% (WWF, 2021). The median of the studies included in our analysis is 1.75 Gt/yr of FLW (FAO, 2024; Gatto & Chepeliev, 2024; Guo et al., 2020; Porter et al., 2016;UNEP, 2024; WWF, 2021; Zhu et al., 2023), with an annual increasing trend of 2.2%.
+
+Only one study included in our analysis calculated food embodied emissions from all stages of the supply chain, while the rest focused on theprimary productionstages. Zhu et al. (2023) estimated 6.5 Gt CO₂‑eq/yr
+ arising from the supply chain side, representing 35% of total food system emissions.
+
+When referring to food types, meat and animal products were estimated to emit 3.5 Gt CO₂‑eq/yr
+ compared to 0.12 Gt CO₂‑eq/yr
+ from fruits and vegetables (Zhu et al., 2023). Although meat is emissions-intensive, fruits and vegetables are the most wasted types of food by volume, making up 37% of total FLW by mass (Chen et al., 2020). The consumer stage is associated with the highest share of global emissions at 36% of total supply-embodied emissions from FLW, compared to 10.9% and 11.5% at the retail and wholesale levels, respectively (Zhu et al., 2023).
+
+While efforts to measure the FLW problem are invaluable, critical gaps exist regarding evidence of the effectiveness of different reduction strategies across supply chain stages ( Cattaneo, 2021; Goossens, 2019; Karl et al., 2025). To facilitate impact assessments and cost-effectiveness, standardized metrics are required to report actual quantities of FLW reduced as well as resulting GHG emissions savings (Food Loss and Waste Protocol, 2024).
+
+The results presented in this document summarize findings across 22 studies. These studies are made up of eight academic reviews and original studies, eight reports from NGOs, and six reports from public and multilateral organizations. This reflects current evidence from five countries, primarily the United States and the United Kingdom. We recognize this limited geographic scope creates bias, and hope this work inspires research for meta-analyses and data sharing on this topic in underrepresented regions and stages of the supply chain.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Ensure public procurement uses strategies to reduce FLW at all stages of the supply chain; consider using theFood Loss and Waste Protocol.
+
+Use financial incentives and regulations to promote efficient growing practices, harvesting methods, and storage technologies.
+
+Utilize financial instruments such as taxes, subsidies, or exemptions to support infrastructure, technology, and enforcement.
+
+Implement bans on food waste in landfills.
+
+Standardize food date labels.
+
+Mandate FLW reporting and reduction targets for major food businesses.
+
+Prioritize policies that divert FLW toward human consumption first, then prioritize animal feed or compost.
+
+Fund research to improve monitoring technologies, food storage, and resilient crop varieties.
+
+Invest or expand extension services to work with major food businesses to reduce FLW.
+
+Invest in and improve supportive infrastructure including electricity, public storage facilities, and roads to facilitate compost supply chains.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate stakeholder discussions.
+
+The food waste atlas.
+
+Reducing food loss and waste: Five challenges for policy and research.Cattaneo et al. (2021)
+
+The state of food and agriculture 2019: Moving forward on food loss and waste reduction. FAO (2019)
+
+Reducing food loss and waste: Ten interventions to scale impact. Hanson et al. (2019)
+
+A systematic literature review on food waste/loss prevention and minimization methods. Moraes et al. (2021)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Food waste is a solvable problem – Here’s how to do it. ReFED (n.d.)
+
+Review: Food loss and waste in sub-Saharan Africa. Sheahan et al. (2017)
+
+An overview of food waste management in developing countries: Current status and future perspective. Thi et al. (2015)
+
+Food waste: The role of date labels, package size, and product category. Wilson et al. (2017)
+
+Reducing food loss and waste: Setting a global action agenda. World Resources Institute (2019)
+
+Ensure operations reduce FLW at all stages of the supply chain; consider using theFood Loss and Waste Protocol.
+
+Set ambitious targets to reduce FLW, reevaluate them regularly, and use thorough measurements that capture FLW, associated GHG emissions, and financial data.
+
+Take advantage of extension services and financial incentives such as tax rebates and subsidies that promote FLW reduction strategies.
+
+Work with policymakers, peers, and industry leaders to standardize date labeling.
+
+Promote cosmetically imperfect food through marketing, discounts, orofftakeagreements.
+
+Utilize behavior change mechanisms such as signage saying “eat what you take,” offer smaller portion sizes, use smaller plates for servings, and visibly post information on the impact of FLW and best practices for prevention.
+
+Engage with frontline workers to identify and remedy FLW.
+
+Institute warehouse receipt systems and tracking techniques.
+
+Use tested storage devices and facilities such as hermetic bags and metal silos.
+
+Utilize Integrated pest management (IPM) during both pre- and post-harvest stages.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate stakeholder discussions.
+
+The food waste atlas.
+
+Reducing food loss and waste: Five challenges for policy and research.Cattaneo et al. (2021)
+
+Improving data on food losses and waste: From theory to practice. Fabi et al. (2021)
+
+The state of food and agriculture 2019: Moving forward on food loss and waste reduction. FAO (2019)
+
+Driving emissions down and profit up by reducing food waste. Food Waste Coalition of Action (2024)
+
+The business case for reducing food loss and waste. Hanson et al. (2017)
+
+Reducing food loss and waste: Ten interventions to scale impact. Hanson et al. (2019)
+
+A systematic literature review on food waste/loss prevention and minimization methods. Moraes et al. (2021)
+
+Reducing food’s environmental impacts through producers and consumers. Poore et al. (2018)
+
+Food waste is a solvable problem – Here’s how to do it. ReFED (n.d.)
+
+Review: Consumption-stage food waste reduction interventions – what works and how to design better interventions. Reynolds (2019)
+
+Food waste: The role of date labels, package size, and product category. Wilson et al. (2017)
+
+Reducing food loss and waste: Setting a global action agenda. World Resources Institute (2019)
+
+Ensure procurement uses strategies to reduce FLW at all stages of the supply chain; consider using theFood Loss and Waste Protocol.
+
+Set ambitious targets to reduce FLW, reevaluate them regularly, and use thorough measurements that capture FLW, associated GHG emissions, and financial data.
+
+Utilize or work with companies that utilize efficient growing practices, harvesting methods, and storage technologies that reduce FLW.
+
+Enter into offtake agreements for diverted food initiatives.
+
+Promote cosmetically imperfect food through marketing, discounts, or offtake agreements.
+
+Work with policymakers and industry peers to standardize date labeling and advocate for bans on food waste in landfills.
+
+Appoint a senior executive responsible for FLW goals and ensure they have the resources and authority for effective implementation.
+
+Utilize behavior change mechanisms such as signage saying, “eat what you take,” offer smaller portion sizes, use smaller plates for servings, and visibly post information on the impact of FLW and best practices for prevention.
+
+Engage with frontline workers to identify and remedy FLW.
+
+Institute warehouse receipt systems and tracking techniques.
+
+Fund research or startups that aim to improve monitoring technologies, food storage, packaging materials, stocking practices, and resilient crop varieties.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate stakeholder discussions.
+
+The food waste atlas.
+
+Reducing food loss and waste: Five challenges for policy and research. Cattaneo et al. (2021)
+
+Improving data on food losses and waste: From theory to practice. Fabi et al. (2021)
+
+The state of food and agriculture 2019: Moving forward on food loss and waste reduction. FAO (2019)
+
+Driving emissions down and profit up by reducing food waste. Food Waste Coalition of Action (2024)
+
+The business case for reducing food loss and waste. Hanson et al. (2017)
+
+Reducing food loss and waste: Ten interventions to scale impact. Hanson et al. (2019)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Food waste is a solvable problem – Here’s how to do it. ReFED (n.d.)
+
+Review: Consumption-stage food waste reduction interventions – what works and how to design better interventions. Reynolds (2019)
+
+Food waste: The role of date labels, package size, and product category. Wilson et al. (2017)
+
+Reducing food loss and waste: Setting a global action agenda. World Resources Institute (2019)
+
+Ensure procurement uses strategies to reduce FLW at all stages of the supply chain; consider using theFood Loss and Waste Protocol.
+
+Advocate for bans on food waste in landfills.
+
+Work with policymakers and industry leaders to standardize date labeling.
+
+Help food and agricultural companies use efficient growing practices, harvesting methods, and storage technologies that reduce FLW.
+
+Advocate for financial instruments such as taxes, subsidies, or exemptions to support infrastructure, technology, and enforcement.
+
+Use cosmetically imperfect and diverted food for food banks.
+
+Help companies track and report FLW and monitor goals, and offer input for improvement.
+
+Help transfer capacity, knowledge, and infrastructure to support FLW management in low- and middle-income communities.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate stakeholder discussions.
+
+The food waste atlas.
+
+Reducing food loss and waste: Five challenges for policy and research. Cattaneo et al. (2021)
+
+Improving data on food losses and waste: From theory to practice. Fabi et al. (2021)
+
+The state of food and agriculture 2019: Moving forward on food loss and waste reduction. FAO (2019)
+
+Driving emissions down and profit up by reducing food waste. Food Waste Coalition of Action (2024)
+
+The business case for reducing food loss and waste. Hanson et al. (2017)
+
+Reducing food loss and waste: Ten interventions to scale impact. Hanson et al. (2019)
+
+A systematic literature review on food waste/loss prevention and minimization methods. Moraes et al. (2021)
+
+Reducing food’s environmental impacts through producers and consumers. Poore et al. (2018)
+
+Food waste is a solvable problem – Here’s how to do it. ReFED (n.d.)
+
+Review: Consumption-stage food waste reduction interventions – what works and how to design better interventions. Reynolds (2019)
+
+Review: Food Loss and Waste in Sub-Saharan Africa. Sheahan et al. (2017)
+
+An overview of food waste management in developing countries: Current status and future perspective. Thi et al. (2015)
+
+Food waste: The role of date labels, package size, and product category. Wilson et al. (2017)
+
+Reducing food loss and waste: Setting a global action agenda. World Resources Institute (2019)
+
+Ensure portfolio companies and company procurement use strategies to reduce FLW at all stages of the supply chain; consider using theFood Loss and Waste Protocol.
+
+Require portfolio companies to measure and report on FLW GHG emissions.
+
+Fund startups which aim to improve monitoring technologies, food storage, packaging materials, stocking practices, and resilient crop varieties.
+
+Offer financial services, notably rural financial market development, including low-interest loans, micro-financing, and grants to support FLW prevention initiatives.
+
+Create, support, or join education campaigns and/or public-private partnerships, such as theFood Waste Funder Circle, that facilitate stakeholder discussions.
+
+Driving emissions down and profit up by reducing food waste. Food Waste Coalition of Action (2024)
+
+Food waste is a solvable problem – Here’s how to do it. ReFED (n.d.)
+
+Food waste: The role of date labels, package size, and product category. Wilson et al. (2017)
+
+Improving data on food losses and waste: From theory to practice. Fabi et al. (2021)
+
+Reducing Food Loss and Waste: Setting a Global Action Agenda. World Resources Institute (2019)
+
+Reducing food’s environmental impacts through producers and consumers. Poore et al. (2018)
+
+Review: Consumption-stage food waste reduction interventions – what works and how to design better interventions. Reynolds (2019)
+
+The business case for reducing food loss and waste.Hanson et al. (2017)
+
+The state of food and agriculture 2019: Moving forward on food loss and waste reduction. FAO (2019)
+
+The food waste atlas.
+
+
+## Philanthropists and International Aid Agencies
+
+
+Ensure procurement uses strategies to reduce FLW at all stages of the supply chain; consider using theFood Loss and Waste Protocol.
+
+Advocate for bans on food waste in landfills.
+
+Work with policymakers and industry leaders to standardize date labeling.
+
+Help food and agricultural companies use efficient growing practices, harvesting methods, and storage technologies that reduce FLW.
+
+Advocate for financial instruments such as taxes, subsidies, or exemptions to support infrastructure, technology, and enforcement.
+
+Use cosmetically imperfect and diverted food for food banks.
+
+Help companies tracking and report FLW and monitor goals, and offer input for improvement.
+
+Help transfer capacity, knowledge, and infrastructure to support FLW management in low- and middle-income communities.
+
+Fund startups that aim to improve monitoring technologies, food storage, packaging materials, stocking practices, and resilient crop varieties.
+
+Offer financial services, especially for rural financial market development, including low-interest loans, micro-financing, and grants to support FLW initiatives.
+
+Create, support, or join education campaigns and/or public-private partnerships, such as theFood Waste Funder Circle, that facilitate stakeholder discussions.
+
+The food waste atlas.
+
+Reducing food loss and waste: Five challenges for policy and research. Cattaneo et al. (2021)
+
+Improving data on food losses and waste: From theory to practice. Fabi et al. (2021)
+
+The state of food and agriculture 2019: Moving forward on food loss and waste reduction. FAO (2019)
+
+Driving emissions down and profit up by reducing food waste. Food Waste Coalition of Action (2024)
+
+The business case for reducing food loss and waste. Hanson et al. (2017)
+
+Reducing food loss and waste: Ten interventions to scale impact. Hanson et al. (2019)
+
+A systematic literature review on food waste/loss prevention and minimization methods. Moraes et al. (2021)
+
+Reducing food’s environmental impacts through producers and consumers. Poore et al. (2018)
+
+Food waste is a solvable problem – Here’s how to do it. ReFED (n.d.)
+
+Review: Consumption-stage food waste reduction interventions – what works and how to design better interventions. Reynolds (2019)
+
+Review: Food Loss and Waste in Sub-Saharan Africa. Sheahan et al. (2017)
+
+An overview of food waste management in developing countries: Current status and future perspective. Thi et al. (2015)
+
+Food waste: The role of date labels, package size, and product category. Wilson et al. (2017)
+
+Reducing food loss and waste: Setting a global action agenda. World Resources Institute (2019)
+
+Adopt behaviors to reduce FLW, including portion control, “eating what you take,” and reducing meat consumption.
+
+Advocate for bans on food waste in landfills.
+
+Help food and agricultural companies use efficient growing practices, harvesting methods, and storage technologies that reduce FLW.
+
+Work with policymakers and industry leaders to standardize date labeling.
+
+Advocate for financial instruments such as taxes, subsidies, or exemptions to support infrastructure, technology, and enforcement.
+
+Help companies or independent track and report FLW data and emissions.
+
+Help transfer capacity, knowledge, and infrastructure to support FLW management in low- and middle-income communities.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate stakeholder discussions.
+
+The food waste atlas.
+
+Reducing food loss and waste: Five challenges for policy and research. Cattaneo et al. (2021)
+
+Improving data on food losses and waste: From theory to practice. Fabi et al. (2021)
+
+The state of food and agriculture 2019: Moving forward on food loss and waste reduction. FAO (2019)
+
+Driving emissions down and profit up by reducing food waste. Food Waste Coalition of Action (2024)
+
+The business case for reducing food loss and waste. Hanson et al. (2017)
+
+Reducing food loss and waste: Ten interventions to scale impact. Hanson et al. (2019)
+
+A systematic literature review on food waste/loss prevention and minimization methods. Moraes et al. (2021)
+
+Reducing food’s environmental impacts through producers and consumers. Poore et al. (2018)
+
+Food waste is a solvable problem – Here’s how to do it. ReFED (n.d.)
+
+Review: Consumption-stage food waste reduction interventions – what works and how to design better interventions. Reynolds (2019)
+
+Food waste: The role of date labels, package size, and product category. Wilson et al. (2017)
+
+Reducing food loss and waste: Setting a global action agenda. World Resources Institute (2019)
+
+
+## Technologists and Researchers
+
+
+Research and develop more efficient growing and harvesting practices.
+
+Develop new crop varieties to increase land productivity, shelf life, durability during transportation, and resistance to contamination.
+
+Improve the efficiency of cold chains for transportation and storage.
+
+Design software that can optimize the harvesting, storage, transportation, stocking, and shelf life of produce.
+
+Improve data collection on FLW, associated GHG emissions, and financial data across the supply chain.
+
+Develop new non-plastic, biodegradable, low-carbon packaging materials.
+
+Improve storage devices and facilities such as hermetic bags and metal silos.
+
+Research technologies, practices, or nonharmful substances to prolong the lifespan of food.
+
+The food waste atlas.
+
+Reducing food loss and waste: Five challenges for policy and research. Cattaneo et al. (2021)
+
+Improving data on food losses and waste: From theory to practice. Fabi et al. (2021)
+
+Driving emissions down and profit up by reducing food waste. Food Waste Coalition of Action (2024)
+
+Reducing food loss and waste: Ten interventions to scale impact. Hanson et al. (2019)
+
+A systematic literature review on food waste/loss prevention and minimization methods.Moraes et al. (2021)
+
+Reducing food’s environmental impacts through producers and consumers.Poore et al. (2018)
+
+Food waste is a solvable problem – Here’s how to do it. ReFED (n.d.)
+
+Review: Consumption-stage food waste reduction interventions – what works and how to design better interventions. Reynolds (2019)
+
+Review: Food Loss and Waste in Sub-Saharan Africa. Sheahan et al. (2017)
+
+An overview of food waste management in developing countries: Current status and future perspective. Thi et al. (2015)
+
+Food waste: The role of date labels, package size, and product category. Wilson et al. (2017)
+
+Reducing food loss and waste: Setting a global action agenda. World Resources Institute (2019)
+
+
+## Communities, Households, and Individuals
+
+
+Adopt behaviors to reduce FLW, including portion control, “eating what you take,” and reducing meat consumption.
+
+Donate food that won’t be used or, if that’s not possible, use the food for animals or compost.
+
+Advocate for bans on food waste in landfills.
+
+Advocate for financial instruments such as taxes, subsidies, or exemptions to support infrastructure, technology, and enforcement.
+
+Demand transparency around FLW from public and private organizations.
+
+Educate yourself and those around you about the impacts and solutions.
+
+Create, support, or join education campaigns and/or public-private partnerships that facilitate stakeholder discussions.
+
+The food waste atlas.
+
+Reducing food loss and waste: Five challenges for policy and research. Cattaneo et al. (2021)
+
+The state of food and agriculture 2019: Moving forward on food loss and waste reduction. FAO (2019)
+
+The business case for reducing food loss and waste. Hanson et al. (2017)
+
+Reducing food loss and waste: Ten interventions to scale impact. Hanson et al. (2019)
+
+Reducing food’s environmental impacts through producers and consumers. Poore et al. (2018)
+
+Food waste is a solvable problem – Here’s how to do it. ReFED (n.d.)
+
+Review: Consumption-stage food waste reduction interventions – what works and how to design better interventions. Reynolds (2019)
+
+Food waste: The role of date labels, package size, and product category. Wilson et al. (2017)
+
+Reducing food loss and waste: Setting a global action agenda. World Resources Institute (2019)
+
+
+## “Take Action” Sources
+
+
+The food waste atlas.
+
+Reducing food loss and waste: Five challenges for policy and research. Cattaneo et al. (2021)
+
+Improving data on food losses and waste: From theory to practice. Fabi et al. (2021)
+
+The State of Food and Agriculture 2019: Moving Forward on Food Loss and Waste Reduction. FAO (2019)
+
+Driving emissions down and profit up by reducing food waste. Food Waste Coalition of Action (2024)
+
+The business case for reducing food loss and waste. Hanson et al. (2017)
+
+Reducing food loss and waste: Ten interventions to scale impact. Hanson et al. (2019)
+
+A systematic literature review on food waste/loss prevention and minimization methods. Moraes et al. (2021)
+
+Reducing food’s environmental impacts through producers and consumers. Poore et al. (2018)
+
+Food waste is a solvable problem – Here’s how to do it. ReFED (n.d.)
+
+Review: Consumption-stage food waste reduction interventions – what works and how to design better interventions. Reynolds (2019)
+
+Review: Food loss and waste in sub-Saharan Africa. Sheahan et al. (2017)
+
+An overview of food waste management in developing countries: Current status and future perspective. Thi et al. (2015)
+
+Food waste: The role of date labels, package size, and product category. Wilson et al. (2017)
+
+Reducing food loss and waste: Setting a global action agenda. World Resources Institute (2019)
+
+Methods and Supporting Data
+
+Almaraz, M., Houlton, B. Z., Clark, M., Holzer, I., Zhou, Y., Rasmussen, L., Moberg, E., Manaigo, E., Halpern, B. S., Scarborough, C., Lei, X. G., Ho, M., Allison, E., Sibanda, L., & Salter, A. (2023). Model-based scenarios for achieving net negative emissions in the food system.PLOS Climate2(9), Article e0000181.Link to source:https://doi.org/10.1371/journal.pclm.0000181
+
+Amicarelli, V., Lagioia, G., & Bux, C. (2021). Global warming potential of food waste through the life cycle assessment: An analytical review.Environmental Impact Assessment Review,91, Article 106677.Link to source:https://doi.org/10.1016/j.eiar.2021.106677
+
+Anríquez, G., Foster, W., Santos Rocha, J., Ortega, J., Smolak, J., & Jansen, S. (2023).Reducing food loss and waste in the Near East and North Africa – Producers, intermediaries and consumers as key decision-makers. Food and Agriculture Organization of the United Nations.Link to source:https://doi.org/10.4060/cc3409en
+
+Babiker, M., Berndes, G., Blok, K., Cohen, B., Cowie, A., Geden, O., Ginzburg, V., Leip, A., Smith, P., Sugiyama, M., & Yamba, F. (2022). Cross-sectoral perspectives. In P. R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, & J. Malley (Eds.),Climate change 2022: Mitigation of climate change. Contribution of working group III to the sixth assessment report of the intergovernmental panel on climate change(pp. 1245–1354). Cambridge University Press.Link to source:https://doi.org/10.1017/9781009157926.014
+
+Byrne, F., Medina, M. K., Mosqueda, E., Salinas, E., Suarez Peña, A. C., Suarez, J. D., Raimondi, G., & Molina, M. (2024).Sustainability impacts of food recovery & redistribution organizations. The Global FoodBanking Network.Link to source:https://www.foodbanking.org/wp-content/uploads/2024/08/FRAME-Methodology_Food-Recovery-to-Avoid-Methane-Emissions_GFN.pdf
+
+Cattaneo, A., Federighi, G., & Vaz, S. (2021). The environmental impact of reducing food loss and waste: A critical assessment.Food Policy,98, Article 101890.Link to source:https://doi.org/10.1016/j.foodpol.2020.101890
+
+Cattaneo, A., Sánchez, M. V., Torero, M., & Vos, R. (2021). Reducing food loss and waste: Five challenges for policy and research.Food Policy,98, Article 101974.Link to source:https://doi.org/10.1016/j.foodpol.2020.101974
+
+Chen, C., Chaudhary, A., & Mathys, A. (2020). Nutritional and environmental losses embedded in global food waste.Resources, Conservation and Recycling,160, Article 104912.Link to source:https://doi.org/10.1016/j.resconrec.2020.104912
+
+Creutzig, F., Niamir, L., Bai, X., Callaghan, M., Cullen, J., Díaz-José, J, Figueroa, M., Grubler, A., Lamb, W.F., Leip, A., Masanet, E., Mata, É., Mattauch, L., Minx, J., Mirasgedis, S., Mulugetta, Y., Nugroho, S.B., Pathak, M., Perkins, P., Roy, J., de la Rue du Can, S., Saheb, Y., Some, S., Steg, L., Steinberger, J., & Ürge-Vorsatz, D. (2021). Demand-side solutions to climate change mitigation consistent with high levels of well-being.Nature Climate Change, 12(1), 36-46.Link to source:https://doi.org/10.1038/s41558-021-01219-y
+
+Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F. N., & Leip, A. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions.Nature Food,2(3), 198-209.Link to source:https://doi.org/10.1038/s43016-021-00225-9
+
+Davidenko, V., & Sweitzer, M. (2024, November 19).U.S. households that earn less spend a higher share of income on food. USDA Economic Research Service.Link to source:https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110391#:~:text=U.S.%20households%20were%20divided%20into,32.6%20percent%20of%20their%20income
+
+de Gorter, H., Drabik, D., Just, D. R., Reynolds, C., & Sethi, G. (2021). Analyzing the economics of food loss and waste reductions in a food supply chain.Food Policy,98, Article 101953.Link to source:https://doi.org/10.1016/j.foodpol.2020.101953
+
+Delgado, L., Schuster, M., & Torero, M. (2021). Quantity and quality food losses across the value chain: A comparative analysis.Food Policy,98, Article 101958.Link to source:https://doi.org/10.1016/j.foodpol.2020.101958
+
+Eurostat (2024).Food waste and food waste prevention by NACE Rev. 2 activity[Dataset].Link to source:https://ec.europa.eu/eurostat/databrowser/view/env_wasfw/default/table?lang=en&category=env.env_was.env_wasst
+
+European Commission Knowledge Center for Bioeconomy (2024).EU Bioeconomy Monitoring System[Dataset].Link to source:https://knowledge4policy.ec.europa.eu/bioeconomy/monitoring_en
+
+Fabi, C., Cachia, F., Conforti, P., English, A., & Rosero Moncayo, J. (2021). Improving data on food losses and waste: From theory to practice.Food Policy,98, Article 101934.Link to source:https://doi.org/10.1016/j.foodpol.2020.101934
+
+Food and Agriculture Organization of the United Nations. (2014).Food wastage footprint: Full-cost accounting.Link to source:https://openknowledge.fao.org/server/api/core/bitstreams/6a266c4f-8493-471c-ab49-30f2e51eec8c/content
+
+Food and Agriculture Organization of the United Nations. (2019).The state of food and agriculture 2019: Moving forward on food loss and waste reduction.Link to source:https://openknowledge.fao.org/server/api/core/bitstreams/11f9288f-dc78-4171-8d02-92235b8d7dc7/content
+
+Food and Agriculture Organization of the United Nations. (2023).Tracking progress on food and agriculture-related SDG indicators 2023.Link to source:https://doi.org/10.4060/cc7088en
+
+Food Waste Coalition of Action. (2024).Driving emissions down and profit up by reducing food waste. The Consumer Goods Forum and AlixPartners.Link to source:https://www.theconsumergoodsforum.com/wp-content/uploads/2024/06/Driving-Emissions-Down-Profit-Up-By-Reducing-Food-Waste-FWReport2024-1.pdf
+
+Gatto, A., & Chepeliev, M. (2024). Reducing global food loss and waste could improve air quality and lower the risk of premature mortality.Environmental Research Letters,19, Article 014080.Link to source:https://doi.org/10.1088/1748-9326/ad19ee
+
+Goossens, Y., Wegner, A., & Schmidt, T. (2019). Sustainability assessment of food waste prevention measures: Review of existing evaluation practices.Frontiers in Sustainable Food Systems,3(90).Link to source:https://doi.org/10.3389/fsufs.2019.00090
+
+Guo, X., Broeze, J., Groot, J. J., Axmann, H., & Vollebregt, M. (2020). A worldwide hotspot analysis on food loss and waste, associated greenhouse gas emissions, and protein losses.Sustainability,12(18), Article 7488.Link to source:https://doi.org/10.3390/su12187488
+
+Hanson, C., & Mitchell, P. (2017).The Business Case for Reducing Food Loss and Waste.Link to source:https://champions123.org/sites/default/files/2020-08/business-case-for-reducing-food-loss-and-waste.pdf
+
+Hegnsholt, E., Unnikrishnan, S., Pollmann-Larsen, M., Askelsdottir, B., & Gerard, M. (2018).Tackling the 1.6-billion-ton food loss and waste crisis. The Boston Consulting Group, Food Nation, State of Green.Link to source:https://web-assets.bcg.com/img-src/BCG-Tackling-the-1.6-Billion-Ton-Food-Waste-Crisis-Aug-2018%20%281%29_tcm9-200324.pdf
+
+Hegwood, M., Burgess, M. G., Costigliolo, E. M., Smith, P., Bajzelj, B., Saunders, H., & Davis, S. J. (2023). Rebound effects could offset more than half of avoided food loss and waste.Nature Food,4(7), 585-595.Link to source:https://doi.org/10.1038/s43016-023-00792-z
+
+Jaglo, K., Kelly, S., & Stephenson, J. (2021).From farm to kitchen: The environmental impacts of U.S. food waste(Report No. EPA 600-R21 171). U.S. Environmental Protection Agency.Link to source:https://www.epa.gov/land-research/farm-kitchen-environmental-impacts-us-food-waste
+
+Karl, K., Tubiello, F. N., Crippa, M., Poore, J., Hayek, M. N., Benoit, P., Chen, M., Corbeels, M., Flammini, A., Garland, S., Leip, A., McClelland, S., Mencos Contreras, E., Sandalow, D., Quadrelli, R., Sapkota, T., and Rosenzweig, C. (2024). Harmonizing food systems emissions accounting for more effective climate action.Environmental Research: Food Systems,2(1), Article 015001.Link to source:https://doi.org/10.1088/2976-601X/ad8fb3
+
+Kaza, Silpa, Lisa Yao, Perinaz Bhada-Tata, and Frank Van Woerden (2018).What a waste 2.0: A global snapshot of solid waste management to 2050. Urban Development Series. World Bank.Link to source:http://hdl.handle.net/10986/30317
+
+Kenny, S. (2025).Estimating the Cost of Food Waste to American Consumers.(No. EPA/600/R25-048). U.S. Environmental Protection Agency Office of Research and Development.Link to source:https://www.epa.gov/system/files/documents/2025-04/costoffoodwastereport_508.pdf
+
+Kenny, S., Stephenson, J., Stern, A., Beecher, J., Morelli, B., Henderson, A., Chiang, E., Beck, A., Cashman, S., Wexler, E., McGaughy, K., & Martell, A. (2023).From Field to Bin: The Environmental Impact of U.S. Food Waste Management Pathways(No. EPA/600/R-23/065). U.S. Environmental Protection Agency Office of Research and Development.Link to source:https://www.epa.gov/land-research/field-bin-environmental-impacts-us-food-waste-management-pathways
+
+Kummu, M., De Moel, H., Porkka, M., Siebert, S., Varis, O., & Ward, P. J. (2012). Lost food, wasted resources: Global food supply chain losses and their impacts on freshwater, cropland, and fertiliser use.Science of The Total Environment,438, 447-489.Link to source:https://doi.org/10.1016/j.scitotenv.2012.08.092
+
+Lipinski, B. (2024).SDG target 12.3 on food loss and waste: 2024 progress report. Champions 12.3.Link to source:https://champions123.org/sites/default/files/2024-09/champions-12-3-2024-progress-report.pdf
+
+Mbow, C., Rosenzweig, C., Barioni, L. G., Benton, T. G., Herrero, M., Krishnapillai, M., Liwenga, E., Pradhan, P., Rivera-Ferre, M. G., Sapkota, T., Tubiello, F. N., & Xu, Y. (2019). Food security. In P. R. Shukla, J. Skea, E. Calvo Buendia, V. Masson-Delmotte, H.-O. Pörtner, D. C. Roberts, P. Zhai, R. Slade, S. Connors, R. van Diemen, M. Ferrat, E. Haughey, S. Luz, S. Neogi, M. Pathak, J. Petzold, J. Portugal Pereira, P. Vyas, E. Huntley, K. Kissick, M. Belkacemi, & J. Malley (Eds.),Climate change and land: An IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems(pp. 437–550). Cambridge University Press.Link to source:https://doi.org/10.1017/9781009157988.007
+
+Marston, L. T., Read, Q. D., Brown, S. P., & Muth, M. K. (2021). Reducing water scarcity by reducing food loss and waste.Frontiers in Sustainable Food Systems,5.Link to source:https://doi.org/10.3389/fsufs.2021.651476
+
+Moraes, N. V., Lermen, F. H., & Echeveste, M. E. S. (2021). A systematic literature review on food waste/loss prevention and minimization methods.Journal of Environmental Management, 286.Link to source:https://doi.org/10.1016/j.jenvman.2021.112268
+
+Nabuurs, G.-J., Mrabet, R., Hatab, A. A., Bustamante, M., Clark, H., Havlík, P., House, J. I., Mbow, C., Ninan, K. N., Popp, A., Roe, S., Sohngen, B., & Towprayoon, S. (2022). Agriculture, forestry and other land uses (AFOLU). In P. R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, & J. Malley (Eds.),Climate change 2022: Mitigation of climate change. Contribution of working group III to the sixth assessment report of the intergovernmental panel on climate change(pp. 747–860). Cambridge University Press.Link to source:https://doi.org/10.1017/9781009157926.009
+
+Neff, R. A., Kanter, R., & Vandevijvere, S. (2015). Reducing food loss and waste while improving the public’s health.Health Affairs,34(11), 1821-1829.Link to source:https://doi.org/10.1377/hlthaff.2015.0647
+
+Nutrition Connect. (2023).Reducing waste from farm to plate: A multi-stakeholder recipe to reduce food loss and waste. Global Alliance for Improved Nutrition (GAIN).Link to source:https://nutritionconnect.org/news-events/reducing-food-loss-waste-farm-plate-stakeholder-recipe-compendium
+
+Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers.Science,360(6392), 987-992.Link to source:https://doi.org/10.1126/science.aaq0216
+
+Porter, S. D., Reay, D. S., Higgins, P., & Bomberg, E. (2016). A half-century of production-phase greenhouse gas emissions from food loss & waste in the global food supply chain.Science of the Total Environment,571, 721-729.Link to source:https://doi.org/10.1016/j.scitotenv.2016.07.041
+
+Read, Q. D., Brown, S., Cuellar, A. D., Finn, S. M., Gephart, J. A., Marston, L. T., Meyer, E., Weitz, K.A., & Muth, M. K. (2020). Assessing the environmental impacts of halving food loss and waste along the food supply chain.Science of the Total Environment,712, Article 136255.Link to source:https://doi.org/10.1016/j.scitotenv.2019.136255
+
+Read, Q. D., & Muth, M. K. (2021). Cost-effectiveness of four food waste interventions: Is food waste reduction a “win–win?”.Resources, Conservation and Recycling, 168.Link to source:https://doi.org/10.1016/j.resconrec.2021.105448
+
+ReFED. (2024).The methane impact of food loss and waste in the United States.Link to source:https://refed.org/uploads/refed-methane-report-final.pdf
+
+Reynolds, C., Goucher, L., Quested, T., Bromley, S., Gillick, S., Wells, V. K., Evans, D., Koh, L., Carlsson Kanyama, A., Katzeff, C., Svenfelt, A., & Jackson, P. (2019). Review: Consumption-stage food waste reduction interventions – What works and how to design better interventions.Food Policy,83, 7-27.Link to source:https://doi.org/10.1016/j.foodpol.2019.01.009
+
+Rolker, H., Eisler, M., Cardenas, L., Deeney, M., & Takahashi, T. (2022). Food waste interventions in low-and-middle-income countries: A systematic literature review.Resources, Conservation and Recycling, 186.Link to source:https://doi.org/10.1016/j.resconrec.2022.106534
+
+Searchinger, T., Waite, R., Hanson, C., & Ranganathan, J. (2019).Creating a sustainable food future. World Resources Institute.Link to source:https://research.wri.org/sites/default/files/2019-07/WRR_Food_Full_Report_0.pdf
+
+Sheahan, M., & Barrett, C. B. (2017). Review: Food loss and waste in Sub-Saharan Africa.Food Policy,70, 1-12.Link to source:https://doi.rog/10.1016/j.foodpol.2017.03.012
+
+Swannell, R., Falconer Hall, M., Tay, R., & Quested, T. (2019). The food waste atlas: An important tool to track food loss and waste and support the creation of a sustainable global food system.Resources, Conservation and Recycling,146, 534-545.Link to source:https://doi.org/10.1016/j.resconrec.2019.02.006
+
+Thi, N. B. D., Kumar, G., & Lin, C.-Y. (2015). An overview of food waste management in developing countries: Current status and future perspective.Journal of Environmental Management,157, 220-229.Link to source:https://doi.org/10.1016/j.jenvman.2015.04.022
+
+Tubiello, F. N., Karl, K., Flammini, A., Gütschow, J., Obli-Laryea, G., Conchedda, G., Pan, X., Qi, S. Y., Halldórudóttir Heiðarsdóttir, H., Wanner, N., Quadrelli, R., Rocha Souza, L., Benoit, P., Hayek, M., Sandalow, D., Mencos Contreras, E., Rosenzweig, C., Rosero Moncayo, J., Conforti, P., & Torero, M. (2022). Pre- and post-production processes increasingly dominate greenhouse gas emissions from agri-food systems.Earth System Science Data,14(4), 1795-1809.Link to source:https://doi.org/10.5194/essd-14-1795-2022
+
+United Nations Environment Programme. (2024).Food waste index report 2024. Think eat save: Tracking progress to halve global food waste.Link to source:https://wedocs.unep.org/xmlui/handle/20.500.11822/45230
+
+U.S. Food and Drug Administration. (2019).Food facts: How to cut food waste and maintain food safety.Link to source:https://www.fda.gov/food/consumers/how-cut-food-waste-and-maintain-food-safety
+
+Wilson, N. L. W., Rickard, B. J., Saputo, R., & Ho, S.-T. (2017). Food waste: The role of date labels, package size, and product category.Food Quality and Preference, 55, 35-44.Link to source:https://doi.org/10.1016/j.foodqual.2016.08.004
+
+World Bank. (2020).Addressing food loss and waste: A global problem with local solutions.Link to source:https://openknowledge.worldbank.org/entities/publication/1564bf5c-ed24-5224-b5d8-93cd62aa3611
+
+WRAP (2023).UK Food System Greenhouse Gas Emissions: Progress towards the Courtauld 2030 target.Link to source:https://www.wrap.ngo/sites/default/files/2024-05/WRAP-MIANZW-Annual-Progress-Summary-report-22-23-Variation-1-2024-04-30.pdf
+
+WRAP (2024).UK food system greenhouse gas emissions: Progress towards the Courtauld 2030 target.Link to source:https://www.wrap.ngo/sites/default/files/2024-12/WRAP-Courtauld-2030-GHG-2324.pdf
+
+WWF-UK. (2021).Driven to waste: The global impact of food loss and waste on farms. :Link to source:https://files.worldwildlife.org/wwfcmsprod/files/Publication/file/5p58sxloyr_technical_report_wwf_farm_stage_food_loss_and_waste.pdf
+
+WWF-WRAP. (2020). Halving food loss and waste in the EU by 2030: The major steps needed to accelerate progress.Link to source:https://www.wrap.ngo/resources/report/halving-food-loss-and-waste-eu-2030-major-steps-needed-accelerate-progress
+
+Xue, L., Liu, G., Parfitt, J., Liu, X., Herpen, E. V., O’Connor, C., Östergren, K., & Cheng, S. 2017. Missing food, missing data? A critical review of global food losses and food waste data.Env Sci Technol.51, 6618-6633.Link to source:https://doi.org/10.1021/acs.est.7b00401
+
+Ziervogel, G., & Ericksen, P. J. (2010). Adapting to climate change to sustain food security.WIREs Climate Change,1(4), 525-540.Link to source:https://doi.org/10.1002/wcc.56
+
+Zhu, J., Luo, Z., Sun, T., Li, W., Zhou, W., Wang, X., Fei, X., Tong, H., & Yin, K. (2023). Cradle-to-grave emissions from food loss and waste represent half of total greenhouse gas emissions from food systems.Nature Food,4(3), 247-256.Link to source:https://doi.org/10.1038/s43016-023-00710-3
+
+Aishwarya Venkat, Ph.D.
+
+Aishwarya Venkat, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Christina Swanson, Ph.D.
+
+Christina Swanson, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

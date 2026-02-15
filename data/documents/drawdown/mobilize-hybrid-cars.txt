@@ -1,0 +1,766 @@
+# Mobilize Hybrid Cars
+Source: https://drawdown.org/explorer/mobilize-hybrid-cars
+
+Methods and Supporting Data
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+The Mobilize HybridCarssolution entails shifting trips fromfossil fuel–poweredinternal combustion engine(ICE) cars to more efficient, lower emitting hybrid cars. Hybrid cars include hybrid electric cars (HEVs) and plug-in hybrid electric cars (PHEVs). They are four-wheeled passenger cars that combine an ICE with an electric motor and battery to improve fuel efficiency and reduce emissions. This definition includes hybrid sedans, sport utilityvehicles(SUVs), and pickup trucks, but excludes fully electric cars, two-wheeled vehicles, and hybrid commercial or freight vehicles, such as hybrid buses and delivery trucks. Hybrid cars are a transitional climate solution because they are more efficient and produce fewer emissions per distance traveled than do fossil fuel–powered ICE cars but still rely on fossil fuel combustion.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+million passenger kilometers (million pkm)
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Hybrid cars reduce fuel consumption and tailpipe emissions by relying on electric propulsion for part of their operation. There are currently more than 45 million hybrids making up 2.2% of the more than two billion global car stock. HEVs provide the same functionality as fossil fuel–powered ICE cars, but combine an ICE with an electric motor and battery to improve fuel efficiency. Unlike electric cars, HEVs do not require external charging; instead, they recharge their battery using regenerative braking and energy from the engine. This allows them to use electric power at low speeds and in stop-and-go traffic, reducing fuel consumption and emissions compared to traditional gasoline or diesel cars. PHEVs work similarly but have larger batteries that can be charged using the electricity grid. This enables them to operate in full-electric mode for a limited distance before switching to hybrid mode when the battery is depleted.
+
+Hybrid cars typically offer better acceleration than their purely fossil fuel–powered ICE counterparts, especially at lower speeds. This is because electric motors deliver instant torque, allowing hybrids to respond quickly when accelerating from a stop. PHEVs tend to have stronger electric motors and thus better acceleration. The high torque at low speeds eliminates the need for inefficient gear changes and allows near-constant operation at optimal conditions because the ICE is usually engaged at efficient conditions. This improves the real-world fuel economy 39–58% compared to fossil fuel–powered ICE cars of similar size (Zhang et al., 2025).
+
+While hybrid cars reduce fuel consumption and tailpipe emissions by relying on electric propulsion for part of their operation, their overall emissions depend on how much they use the ICE versus the electric motor, and, for PHEVs, on theemissions intensityof the electricity source used for charging. PHEVs can offer greater potential for emission reductions if charged from low-carbon electricity sources. If driven primarily in electric mode, PHEVs can significantly reduceGHGemissions compared to fossil fuel–powered ICE cars, but if the battery is not regularly charged, their fuel consumption may be similar to or even higher than standard HEVs (Dornoff, 2021; Plötz et al., 2020).
+
+Hybrid technologies also improve car efficiency by reducing energy losses. First, both HEVs and PHEVs recover energy through regenerative braking, converting kinetic energy into electricity and storing it in the battery (Yang et al., 2024). Second, their electricpowertrainsare more efficient than those of traditional ICEs, particularly in urban driving conditions where frequent stops and starts are common (Verma et al., 2022). These advantages contribute to lower fuel consumption and emissions compared to fossil fuel–powered ICE cars. However, the environmental benefits of hybrids depend on driving patterns, battery charging habits, and the carbon intensity of the electricity grid used to charge PHEVs.
+
+Hybrid cars reduce emissions ofCO₂,methane, andnitrous oxideto the atmosphere by increasing fuel efficiency compared to fossil fuel–powered ICE cars, which emit these gases from their tailpipes. Because they are typically fueled by gasoline, hybrid cars produce more methane than any diesel-fueled cars they might be replacing. As a result, their 20-yreffectivenessat addressing climate change is lower than their 100-yr effectiveness.
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption by 2030 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2030.
+
+This is the high end of the range for estimated achievable adoption by 2030.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Hybrid cars canmitigateclimate change across a wide range of geographic regions. However, their effectiveness varies due to spatial differences in driving conditions, vehicle usage patterns, the carbon intensity of local fuel mixes, and the carbon intensity of the charging source for plug-in hybrid electric vehicles (PHEVs). Hybrids are most effective in urban environments with stop-and-go traffic. Unlike fully electric cars, hybrids do not depend on external charging infrastructure, making them more immediately viable in areas where transport electrification is a challenge.
+
+Socioeconomic factors, including fuel prices, vehicle taxes, and the availability of incentives, influence the adoption of hybrids. Hybrids may be most attractive in areas with high gasoline prices and underdeveloped electric charging infrastructure. They can be a practical transition technology in countries where civil society or government institutions have not yet mobilized large-scale investments in charging infrastructure.
+
+Hybrid cars have an advantage in hot and cold climates, where battery range degradation and heating/cooling loads might discourage electric car adoption.
+
+Hybrid cars have already experienced high adoption in regions such as Japan and North America. Looking forward, they could be particularly impactful in South and Southeast Asia, where urban congestion and poor air quality make cleaner vehicles highly desirable but electricity infrastructure remains unreliable; Sub-Saharan Africa, where hybrids offer emission reductions without requiring major grid upgrades; and middle-income countries in Latin America and Eastern Europe, where rising car ownership coupled with energy price volatility makes fuel-efficient hybrids more attractive than fossil fuel–powered cars.
+
+
+## Annual road transportation emissions, 2024
+
+
+Cars are the largest source of vehicle emissions, which are shown here for urban areas.
+
+Kott, T., Foster, K., Villafane-Delgado, M., Loschen, W., Sicurello, P., Ghebreselassie, M., Reilly, E., and Hughes, M. (2024).Transportation sector - Global road emissions[Data set]. The Johns Hopkins University Applied Physics Laboratory (JHU/APL), USA, Climate TRACE Emissions Inventory. Retrieved March 12, 2025 from,Link to source:https://climatetrace.org
+
+
+## Annual road transportation emissions, 2024
+
+
+Cars are the largest source of vehicle emissions, which are shown here for urban areas.
+
+Kott, T., Foster, K., Villafane-Delgado, M., Loschen, W., Sicurello, P., Ghebreselassie, M., Reilly, E., and Hughes, M. (2024).Transportation sector - Global road emissions[Data set]. The Johns Hopkins University Applied Physics Laboratory (JHU/APL), USA, Climate TRACE Emissions Inventory. Retrieved March 12, 2025 from,Link to source:https://climatetrace.org
+
+Each millionpkmshifted from fossil fuel–powered cars to hybrid cars saves 27.11tCO₂‑eqon a100-yr basis(26.94 t CO₂‑eq
+ on a20-yr basis, Table 1). Fossil fuel–powered cars emit 115.3 t CO₂‑eq/million pkm on a 100-yr basis (116.4 t CO₂‑eq/million pkm on a 20-yr basis). The emissions from fossil fuel–powered ICE cars are calculated from the current global fleet mix which is mostly gasoline and diesel powered cars. PHEVs have lower emissions in countries with large shares ofrenewable, nuclear, or hydropower generation in their electricity grids (International Transport Forum, 2020; Verma et al., 2022).
+
+We found this by collecting data on fuel consumption per kilometer for a range ofHEVandPHEVmodels (International Energy Agency [IEA], 2021; International Transport Forum, 2020) and multiplying it by the emissions intensity of the fuel the vehicle uses (weighting PHEVs for percentage traveled using fuel). Simultaneously, we collected data on electricity consumption for a range of PHEV models (IEA, 2021; International Transport Forum, 2020), and multiplied them by the global average emissions perkWhof electricity generation. This was then weighted by the share of HEVs (73.4%) and PHEVs (26.6%) of the global hybrid car stock.
+
+The amount of emissions savings for PHEVs depends on how often they are charged, the distance traveled using the electric motor, and the emissions intensity of the electrical grid from which they are charged. Hybrid cars today are disproportionately used in high and upper-middle income countries, where electricity grids emit less than the global average per unit of electricity generated (IEA, 2024). HEVs and PHEVs benefit from braking so are more efficient (relative to fossil fuel–powered ICE cars) in urban areas.
+
+Hybrid cars have higherembodied emissionsthan fossil fuel–powered ICE cars due to the presence of both an ICE and electric motor with a battery that has a GHG-intensive manufacturing process. This gives them acarbon paybackperiod of 2.6 to under 16 years (Alberini et al., 2019; Duncan et al., 2019) for HEVs and as low as one year for PHEVs (Fulton, 2020). Embodied emissions are outside the scope of this assessment.
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit:t CO₂‑eq/million pkm, 100-yr basis
+
+Hybrid cars cost on average US$0.01 more per pkm (US$7,200/million pkm) than fossil fuel–powered ICE cars, including purchase price, financing, fuel and electricity costs, and maintenance costs. This is based on a population-weighted average of the cost differential between hybrid and fossil fuel–powered ICE cars in the EU and 11 other countries: Argentina, China, Czechia, India, Indonesia, Lithuania, Malaysia, South Africa, Thailand, Ukraine, and the United States (BEUC, 2021; Furch et al., 2022; IEA, 2022; Isenstadt & Slowik, 2025; Lutsey et al., 2021; Mittal & Shah, 2024; Mustapa et al., 2020; Ouyang et al., 2021;Petrauskienėet al., 2021; Suttakul et al., 2022). The hybrid cost is weighted by the share of car stock of HEVs and PHEVs.
+
+While this analysis found that hybrid cars are slightly more expensive than fossil fuel–powered ICE cars almost everywhere, the margin is often quite small and hybrids are less expensive in China, Czechia, India, Thailand, and the United States.
+
+This amounts to a cost of US$264/t CO₂‑eq
+ on a 100-yr basis (US$266/t CO₂‑eq
+ avoided emissions on a 20-yr basis, Table 2).
+
+This analysis did not include costs that are the same for both hybrid and fossil fuel–powered ICE cars, including taxes, insurance costs, public costs of building road infrastructure, etc.
+
+Table 2. Cost per unit of climate impact.
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+Hybrid car prices are declining. For every doubling in hybrid car production, costs decline in accordance with thelearning rateof approximately 10% (Table 3).
+
+Thelearning curvefor hybrids is expected to continue its historical trend of 6–17% declines in production costs with each generation (Kittner et al., 2020; Ouyang et al., 2021; Weiss et al., 2019). For hybrid cars, production costs are driven more by the integration of electric and internal combustion powertrain components than by advancements in battery technology. Because they still rely on ICEs, hybrids do not experience the same rapid cost declines from battery improvements as fully electric cars. Instead, their cost reductions stem from manufacturing efficiencies, economies of scale, and advancements in hybrid powertrain efficiency and electric components (Weiss et al., 2019).
+
+Table 3. Learning rate: drop in cost per doubling of the installed solution base%.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Mobilize Hybrid Cars is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+Approximately 12 million PHEVs (IEA, 2024) and more than 33 million HEVs (IEA, 2023) are in use worldwide. This corresponds to about 2.2% of the total car stock of 2,022,057,847 (World Health Organization [WHO], 2022) and means that hybrid cars worldwide travel about 1.3 trillion pkm/yr. We assumed this travel would occur in a fossil fuel–powered ICE car if the car’s occupants did not use a hybrid car. Adoption is much higher in some countries, such as Japan, where the global hybrid car stock share was 20–30% in 2023.
+
+To convert this number into pkm traveled by hybrid car, we need to determine the average passenger-distance that each passenger car travels per year. Using population-weighted data from several different countries, the average car carries 1.5 people and travels about 19,500 vehicle-kilometers (vkm)/yr, or an average of 29,250 pkm/yr. Multiplying this number by the number of hybrid cars in use (48.5 million) gives the total travel distance shifted (1.3 trillion pkm) from fossil fuel–powered ICE cars to hybrid cars (Table 4).
+
+Table 4. Current (2024) adoption level.
+
+Implied travel shifted from fossil fuel–powered cars to hybrid cars.
+
+Globally, the pkm driven in hybrid cars rather than fossil fuel–powered ICE cars increases by an average of about 178,200 million pkm/yr (Table 5). PHEV car purchases between 2019–2023 grew 45%/yr (IEA, 2024), while HEV purchases increased 10% annually between 2021–2023 (IEA, 2021, 2023). Global purchases of hybrid cars are increasing by around 6.1 million cars/yr. This is based on globally representative data (Bloomberg New Energy Finance [BloombergNEF], 2024; Fortune Business Insights, 2025; IEA, 2024; Menes, 2021).
+
+It is worth noting that despite this impressive rate of growth, hybrid cars still have a long way to go before they replace a large percentage of the more than two billion cars currently driven (WHO, 2022).
+
+Table 5. 2023–2024 adoption trend.
+
+Implied travel shifted from fossil fuel–powered cars to hybrid cars.
+
+The totaladoption ceilingfor hybrid cars is equal to the total passenger-distance driven by private cars worldwide. Using a population-weighted mean of the average distance (in pkm) traveled per car annually, this translates to about 59 trillion pkm traveled (Table 6).
+
+Replacing every single fossil fuel–powered ICE passenger car with a hybrid car would require an enormous upscaling of hybrid car production capacity, rapid development of charging infrastructure for PHEVs, cost reductions to make hybrid cars more affordable for more people, and technological improvements to make them more suitable for more kinds of drivers and trips. This shift would also face cultural obstacles from drivers who are attached to fossil fuel–powered cars (Roberts, 2022).
+
+Table 6. Adoption ceiling.
+
+Implied travel shifted from fossil fuel–powered cars to hybrid cars.
+
+The achievable adoption of hybrid car travel is about 12-30 trillion pkm shifted from fossil fuel–powered ICE vehicles.
+
+Various organizations have produced forecasts of future hybrid car adoption. These are not assessments of feasible adoption per se; they are instead predictions oflikelyrates of adoption, given various assumptions about the future (Bloomberg New Energy Finance, 2024; Fortune Business Insights, 2025; IEA, 2021, 2023, 2024). But they are useful in that they take a large number of variables into account. To convert these estimates of future likely adoption into estimates of theachievableadoption range, we applied some optimistic assumptions to the numbers in the scenario projections.
+
+To find a high rate of hybrid car adoption, we assumed that every country could reach the highest rate of adoption projected to occur foranycountry. Bloomberg (Bloomberg New Energy Finance, 2024) predicts that some countries will reach 20–50% hybrid vehicle stock share by 2030. We therefore set our high adoption rate at 50% adoption worldwide. This corresponds to 1.011 trillion total hybrid cars in use, or 29.6 trillion pkm traveled by hybrid cars (Table 7). An important caveat is that with a global supply constraint in the production of electric car batteries that are also used by hybrids, per-country adoption rates are somewhat zero-sum. Every hybrid car purchased in Japan is one that cannot be purchased somewhere else. This means that for the whole world to achieve 50% hybrid car stock share, global hybrid car production (especially battery production) would have to radically increase.
+
+To identify a lower feasible rate of electric car adoption, we took the lower end of Bloomberg’s 20–50% global hybrid car adoption ceiling. This is also the current adoption rate in the most intensive country (Japan at 20%), proving it feasible. This translates to 404 million hybrid cars, or 11.8 trillion pkm traveled by hybrid car.
+
+Table 7. Range of achievable adoption levels.
+
+Hybrid cars currently displace 0.036GtCO₂‑eq/yr
+ of GHG emissions from the transportation system on a 100-yr basis (Table 8; 0.036 Gt CO₂‑eq/yr
+ on a 20-yr basis).
+
+If hybrid cars reach 20% of the global private car stock share as BloombergNEF (2024) projects, then with the current number of cars on the road, they will displace 0.321 Gt CO₂‑eq/yr
+ GHG emissions on a 100-yr basis (0.319 Gt CO₂‑eq/yr
+ on a 20-yr basis).
+
+If hybrid cars globally reach 50% of global private car stock share, as BloombergNEF (2024) estimates might happen in some markets, they will displace 0.802 Gt CO₂‑eq/yr
+ GHG emissions on a 100-yr basis (0.796 Gt CO₂‑eq/yr
+ on a 20-yr basis).
+
+If hybrid cars replace 100% of the global car fleet, they will displace 1.603 Gt CO₂‑eq/yr
+ GHG emissions on a 100-yr basis (1.593 Gt CO₂‑eq/yr
+ on a 20-yr basis).
+
+These numbers are based on the present-day average fuel consumption for hybrids and include emissions intensity from electrical grids for PHEVs. If fuel efficiency continues to improve (including hybrids getting lighter) and grids become cleaner, the total climate impact from hybrids cars will increase.
+
+Table 8. Climate impact at different levels of adoption.
+
+Unit:Gt CO₂‑eq/yr,
+ 100-yr basis
+
+HEVs and PHEVs cars can reduce emissions of air pollutants, includingsulfur oxides,sulfur dioxide,particulate matter,nitrogen oxides, and especiallycarbon monoxideandvolatile organic compounds(Requia et al., 2018). Some air pollution reductions are limited (particularly particulate matter and ozone) because hybrid cars are heavy. The added weight can increase emissions from brakes, tires, and wear on the batteries (Carey, 2023; Jones, 2019).
+
+Because hybrid cars have lower tailpipe emissions than fossil fuel–powered ICE cars, they can reduce traffic-related air pollution, which is associated with asthma, lung cancer, increased emergency department visits for respiratory disease, and increased mortality (Anenberg et al., 2019). Transitioning to hybrid cars can reduce exposure to air pollution, improve health, and prevent premature mortality (Garcia et al., 2023; Larson et al., 2020; Peters et al., 2020).
+
+The health benefits of lower traffic-related air pollution vary spatially and – for PHEVs – partly depend on how communities generate electricity (Choma et al., 2020). Racial and ethnic minority communities located near highways and major traffic corridors are disproportionately exposed to air pollution (Kerr et al., 2021). Transitioning to HEVs and PHEVs could improve health in marginalized urban neighborhoods located near highways, industry, or ports (Pennington et al., 2024). These benefits depend on an equitable distribution of hybrid cars and infrastructure to support the adoption of plug-in hybrid cars (Garcia et al., 2023).
+
+Adopting hybrid cars can lead to savings in a household’s energy burden spent on fuel, or the proportion of income spent on fuel for transportation (Vega-Perkins et al., 2023). Plug-in hybrids can be charged during off-peak times, leading to further reductions in transportation costs (Romm & Frank, 2006). Savings from HEVs and PHEVs may be especially important for low-income households because they have the highest energy burdens (Bell-Pasht, 2024).
+
+Hybrid cars are often considered a transitional technology for climate change mitigation. While they offer immediate reductions in fuel consumption and emissions compared to fossil fuel–powered ICE cars as the world transitions to fully electric transportation, hybrids still rely on the combustion of fossil fuels. The Mobilize Hybrid Cars solution is a move toward lower emissions – not zero emissions. By combining electric and gasoline powertrains, hybrids improve efficiency and reduce GHG emissions without requiring extensive charging infrastructure, making them a practical short-term solution (IEA, 2021). However, as battery costs decline, renewable energy expands, and charging networks improve, fully electric cars (EVs) are expected to replace hybrids as the dominant low-emission transportation option (Plӧtz et al., 2020).
+
+The effectiveness of hybrid cars in reducing fuel consumption and emissions depends significantly on their ability to use electric power, which is influenced by charging habits and regenerative braking efficiency. PHEVs achieve the greatest fuel savings and emissions reductions when they are regularly charged from a low-emissions-intensity electricity grid because this maximizes their electric driving capability and minimizes reliance on the ICE. However, studies show that real-world charging behaviors vary, with some PHEV users failing to charge frequently, leading to higher-than-expected fuel consumption. Regenerative braking also plays a crucial role because it recaptures kinetic energy during deceleration and converts it into electricity to recharge the battery, improving overall efficiency. The extent of these benefits depends on driving conditions, with stop-and-go urban traffic allowing for more energy recovery than highway driving, where regenerative braking opportunities are limited (Plötz et al., 2020).
+
+Hybrid car adoption faces a major obstacle in the form of constraints on battery production. While electric car battery production is being aggressively upscaled (IEA, 2024), building enough batteries to build enough cars to replace a significant fraction of fossil fuel–powered ICE cars is an enormous challenge. This will likely slow down a transition to hybrids, even if consumer demand is high (Milovanoff et al., 2020). This suggests thatEVbatteries should be prioritized for users whose transport needs are harder to serve with other forms of low-emissions transportation (such as nonmotorized transportation, public transit, etc.). This could include emergency vehicles, commercial vehicles, and vehicles for people who live in rural areas or have disabilities.
+
+There is some criticism against any solution that advocates for car ownership (electric cars in particular and hybrids – which use fossil fuels – by extension) and that the focus should be on solutions such as public transport systems that reduce car ownership and usage (Jones, 2019; Milovanoff et al., 2020).
+
+There is potential for arebound effect, where improved fuel efficiency encourages people to drive more, potentially offsetting some of the expected fuel and emissions savings. This can occur because lower fuel costs per kilometer make driving more affordable and so increase vehicle use.
+
+There is a risk that allocating the limited global battery supply to hybrid cars might undermine the deployment of solutions that also require batteries but are more effective at avoiding GHG emissions (Castelvecchi, 2021). These could include electric buses, electric rail, and electric bicycles.
+
+Mining minerals necessary to produce hybrid car batteries carries environmental and social risks. Such mining has been associated with significant harm, particularly in lower-income countries that supply many of these minerals (Agusdinata et al., 2018; Sovacool, 2019).
+
+Hybrid cars might also pose additional safety risks due to their higher weight, which means that they have longer stopping distances and can cause greater damage in collisions and to pedestrians and cyclists (Jones, 2019).
+
+The operating efficiency depends on charging for PHEVs and braking intensity for all hybrids. The results of efficiency studies also depend on assumptions such as car type, fuel efficiency, battery size, electricity grid, km/yr, and car lifetime.
+
+Hybrid cars have higher embodied emissions than fossil fuel–powered ICE cars due to the presence of both an ICE and electric motor with a battery that has a GHG-intensive manufacturing process. While the embodied emissions are higher for hybrid cars than ICE cars, coupling them with operating emissions yields a carbon payback period of several years. Embodied emissions were outside the scope of this assessment.
+
+Hybrid cars compete directly with electric cars for adoption as well as for batteries, public resources, and infrastructural investment.
+
+Mobilize Electric Cars
+
+Traveling by bicycle, sidewalk, public transit network, fully electric car, or smaller electric vehicle (such as electric bicycle) provides a greater climate benefit than traveling by hybrid car. There is an opportunity cost to deploying hybrid cars because those resources could otherwise be used to support these more effective solutions (Asia-Pacific Economic Cooperation [APEC], 2024).
+
+Mobilize Electric Cars
+
+Improve Nonmotorized Transportation
+
+Enhance Public Transit
+
+Enhance High-Speed Rail
+
+Mobilize Electric Bicycles
+
+Mobilize Electric Scooters & Motorcycles
+
+Mobilize Electric Trains
+
+
+## Consensus of effectiveness in reducing GHG emissions: Mixed
+
+
+There is a high level of consensus that hybrid cars emit fewer GHGs per kilometer traveled compared to fossil fuel–powered ICE cars. Hybrid cars achieve these reductions by combining an ICE with an electric motor that improves fuel efficiency and, for some models, allow for limited all-electric driving, further reducing fuel consumption and emissions. This advantage is strongest in places where trips are short and require a lot of braking, such as in cities.
+
+Globally, cars and vans were responsible for 3.8 Gt CO₂‑eq
+ emissions in 2023 – more than 60% of road transport emissions (IEA, 2024).
+
+Major climate research organizations generally see hybrid cars as a transitional means of reducing GHG emissions from passenger transportation. These technologies offer immediate emissions reductions while the electricity grid decarbonizes and battery technology improves. Any improvement to fuel efficiency or time spent driving electrically reduces emissions. These technologies can be a gateway to fully electric cars by eliminating range anxiety and allowing drivers the experience of electric driving without fully committing to the limitations of current EV infrastructure.
+
+Hybrid cars, while more fuel-efficient than fossil fuel–powered ICE cars, still rely on gasoline or diesel (or potentially advanced biofuels), meaning they continue to produce tailpipe emissions and contribute to air pollution. Additionally, their dual powertrains add complexity, leading to higher embodied emissions, manufacturing costs, increased maintenance requirements, and potential long-term reliability concerns. The added weight from both an ICE and an electric motor, along with a battery pack, can reduce overall efficiency and raise safety concerns. Embodied emissions are outside the scope of this assessment.
+
+The International Council on Clean Transportation (ICCT; Isenstadt & Slowik (2025) estimated that HEVs reduce tailpipe GHG emissions by 30% while costing an average of US$2,000 more upfront. Over a 10-yr period, they offered an estimated fuel cost savings of US$4,500. ICCT expected future HEVs to achieve an additional 15% reduction in GHG emissions, with a decrease in the price premium of US$300–800. PHEVs reduce GHG emissions by 11–30%, depending on emissions intensity of the electric grid and the proportion of distance driven electrically.
+
+The IEA (2024) noted that a PHEV bought in 2023 will emit 30% less GHGs than a fossil fuel–powered ICE car over its lifetime. This includes full life cycle impacts, including those from producing the car.
+
+The International Transport Forum (2020) estimated that fossil fuel–powered ICE cars emit 162 g CO₂‑eq/pkm while HEVs emit 132 g CO₂‑eq/pkm and PHEVs emit 124 g CO₂‑eq/pkm. This includes embodied and upstream emissions.
+
+The results presented in this document summarize findings from 12 reviews and meta-analyses and 29 original studies reflecting current evidence from 72 countries, primarily from the IEA’s Global Electric Vehicle Outlook (2024) and Electric Vehicles: Total Cost of Ownership Tool (2022) and the International Transport Forum’s life-cycle analysis on sustainable transportation (2020). We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Create time-bound government procurement policies and targets to transition government fleets to hybrid cars when fully electric cars aren’t possible.
+
+Provide financial incentives such as tax breaks, subsidies, or grants for hybrid car production and purchases that gradually reduce as market adoption increases.
+
+Provide complimentary benefits for hybrid car drivers, such as privileged parking areas, free tolls, and access schemes.
+
+Use targeted financial incentives to help low-income communities buy hybrid cars and incentivize manufacturers to produce more affordable options.
+
+Develop charging infrastructure, ensuring adequate spacing between stations and equitable distribution of stations.
+
+Invest inR&Dor implement regulations to improve manufacturing, adoption,supply chainstandards, and circularity of hybrid cars – particularly batteries.
+
+Transition fossil fuel electricity production to renewables while promoting the transition to hybrid cars.
+
+Disincentivize fossil fuel–powered ICE car ownership by gradually introducing taxes, penalties, buy-back programs, or other mechanisms.
+
+Offer one-stop shops for information on hybrid vehicles, including demonstrations and educational resources on cost savings, environmental impact, and maintenance.
+
+Work with industry and labor leaders to construct new hybrid car plants and transition fossil fuel–powered ICE car manufacturing into hybrid car production.
+
+Set regulations for sustainable use of hybrid car batteries and improve recycling infrastructure.
+
+Join international efforts to promote and ensure supply chain environmental and human rights standards.
+
+Incentivize or mandate life-cycle assessments and product labeling (e.g., Environmental Product Declarations).
+
+Create, support, or join partnerships that offer information, training, and general support for hybrid car adoption.
+
+Electric vehicle outlook 2025.Bloomberg New Energy Finance (2025)
+
+Policies to promote electric vehicle deployment.IEA (2021)
+
+Electric vehicles: total cost of ownership tool.IEA (2022)
+
+Government relations and public policy job function action guide.Project Drawdown (2022)
+
+Legal job function action guide.Project Drawdown (2022)
+
+Produce and sell affordable hybrid car models.
+
+Collaborate with dealers to provide incentives, low-interest financing, or income-based payment options.
+
+Develop charging infrastructure, ensuring adequate spacing between stations and equitable distribution of stations.
+
+Offer lifetime warranties for hybrid batteries and easy-to-understand maintenance instructions.
+
+Invest in R&D to improve manufacturing, adoption, supply chain standards, and circularity of hybrid cars, particularly batteries.
+
+Provide customers with real-world data to help alleviate fuel efficiency concerns.
+
+Offer one-stop shops for information on hybrid cars, including educational resources on cost savings, environmental impact, optimal charging, and maintenance.
+
+Work with policymakers and labor leaders to construct new hybrid car plants and transition fossil fuel–powered ICE car manufacturing into hybrid car production.
+
+Join international efforts to promote and ensure supply chain environmental and human rights standards.
+
+Invest in recycling andcircular economyinfrastructure.
+
+Conduct life-cycle assessments and ensure product labeling (e.g., Environmental Product Declarations).
+
+Create, support, or join partnerships that offer information, training, and general support for hybrid car adoption.
+
+Electric vehicle outlook 2025.Bloomberg New Energy Finance (2025)
+
+Policies to promote electric vehicle deployment.IEA (2021)
+
+Electric vehicles: total cost of ownership tool.IEA (2022)
+
+Set time-bound company procurement policies and targets to transition corporate fleets to hybrid cars when fully electric cars aren’t feasible and report on these metrics regularly.
+
+Encourage supply chain partners to transition their delivery fleets to hybrid vehicles when fully electric cars aren’t feasible.
+
+Take advantage of financial incentives, such as tax breaks, subsidies, or grants for hybrid car purchases.
+
+Create purchasing agreements with hybrid car manufacturers to support stable demand and improve economies of scale.
+
+Install charging stations and offer employee benefits for hybrid car drivers, such as privileged parking areas.
+
+Invest in R&D to improve manufacturing, adoption, supply chain standards, and circularity of hybrid cars – particularly batteries.
+
+Work with industry and labor leaders to transition fossil fuel–powered ICE car manufacturing into hybrid car production.
+
+Advocate for financial incentives and policies that promote hybrid car adoption.
+
+Join international efforts to promote and ensure supply chain environmental and human rights standards.
+
+Educate employees, customers, andinvestorsabout the company's transition to hybrid cars and encourage them to learn more about them.
+
+Offer one-stop shops for information on hybrid cars, including demonstrations and educational resources on cost savings, environmental impact, and maintenance.
+
+Create, support, or join partnerships that offer information, training, and general support for hybrid car adoption.
+
+Electric vehicle outlook 2025.Bloomberg New Energy Finance (2025)
+
+Policies to promote electric vehicle deployment.IEA (2021)
+
+Electric vehicles: total cost of ownership tool.IEA (2022)
+
+Climate solutions at work.Project Drawdown (2021)
+
+Drawdown-aligned business framework.Project Drawdown (2021)
+
+Set time-bound organizational procurement policies and targets to transition fleets to hybrid cars when fully electric cars aren’t feasible.
+
+Take advantage of financial incentives, such as tax breaks, subsidies, or grants for hybrid car purchases.
+
+Advocate for financial incentives and policies that promote hybrid car adoption.
+
+Install charging stations and offer employee benefits for hybrid car drivers, such as privileged parking areas.
+
+Advocate for or provide improved charging infrastructure.
+
+Offer workshops or support to low-income communities for purchasing and owning hybrid cars.
+
+Work with industry and labor leaders to transition fossil fuel–powered ICE car manufacturing into hybrid car production.
+
+Join international efforts to promote and ensure supply chain environmental and human rights standards.
+
+Advocate for regulations on lithium-ion batteries and investments in recycling facilities.
+
+Offer one-stop shops for information on hybrid cars, including demonstrations and educational resources on cost savings, environmental impact, and maintenance.
+
+Create, support, or join partnerships that offer information, training, and general support for hybrid car adoption.
+
+Electric vehicle outlook 2025.Bloomberg New Energy Finance (2025)
+
+Policies to promote electric vehicle deployment.IEA (2021)
+
+Electric vehicles: total cost of ownership tool.IEA (2022)
+
+Invest in hybrid car companies and companies that provide charging equipment or installation.
+
+Pressure and support portfolio companies in transitioning their corporate fleets.
+
+Pressure portfolio companies to establish and report on time-bound targets for corporate fleet transition and roll-out of employee incentives.
+
+Invest in R&D to improve manufacturing, adoption, supply chain standards, and circularity of hybrid cars – particularly batteries.
+
+Invest in hybrid car companies, associated supply chains, and end-user businesses like rideshare apps.
+
+Join international efforts to promote and ensure supply chain environmental and human rights standards.
+
+Create, support, or join partnerships that offer information, training, and general support for hybrid car adoption.
+
+Offer low-interest loans for purchasing hybrid cars or charging infrastructure.
+
+Electric vehicle outlook 2025.Bloomberg New Energy Finance (2025)
+
+Policies to promote electric vehicle deployment.IEA (2021)
+
+Electric vehicles: total cost of ownership tool.IEA (2022)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Set time-bound organizational procurement policies to transition fleets to hybrid cars when fully electric cars aren’t feasible.
+
+Install charging stations and offer employee benefits for hybrid car drivers, such as privileged parking areas.
+
+Take advantage of financial incentives, such as tax breaks, subsidies, or grants for hybrid car purchases.
+
+Advocate for financial incentives and policies that promote hybrid car adoption.
+
+Advocate for or provide improved charging infrastructure.
+
+Advocate for regulations on lithium-ion batteries and public investments in recycling facilities.
+
+Offer financial services such as low-interest loans or grants for purchasing hybrid cars and charging equipment.
+
+Offer workshops or support to low-income communities for purchasing and owning hybrid cars.
+
+Work with industry and labor leaders to transition fossil fuel–powered ICE car manufacturing into hybrid car production.
+
+Join international efforts to promote and ensure supply chain environmental and human rights standards.
+
+Offer one-stop shops for information on hybrid vehicles, including demonstrations and educational resources on cost savings, environmental impact, and maintenance.
+
+Create, support, or join partnerships that offer information, training, and general support for hybrid car adoption.
+
+Electric vehicle outlook 2025.Bloomberg New Energy Finance (2025)
+
+Policies to promote electric vehicle deployment.IEA (2021)
+
+Electric vehicles: total cost of ownership tool.IEA (2022)
+
+If purchasing a new car, buy a hybrid car if fully electric isn’t feasible.
+
+Take advantage of financial incentives, such as tax breaks, subsidies, or grants for hybrid car purchases.
+
+Share your experiences with hybrid cars through social media and peer-to-peer networks, highlighting the cost savings, benefits, incentive programs, and troubleshooting tips.
+
+Advocate for financial incentives and policies that promote hybrid car adoption.
+
+Advocate for improved charging infrastructure.
+
+Help improve circularity of hybrid car supply chains.
+
+Conduct in-depth life-cycle assessments of hybrid cars in particular geographies.
+
+Research ways to reduce weight and improve the performance of hybrid cars while appealing to customers.
+
+Join international efforts to promote and ensure supply chain environmental and human rights standards.
+
+Create, support, or join partnerships that offer information, training, and general support for hybrid car adoption.
+
+Electric vehicle outlook 2025.Bloomberg New Energy Finance (2025)
+
+Policies to promote electric vehicle deployment.IEA (2021)
+
+Electric vehicles: total cost of ownership tool.IEA (2022)
+
+
+## Technologists and Researchers
+
+
+Improve circularity of hybrid car supply chains.
+
+Reduce the amount of critical minerals required for hybrid car batteries.
+
+Innovate low-cost methods to improve safety, labor standards, and supply chains in mining for critical minerals.
+
+Increase the longevity of batteries.
+
+Research ways to reduce weight and improve the performance of hybrid cars while appealing to customers.
+
+Improve techniques to repurpose used hybrid car batteries for stationary energy storage.
+
+Develop methods of adapting fossil fuel–powered car manufacturing and infrastructure to include electric components.
+
+Electric vehicle outlook 2025.Bloomberg New Energy Finance (2025)
+
+Policies to promote electric vehicle deployment.IEA (2021)
+
+Electric vehicles: total cost of ownership tool.IEA (2022)
+
+
+## Communities, Households, and Individuals
+
+
+If purchasing a new car, buy a hybrid car when fully electric cars aren’t feasible.
+
+Take advantage of financial incentives, such as tax breaks, subsidies, or grants for hybrid car purchases.
+
+Share your experiences with hybrid cars through social media and peer-to-peer networks, highlighting the cost savings, benefits, incentive programs, and troubleshooting tips.
+
+Help shift the narrative around hybrid cars by demonstrating capability and performance.
+
+Advocate for financial incentives and policies that promote hybrid car adoption.
+
+Advocate for improved charging infrastructure.
+
+Help improve circularity of supply chains for hybrid car components.
+
+Join international efforts to promote and ensure supply chain environmental and human rights standards.
+
+Create, support, or join partnerships that offer information, training, and general support for hybrid car adoption.
+
+Electric vehicle outlook 2025.Bloomberg New Energy Finance (2025)
+
+Policies to promote electric vehicle deployment.IEA (2021)
+
+Electric vehicles: total cost of ownership tool.IEA (2022)
+
+
+## “Take Action” Sources
+
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+The other benefit of electric vehicles.Carey (2023)
+
+China’s plug-in hybrid electric vehicle transition: an operational carbon perspective.Deng et al. (2024)
+
+E-mobility revolution: examining the types, evolution, government policies and future perspective of electric vehicles.Dhankhar et al. (2024)
+
+Emerging energy economics and policy research priorities for enabling the electric vehicle sector.Dua et al. (2024)
+
+Policies to incentivize EV adoption and deployment. Green the Grid (2019)
+
+Policies to promote electric vehicle deployment.IEA (2021)
+
+Electric vehicles: total cost of ownership tool.IEA (2022)
+
+If electric cars are the answer, what was the question?Jones (2019)
+
+Technological, environmental, economic, and regulation barriers to electric vehicle adoption: evidence from Indonesia.Lazuardy et al. (2024)
+
+Electrification of light-duty vehicle fleet alone will not meet mitigation targets.Milovanoff et al. (2020)
+
+Assessing and managing the direct and indirect emissions from electric and fossil-powered vehicles. Mofolasayo (2023)
+
+Learned experiences from the policy and roadmap of advanced countries for the strategic orientation to electric vehicles: a case study in Vietnam.Nguyen et al. (2020)
+
+Assessing the effectiveness of city-level electric vehicle policies in China.Qiu et al. (2019)
+
+Utilization of electric vehicles for vehicle-to-grid services: progress and perspectives.Ravi & Aziz (2022)
+
+Methodological approach to obtain key attributes affecting the adoption of plug-in hybrid electric vehicle.Sharma & Maitra (2024)
+
+Evaluating electric vehicle policy effectiveness and equity.Sheldon (2022)
+
+Methods and Supporting Data
+
+Agusdinata, D. B., Liu, W., Eakin, H., & Romero, H. (2018). Socio-environmental impacts of lithium mineral extraction: Towards a research agenda.Environmental Research Letters,13(12). Article 123001.Link to source:https://doi.org/10.1088/1748-9326/aae9b1
+
+Alberini, A., Di Cosmo, V., & Bigano, A. (2019). How are fuel efficient cars priced? Evidence from eight EU countries.Energy Policy,134, Article 110978.Link to source:https://doi.org/10.1016/j.enpol.2019.110978
+
+Anenberg, S., Miller, J., Henze, D., & Minjares, R. (2019).A global snapshot of the air pollution-related health impacts of transportation sector emissions in 2010 and 2015. International Council on Clean Transportation.Link to source:https://theicct.org/publication/a-global-snapshot-of-the-air-pollution-related-health-impacts-of-transportation-sector-emissions-in-2010-and-2015/
+
+Asia-Pacific Economic Cooperation. (2024).Connecting traveler choice with climate outcomes: Innovative greenhouse gas emissions reduction policies and practices in the APEC region through traveler behavioral change.Link to source:https://www.apec.org/docs/default-source/publications/2024/9/224_tpt_connecting-traveler-choice-with-climate-outcomes.pdf
+
+Bell-Pasht, A. (2024).Combined energy burdens: Estimating total home and transportation energy burdens[Topic brief]. American Council for an Energy-Efficient Economy.Link to source:https://www.aceee.org/topic-brief/2024/05/combined-energy-burdens-estimating-total-home-and-transportation-energy-burdens
+
+BEUC. (2021).Electric cars: Calculating the total cost of ownership for consumers[Technical report]. The European Consumer Organisation.Link to source:https://www.beuc.eu/reports/electric-cars-calculating-total-cost-ownership-consumers-technical-report
+
+BloombergNEF. (2024).Electric vehicle outlook 2024. Bloomberg Finance L.P.Link to source:https://about.bnef.com/electric-vehicle-outlook/
+
+Carey, J. (2023, January 11). The other benefit of electric vehicles [News feature].Proceedings of the National Academy of Sciences,120(3), Article e2220923120.Link to source:https://doi.org/10.1073/pnas.2220923120
+
+Castelvecchi, D. (2021, August 17). Electric cars and batteries: How will the world produce enough? [News feature].Nature,596(7872), 336–339.Link to source:https://doi.org/10.1038/d41586-021-02222-1
+
+Choma, E. F., Evans, J. S., Hammitt, J. K., Gómez-Ibáñez, J. A., & Spengler, J. D. (2020). Assessing the health impacts of electric vehicles through air pollution in the United States.Environment International,144, Article 106015.Link to source:https://doi.org/10.1016/j.envint.2020.106015
+
+Dornoff, J. (2021).Plug-in hybrid vehicle CO2emissions: How they are affected by ambient conditions and driver mode selection[White paper]. International Council on Clean Transportation.Link to source:https://theicct.org/publication/plug-in-hybrid-vehicle-co2-emissions-how-they-are-affected-by-ambient-conditions-and-driver-mode-selection/
+
+Duncan, D., Ku, A. L., Julian, A., Carley, S., Siddiki, S., Zirogiannis, N., & Graham, J. D. (2019). Most consumers don’t buy hybrids: Is rational choice a sufficient explanation?Journal of Benefit-Cost Analysis,10(1), 1–38.Link to source:https://doi.org/10.1017/bca.2018.24
+
+Fortune Business Insights. (2025).Hybrid vehicle market size, share & growth report, 2024–2032.Link to source:https://www.fortunebusinessinsights.com/hybrid-vehicle-market-105435
+
+Fulton, L. (2020). A publicly available simulation of battery electric, hybrid electric, and gas-powered vehicles.Energies,13(10), Article 2569.Link to source:https://doi.org/10.3390/en13102569
+
+Furch, J., Konečný, V., & Krobot, Z. (2022). Modelling of life cycle cost of conventional and alternative vehicles.Scientific Reports,12(1), Article 10661.Link to source:https://doi.org/10.1038/s41598-022-14715-8
+
+Garcia, E., Johnston, J., McConnell, R., Palinkas, L., & Eckel, S. P. (2023). California’s early transition to electric vehicles: Observed health and air quality co-benefits.Science of The Total Environment,867, Article 161761.Link to source:https://doi.org/10.1016/j.scitotenv.2023.161761
+
+International Energy Agency. (2021).Global fuel economy initiative 2021 data explorer[Data tool].Link to source:https://www.iea.org/data-and-statistics/data-tools/global-fuel-economy-initiative-2021-data-explorer
+
+International Energy Agency. (2022).Electric vehicles: Total cost of ownership tool[Data tool].Link to source:https://www.iea.org/data-and-statistics/data-tools/electric-vehicles-total-cost-of-ownership-tool
+
+International Energy Agency. (2023).Energy technology perspectives 2023.Link to source:https://www.iea.org/reports/energy-technology-perspectives-2023
+
+International Energy Agency. (2024).Global EV outlook 2024.Link to source:https://www.iea.org/reports/global-ev-outlook-2024
+
+International Transport Forum. (2020).Good to go? Assessing the environmental performance of new mobility[Corporate Partnership Board Report]. OECD/ITF Publishing.Link to source:https://www.itf-oecd.org/sites/default/files/docs/environmental-performance-new-mobility.pdf
+
+Isenstadt, A., & Slowik, P. (2025).Hybrid vehicle technology developments and opportunities in the 2025–2035 time frame[Working paper]. International Council on Clean Transportation.Link to source:https://theicct.org/publication/hybrid-vehicle-technology-developments-and-opportunities-in-the-2025-2035-time-frame-feb25/
+
+Jones, S. J. (2019). If electric cars are the answer, what was the question?British Medical Bulletin,129(1), 13–23.Link to source:https://doi.org/10.1093/bmb/ldy044
+
+Kerr, G. H., Goldberg, D. L., & Anenberg, S. C. (2021). COVID-19 pandemic reveals persistent disparities in nitrogen dioxide pollution.Proceedings of the National Academy of Sciences,118(30), Article e2022409118.Link to source:https://doi.org/10.1073/pnas.2022409118
+
+Kittner, N., Tsiropoulos, I., Tarvydas, D., Schmidt, O., Staffell, I., & Kammen, D. M. (2020). Electric vehicles. In M. Junginger & A. Louwen (Eds.),Technological learning in the transition to a low‑carbon energy system: Conceptual issues, empirical findings, and use in energy modeling(pp. 145–163). Academic Press.Link to source:https://doi.org/10.1016/B978-0-12-818762-3.00009-1
+
+Larson, E., Greig, C., Jenkins, J., Mayfield, E., Pascale, A., Zhang, C., Drossman, J., Williams, R., Pacala, S., Socolow, R., Baik, E., Birdsey, R., Duke, R., Jones, R., Haley, B., Leslie, E., Paustain, K., & Swan, A. (2020).Net-zero America: Potential pathways, infrastructure, and impacts[Interim report]. Princeton University, Andlinger Center for Energy and the Environment.Link to source:https://netzeroamerica.princeton.edu/the-report
+
+Lutsey, N., Cui, H., & Yu, R. (2021).Evaluating electric vehicle costs and benefits in China in the 2020–2035 time frame[White paper]. International Council on Clean Transportation.Link to source:https://theicct.org/publication/evaluating-electric-vehicle-costs-and-benefits-in-china-in-the-2020-2035-time-frame/
+
+Menes, M. (2021). Two decades of hybrid electric vehicle market.Journal of Civil Engineering and Transport,3(1), 29–37.Link to source:https://doi.org/10.24136/tren.2021.003
+
+Milovanoff, A., Posen, I. D., & MacLean, H. L. (2020). Electrification of light-duty vehicle fleet alone will not meet mitigation targets.Nature Climate Change,10(12), 1102–1107.Link to source:https://doi.org/10.1038/s41558-020-00921-7
+
+Mittal, V., & Shah, R. (2024). Modeling and comparing the total cost of ownership of passenger automobiles with conventional, electric, and hybrid powertrains.SAE International Journal of Sustainable Transportation, Energy, Environment, & Policy,5(2), 179–192.Link to source:https://doi.org/10.4271/13-05-02-0013
+
+Mustapa, S. I., Ayodele, B. V., Mohamad Ishak, W. W., & Ayodele, F. O. (2020). Evaluation of cost competitiveness of electric vehicles in Malaysia using life cycle cost analysis approach.Sustainability,12(13), Article 5303.Link to source:https://doi.org/10.3390/su12135303
+
+Ouyang, D., Zhou, S., & Ou, X. (2021). The total cost of electric vehicle ownership: A consumer-oriented study of China’s post-subsidy era.Energy Policy,149, Article 112023.Link to source:https://doi.org/10.1016/j.enpol.2020.112023
+
+Pennington, A. F., Cornwell, C. R., Sircar, K. D., & Mirabelli, M. C. (2024). Electric vehicles and health: A scoping review.Environmental Research,251, Article 118697.Link to source:https://doi.org/10.1016/j.envres.2024.118697
+
+Peters, D. R., Schnell, J. L., Kinney, P. L., Naik, V., & Horton, D. E. (2020). Public health and climate benefits and trade‐offs of U.S. vehicle electrification.GeoHealth,4(10), Article e2020GH000275.Link to source:https://doi.org/10.1029/2020GH000275
+
+Petrauskienė, K., Galinis, A., Kliaugaitė, D., & Dvarionienė, J. (2021). Comparative environmental life cycle and cost assessment of electric, hybrid, and conventional vehicles in Lithuania.Sustainability,13(2), Article 957.Link to source:https://doi.org/10.3390/su13020957
+
+Plötz, P., Moll, C., Li, Y., Bieker, G., & Mock, P. (2020).Real-world usage of plug-in hybrid electric vehicles: Fuel consumption, electric driving, and CO2emissions[White paper]. International Council on Clean Transportation.Link to source:https://theicct.org/publication/real-world-usage-of-plug-in-hybrid-electric-vehicles-fuel-consumption-electric-driving-and-co2-emissions
+
+Requia, W. J., Mohamed, M., Higgins, C. D., Arain, A., & Ferguson, M. (2018). How clean are electric vehicles? Evidence-based review of the effects of electric mobility on air pollutants, greenhouse gas emissions and human health.Atmospheric Environment,185, 64–77.Link to source:https://doi.org/10.1016/j.atmosenv.2018.04.040
+
+Roberts, C. (2022). Easy street for low-carbon mobility? The political economy of mass electric car adoption. In G. Parkhurst & W. Clayton (Eds.),Electrifying mobility: Realising a sustainable future for the car(Vol. 15, pp. 13–31). Emerald Publishing Limited.Link to source:https://doi.org/10.1108/S2044-994120220000015004
+
+Romm, J. J., & Frank, A. A. (2006, April). Hybrid vehicles gain traction.Scientific American,294(4), 72–79.Link to source:https://doi.org/10.1038/scientificamerican0406-72
+
+Sovacool, B. K. (2019). The precarious political economy of cobalt: Balancing prosperity, poverty, and brutality in artisanal and industrial mining in the Democratic Republic of the Congo.The Extractive Industries and Society,6(3), 915–939.Link to source:https://doi.org/10.1016/j.exis.2019.05.018
+
+Suttakul, P., Wongsapai, W., Fongsamootr, T., Mona, Y., & Poolsawat, K. (2022). Total cost of ownership of internal combustion engine and electric vehicles: A real-world comparison for the case of Thailand.Energy Reports,8, 545–553.Link to source:https://doi.org/10.1016/j.egyr.2022.05.213
+
+Vega-Perkins, J., Newell, J. P., & Keoleian, G. (2023). Mapping electric vehicle impacts: Greenhouse gas emissions, fuel costs, and energy justice in the United States.Environmental Research Letters,18(1), Article 014027.Link to source:https://doi.org/10.1088/1748-9326/aca4e6
+
+Verma, S., Dwivedi, G., & Verma, P. (2022). Life cycle assessment of electric vehicles in comparison to combustion engine vehicles: A review.Materials Today: Proceedings,49, 217–222.Link to source:https://doi.org/10.1016/j.matpr.2021.01.666
+
+Weiss, M., Zerfass, A., & Helmers, E. (2019). Fully electric and plug-in hybrid cars - An analysis of learning rates, user costs, and costs for mitigating CO2and air pollutant emissions.Journal of Cleaner Production,212, 1478–1489.Link to source:https://doi.org/10.1016/j.jclepro.2018.12.019
+
+World Health Organization. (2022).Number of registered vehicles[Data set]. The Global Health Observatory.Link to source:https://www.who.int/data/gho/data/indicators/indicator-details/GHO/number-of-registered-vehicles
+
+Yang, C., Sun, T., Wang, W., Li, Y., Zhang, Y., & Zha, M. (2024). Regenerative braking system development and perspectives for electric vehicles: An overview.Renewable and Sustainable Energy Reviews,198, Article 114389.Link to source:https://doi.org/10.1016/j.rser.2024.114389
+
+Zhang, Y., Fan, P., Lu, H., & Song, G. (2025). Fuel consumption of hybrid electric vehicles under real-world road and temperature conditions.Transportation Research Part D: Transport and Environment,142, Article 104691.Link to source:https://doi.org/10.1016/j.trd.2025.104691
+
+Cameron Roberts, Ph.D.
+
+Cameron Roberts, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Christina Swanson, Ph.D.
+
+Christina Swanson, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

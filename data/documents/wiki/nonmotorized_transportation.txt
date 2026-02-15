@@ -1,0 +1,86 @@
+# Nonmotorized Transportation
+Source: https://en.wikipedia.org/wiki/Active_transport
+
+In cellular biology, active transport is the movement of molecules or ions across a cell membrane from a region of lower concentration to a region of  higher concentration—against the concentration gradient. Active transport requires cellular energy to achieve this movement. There are two types of active transport: primary active transport that uses adenosine triphosphate (ATP), and secondary active transport that uses an electrochemical gradient. This process is in contrast to passive transport, which allows molecules or ions to move down their concentration gradient, from an area of high concentration to an area of low concentration, without using energy.
+Active transport is essential for various physiological processes, such as nutrient uptake, hormone secretion, and nig impulse transmission. For example, the sodium-potassium pump uses ATP to pump sodium ions out of the cell and potassium ions into the cell, maintaining a concentration gradient essential for cellular function. Active transport is highly selective and regulated, with different transporters specific to different molecules or ions. Dysregulation of active transport can lead to various disorders, including cystic fibrosis, caused by a malfunctioning chloride channel, and diabetes, resulting from defects in glucose transport into cells.
+
+
+== Active cellular transportation (ACT) ==
+Unlike passive transport, which uses the kinetic energy and natural entropy of molecules moving down a gradient, active transport uses cellular energy to move them against a gradient, polar repulsion, or other resistance. Active transport is usually associated with accumulating high concentrations of molecules that the cell needs, such as ions, glucose and amino acids. Examples of active transport include the uptake of glucose in the intestines in humans and the uptake of mineral ions into root hair cells of plants.
+
+
+== History ==
+In 1848, the German physiologist Emil du Bois-Reymond suggested the possibility of active transport of substances across membranes.
+In 1926, Dennis Robert Hoagland investigated the ability of plants to absorb salts against a concentration gradient and discovered the dependence of nutrient absorption and translocation on metabolic energy using innovative model systems under controlled experimental conditions.
+Rosenberg (1948) formulated the concept of active transport based on energetic considerations, but later it would be redefined.
+In 1997, Jens Christian Skou, a Danish physician received the Nobel Prize in Chemistry for his research regarding the sodium-potassium pump.
+One category of cotransporters that is especially prominent in research regarding diabetes treatment is sodium-glucose cotransporters. These transporters were discovered by scientists at the National Health Institute. These scientists had noticed a discrepancy in the absorption of glucose at different points in the kidney tubule of a rat. The gene was then discovered for intestinal glucose transport protein and linked to these membrane sodium glucose cotransport systems. The first of these membrane transport proteins was named SGLT1 followed by the discovery of SGLT2. Robert Krane also played a prominent role in this field.
+
+
+== Background ==
+Specialized transmembrane proteins recognize the substance and allow it to move across the membrane when it otherwise would not, either because the phospholipid bilayer of the membrane is impermeable to the substance moved or because the substance is moved against the direction of its concentration gradient. There are two forms of active transport, primary active transport and secondary active transport. In primary active transport, the proteins involved are pumps that normally use chemical energy in the form of ATP. Secondary active transport, however, makes use of potential energy, which is usually derived through exploitation of an electrochemical gradient. The energy created from one ion moving down its electrochemical gradient is used to power the transport of another ion moving against its electrochemical gradient. This involves pore-forming proteins that form channels across the cell membrane. The difference between passive transport and active transport is that the active transport requires energy, and moves substances against their respective concentration gradient, whereas passive transport requires no cellular energy and moves substances in the direction of their respective concentration gradient.
+In an antiporter, one substrate is transported in one direction across the membrane while another is cotransported in the opposite direction.  In a symporter, two substrates are transported in the same direction across the membrane. Antiport and symport processes are associated with secondary active transport, meaning that one of the two substances is transported against its concentration gradient, utilizing the energy derived from the transport of another ion (mostly Na+, K+ or H+ ions) down its concentration gradient. 
+If substrate molecules are moving from areas of lower concentration to areas of higher concentration (i.e., in the opposite direction as, or against the concentration gradient), specific transmembrane carrier proteins are required. These proteins have receptors that bind to specific molecules (e.g., glucose) and transport them across the cell membrane. Because energy is required in this process, it is known as 'active' transport. Examples of active transport include the transportation of sodium out of the cell and potassium into the cell by the sodium-potassium pump. Active transport often takes place in the internal lining of the small intestine.
+Plants need to absorb mineral salts from the soil or other sources, but these salts exist in very dilute solution. Active transport enables these cells to take up salts from this dilute solution against the direction of the concentration gradient. For example, chloride (Cl−) and nitrate (NO3−) ions exist in the cytosol of plant cells, and need to be transported into the vacuole. While the vacuole has channels for these ions, transportation of them is against the concentration gradient, and thus movement of these ions is driven by hydrogen pumps, or proton pumps.
+
+
+== Primary active transport ==
+
+Primary active transport, also called direct active transport, directly uses metabolic energy to transport molecules across a membrane. Substances that are transported across the cell membrane by primary active transport include metal ions, such as Na+, K+, Mg2+, and Ca2+. These charged particles require ion pumps or ion channels to cross membranes and distribute through the body. 
+Most of the enzymes that perform this type of transport are transmembrane ATPases. A primary ATPase universal to all animal life is the sodium-potassium pump, which helps to maintain the cell potential. The sodium-potassium pump maintains the membrane potential by moving three Na+ ions out of the cell for every two K+ ions moved into the cell. Other sources of energy for primary active transport are redox energy and photon energy (light). An example of primary active transport using redox energy is the mitochondrial electron transport chain that uses the reduction energy of NADH to move protons across the inner mitochondrial membrane against their concentration gradient. An example of primary active transport using light energy are the proteins involved in photosynthesis that use the energy of photons to create a proton gradient across the thylakoid membrane and also to create reduction power in the form of NADPH. 
+
+
+=== Model of active transport ===
+ATP hydrolysis is used to transport hydrogen ions against the electrochemical gradient (from low to high hydrogen ion concentration). Phosphorylation of the carrier protein and the binding of a hydrogen ion induce a conformational (shape) change that drives the hydrogen ions to transport against the electrochemical gradient. Hydrolysis of the bound phosphate group and release of hydrogen ion then restores the carrier to its original conformation.
+
+
+== Types of primary active transporters ==
+P-type ATPase: sodium potassium pump, calcium pump, proton pump
+F-ATPase: mitochondrial ATP synthase, chloroplast ATP synthase
+V-ATPase: vacuolar ATPase
+ABC (ATP binding cassette) transporter: MDR, CFTR, etc.
+Adenosine triphosphate-binding cassette transporters (ABC transporters) comprise a large and diverse protein family, often functioning as ATP-driven pumps. Usually, there are several domains involved in the overall transporter protein's structure, including two nucleotide-binding domains that constitute the ATP-binding motif and two hydrophobic transmembrane domains that create the "pore" component. In broad terms, ABC transporters are involved in the import or export of molecules across a cell membrane; yet within the protein family there is an extensive range of function.
+In plants, ABC transporters are often found within cell and organelle membranes, such as the mitochondria, chloroplast, and plasma membrane. There is evidence to support that plant ABC transporters play a direct role in pathogen response, phytohormone transport, and detoxification. Furthermore, certain plant ABC transporters may function in actively exporting volatile compounds and antimicrobial metabolites.
+In petunia flowers (Petunia hybrida), the ABC transporter PhABCG1 is involved in the active transport of volatile organic compounds. PhABCG1 is expressed in the petals of open flowers.  In general, volatile compounds may promote the attraction of seed-dispersal organisms and pollinators, as well as aid in defense, signaling, allelopathy, and protection. To study the protein PhABCG1, transgenic petunia RNA interference lines were created with decreased PhABCG1 expression levels.  In these transgenic lines, a decrease in emission of volatile compounds was observed. Thus, PhABCG1 is likely involved in the export of volatile compounds. Subsequent experiments involved incubating control and transgenic lines that expressed PhABCG1 to test for transport activity involving different substrates. Ultimately, PhABCG1 is responsible for the protein-mediated transport of volatile organic compounds, such as benzyl alcohol and methylbenzoate, across the plasma membrane.
+Additionally in plants, ABC transporters may be involved in the transport of cellular metabolites. Pleiotropic Drug Resistance ABC transporters are hypothesized to be involved in stress response and export antimicrobial metabolites. One example of this type of ABC transporter is the protein NtPDR1. This unique ABC transporter is found in Nicotiana tabacum BY2 cells and is expressed in the presence of microbial elicitors. NtPDR1 is localized in the root epidermis and aerial trichomes of the plant.  Experiments using antibodies specifically targeting NtPDR1 followed by Western blotting allowed for this determination of localization. Furthermore, it is likely that the protein NtPDR1 actively transports out antimicrobial diterpene molecules, which are toxic to the cell at high levels.
+
+
+== Secondary active transport ==
+In secondary active transport, also known as cotransport or coupled transport, energy is used to transport molecules across a membrane; however, in contrast to primary active transport, there is no direct coupling of ATP. Instead, it relies upon the electrochemical potential difference created by pumping ions in/out of the cell. Permitting one ion or molecule to move down an electrochemical gradient, but possibly against the concentration gradient where it is more concentrated to that where it is less concentrated, increases entropy and can serve as a source of energy for metabolism (e.g. in ATP synthase). The energy derived from the pumping of protons across a cell membrane is frequently used as the energy source in secondary active transport. In humans, sodium (Na+) is a commonly cotransported ion across the plasma membrane, whose electrochemical gradient is then used to power the active transport of a second ion or molecule against its gradient. In bacteria and small yeast cells, a commonly cotransported ion is hydrogen. Hydrogen pumps are also used to create an electrochemical gradient to carry out processes within cells such as in the electron transport chain, an important function of cellular respiration that happens in the mitochondrion of the cell.
+In August 1960, in Prague, Robert K. Crane presented for the first time his discovery of the sodium-glucose cotransport as the mechanism for intestinal glucose absorption. Crane's discovery of cotransport was the first ever proposal of flux coupling in biology.
+Cotransporters can be classified as symporters and antiporters depending on whether the substances move in the same or opposite directions.
+
+
+=== Antiporter ===
+
+In an antiporter two species of ions or other solutes are pumped in opposite directions across a membrane. One of these species is allowed to flow from high to low concentration, which yields the entropic energy to drive the transport of the other solute from a low concentration region to a high one.
+An example is the sodium-calcium exchanger or antiporter, which allows three sodium ions into the cell to transport one calcium out. This antiporter mechanism is important within the membranes of cardiac muscle cells in order to keep the calcium concentration in the cytoplasm low. Many cells also possess calcium ATPases, which can operate at lower intracellular concentrations of calcium and sets the normal or resting concentration of this important second messenger. But the ATPase exports calcium ions more slowly: only 30 per second versus 2000 per second by the exchanger. The exchanger comes into service when the calcium concentration rises steeply or "spikes" and enables rapid recovery. This shows that a single type of ion can be transported by several enzymes, which need not be active all the time (constitutively), but may exist to meet specific, intermittent needs.
+
+
+=== Symporter ===
+A symporter uses the downhill movement of one solute species from high to low concentration to move another molecule uphill from low concentration to high concentration (against its concentration gradient). Both molecules are transported in the same direction.
+An example is the glucose symporter SGLT1, which co-transports one glucose (or galactose) molecule into the cell for every two sodium ions it imports into the cell. This symporter is located in the small intestines, heart, and brain. It is also located in the S3 segment of the proximal tubule in each nephron in the kidneys.  Its mechanism is exploited in glucose rehydration therapy This mechanism uses the absorption of sugar through the walls of the intestine to pull water in along with it. Defects in SGLT2 prevent effective reabsorption of glucose, causing familial renal glucosuria.
+
+
+== Forms of active transport ==
+
+Endocytosis and exocytosis are both forms of active transport that move materials into and out of cells, respectively, via vesicles. In the case of endocytosis, the cellular membrane folds around the desired materials outside the cell. The ingested particle becomes trapped within a pouch, known as a vesicle, inside the cytoplasm. Often enzymes from lysosomes are then used to digest the molecules absorbed by this process. Substances that enter the cell via signal mediated electrolysis include proteins, hormones and growth and stabilization factors. Viruses enter cells through a form of endocytosis that involves their outer membrane fusing with the membrane of the cell. This forces the viral DNA into the host cell.
+Biologists distinguish two main types of endocytosis: pinocytosis and phagocytosis.
+
+In pinocytosis, cells engulf liquid particles (in humans this process occurs in the small intestine, where cells engulf fat droplets).
+In phagocytosis, cells engulf solid particles.
+Exocytosis involves the removal of substances through the fusion of the outer cell membrane and a vesicle membrane. An example of exocytosis would be the transmission of neurotransmitters across a synapse between brain cells.
+
+
+== See also ==
+ATP-binding cassette transporter
+Countercurrent exchange
+Protein targeting
+
+
+== References ==
+
+
+== External links ==
+ Media related to Active transport at Wikimedia Commons
+Secondary Active Transport

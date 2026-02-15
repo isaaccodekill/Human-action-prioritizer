@@ -1,0 +1,676 @@
+# Deploy LED Lighting
+Source: https://drawdown.org/explorer/deploy-led-lighting
+
+Methods and Supporting Data
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+We define the Deploy LED Lighting solution as replacing energy-inefficient light sources with light-emitting diodes (LEDs). Lighting accounts for 15–20% of electricity use in buildings. Using LEDs reduces the electricity that building lighting consumes, and thereby cutsGHGemissions from global electricity generation.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+LED technology for lighting indoor and outdoor spaces is more energy-efficient than other lighting sources currently on the market (Zissis et al., 2021). This is because LEDs are solid-state semiconductors that emit light generated through a direct conversion of the flow of electricity (electroluminescence) rather than heating a tungsten filament to make it glow. More of the electrical energy goes to producing light in an LED lamp than in less-efficient alternative lighting technologies such as incandescent light bulbs or compact fluorescent lamps (CFLs) (Koretsky, 2021; Nair & Dhoble, 2021a). This difference offers significant energy-efficiency gains (see Figure 1).
+
+Globally, lighting-related electricity consumption can account for as much as 20% of the total annual electricity used in buildings (Gayral, 2017; Pompei et al., 2020; Pompei et al., 2022). In 2022, theIEAestimated that total electricity consumption for lighting buildings globally was 1,736TWh(Lane, 2023). Schleich et al. (2014) and others have argued that buildings consume more electricity for lighting due to arebound effectwhen occupants perceive a lighting source as efficient. However, the growing adoption of LED lighting over the years has significantly optimized electricity consumption from building lighting, especially in residential buildings (Lane, 2023).
+
+According to the Intergovernmental Panel on Climate Change (IPCC, 2006), generating electricity fromfossil fuelsemitsCO₂,methane, andnitrous oxide. Replacing inefficient lamps with LEDs cuts these emissions by reducing electricity demand. LEDs often have a power rating of 4–10W, which is 3–10 times lower than alternatives. LEDs also last significantly longer: With a lifespan that can exceed 25,000 hours, they vastly outperform incandescent bulbs (1,000 hours) and CFLs (10,000 hours), as shown in Figure 1. LED’s longevity leads to potential long-term savings due to fewer replacements. The amount of light produced per energy input (luminous efficacy) is up to 10 times greater than alternative lighting sources. This means substantially more lighting for less energy.
+
+Figure 1. A comparison of light sources for building lighting (data from Lane, 2023; Mathias et al., 2023; Nair & Dhoble, 2021b; Xu, 2019).
+
+The International Energy Agency (IEA) and other international bodies report LED market penetration in terms of percentages of the global lighting market (Lane, 2023). We chose this approach to track the impact of adopting LEDs.
+
+
+## What could cause effectiveness to change?
+
+
+Here, only estimated values are presented for effectiveness based on global electricity savings and emissions of generating electricity. While we did not calculate estimated variation in effectiveness, in reality it will vary based on geography, building type, and other factors.
+
+This is the estimated effectiveness value found in literature.
+
+
+## What is this range based on?
+
+
+We used an estimate from the International Energy Agency to determine the solution’s current adoption (the slider’s low value). We determined the low achievable adoption using 2030 Statista projections. The high end of the range (high achievable adoption) is the projected 2032 adoption if the 2022 adoption trend holds.
+
+This is the low end of the range for estimated achievable adoption by 2030.
+
+This is the high end of the range for estimated achievable adoption by 2032.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+The Deploy LED Lighting solution can be equally effective at reducing electricity use across global regions because the efficiency gained by replacing other bulbs with LEDs is functionally identical. However, its climate impact will vary with theemissions intensityof each region’s electricity grid. Secondary considerations associated with uptake of LED lighting also can vary with climate and hence geography. In particular, the decrease in heating associated with LED lighting can reduce demands on air conditioning, leading to increased incentive for solution uptake in warmer climates.
+
+Historically, a few countries typically account for the bulk of LEDs purchased. For example, 30% of the 5 billion LEDs sold globally in 2016 were sold in China. In the same period, North America accounted for 15% while Western Europe, Japan, and India represented 11%, 10%, and 8% of the LEDs sold, respectively (Kamat et al., 2020; U.S. DOE, 2016). Essentially, the growing sales of LEDs drove global adoption levels from 17.6% of the building lighting market in 2016 to 50.5% in 2022 (Lane, 2023). However, current adoption still varies considerably around the world. For instance, Lee et al. (2024) reported that LED market penetration in the U.S. was 47.5% in 2020, compared with 43.3% globally in the same period (Lane, 2023). Meanwhile, LED adoption in France was 35% in 2017, and countries in the Middle East such as the United Arab Emirates, Saudi Arabia, and Turkey had over 70% LED adoption that same year; residential buildings in the United Kingdom had 13% LED adoption in 2018, while Japan had 60% LED adoption as of 2019 (Zissis et al., 2021). This demonstrates potential to scale LED adoption in the future, especially in low- and middle-income countries where the bulk of new building occurs (IEA, 2023).
+
+
+## Percentage of lamps that are LEDs, circa 2020
+
+
+The percentage of lamps used to light buildings that are LEDs varies around the world, with limited data available on a per-country basis.
+
+Miah, M. A. R., & Kabir, R. (2023).Energy savings forecast for solid-state lighting in residential and commercial buildings in Bangladesh. IEEE PES 15th Asia-Pacific Power and Energy Engineering Conference (APPEEC), pp. 1-6,Link to source:https://doi.org/10.1109/APPEEC57400.2023.10561921
+
+U.S. Department of Energy (2024).2020 U.S. lighting market characterization.Link to source:https://www.energy.gov/sites/default/files/2024-08/ssl-lmc2020_apr24.pdfWorld Furniture Online (2017).The lighting fixtures market in Australia and New Zealand.Link to source:https://www.worldfurnitureonline.com/report/the-lighting-fixtures-market-in-australia-and-new-zealand/Zissis, G., Bertoldi, P., & Serrenho, T. (2021).Update on the status of LED-lighting world market since 2018. Publications Office of the European Union.Link to source:https://publications.jrc.ec.europa.eu/repository/handle/JRC122760
+
+
+## Percentage of lamps that are LEDs, circa 2020
+
+
+The percentage of lamps used to light buildings that are LEDs varies around the world, with limited data available on a per-country basis.
+
+Miah, M. A. R., & Kabir, R. (2023).Energy savings forecast for solid-state lighting in residential and commercial buildings in Bangladesh. IEEE PES 15th Asia-Pacific Power and Energy Engineering Conference (APPEEC), pp. 1-6,Link to source:https://doi.org/10.1109/APPEEC57400.2023.10561921
+
+U.S. Department of Energy (2024).2020 U.S. lighting market characterization.Link to source:https://www.energy.gov/sites/default/files/2024-08/ssl-lmc2020_apr24.pdfWorld Furniture Online (2017).The lighting fixtures market in Australia and New Zealand.Link to source:https://www.worldfurnitureonline.com/report/the-lighting-fixtures-market-in-australia-and-new-zealand/Zissis, G., Bertoldi, P., & Serrenho, T. (2021).Update on the status of LED-lighting world market since 2018. Publications Office of the European Union.Link to source:https://publications.jrc.ec.europa.eu/repository/handle/JRC122760
+
+Replacing 1% of the building lighting market with LED lamps avoids approximately 7.09MtCO₂‑eq/yremissions on a100-yr basis(Table 1) or 7.15 Mt CO₂‑eq/yr
+ on a20-yr basis.
+
+We estimated this solution’seffectiveness(Table 1) by multiplying the global electricity savings intensity (kWh/%) by an emissions intensity for each GHG emitted (in g/kWh)  due to electricity generation. Using the IEA (2024)’s energy balances data, we estimated emissions intensities of approximately 529 g/kWh for CO₂,
+ 0.07 g/kWh for methane, and 0.01 g/kWh for nitrous oxide. Country-specific data were limited. Therefore, we developed the savings intensity using the IEA’s adoption trend (%/yr) and electricity consumption reduction (kWh/yr) for residential buildings globally (Lane, 2023). We then scaled up the savings intensity to represent all buildings (since LEDs are applicable in all types of buildings), but we could not find global data specifying the energy savings potential of converting the lighting market in nonresidential buildings to LEDs. Notably, artificial lighting’s energy consumption varies across building types (Moadab et al., 2021) and is typically greater in nonresidential buildings (Build Up, 2019). This presents some level of uncertainty, but also suggests that our estimates could be conservative – and that there is potential for even greater savings in nonresidential buildings.
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit:tCO₂‑eq/% lampsLED/yr, 100-yr basis
+
+Our lifetime initial cost estimate of switching 1% of the global building lighting market to LEDs is approximately US$1.5 billion. Because LEDs use less electricity than alternative lamps, they cost less to operate, resulting in operating costs of –US$1.3 billion/yr (i.e., cost savings). Building owners typically are not paid to use LED lighting; therefore, the revenue is zero. After weamortizethe initial cost over 30 years, the net annual cost for this solution is –US$1.2 billion/yr globally. Thus, replacing other bulbs with LEDs saves money despite the initial cost.
+
+We estimated the cost (Table 2) by first identifying initial and operating costs from studies that retrofitted buildings with LEDs, such as Periyannan et al. (2023), Hasan et al. (2025), and Forastiere et al. (2024). We then divided the costs by the impact of the LED retrofit on the amount of electricity consumed by lighting in each study and multiplied this by the global electricity savings intensity (kWh/%) we estimated during the effectiveness analysis. The result was the cost per percent of lamps in buildings converted to LED lighting (US$/% lamps LED).
+
+We estimated the cost per unit climate impact by dividing the annual cost savings peradoption unitby the CO₂‑eq
+ emissions reduced yearly per adoption unit (Table 2).
+
+Table 2. Cost per unit climate impact.
+
+Unit:2023 US$/tCO₂‑eq,100-yr basis
+
+Negative values reflect cost savings.
+
+As LEDs became more common in building lighting, costs dropped significantly in recent years.
+
+Trends based on LED adoption data (Lane, 2023) and the cost of LED lighting (Pattison et al., 2020) showed a 29.7% drop in cost as LED adoption doubled between 2016 and 2019.
+
+The cost data we used to identify thelearning curvefor this solution (Table 3) are specific to the United States and limited to pre-2020. More recent LED cost data may show additional benefits with respect to cost, but this value may not be applicable for other countries. However, the cost data we analyzed do provide a useful sample of the broader LED cost-reduction trend.
+
+Table 3. Learning rate: drop in cost per doubling of the installed solution base
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Deploy LED Lighting is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+Lane (2023) found that LED lamps represented 50.5% of the lighting market globally for residential buildings in 2022, but does not provide adoption data specific to nonresidential buildings. Studies that provide global or geographically segmented LED adoption data for all building types are also limited. Therefore, we assume 50.5% to be representative of LED adoption across all buildings globally (Table 4).
+
+Other studies highlight adoption levels across various countries. The data captured in these studies and reports provide context with specific adoption levels from different regions (see Geographic Guidance).
+
+The IEA and U.S. Department of Energy (DOE) report that LEDs are increasingly the preferred choice of homeowners and the general building lighting market. This preference is evident in the growing market share of LED lamps sold and installed annually (Lane, 2023; Lee et al., 2024).
+
+In general, the solution’s current adoption globally is substantial, and we recognize that some countries possess more room for the solution to scale. While adoption barriers vary across regions, many countries are establishing lighting standards to drive LED adoption, especially across Africa [(IEA, 2022; United Nations Industrial Development Organization (UNIDO), 2021].
+
+Table 4. Current (2022) adoption level.
+
+Adoption of LEDs has grown approximately 3.75%/yr over the past two decades.
+
+Lane (2023) found that the proportion of lamps sold annually for building lighting that are LEDs grew from 1.1% in 2010 to 50.5% in 2022 (Figure 2). We estimated the adoption trend (Table 5) by determining the percentage growth between successive years, and calculating the variances.
+
+Figure 2. Trend in LED adoption between 2010 and 2022 (adapted from Lane, 2023).
+
+Source:Lane, K. (2023, 11 July 2023).Lighting. International Energy Agency (IEA). Retrieved 13 December 2024 fromhttps://www.iea.org/energy-system/buildings/lighting
+
+Data on the growth of LEDs across regional building lighting markets are limited. Lee et al. (2024)’s analysis of the U.S. lighting market found 46.5% growth 2010–2020, which translates to 4.65% annually. Zissis et al. (2021) reported 26% growth for France for 2017–2020, which averages 8.67% annually.
+
+Table 5. 2010–2022 adoption trend.
+
+Units:% lamps LED market share growth/yr
+
+Theadoption ceiling(Table 6) is 100%, meaning all lamps in buildings are LEDs. Lane (2023) projects 100% LED market penetration by 2030. If current adoption trends continue, 100% LED adoption is a practical and achievable upper limit. However, countries will need to overcome challenges such as regulatory enforcement, financial, and technology access issues, while preventing the entrance of inferior quality LEDs into their lighting market (IEA, 2022).
+
+Table 6. Adoption ceiling
+
+We estimate a low achievable adoption scenario of 87% based on Statista’s projections about LED lighting market penetration by 2030 (Placek, 2023). The values were similar in Zissis et al. (2021).
+
+For the high achievable scenario, we projected 10 years beyond the 2022 adoption level using the mean adoption trend of 4.12%/yr. This translates to a 41% growth on top of the current adoption level of 50.5%, summing up to a 92% LED adoption level (Table 7).
+
+Table 7. Range of achievable adoption levels.
+
+We estimated that current adoption cuts about 0.36GtCO₂‑eq
+ emissions on a 100-yr basis compared with the previous alternative lighting sources (Table 8). The low achievable adoption scenario of 87% LED lamps could cut emissions 0.62 Gt CO₂‑eq/yr
+ due to reduced electricity consumption, while a high achievable adoption scenario of 92% LED lamps could cut emissions 0.65 Gt CO₂‑eq/yr.
+ If the adoption ceiling of 100% LEDs for lighting buildings is reached, we estimate that 0.71 Gt CO₂‑eq/yr
+ could be avoided (Table 8).
+
+LED lighting could further cut electricity consumption as LED technology continues to improve. However, the technology’s future climate impacts will depend on the emissions of future electricity-generation systems.
+
+Table 8. Climate impact at different levels of adoption.
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Because LEDs use less electricity than fluorescent and incandescent light bulbs (Khan & Abas, 2011), households and businesses using LED technology can save money on electricity costs. The payback period for the initial investment from lower utility bills is about one year for residential buildings and about two months for commercial buildings (Amann et al., 2022). LED lighting can contribute to savings by minimizing energy demand for cooling, since LEDs emit less heat than fluorescent and incandescent bulbs (Albatayneh et al., 2021; Schratz et al., 2016). However, it could also lead to a greater need for space heating in some regions. LED lights also last longer than alternative lighting technologies, which can lead to lower maintenance costs (Schratz et al., 2016).
+
+Reductions in air pollution due to LED lighting’s lower electricity demand decrease exposures to pollutants such as mercury and fineparticulate mattergenerated from fossil fuel-based power plants, improving the health of nearby communities [Environmental Protection Agency (EPA), 2024]. These pollutants have been linked to increased morbidity from cardiovascular and respiratory disease, asthma, infections, and cancer, and to increased risk of mortality (Gasparotto & Martinello, 2021; Henneman et al., 2023). Because LEDs do not contain mercury, they canmitigatesmall health risks associated with mercury exposure when fluorescent light bulbs break (Bose-O’Reilly et al., 2010; Sarigiannis et al., 2012). Switching to LEDs can also enhance a visual environment and improve occupants’ well-being, visual comfort, and overall productivity when lamps with the appropriate lighting quality and correlated color temperature are selected (Fu et al., 2023; Iskra-Golec et al., 2012; Nair & Dhoble, 2021b).
+
+
+## Air and Water Quality
+
+
+The lower electricity demand of LEDs could help reduce emissions from power plants and improve air quality (Amann et al., 2022). Additionally, LEDs can mitigate small amounts of mercury found in fluorescent lights (Amann et al., 2022). Mercury contamination from discarded bulbs in landfills can leach into surrounding water bodies and accumulate in aquatic life. LEDs also have longer lifespans than fluorescent and incandescent bulbs (Nair & Dhoble, 2021b) which can reduce the amount of discarded bulbs and further mitigate environmental degradation from landfills.
+
+Our effectiveness analysis is based on the current state of LED technology. If the adoption ceiling is attained, further improvements to the amount of light that LEDs generate per unit electricity could enhance the solution’s impact through further reductions in electricity use.
+
+The rebound effect – where building occupants use more lighting in response to increased energy-efficiency of lamps – is a well-established concern (Saunders and Tsao, 2012; Schleich et al., 2014). We attempted to address this concern by using IEA data on actual electricity consumption originating from building lighting to determine both its effectiveness and cost implications (Lane, 2023).
+
+We did not fully account for the cost savings that potentially arise from fewer bulb replacements, since LEDs may replace various types of lamps. Because LEDs last significantly longer than all alternative lamp technologies, building owners may require fewer replacements when using LED lamps compared with other lighting sources.
+
+We found limited data indicating risks with choosing LEDs over other lighting sources. Concerns about eye health raised in the early days of LED adoption (Behar-Cohen et al., 2011) have been allayed by studies that found that LEDs do not pose a greater risk to the eye than comparable lighting sources (Moyano et al., 2020).
+
+LED manufacturing uses metals like gold, indium, and gallium (Gao et al., 2022). This creates environmental risks due to mining (Xiong et al., 2023) and makes LEDsupply chainssusceptible to macroeconomic uncertainties (Lee et al., 2021). With growing adoption of LED lights, there is also the risk of greater electronic waste at the end of the LED’s lifespan. Therefore, recycling is increasingly important (Cenci et al., 2020).
+
+LED lamp manufacturing creates more emissions than manufacturing other types of lamps. For example, Zhang et al. (2023) compared the manufacturing emissions of a 12.5W LED lamp with a 14W CFL and a 60W incandescent bulb. These light sources provided similar levels of illumination (850–900 lumens). The production of one LED bulb resulted in 9.81 kg CO₂‑eq
+ emissions, while the CFL and incandescent resulted in 2.29 and 0.73 kg CO₂‑eq
+ emissions, respectively. However, LEDs are preferred because their longevity results in fewer LED lamps required to provide the same amount of lighting over time. LEDs can last 25 times longer than incandescent lamps with an identical lumen output (Nair & Dhoble, 2021b; Xu, 2019; Zhang et al., 2023).
+
+Some studies demonstrate an increase in the indoor heating requirements when switching to LED lighting from other lighting sources, such as incandescent lamps, that produce more heat than LEDs. The difference is often small, but worth taking into account when adopting LEDs in a building with previously energy-inefficient lighting.
+
+Improve District Heating: Buildings
+
+Improve Windows & Glass
+
+Improve Building Envelopes
+
+
+## Consensus of effectiveness in reducing GHG emissions from electricity generation: High
+
+
+Using LEDs significantly minimizes the electricity required to light buildings, thereby reducing GHG emissions from electricity generation. Many countries are phasing out other lighting sources to reduce GHG emissions (Lane, 2023).
+
+The IEA reported that global adoption of LEDs drove a nearly 30% reduction in annual electricity consumption for lighting in homes between 2010 and 2022 (Lane, 2023). Hasan et al. (2025) indicated that LEDs could reduce the lighting energy usage of buildings (and their resulting GHG emissions) in Bangladesh by 50%. Periyannan et al. (2023) recorded significant electricity savings after evaluating the impact of retrofitting hotels in Sri Lanka with LEDs. Forastiere et al. (2024)’s analysis of the retail buildings in Italy showed an 11% reduction in energy consumption from replacing other lamps with LEDs. Booysen et al., (2021) also achieved significant energy reduction with lighting retrofits in South African educational buildings.
+
+The results presented in this document summarize findings from six original studies and three public sector/multilateral agency reports, which collectively reflect current evidence both globally and from six countries on four different continents. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Use regulations tophase outand replace energy-inefficient lighting sources with LEDs.
+
+Set regulations that encourage sufficient lighting to limit the overuse of LEDs (or rebound effects).
+
+Require that public lighting use LEDs.
+
+Use financial incentives such as tax breaks, subsidies, and grants to facilitate the transition to LEDs.
+
+Revise building energy-efficiency standards to reflect energy savings of LEDs.
+
+Develop production standards and mandate labeling for LEDs.
+
+Build sufficient inspection capacity for LED manufacturers and penalize noncompliance with standards.
+
+Use energy-efficiency purchase agreements to help support utility companies during the transition to LED lighting.
+
+Invest in research and development that improves the cost and efficiency of LED lighting.
+
+Develop a certification program for LED lighting.
+
+Create exchange programs or buy-back programs for inefficient light bulbs.
+
+Start demonstration projects to promote LED lighting.
+
+Join, support, or create educational programs that raise public awareness about the cost savings and energy-efficiency gains associated with LEDs.
+
+Lighting. International Energy Agency (2023)
+
+Energy efficient LED lighting-guide: a guide for business. Sustainable Energy Authority of Ireland (n.d.)
+
+Accelerating the global adoption of energy-efficient lighting. United for Energy Efficiency (2017)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Take advantage of or advocate for financial incentives such as tax breaks, subsidies, and grants to facilitate the production of LED lighting.
+
+Help develop circular supply chains in renovating, remanufacturing, reusing, and redistributing materials.
+
+Invest in research and development to improve efficiency and cost of LEDs.
+
+Adhere to, or advocate for, national LED standards.
+
+Develop, produce, and sell LED lighting that imitates incandescent or other familiar lighting.
+
+Consider bundling services with retrofitting companies and collaborating with utility companies to offer rebates or other incentives.
+
+Improve self-service of LEDs by reducing obstacles to installation and ensuring LEDs can be easily replaced.
+
+Help create positive perceptions of LED lighting by showcasing usage, cost savings, and emissions reductions.
+
+Create feedback mechanisms, such as apps that alert users to real-time benefits such as energy and cost savings.
+
+Start demonstration projects to promote LED lighting.
+
+Join, support, or create educational programs that raise public awareness about the cost savings and energy-efficiency gains associated with LEDs.
+
+Lighting. International Energy Agency (2023)
+
+Energy efficient LED lighting-guide: a guide for business. Sustainable Energy Authority of Ireland (n.d.)
+
+Accelerating the global adoption of energy-efficient lighting. United for Energy Efficiency (2017)
+
+Retrofit existing operations for LEDs, replace inefficient bulbs, and purchase only LEDs going forward.
+
+Help develop circular supply chains in renovating, remanufacturing, reusing, and redistributing LED lighting materials.
+
+Take advantage of financial incentives such as tax breaks, subsidies, and grants to facilitate the transition to LED lighting.
+
+Invest in research and development that improves the cost and efficiency of LED lighting.
+
+Join, support, or create educational programs that raise public awareness about the cost savings and energy-efficiency gains associated with LEDs.
+
+Lighting. International Energy Agency (2023)
+
+Energy efficient LED lighting-guide: a guide for business. Sustainable Energy Authority of Ireland (n.d.)
+
+Accelerating the global adoption of energy-efficient lighting. United for Energy Efficiency (2017)
+
+Retrofit existing operations for LEDs, replace inefficient bulbs, and purchase only LEDs going forward.
+
+Help develop circular supply chains in renovating, remanufacturing, reusing, and redistributing LED lighting materials.
+
+Take advantage of, or advocate for, financial incentives such as tax breaks, subsidies, and grants to facilitate the transition to LED lighting.
+
+Advocate for regulations to phase out and replace energy-inefficient lighting sources with LEDs.
+
+Advocate for production standards and labeling for LEDs.
+
+Call for regulations that encourage sufficient lighting to limit the overuse of LEDs (or rebound effects).
+
+Start demonstration projects to promote LED lighting.
+
+Help develop, support, or administer a certification program for LED lighting.
+
+Create national catalogs of LED manufacturers, suppliers, and retailers.
+
+Join, support, or create educational programs that raise public awareness about the cost savings and energy-efficiency gains associated with LEDs.
+
+Lighting. International Energy Agency (2023)
+
+Energy efficient LED lighting-guide: a guide for business. Sustainable Energy Authority of Ireland (n.d.)
+
+Accelerating the global adoption of energy-efficient lighting. United for Energy Efficiency (2017)
+
+Retrofit existing operations for LEDs, replace inefficient bulbs, and purchase only LEDs going forward.
+
+Take advantage of financial incentives such as tax breaks, subsidies, and grants to facilitate the transition to LED lighting.
+
+Invest in LED manufacturers, supply chains, and supportive industries.
+
+Support research and development to improve the efficiency and cost of LEDs.
+
+Invest in LED companies.
+
+Fund companies that provide retrofitting services (energy service companies).
+
+Invest in businesses dedicated to advancing LED use.
+
+Ensure portfolio companies do not produce or support non-LED lighting supply chains.
+
+Join, support, or create educational programs that raise public awareness about the cost savings and energy-efficiency gains associated with LEDs.
+
+Lighting. International Energy Agency (2023)
+
+Energy efficient LED lighting-guide: a guide for business. Sustainable Energy Authority of Ireland (n.d.)
+
+Accelerating the global adoption of energy-efficient lighting. United for Energy Efficiency (2017)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Retrofit existing operations for LEDs, replace inefficient bulbs, and purchase only LEDs going forward.
+
+Take advantage of financial incentives such as tax breaks, subsidies, and grants to facilitate the transition to LED lighting.
+
+Provide financing such as low-interest loans, grants, and micro-grants to help accelerate LED adoption.
+
+Fund companies that provide retrofitting services (energy service companies).
+
+Advocate for regulations to phase out energy-inefficient lighting sources and replace them with LEDs.
+
+Call for regulations that encourage sufficient lighting to limit the overuse of LEDs (or rebound effects).
+
+Start demonstration projects to promote LED lighting.
+
+Help develop, support, or administer a certification program for LED lighting.
+
+Create national catalogs of LED manufacturers, suppliers, and retailers.
+
+Join, support, or create educational programs that raise public awareness about the cost savings and energy-efficiency gains associated with LEDs.
+
+Lighting. International Energy Agency (2023)
+
+Energy efficient LED lighting-guide: a guide for business. Sustainable Energy Authority of Ireland (n.d.)
+
+Accelerating the global adoption of energy-efficient lighting. United for Energy Efficiency (2017)
+
+Retrofit buildings for LED lighting, replace inefficient bulbs, and purchase only LEDs going forward.
+
+Help create positive perceptions of LED lighting by highlighting your personal usage, cost and energy savings, and emissions reductions.
+
+Help develop circular supply chains in renovating, remanufacturing, reusing, and redistributing materials.
+
+Take advantage of, or advocate for, financial incentives such as tax breaks, subsidies, and grants to facilitate the transition to LED lighting.
+
+Advocate for regulations to phase out energy-inefficient lighting sources and replace them with LEDs.
+
+Advocate for LED standards.
+
+Advocate for regulations that encourage sufficient lighting and guard against overuse of LEDs (or rebound effects).
+
+Start demonstration projects to promote LED lighting.
+
+Help develop, support, or administer a certification program for LED lighting.
+
+Create national catalogs of LED manufacturers, suppliers, and retailers.
+
+Join, support, or create educational programs that raise public awareness about the cost savings and energy-efficiency gains associated with LEDs.
+
+Lighting. International Energy Agency (2023)
+
+Energy efficient LED lighting-guide: a guide for business. Sustainable Energy Authority of Ireland (n.d.)
+
+Accelerating the global adoption of energy-efficient lighting. United for Energy Efficiency (2017)
+
+
+## Technologists and Researchers
+
+
+Develop circular supply chains in renovating, remanufacturing, reusing, and redistributing materials.
+
+Improve the efficiency and cost of LEDs.
+
+Improve LED lighting to imitate familiar lighting, offer customers settings, and augment color rendering.
+
+Improve self-service of LEDs by reducing obstacles to installation and ensuring LEDs can be replaced individually.
+
+Help develop standards for LEDs.
+
+Create feedback mechanisms, such as apps that alert users to real-time benefits such as energy and cost savings.
+
+Lighting. International Energy Agency (2023)
+
+Energy efficient LED lighting-guide: a guide for business. Sustainable Energy Authority of Ireland (n.d.)
+
+Accelerating the global adoption of energy-efficient lighting. United for Energy Efficiency (2017)
+
+
+## Communities, Households, and Individuals
+
+
+Retrofit for LEDs, replace inefficient bulbs, and purchase only LEDs going forward.
+
+Help create positive perceptions of LED lighting by highlighting your personal usage, cost and energy savings, and emissions reductions.
+
+Help develop circular supply chains in renovating, remanufacturing, reusing, and redistributing materials.
+
+Take advantage of or advocate for financial incentives such as tax breaks, subsidies, and grants to facilitate the transition to LED lighting.
+
+Advocate for regulations to phase out and replace energy-inefficient lighting sources with LEDs.
+
+Advocate for LED standards.
+
+Advocate for regulations that encourage sufficient lighting to limit the overuse of LEDs (or rebound effects).
+
+Join, support, or create educational programs that raise public awareness about the cost savings and energy-efficiency gains associated with LEDs.
+
+Lighting. International Energy Agency (2023)
+
+Energy efficient LED lighting-guide: a guide for business. Sustainable Energy Authority of Ireland (n.d.)
+
+Accelerating the global adoption of energy-efficient lighting. United for Energy Efficiency (2017)
+
+
+## “Take Action” Sources
+
+
+Study on policy and measures, standards and certification system of LED lighting industry in Malaysia. Ding et al. (2020)
+
+Study on policy and standard system of LED lighting industry in EU. Ding et al. (2020)
+
+LEDs for lighting: basic physics and prospects for energy savings. Gayral (2017)
+
+Lighting. International Energy Agency (2023)
+
+Phasing out an embedded technology: insights from banning the incandescent light bulb in Europe. Koretsky (2021)
+
+Role of street-level policy entrepreneurs in sustainability transition: evidence from India’s transition to LED lighting. Sharma (2024)
+
+Policy performance of green lighting industry in China: a DID analysis from the perspective of energy conservation and emission reduction. Wang et al. (2020)
+
+Methods and Supporting Data
+
+Albatayneh, A., Juaidi, A., Abdallah, R., & Manzano-Agugliaro, F. (2021). Influence of the advancement in the LED lighting technologies on the optimum windows-to-wall ratio of Jordanians residential buildings.Energies,14(17), 5446.Link to source:https://www.mdpi.com/1996-1073/14/17/5446
+
+Amann, J. T., Fadie, B., Mauer, J., Swaroop, K., & Tolentino, C. (2022).Farewell to fluorescent lighting: How a phaseout can cut mercury pollution, protect the climate, and save money.Link to source:https://www.aceee.org/research-report/b2202
+
+Behar-Cohen, F., Martinsons, C., Viénot, F., Zissis, G., Barlier-Salsi, A., Cesarini, J. P.,Enouf, O., Garcia, M., Picaud, S., &Attia, D.. (2011). Light-emitting diodes (LED) for domestic lighting: Any risks for the eye?Progress in Retinal and Eye Research,30(4), 239–257.Link to source:https://doi.org/10.1016/j.preteyeres.2011.04.002
+
+Booysen, M. J., Samuels, J. A., & Grobbelaar, S. S. (2021). LED there be light: The impact of replacing lights at schools in South Africa.Energy and Buildings,235, 110736.Link to source:https://doi.org/10.1016/j.enbuild.2021.110736
+
+Bose-O'Reilly, S., McCarty, K. M., Steckling, N., & Lettmeier, B. (2010). Mercury exposure and children's health.Current Problems in Pediatric and Adolescent Health Care,40(8), 186–215.Link to source:https://doi.org/10.1016/j.cppeds.2010.07.002
+
+Build Up. (2019).Overview_Decarbonising the non-residential building stock. European Commission. Retrieved 05 March 2025 fromLink to source:https://build-up.ec.europa.eu/en/resources-and-tools/articles/overview-decarbonising-non-residential-building-stock
+
+Cenci, M. P., Dal Berto, F. C., Schneider, E. L., & Veit, H. M. (2020). Assessment of LED lamps components and materials for a recycling perspective.Waste Management,107, 285-293.Link to source:https://doi.org/10.1016/j.wasman.2020.04.028
+
+Environmental Protection Agency (EPA). (2024).Power sector programs - progress report.Link to source:https://www.epa.gov/power-sector/progress-report
+
+Forastiere, S., Piselli, C., Silei, A., Sciurpi, F., Pisello, A. L., Cotana, F., & Balocco, C. (2024). Energy efficiency and sustainability in food retail buildings: Introducing a novel assessment framework.Energies,17(19), 4882.Link to source:https://www.mdpi.com/1996-1073/17/19/4882
+
+Fu, X., Feng, D., Jiang, X., & Wu, T. (2023). The effect of correlated color temperature and illumination level of LED lighting on visual comfort during sustained attention activities.Sustainability,15(4), 3826.Link to source:https://www.mdpi.com/2071-1050/15/4/3826
+
+Gao, W., Sun, Z., Wu, Y., Song, J., Tao, T., Chen, F.,Zhang, Y., &Cao, H.(2022). Criticality assessment of metal resources for light-emitting diode (LED) production – a case study in China.Cleaner Engineering and Technology,6, 100380.Link to source:https://doi.org/10.1016/j.clet.2021.100380
+
+Gasparotto, J., & Da Boit Martinello, K. (2021). Coal as an energy source and its impacts on human health.Energy Geoscience,2(2), 113–120.Link to source:https://doi.org/10.1016/j.engeos.2020.07.003
+
+Gayral, B. (2017). LEDs for lighting: Basic physics and prospects for energy savings.Comptes Rendus Physique,18(7), 453–461.Link to source:https://doi.org/10.1016/j.crhy.2017.09.001
+
+Hasan, M. M., Moznuzzaman, M., Shaha, A., & Khan, I. (2025). Enhancing energy efficiency in Bangladesh's readymade garment sector: The untapped potential of LED lighting retrofits.International Journal of Energy Sector Management,19(3), 569–588.Link to source:https://doi.org/10.1108/ijesm-05-2024-0009
+
+Henneman, L., Choirat, C., Dedoussi, I., Dominici, F., Roberts, J., & Zigler, C. (2023). Mortality risk from United States coal electricity generation.382(6673), 941–946.Link to source:https://doi.org/doi:10.1126/science.adf4915
+
+Intergovernmental Panel on Climate Change (IPCC). (2006).2006 IPCC guidelines for national greenhouse gas inventories volume 2: Energy; Chapter 2: Stationary combustion.Link to source:https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_2_Ch2_Stationary_Combustion.pdf
+
+International Energy Agency (IEA). (2022).Targeting 100% LED lighting sales by 2025.Link to source:https://www.iea.org/reports/targeting-100-led-lighting-sales-by-2025
+
+International Energy Agency (IEA). (2023).Global floor area and buildings energy intensity in the net zero scenario, 2010-2030. Retrieved 06 March 2025 fromLink to source:https://www.iea.org/data-and-statistics/charts/global-floor-area-and-buildings-energy-intensity-in-the-net-zero-scenario-2010-2030
+
+International Energy Agency (IEA). (2024).World energy balances. IEA.Link to source:https://www.iea.org/data-and-statistics/data-product/world-energy-balances
+
+Iskra-Golec, I., Wazna, A., & Smith, L. (2012). Effects of blue-enriched light on the daily course of mood, sleepiness and light perception: A field experiment.44(4), 506-513.Link to source:https://doi.org/10.1177/1477153512447528
+
+Kamat, A. S., Khosla, R., & Narayanamurti, V. (2020). Illuminating homes with LEDs in India: Rapid market creation towards low-carbon technology transition in a developing country.Energy Research & Social Science,66, 101488.Link to source:https://doi.org/10.1016/j.erss.2020.101488
+
+Khan, N., & Abas, N. (2011). Comparative study of energy saving light sources.Renewable and Sustainable Energy Reviews,15(1), 296–309.Link to source:https://doi.org/10.1016/j.rser.2010.07.072
+
+Koretsky, Z. (2021). Phasing out an embedded technology: Insights from banning the incandescent light bulb in europe.Energy Research & Social Science,82, 102310.Link to source:https://doi.org/10.1016/j.erss.2021.102310
+
+Lane, K. (2023, 11 July 2023).Lighting. International Energy Agency (IEA). Retrieved 13 December 2024 fromLink to source:https://www.iea.org/energy-system/buildings/lighting
+
+Lee, K., Donnelly, S., & Phillips, G. (2024).2020 U.S. Lighting market characterization.Link to source:https://www.osti.gov/biblio/2371534
+
+Lee, K., Nubbe, V., Rego, B., Hansen, M., & Pattison, M. (2021).2020 LED manufacturing supply chain. U. S. DOE.Link to source:https://www.energy.gov/sites/default/files/2021-05/ssl-2020-led-mfg-supply-chain-mar21.pdf
+
+Mathias, J. A., Juenger, K. M., & Horton, J. J. (2023). Advances in the energy efficiency of residential appliances in the US: A review.Energy Efficiency,16(5), 34.Link to source:https://doi.org/10.1007/s12053-023-10114-8
+
+Miah, M. A. R., & Kabir, R. (2023).Energy savings forecast for solid-state lighting in residential and commercial buildings in Bangladesh. IEEE PES 15th Asia-Pacific Power and Energy Engineering Conference (APPEEC), pp. 1-6.Link to source:https://doi.org/10.1109/APPEEC57400.2023.10561921
+
+Moadab, N. H., Olsson, T., Fischl, G., & Aries, M. (2021). Smart versus conventional lighting in apartments - electric lighting energy consumption simulation for three different households.Energy and Buildings,244, 111009.Link to source:https://doi.org/10.1016/j.enbuild.2021.111009
+
+Moyano, D. B., Moyano, S. B., López, M. G., Aznal, A. S., & Lezcano, R. A. G. (2020). Nominal risk analysis of the blue light from LED luminaires in indoor lighting design.Optik,223, 165599.Link to source:https://doi.org/10.1016/j.ijleo.2020.165599
+
+Nair, G. B., & Dhoble, S. J. (2021a). 2 - fundamentals of LEDs. In G. B. Nair & S. J. Dhoble (Eds.),The fundamentals and applications of light-emitting diodes(pp. 35–57). Woodhead Publishing.Link to source:https://doi.org/10.1016/B978-0-12-819605-2.00002-1
+
+Nair, G. B., & Dhoble, S. J. (2021b). 6 - general lighting. In G. B. Nair & S. J. Dhoble (Eds.),The fundamentals and applications of light-emitting diodes(pp. 155–176). Woodhead Publishing.Link to source:https://doi.org/10.1016/B978-0-12-819605-2.00006-9
+
+Pattison, M., Hansen, M., Bardsley, N., Elliott, C., Lee, K., Pattison, L., & Tsao, J. (2020).2019 lighting R&D opportunities.Link to source:https://www.osti.gov/biblio/1618035
+
+Periyannan, E., Ramachandra, T., & Geekiyanage, D. (2023). Assessment of costs and benefits of green retrofit technologies: Case study of hotel buildings in Sri Lanka.Journal of Building Engineering,78, 107631.Link to source:https://doi.org/10.1016/j.jobe.2023.107631
+
+Placek, M. (2023).LED lighting in the United States - statistics & facts. Statista. Retrieved 09 February 2025 fromLink to source:https://www.statista.com/topics/1144/led-lighting-in-the-us/#topicOverview
+
+Pompei, L., Blaso, L., Fumagalli, S., & Bisegna, F. (2022). The impact of key parameters on the energy requirements for artificial lighting in Italian buildings based on standard en 15193-1:2017.Energy and Buildings,263, 112025.Link to source:https://doi.org/10.1016/j.enbuild.2022.112025
+
+Pompei, L., Mattoni, B., Bisegna, F., Blaso, L., & Fumagalli, S. (2020, 9–12 June 2020). Evaluation of the energy consumption of an educational building, based on the uni en 15193–1:2017, varying different lighting control systems. 2020 IEEE International Conference on Environment and Electrical Engineering and 2020 IEEE Industrial and Commercial Power Systems Europe(EEEIC / I&CPS Europe), Madrid, Spain, 2020, pp. 1-6.Link to source:https://doi.org/10.1109/EEEIC/ICPSEurope49358.2020.9160588
+
+Sarigiannis, D. A., Karakitsios, S. P., Antonakopoulou, M. P., & Gotti, A. (2012). Exposure analysis of accidental release of mercury from compact fluorescent lamps (CFLs).Science of The Total Environment,435–436, 306–315.Link to source:https://doi.org/10.1016/j.scitotenv.2012.07.026
+
+Saunders, H. D., & Tsao, J. Y. (2012). Rebound effects for lighting.Energy Policy,49, 477-478.Link to source:https://doi.org/10.1016/j.enpol.2012.06.050
+
+Schleich, J., Mills, B., & Dütschke, E. (2014). A brighter future? Quantifying the rebound effect in energy efficient lighting.Energy Policy,72, 35–42.Link to source:https://doi.org/10.1016/j.enpol.2014.04.028
+
+Schratz, M., Gupta, C., Struhs, T. J., & Gray, K. (2016). A new way to see the light: Improving light quality with cost-effective led technology.IEEE Industry Applications Magazine,22(4), 55–62.Link to source:https://doi.org/10.1109/MIAS.2015.2459089
+
+United Nations Industrial Development Organization (UNIDO). (2021).SADC member states welcome the introduction of new efficient lighting standards. UNIDO. Retrieved 05 March 2025 fromLink to source:https://www.unido.org/news/sadc-member-states-welcome-introduction-new-efficient-lighting-standards
+
+U.S. Department of Energy. (2016).Solid-state lighting R&D plan.Link to source:https://www.energy.gov/sites/prod/files/2016/06/f32/ssl_rd-plan_%20jun2016_2.pdf
+
+U.S. Department of Energy (2024).2020 U.S. lighting market characterization.Link to source:https://www.energy.gov/sites/default/files/2024-08/ssl-lmc2020_apr24.pdf
+
+World Furniture Online (2017).The lighting fixtures market in Australia and New Zealand.Link to source:https://www.worldfurnitureonline.com/report/the-lighting-fixtures-market-in-australia-and-new-zealand/
+
+Xiong, Y., Guo, H., Nor, D. D. M. M., Song, A., & Dai, L. (2023). Mineral resources depletion, environmental degradation, and exploitation of natural resources: Covid-19 aftereffects.Resources Policy,85, 103907.Link to source:https://doi.org/10.1016/j.resourpol.2023.103907
+
+Xu, Y. (2019). Chapter 2.1 - nature and source of light for plant factory. In M. Anpo, H. Fukuda, & T. Wada (Eds.),Plant factory using artificial light(pp. 47–69). Elsevier.Link to source:https://doi.org/10.1016/B978-0-12-813973-8.00002-6
+
+Zhang, H., Cai, J., & Braun, J. E. (2023). A whole building life-cycle assessment methodology and its application for carbon footprint analysis of U.S. commercial buildings.Journal of Building Performance Simulation,16(1), 38–56.Link to source:https://doi.org/10.1080/19401493.2022.2107071
+
+Zissis, G., Bertoldi, P., & Serrenho, T. (2021).Update on the status of LED-lighting world market since 2018. Publications Office of the European Union.Link to source:https://publications.jrc.ec.europa.eu/repository/handle/JRC122760
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Christina Swanson, Ph.D.
+
+Christina Swanson, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

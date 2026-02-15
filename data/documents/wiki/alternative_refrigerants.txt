@@ -1,0 +1,189 @@
+# Alternative Refrigerants
+Source: https://en.wikipedia.org/wiki/Refrigerant
+
+Refrigerants are  working fluids that carry heat from a cold environment to a warm environment while circulating between them. For example, the refrigerant in an  air conditioner carries heat from a cool indoor environment to a hotter outdoor environment. Similarly, the refrigerant in a kitchen refrigerator carries heat from the inside the refrigerator out to the surrounding room. A wide range of fluids are used as refrigerants, with the specific choice depending on the temperature range needed and constraints related to the system involved.
+Refrigerants are the basis of vapor compression refrigeration systems. The refrigerant is circulated in a loop between the cold and warm environments (see figure). In the low-temperature environment, the refrigerant absorbs heat at low pressure, causing it to evaporate. The gaseous refrigerant then enters a compressor, which raises its pressure and temperature. The pressurized refrigerant circulates through the warm environment, where it releases heat and condenses to liquid form. The high-pressure liquid is then depressurized and returned to the cold environment as a liquid-vapor mixture.
+
+ 
+Refrigerants are also used in  heat pumps, which work like refrigeration systems. In the winter, a heat pump absorbs heat from the cold outdoor environment and releases it into the warm indoor environment. In summer, the direction of heat transfer is reversed.
+Refrigerants include naturally occurring fluids, such as ammonia, carbon dioxide, propane, or isobutane, and synthetic fluids, such as chlorofluorocarbons, hydrochlorofluorocarbons, or hydrofluorocarbons. Many older synthetic refrigerants have been banned to protect the Earth's ozone layer or to limit climate change. Some refrigerants are flammable or toxic, making careful handling and disposal essential.
+Refrigerants, while strongly associated with vapor compression systems, are used for many other purposes. These applications include  propelling aerosols, polymer foam production, chemical feedstocks, fire suppression, and solvents.
+Chillers are refrigeration systems that have a secondary loop which circulates a   refrigerating liquid (as opposed to a refrigerant), with vapor compression refrigeration used to chill the secondary liquid.  Absorption refrigeration systems operate by absorbing a gas, such as ammonia, into a liquid, such as water.
+
+
+== Requirements and desirable properties ==
+The selection of a refrigerant for a given purpose depends on a combination of factors. Different refrigerants, having different properties, are better suited to some applications than others.
+
+
+=== Thermophysical property requirements ===
+In  thermodynamic terms, refrigerants transport thermal energy, which is called enthalpy. Enthalpy greatly increases or decreases during evaporation or condensation. The difference between the enthalpy of the vapor and liquid phase is called the  latent heat of vaporization.  The latent heat of vaporization allows substantial energy to be absorbed or released, with minimal temperature change, in the evaporator or  condenser.  Engineers control the temperatures in the evaporator and condenser by changing the fluid's pressure.
+A refrigerant must achieve a boiling point below the desired temperature of the cold environment. Heat will then flow from the cold environment into the refrigerant, causing it to evaporate. The boiling point is lower if the refrigerant pressure is lower. For this reason, the refrigerant in the evaporator (on the cold side) will have a reduced pressure. The evaporator pressure should be above atmospheric pressure to prevent air from leaking into it.
+Similarly, the refrigerant must achieve a boiling point above the temperature of the warm environment, so that heat will flow out of the refrigerant as it condenses. Since boiling point rises with increasing pressure, the refrigerant in the condenser (on the warm side) will have an elevated pressure.
+For most refrigeration systems, a  critical point temperature well above the condenser temperature is desirable. When the critical point temperature is above the condenser temperature, the refrigerant can condense from the vapor to the liquid phase at nearly constant temperature; but if the critical point were below the condenser temperature, no phase change could occur. For fixed evaporator and condenser temperatures, increasing the critical point temperature farther above the condenser temperature raises the energy efficiency of a refrigeration cycle.
+However, as the critical point temperature rises, the vapor density at the compressor inlet decreases. A lower density raises the volumetric flow rate of vapor needed for a given amount of cooling (in other words, the compressor must be larger to do the job). Thus, a trade-off between energy efficiency and volumetric efficiency underlies the selection of a refrigerant.
+The refrigerant vapor's specific heat capacity also strongly affects performance. A lower specific heat capacity avoids liquid formation in the compressor, but too low a heat capacity can result in undesirably hot vapor at the compressor outlet. Optimization tends to favor refrigerant molecules with fewer atoms. A high latent heat of vaporization and a  triple point temperature well below the evaporator temperature are also desirable.
+A few refrigerants, like carbon dioxide, may operate in warm environments that are above the critical point temperature. In these  transcritical refrigeration cycles, the condenser must be replaced by a gas cooler operating over a wider temperature range.
+Refrigerants are sometimes blended to achieve a balance of desired properties. Pure refrigerants vaporize at a constant temperature when pressure is held constant (as it is in an evaporator or condenser). In contrast, blended refrigerants vaporize across a small range of temperature. This phenomenon is called  temperature glide.
+For safety, an ideal refrigerant should be non-toxic and non-flammable. For environmental protection, the refrigerant should have no ozone depletion potential, and a very low global warming potential. Refrigerants that are not naturally present in the atmosphere should have a short atmospheric lifetime and should decay into environmentally benign by-products.
+
+
+=== Other requirements ===
+The refrigerant must be chemically stable during use.
+Refrigerants should be non-corrosive to the components in the system. To protect the compressor, the refrigerant should be miscible in the lubricant, and  shaft seals compatible with the refrigerant must be available. For  hermetically sealed systems, the refrigerant vapor may have contact with the  motor windings, and so it should have a high dielectric strength.
+For safety, an ideal refrigerant should be non-toxic and non-flammable. For environmental protection, the refrigerant should have no ozone depletion potential, and a very low global warming potential. Refrigerants that are not naturally present in the atmosphere should have a short atmospheric lifetime and should decay into environmentally benign by-products.
+The refrigerant should have a low cost. Legal regulations can also be a strong factor in the selection of refrigerants.
+The selection of a refrigerant for a specific purpose involves trade-offs among the all factors mentioned. Often, no refrigerant is entirely ideal, and several different refrigerants will appear as reasonable options.
+
+
+== History ==
+
+Vapor compression refrigeration was first described theoretically by Oliver Evans in 1805, using diethyl ether as the refrigerant. In 1834, Jacob Perkins patented a vapor compression system, also describing diethyl ether as the refrigerant.  The first working prototype of that system was built by John Hague the same year, but used a rubber distillate, caoutchoucine, as the refrigerant. In the 1850s, James Harrison, working in Australia, developed a Perkins-type system also using diethyl ether.  Ice making and meat packing were early applications of his technology.
+Many more inventions followed during the second half of the 19th century. In the 1860s, Thaddeus Lowe developed a  carbon dioxide system. The 1870s saw the introduction of systems based on  ammonia,  sulfur dioxide, dimethyl ether, and methyl chloride. Several 19th century refrigerants continue in use to this day, but others have been discarded for safety or performance reasons. By start of the 20th century, ammonia was predominant in industrial systems.
+Household use of vapor compression refrigerators and air conditioners emerged in the early 20th century, as small electric motors became available to drive the vapor compressor. These early systems used ammonia, isobutane, methyl chloride,  propane, and sulfur dioxide. Each of these had drawbacks for household use, such as odor, toxicity, or flammability. (Despite their flammability, propane and isobutane had good safety records.)
+
+
+=== The development of halogenated refrigerants (CFCs and HCHCs) ===
+ In the 1920s, Thomas Midgley Jr., working with Albert Henne and Robert MacNeary, made a systematic study of synthetic refrigerants, seeking a fluid that was non-toxic, non-flammable, and stable.  Midgley's team focused in on chlorinated and fluorinated hydrocarbons (chlorine and fluorine are halogens, so these compounds are termed "halogenated"). By 1931, dichlorodifluoromethane (R-12) came to market. R-12 was soon followed by trichlorofluoromethane (R-11) in 1932, and chlorodifluoromethane (R-22) in 1936. R-11 and R-12 are chlorofluorocarbons, or CFCs, and R-22 is a hydrochlorofluorocarbons, or HCFC. The trade name Freon was used for R-12, which at that time was also called F-12.
+The R- numbering system for refrigerants was developed by DuPont in the years that followed. The letter R is followed by a number that uniquely identifies the chemical structure of the refrigerant. The system has since become an international standard. Often, a more specific group of letters is used in place of R to denote the chemical family of the refrigerant. For example, R-12 may be called CFC-12 to indicate that it is a chlorofluorocarbon.
+CFC and HCFC refrigerants were immensely successful, and they dominated the market for half a century.  By 1987, R-12 was used in essentially all refrigerators and R-22 in nearly all air conditioners. Automotive systems relied on R-12, water chillers using centrifugal compressors favored R-11, and low-temperature commercial refrigeration used a blended refrigerant, R-502.
+
+
+=== Phase-out of CFCs and HCFCs (ozone-layer protection) ===
+
+In the mid-1970s, scientists discovered that CFCs were causing substantial damage to the ozone layer that protects the earth from ultraviolet radiation. The process occurs when CFCs reach the stratosphere and absorb solar radiation. The absorbed radiation causes chlorine atoms to separate from CFCs, then catalyzing the breakdown of ozone (O3) into oxygen gas (O2). A decade later, researchers showed that CFCs had created a region of ozone depletion—an ozone hole—above Antarctica. 
+These discoveries led to the signing of the Montreal Protocol in 1987. This international agreement aimed to phase out CFCs and HCFCs to protect the ozone layer. 
+Under the Montreal Protocol, production of CFCs was scheduled to be banned in most countries by 1996. HCFCs were scheduled to phase out over a longer period because they have lower ozone depletion potentials (ODP) than CFCs. During this transition time, the adoption of HCFCs, such as R-22, was accelerated.
+The search for alternatives to CFC and HCFC refrigerants, such as R-12 and R-22, began in the 1970s. By the time Montreal Protocol was signed, R-134a had been identified as a replacement for R-12 in automotive use and  R-123 as a replacement for R-11 in large chillers.  R-134a is a hydrofluorocarbon or HFC, but R-123 was a hydrochlorofluorocarbon (HCFC) that would also eventually be phased out.
+Governments made regulations to support the Montreal Protocol. In 1991, Germany enacted legislation to eliminate CFCs in cooling appliances, and CFCs were prohibited in new equipment starting in 1995.
+US home air conditioners and industrial chillers moved toward HCFCs starting in the 1980s. Beginning on 14 November 1994, the US Environmental Protection Agency (EPA) restricted the sale, possession and use of refrigerants to only licensed technicians, per rules under the Clean Air Act. The US banned the production and import of CFCs on January 1, 1996. Stockpiled and reclaimed CFCs continued to be used while supplies were available.
+Much later, governments began restricting HCFCs. For example, in 2000 the UK's Ozone Regulations came into force, banning ozone-depleting HCFC refrigerants such as R-22 in new systems. The regulations also banned the use of virgin R-22 as a "top-up" fluid for maintenance from 2010 and of recycled R-22 from 2015. In 2010, US EPA banned the use of R-22 (HCFC-22) in new equipment, much of which shifted to the HFC mixture, R-410A. All production and import of R-22 was banned on January 1, 2020.
+The Montreal Protocol, which dealt with ozone depletion, did not aim to regulate the global warming impact of refrigerants. Even so, CFCs have much higher global warming potentials than the refrigerants that replaced them. As a result, the Montreal Protocol very significantly reduced global warming.
+
+
+=== Renewed interest in natural refrigerants ===
+Naturally-occurring refrigerants had been used prior to the introduction of CFCs in 1931. These included ammonia, carbon dioxide, isobutane, propane, among others. These refrigerants do not damage the ozone layer, and also have a very low global warming potential.  These substances gained renewed attention during the 1990s as the damaging effects of many synthetic refrigerants became known.  Collectively, they are called natural refrigerants.
+
+ European environmentalists were at the forefront of this effort. The environmental organization Greenpeace established a collaboration with Germany's Dortmund Institute and the German refrigerator manufacturer DKK Scharfenstein to develop a commercially viable domestic refrigerator based on hydrocarbons, rather than fluorocarbons. By 1993, the hydrocarbon-based "Greenfreeze" refrigerator was commercialized in Germany under the brand name Foron, and the technology subsequently spread to other countries. 
+By 1996, Greenfreeze accounted for 35% of Western European production; and, by 2001, hydrocarbon refrigeration covered 100% of German production. Greenfreeze systems use varying mixtures of isobutane (R-600a), propane (R-290), and other hydrocarbons.
+In 2004, Greenpeace worked with a group of multinational corporations, including Coca-Cola, Unilever, and later PepsiCo, to create a coalition called "Refrigerants Naturally!".
+This organization promoted the use of natural refrigerants as alternatives to synthetic refrigerants. Four years later, Ben & Jerry's of Unilever and General Electric began to take steps to support production and use in the US.
+Corporations that manufactured synthetic refrigerants resisted the move toward hydrocarbons, however, citing the flammability and explosive properties of hydrocarbons. This resistance extended to attempts to block the approval of hydrocarbon refrigerants by the US EPA. Companies using refrigeration systems, particularly Unilever and its Ben & Jerry's ice-cream subsidiary, helped to overcome the regulatory barriers to hydrocarbon refrigerants.
+By 2010, about 1/3 of domestic refrigerators made globally used isobutane or an isobutane/propane blend. By 2010, 
+Japan had converted almost all refrigeration from R-134a to isobutane. By 2022, isobutane was used in more than 70% of new EU domestic refrigerators and, by 2025, in more than 60% of new US domestic refrigerators.
+Carbon dioxide also gained new attention during this time. Despite its high operating pressure, CO2 was seen as a viable refrigerant in automobiles, as well as stationary systems. By 2014, Coca-Cola, a member of Refrigerants Naturally!, had installed 1 million HFC-free refrigeration units, with CO2 as its refrigerant of choice.
+
+
+=== Phase-down of HFCs (climate-change mitigation) ===
+
+Hydrofluorocarbons (HFCs) were widely adopted as replacements for CFCs and HCFCs in the 1990s and 2000s. HFCs are not ozone-depleting, but they have global warming potentials (GWPs) hundreds to thousands of times greater than CO2 and atmospheric lifetimes that can extend for decades.  The primary reason for HFCs' high global warming potential is the absorption of infrared radiation (i.e., radiated heat, or thermal radiation) by the molecular bonds between carbon and fluorine atoms.
+Different HFCs were adopted for different purposes. In domestic refrigerators and automobiles, R-134a replaced the CFC, R-12. In low-pressure chillers,  R-123 replaced R-11. In small air conditioners, the blended refrigerant R-410A ultimately replaced R-22, following initial consideration of R-407C. And in low-temperature commercial refrigeration, the blend R-404A replaced R-502.
+
+During this era, the atmospheric concentrations of HCFC's began to stabilize, while the concentrations of HFCs rose sharply (see figure).
+The situation began to change in 1997, when HFCs and fluorocarbons (FCs) were included in the Kyoto Protocol to the Framework Convention on Climate Change. The Kyoto Protocol was an agreement to cap emissions of certain greenhouse gases at a level 5% below 1990 emissions. These gases included HFCs.
+In response, governments introduced new regulations. For example, in 2006, the EU adopted a regulation on fluorinated greenhouse gases (FCs and HFCs) to encourage to transition to natural refrigerants.
+During the 2010s, new equipment increasingly used lower-GWP HFCs, hydrocarbons, and hydrofluoroolefins (HFO) as refrigerants. These refrigerants varied by sector of use, as described in contemporaneous press reports: R-600a (isobutane) for domestic refrigeration; R-32 and R-454B for stationary air conditioning; 
+R-514A, R-1233zd(E), and R-1234ze(E) for chillers;  
+and  R-32, R-290 (propane), R-407A, and R-744 (CO2) for commercial refrigeration. These choices reflected a range of trade-offs between established approaches, flammability, and reduced GWP. Some of these selections had a lower, but still high, GWP and were seen as transitional.
+
+From 2011, the European Union started to phase out refrigerants with a 100-year GWP above 150 in automotive air conditioning. The phase out included the refrigerant HFC-134a (R-134a),  which has a 100-year GWP of 1530. In the same year, the US EPA decided in favor of the ozone- and climate-safe refrigerant HFO-1234yf (R-1234yf) for US-manufactured vehicles. These regulatory decisions aligned with the opinion of the auto industry, which in 2010 had recommended R-1234yf for automotive air conditioning.
+The lower GWP of R-1234yf relative to R-134a is primarily due to its very short atmospheric lifetime—12 days vs. 13.5 years. Both molecules contain carbon-fluorine bonds that absorb thermal radiation,  but the carbon double bond in R-1234yf enables its rapid decomposition to trifluoroacetic acid.
+The Kigali Amendment to the Montreal Protocol was adopted in 2016. This international agreement implemented a gradual reduction in the consumption and production of HFCs. In 2019, the UNEP published new voluntary guidelines for air conditions and refrigerators.
+At that time, researchers estimated that CFCs, HCFCs, and HFCs were responsible for about 10% of direct radiative forcing from all long-lived anthropogenic greenhouse gases.
+The United States ratified the Kigali Amendment on October 31, 2022. The US Environmental Protection Agency has published phase-out schedules for HFCs,
+with restrictions on GWP by sector of use.
+By the mid-2020s, EU and US regulations on HFCs had resulted in broad adoption of some low GWP refrigerants, including R-600a (isobutane) in domestic refrigeration and R-1234yf in automotive applications. By 2022, more than 70% of new EU household refrigerators used isobutane (R-600a), and by 2025 more than 60% of new US domestic refrigerators also used isobutane. In 2022, more than 98% of new US vehicles and 99% of new European vehicles used R-1234yf. In other sectors of use, the optimal choice of refrigerant was still evolving in the early 2020s.
+Developing countries generally follow later phase-down timelines than developed countries under the Kigali Amendment. Among the most populous developing countries, China, Indonesia, Nigeria, and Brazil committed to reduce HFC consumption by 10% in 2029 and by 80% in 2045, while India aims for a 10% cut by 2032 and an 80–85% cut by 2047. Each country may proceed differently, however. For example, China had widely adopted isobutane refrigerators long before the Kigali amendment, and it has banned HFCs from new refrigerators starting in 2026.
+
+
+== Refrigerant safety, environmental management, and reclamation ==
+
+Refrigerants can pose both direct and indirect risks. Depending on their chemistry, they may be flammable, toxic, or environmentally damaging through ozone depletion or  greenhouse effects. To standardize the safety hazards of refrigerants, ASHRAE Standard 34 assigns each one a letter–number code: letters "A" (lower toxicity) or "B" (higher toxicity), and numbers 1 through 3 to indicate flammability. A1 refrigerants are non-toxic and non-flammable, while A2L/A2 are non-toxic but flammable, and A3 refrigerants are non-toxic and highly flammable. B-class refrigerants have higher toxicity. 
+
+Non-toxic refrigerants (A class) are often used in open systems, where the refrigerant is expended rather than recovered. Such devices include fire extinguishers and fire suppressants using HCFCs or HFCs,
+ gas dusters  with HFC-152a or hydrocarbon propellants, 
+metered-dose inhalers using HFC propellants, and  disposable lighters containing the A3 refrigerant isobutane (R-600a).
+To mitigate the environmental hazards, strict regulations apply to refrigerant handling. In the United States, Section 608 of the Clean Air Act requires certification for anyone servicing or disposing of stationary equipment, while Section 609 applies to technicians working on motor vehicle air conditioning. Similarly, the UK requires qualification C&G 2079 for fluorinated and ozone-depleting gases and recognizes C&G 6187-2 for handling hydrocarbons and flammable refrigerants. US law also prohibits knowingly venting most synthetic refrigerants, although it permits discharge of certain natural refrigerants, including ammonia (R-717), carbon dioxide (R-744), isobutane (R-600a), propane (R-290), and the hydrocarbon blend HCR-188C (R-441A).
+To minimize emissions, used refrigerants must be recovered during service or decommissioning. Refrigerant reclamation—processing used refrigerant so that it meets purity specifications of new gas—must be carried out in the US by EPA-licensed reclaimers, with recovery handled by certified technicians.
+
+
+== Comparative performance of refrigerants ==
+ASHRAE provides the following model data for the comparative performance of refrigerants.  These values are computed per kilowatt of refrigeration with an evaporator temperature of −6.7 °C and a condenser temperature of 30.0 °C. These temperatures might approximate a domestic refrigerator.
+
+For the specific situation modeled in this table, some trade-offs in refrigerant selection are evident. CO2 (Class A1) has the highest operating pressure by far, and also a much higher power consumption. Ammonia has the least power consumption; but in view of its toxicity and incompatibility with hermetically sealed compressors, ammonia is unsuited to household use. 
+Isobutane (Class A3) has the lowest pressure and also the second-lowest power consumption. R-32 (Class A1, but also an HFC) has the second-highest pressure, and a power consumption similar to isobutane. The refrigerants with lowest pressure generally have larger compressor displacements (i.e., they require a larger cylinder size in a reciprocating compressor).
+Two common performance metrics for refrigeration systems can be computed from these data if desired. The coefficient of performance (COP)—the refrigeration effect per unit power input—is equal to 1 kW/(power consumption), since the power is given per 1 kW of refrigeration. The volumetric capacity, Qvol (MJ/m3)—the cooling effect per unit volume entering the compressor—is similarly equal to 1 kW/(compressor displacement).  Higher COP means greater energy efficiency and higher Qvol means a smaller system size.
+ASHRAE also provides additional data for this case, and data for other operating conditions and additional refrigerants.  The values and comparisons here are specific to this temperature range; the performance of a refrigerant may improve or degrade in other temperature ranges.
+
+
+== Characteristics of some common refrigerants ==
+
+All refrigerants in these tables are safety class A1 (non-toxic, non-flammable), unless otherwise indicated. GWP = Global warming potential.
+
+
+=== Refrigerants with very low climate impact ===
+
+
+=== Widely used, HFC refrigerants ===
+
+
+=== Banned or phasing-out CFCs, HCFCs, and HFCs ===
+
+
+=== Other refrigerants ===
+
+
+== Numbered classification of refrigerants ==
+
+The R- numbering system, maintained by ASHRAE and ISO, uniquely identifies refrigerants according to their composition. The system originated for numbering halogenated hydrocarbons, but it encompasses blended refrigerants and inorganic refrigerants as well. 
+
+
+=== Main numbering system ===
+According to ISO:
+
+ The identifying numbers assigned to the hydrocarbons, halocarbons and ethers of the methane, ethane, ethene, propane, propene, butane, butene, cyclobutene and cyclobutane series are such that the chemical composition of the compounds can be explicitly determined from the refrigerant numbers...
+For these refrigerants, the R- number has the following form: R-[prefix]X1X2X3X4[suffix], where
+
+X1 = number of unsaturated carbon-carbon bonds (omit if zero),
+X2 = number of carbon atoms minus 1 (omit if zero),
+X3 = number of hydrogen atoms plus 1,
+X4 = number of fluorine atoms,
+and any additional atoms attached to the carbon atoms are presumed to be chlorine.
+These rules generate the following series of refrigerants (with xx as shorthand for X3X4): R-xx,	the methane series; R-1xx, the ethane series; R-2xx, the propane series; R-11xx, the ethene series; and R-12xx, the propene series.
+For example,  R-32, a two digit number, has X1 = X2 = 0, implying a single carbon atom (the methane series) with two hydrogen atoms (X3-1) and two fluorine atoms (X4 = 2), thus CH2F2 (difluoromethane). Similarly, R-290 has X1 = 0 (no unsaturated carbon-carbon bonds), three carbon atoms (X2+1), eight hydrogen atoms (X3-1), and no fluorine atoms (X4 = 0), so C3H8 (propane).
+The prefix, when present, is an upper-case letter "C" for cyclic compounds, "E" for compounds containing an ether group, or "CE" for cyclic compounds with ether groups.
+The suffix follows more complicated rules. Upper-letters suffixes are added for the following characteristics: "B" and "I", together with a number, indicate how many chlorine atoms have been replaced with bromine or iodine; "(E)" denotes a trans molecule; and "(Z)" denotes a cis molecule. The rules for lower-case suffixes depend upon the series of the molecule.
+
+As an example of the propene series, R-1234yf has one carbon-carbon double bond (X1 = 1) with three carbon atoms (X2+1=3, thus a propene structure), two hydrogen atoms (X3-1=2), and four fluorine atoms (X4 = 4), with fluorine on central bond (y) and a methylene group (f), which consists of a carbon atom double-bonded to another carbon and two of the hydrogen atoms. These details define 2,3,3,3-tetrafluoropropene, with the comma-separated numbers indicating which carbon atom attaches each fluorine atom.
+
+
+=== Series outside the main system ===
+The R- number is assigned under different rules for blended refrigerants, some hydrocarbons, and inorganic refrigerants.
+
+R-4xx:	zeotropic blend. The number xx is assigned. An upper-case suffix (A, B,  etc.) distinguishes different compositions of the same blend.
+R-5xx:	azeotropic blend. The number xx is assigned. An upper-case suffix (A, B,  etc.) distinguishes different compositions of the same blend.
+R-6xx:	miscellaneous hydrocarbons. For saturated hydrocarbons with 4 to 8 carbon atoms, xx is the number of carbon atoms minus 4 (so that butane is R-600). For others, xx is assigned. A trailing letter indicates increasingly unsymmetrical isomers.
+R-7xx/R-7xxx: inorganic compounds. For a molar mass < 100, xx is the molar mass rounded to the nearest integer. For a molar mass ≥ 100, xxx is the molar mass rounded to the nearest integer. A trailing letter distinguishes compounds of equal molar mass.
+
+
+=== Composition-designating prefixes ===
+
+The standard allows the prefix R- to be replaced by a prefix describing the molecular components of the refrigerant. Examples include:  CFC-  for chlorofluorocarbons;  HCFC- for hydrochlorofluorocarbons;  HFC- for hydrofluorocarbons; and HFO- for hydrofluoroolefins. For example, the hydrofluoroolefin (HFO) R-1234yf is also called HFO-1234yf.
+
+
+== See also ==
+Heating, ventilation, and air conditioning
+International Institute of Refrigeration
+Low-temperature technology timeline
+Working fluid selection
+
+
+== References ==
+
+
+== External links ==
+ASHRAE  – American Society of Heating, Refrigerating and Air-Conditioning Engineers
+Green Cooling Initiative
+What Are Refrigerants? Types, Uses & Their Environmental Impact
+International Institute of Refrigeration
+Masson-Delmotte, V.; Zhai, P.; Pirani, A.; Connors, S.L.; Péan, C.; Berger, S.; Caud, N.; Chen, Y.; Goldfarb, L.; Gomis, M.I.; Huang, M.; Leitzell, K.; Lonnoy, E.; Matthews, J.B.R.; Maycock, T.K.; Waterfield, T.; Yelekçi, O.; Yu, R.; Zhou, B., eds. (2021). Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change.
+World Meteorological Organization, ed. (2023). Scientific Assessment of Ozone Depletion: 2022. Geneva: WMO.

@@ -1,0 +1,897 @@
+# Manage Coal Mine Methane
+Source: https://drawdown.org/explorer/manage-coal-mine-methane
+
+Methods and Supporting Data
+
+
+## Manage Coal Mine Methane
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Managing coal minemethane(CMM) is the process of reducing methane emissions released from coal deposits and surrounding rock layers due to mining activities. CMM is naturally found in coal seams and released into the atmosphere when the coal seams are disturbed. Coal mines can continue to emit methane even after being closed or abandoned, which is known as abandoned mine methane (AMM). CMM and AMM can be captured and then utilized as a fuel source or destroyed before they reach the atmosphere [U.S. Environmental Protection Agency (U.S.EPA), 2024a].
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+CMM is released from coal mines before, during, and after active coal mining and from coal being transported (U.S. EPA, 2024a). Atmospheric methane has aGWPof 81 on a20-yr basisand a GWP of 28 on a100-yr basis(Intergovernmental Panel on Climate Change [IPCC], 2023). This means methane is 81 times more effective at trapping heat thanCO₂.
+ Because methane is a short-lived climate pollutant that has a much stronger warming effect than CO₂
+ over a given time period, abating methane from coal mines will have a powerful near-term impact on slowing global climate change. If capturing methane is not possible, destroying the methane by burning it is preferable to releasing it.
+
+CMM comes from five major sources throughout the coal mine’s life cycle (Figure 1):
+
+Degasification systems –pipes installed in the ground to move methane into the atmosphere before starting mining
+
+Ventilation air –air escaping from underground mines when fresh air is used to push out underground methane during mining
+
+Surface mines– exposed coal seams that emit methane directly into the atmosphere during mining
+
+Fugitive emissions– already mined coal that emits methane while being transported or stored
+
+Abandoned or closed mines– coal seams and rock strata that are exposed to air, allowing AMM to escape through existing vents or cracks after mine closure.
+
+Figure 1. Percent breakdown of CMM sources in the United States, 2021.
+
+Source: U.S. Environmental Protection Agency (2024d).Sources of coal mine methane. Retrieved November 5, 2024.https://www.epa.gov/cmop/sources-coal-mine-methane
+
+CMM management relies on several practices and technologies to reduce the amount of methane released into the atmosphere. The CMM that is captured can be used as a fuel at high concentrations and destroyed through flaring or oxidation at low concentrations. The methane captured from degasification systems typically has a high concentration while fugitive and ventilation methane sources are low concentration. CMM management also includesleak detection and repairusing satellites, drones, or other technologies to prevent methane from escaping into the atmosphere.
+
+Underground coal mines have more methaneabatementstrategies available due to higher average methane concentrations and relative ease of capture. Surface coal mines are exposed directly to the atmosphere and can cover large areas, making them more difficult to abate methane, though there are technologies that can reduce CMM emissions. See the Appendix for more details on the abatement technologies specific to underground and surface coal mines.
+
+
+## What could cause effectiveness to change?
+
+
+Each Mt of methane not emitted avoids 81.2 Mt CO2-eq on a 20-year basis and 27.9 Mt CO2-eq on a 100-year basis (Smith et al., 2021). This is based on methane’s GWP and therefore does not change.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption by 2050 (the slider’s high value). Note that increased methane abatement is not necessarily net climate positive; refer to The Details section below for more information.
+
+This is the low end of the range for estimated achievable adoption by 2050.
+
+This is the high end of the range for estimated achievable adoption by 2050.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Coal mine methane abatement is applicable in any area with coal mines. While China and the United States are the largest coal producers, Russia, Ukraine, Kazakhstan, and India also generated more than 10MtCO₂‑eq(100-yr) from coal mines in 2015 (GMI, 2015).
+
+Levels of methane emissions from coal mines can vary geographically. The greatest abatement potential is in China, Kazakhstan, Australia, and several countries in Eastern Europe and Africa (Shindell et al., 2024). However, methane abatement is recommended for all coal mining activities, and high-income countries are in a position to share supportive technologies and practices for coal mine methane abatement with other coal-producing countries to reduce methane emissions from active and abandoned or closed mines.
+
+
+## Annual emissions from coal mine sources, 2024
+
+
+Globally, coal mines are responsible for 40 of the 354 Mt of anthropogenic methane emissions in 2024. This is equivalent to 1,116 Mt CO2-eq based on a 100-year GWP time scale. Methane emissions occur throughout the life of a coal mine and can continue after mines are closed or abandoned.
+
+Lewis, C., Tate, R.D., and Mei, D.L. (2024).Fuel operations sector: Coal mining emissions methodology[Data set]. WattTime and Global Energy Monitor, Climate TRACE Emissions Inventory. Retrieved April 18, 2025, fromLink to source:https://climatetrace.org
+
+International Energy Agency. (2025).Global methane tracker documentation 2025 version.Link to source:https://iea.blob.core.windows.net/assets/2c0cf2d5-3910-46bc-a271-1367edfed212/GlobalMethaneTracker2025.pdf
+
+
+## Annual emissions from coal mine sources, 2024
+
+
+Globally, coal mines are responsible for 40 of the 354 Mt of anthropogenic methane emissions in 2024. This is equivalent to 1,116 Mt CO2-eq based on a 100-year GWP time scale. Methane emissions occur throughout the life of a coal mine and can continue after mines are closed or abandoned.
+
+Lewis, C., Tate, R.D., and Mei, D.L. (2024).Fuel operations sector: Coal mining emissions methodology[Data set]. WattTime and Global Energy Monitor, Climate TRACE Emissions Inventory. Retrieved April 18, 2025, fromLink to source:https://climatetrace.org
+
+International Energy Agency. (2025).Global methane tracker documentation 2025 version.Link to source:https://iea.blob.core.windows.net/assets/2c0cf2d5-3910-46bc-a271-1367edfed212/GlobalMethaneTracker2025.pdf
+
+Each 1 Mt of methane that is not emitted avoids 81.2 Mt CO₂‑eq
+ on a 20-yr basis and 27.9 Mt CO₂‑eq
+ on a 100-yr basis (Smith et al., 2021). The GWP of methane is shown in Table 1. If methane is converted into CO₂
+ through burning, the contribution to global climate change will still be less than if it were released into the atmosphere. Methane abatement can have a more immediate impact on future global temperature rise because it has a larger and faster warming effect than CO₂.
+ Mitigating methane emissions in the near term can give us more time for reducingGHGemissions inhard-to-abatesectors.
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit:tCO₂‑eq/Mtmethane abated
+
+The cost of methane abatement will vary depending on the type of coal mine, the methane content of the coal seam, the strategies used, and the availability of financial support for methane abatement. For our analysis, we average the costs for various feasible abatement strategies under two general assumptions: sufficiently high methane content for any of the major abatement strategies to be applied (International Energy Agency [IEA], 2024a) and the ability to use the abated methane on-site or sell it tonatural gascompanies. The initial cost to abate 1 Mt of methane is US$1.5 billion, the operating cost is about US$130 million, revenue is about US$260 million and the overall net savings over a 30-yramortizationperiod is US$90 million. We were only able to find revenue information from the IEA (2023b, 2024a), meaning the net cost could be different than shown here due to the site specific nature of methane abatement strategies.
+
+We considered the baseline scenario to be coal mining practices without methane abatement; all cost estimates here are relative to that scenario.
+
+Cost data were limited for this solution. The available costs for a specific abatement strategy were normalized according to the cost of abating one Mt of methane, and it was assumed that a single strategy abated all of the methane for the coal mine. This results in an overestimate of theeffectivenessof any individual strategy. In reality, multiple strategies are likely to be used. The costs shown in Table 2 are for the global scale of coal methane abatement and not from the point of view of an individual coal producer. Many studies that look at global coal methane abatement put multiple abatement strategies together and do not go into detail about the individual technology costs. The IEA (2024a) included costs for individual CMM abatement strategies; however, the costs were only applicable for coal mines that produce enough methane for it to be economically feasible to deploy the specific abatement strategy. Flaring is an effective strategy for destroying captured methane, but will not create revenue in the absence of acarbon market. For more details on important aspects for coal methane abatement strategies, refer to the Appendix.
+
+Table 2. Cost per unit climate impact.
+
+Unit:2023 US$/tCO₂‑eq, 100-yr basis
+
+Many of the solutions for reducing methane emissions from coal mining are mature. Research from Rystad (2023) found that technologies for abating CMM emissions, such as drainage gas utilization, sealing and rerouting, and flaring, were considered mature in Australian coal mines. Regenerative thermal oxidation technology is in commercial use for destroyingvolatile organic compoundsand can be used for destroying ventilation air methane (VAM), but the manufacturers have little interest in improving the technology for use in coal mines without confirmed markets (GMI, 2018; Rystad, 2023). We do not foresee the costs of implementing these solutions falling in the future. CMM regulations may encourage manufacturers to improve oxidation technology, but the technology is already used commercially, so there may not be large efficiency gains.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Manage Coal Mine Methane is anEMERGENCY BRAKEclimate solution. It has the potential to deliver a more rapid impact than gradual and delayed solutions. Because emergency brake solutions can deliver their climate benefits quickly, they can help accelerate our efforts to address dangerous levels of climate change. For this reason, they are a high priority.
+
+We estimated that the coal sector abated 0.59 Mt of methane in 2023 and released 40 Mt in 2024 (IEA, 2025). Reports from U.S. EPA (2022), and Global Methane Initiative (GMI, 2023) estimated the amount of CMM abated to date, and the statistical ranges from the sources are shown in Table 3. However, most of the data focused on coal mines in the United States. The U.S. EPA (2024b) stated that 0.3 Mt of methane was captured in 2021 due to the Coalbed Methane Outreach Program. CMM is controlled at coal mines for health and safety reasons, but only in 2024 was regulation introduced for reducing methane emissions from the energy sector in the European Union (Assan, 2024).
+
+GMI (2024a) reports that 0.79 Mt of methane was abated from coal mines in 2023 among its member countries. The organization includes 48 GMI member countries but covers only 70% of human-caused methane emissions and does not track methanemitigationthat has occurred outside of the group. GMI (2024b) currently lists more than 471 CMM abatement projects in 20 countries worldwide. According to Global Energy Monitor (n.d.), more than 6,000 coal mines were active in more than 70 countries as of April 2024. With these data sources, we consider our analysis of the current adoption of CMM abatement as conservative.
+
+Table 3. Current (2023) adoption level.
+
+Unit:Mt/yr of methane abated
+
+Although there are few data specifically quantifying the adoption trend of methane abatement strategies, we estimate the median adoption trend to be about 0.60 Mt/yr of methane abated.  Table 4 shows the adoption trend for CMM abatement.
+
+GMI (2024) reported methane abatement staying relatively stable 2016–2023 at about 0.8 Mt/yr, with a small increase to 1.0 Mt of methane in 2019–2022 before decreasing back to 0.8 Mt in 2023, causing the adoption trend to be higher than the current adoption value we state above. The U.S. EPA (2024a) Coalbed Methane Outreach Program showed fairly stable emission reductions of around 0.33 Mt/yr between 2016 and 2022. The annual methane emission abatement from this program gradually increased 2003–2011, followed by a continued trend of methane abatement at a slower rate 2011–2022. The IEA (2024b) found that the U.S. coal industry emitted almost 2.0 Mt of methane in 2023, and 60% of those emissions could be abated.
+
+Table 4. (2016–2023) adoption trend.
+
+Unit:Mt/yr methane abated
+
+We found anadoption ceilingof about 40.3 Mt/yr of methane based on the IEA’s (2025) estimate for total methane emissions from the coal mine sector. We assumed that current CMM emissions would remain the same into the future with no changes in coal production or demand. Table 5 shows the adoption ceiling for coal mine methane abatement.
+
+Even in the IEA’s (2023c) highest methane abatement energy scenario, only 93% of the methane emissions are reduced by 2050. This would still leave the coal sector releasing methane into the atmosphere. Reduced coal production will reduce the amount of methane emissions produced by the coal sector and consequently reduce the amount of methane that needs to be controlled with methane abatement. However, methane abatement will still be important for abating the remaining CMM emissions and the growing proportion of AMM emissions (IEA, 2023c, Kholod et al., 2020).
+
+Table 5. Adoption ceiling.
+
+Unit:Mt/yr of methane abated
+
+The amount of methane that could be abated from CMM varies greatly depending on global coal demand. We estimate an achievable adoption range of 2.83–4.40 Mt/yr of methane abated. The Achievable – Low value aligns with the IEA (2023c) Announced Pledges scenario, in which all announced climate policies are met and full methane abatement is employed, but net-zero emissions are not achieved. This range of high and low values was determined by taking the total methane abated in these scenarios and dividing by the difference between the target year and 2024 to determine an average amount of methane abated each year to reach the scenario target.
+
+The Achievable – High value aligns with Ocko et al.(2021), where all economically and technically feasible methane abatement is employed by 2030. DeFabrizio et al. (2021) estimated that the degasification of underground mines and flaring would be the source of most methane abatement from coal mining, with degasification of surface mines abating a smaller proportion of methane over time. However, research from Kholod et al. (2020) suggested there will be an increase in AMM emissions as coal mines are closed. Methane emissions from AMM are not extensively monitored right now, and there is limited research on the topic. Methane abatement strategies will be needed to abate growing AMM emissions (Zhu et al, 2023).
+
+In addition, some research suggested CMM is being underestimated, with global emissions being as high as 67 Mt/yr (Assan & Whittle, 2023). If coal demand drops by 90%, as outlined in IEA’s Net Zero Emissions scenario, total coal methane emissions would decline to 3 Mt/yr, and the use of methane abatement would reduce emissions by 2 Mt/yr, leaving only 1 Mt/yr of CMM emitted in 2050.
+
+With growing interest and investment from governments and academia in identifying methane leaks using technologies such as satellite sensing (MethaneSAT, 2024), the opportunities for methane abatement will increase. Over 150 countries have joined the Global Methane Pledge (representing 50% of the world’s human-caused methane) to reduce methane emissions by 30% of 2020 emissions by 2030 (United Nations Environment Programme [UNEP], 2021). The IEA (2023a) found that even in a baseline scenario, many governments have announced or put in place measures to cut methane emissions; we would expect a growing trend in global methane abatement to occur. The IEA (2024c) states that in all scenarios global coal demand will decrease. Table 6 shows the statistical low and high achievable ranges for CMM abatement based on different sources for future uptake of CMM abatement.
+
+Table 6. Range of achievable adoption levels.
+
+Unit:Mt/yr methane abated
+
+We estimate that the coal industry is currently abating approximately 0.02GtCO₂‑eq/yr
+ on a 100-yr basis and 0.03 Gt CO₂‑eq/yr
+ on a 20-yr basis using methane abatement strategies. This is about 1% of total methane emissions emitted in 2024 (IEA, 2025).
+
+As the coal industry opens or closes coal mines due to changing coal demand, the opportunities for CMM abatement projects will change along with it. If coal demand gradually drops by 2050, more than 0.12 Gt CO₂‑eq/yr
+ of methane could be abated. However, if coal demand drops more quickly from the implementation of energy and climate policies, the methane abatement potential would drop because the coal sector is producing less methane. This is projected in the different energy scenarios modeled by the IEA (2023c). The range between the current CMM abatement and the adoption ceiling is shown in Table 7.
+
+Table 7. Climate impact at different levels of adoption.
+
+Unit:GtCO₂‑eq/yr, 100-yr basis
+
+
+## Health and Air Quality
+
+
+Around 10% of anthropogenic methane comes from coal mines (IEA, 2024a). Methane released from coal mines contributes to ground-level ozone pollution, which can harm lung function, exacerbating conditions like asthma, bronchitis, and emphysema, and can contribute to premature mortality (Mar et al., 2022). Domingo et al. (2024) estimated that ground-level ozone accounted for about 6,600 excess deaths per year in about 400 cities globally.
+
+Methane released from coal mines also endangers workers’ safety in the mines, increasing the possibility of explosions, which are a significant source of fatalities and injuries (CDC, 2024). In the United States, from 2006 to 2011, mine explosions were responsible for about 25% of fatalities in the mining industry (CDC, 2024). While advances in methane mitigation technologies can prevent explosions and fatalities, mines acrossLMICsusually do not have methane mitigation protocols in place. Installing methane abatement strategies can potentially protect workers from such explosions (Tate, 2022).
+
+CMM abatement consists of capturing methane that would otherwise be released into the atmosphere. If the methane is burned, CO₂
+ will be emitted as a byproduct; however, this provides a net climate benefit compared to the methane that would be emitted. CMM emissions management can be avoided by not extracting, transporting, or using coal in the first place.
+
+As coal demand drops, the number of closed or abandoned coal mines will increase. These mines will continue to release AMM into the atmosphere for many decades. Sealing underground mines can stop methane from being released, but seals have been known to fail and require ongoing monitoring to verify methane is not escaping (Kholod et al., 2020). Gas collection systems can be used to capture AMM, but the CO₂
+ produced will need to be captured for complete emission reductions. Flooding underground coal mines is very effective at stopping methane from being released; however, there are concerns about water contamination (McKinsey, 2021).
+
+Our assessment does not include the impact of the CO₂
+ created from the destruction of methane.
+
+CMM abatement strategies could be implemented on a voluntary basis due to favorable natural gas prices, but if natural gas prices drop there is less economic incentive to abate methane (IEA, 2021). Without policy support enforcing methane abatement, emissions could continue, especially from VAM and AMM, which are more difficult to capture and use. Ensuring long-term monitoring and abatement of CMM can be challenging if coal mines are abandoned due to owners going bankrupt, leaving environmental damages unpaid for and remediation up to nearby communities or taxpayers (Ward et al., 2023).
+
+Methane abatement strategies are a powerful tool to reduce methane emissions; however, providing a secondary source of revenue for coal mining could increase the profitability and longevity of some coal mines. A broad strategy to reduce reliance on coal as an energy resource is needed to reduce the amount of CMM generated. Even with methane abatement strategies in place, methane used as a fuel or destroyed through flaring will still emit GHGs and contribute to global climate change.
+
+Managing coal methane can have a positive impact on other solutions that reduce methane release to the atmosphere. The use of technologies such as degasification systems, methane destruction, and Leak Detection and Repair (LDAR) in the coal mine sector can demonstrate the effectiveness and economic case for employing methane abatement. This would build momentum for the widespread adoption of methane abatement because successes in the coal sector can be leveraged and applied to other sectors. In addition, LDAR is a key part in identifying where we can abate methane emissions and lessons learned from the coal sector can be applied to other sites, as well as identifying methane leaks in general.
+
+Improve Landfill Management
+
+Manage Oil & Gas Methane
+
+CMM management interacts negatively with solutions that provide clean electricity as this solution captures methane that can be used as an energy source, prolonging the use of natural gas infrastructure and reducing the cost of methane as a fuel source.
+
+Deploy Concentrated Solar
+
+Deploy Small Hydropower
+
+Deploy Solar Hot Water
+
+Deploy Onshore Wind Turbines
+
+Deploy Offshore Wind Turbines
+
+Deploy Geothermal Power
+
+Deploy Utility-Scale Solar PV
+
+Deploy Distributed Solar PV
+
+
+## Consensus of effectiveness of abating methane emissions from coal mines: High
+
+
+There is a high level of consensus about the effectiveness of methane abatement strategies. These strategies can be deployed cost effectively in many cases and have an immediate impact on reducing global temperature rise.
+
+Authoritative sources such as the IEA (2024c) and UNEP (2021) agree that reducing methane emissions can noticeably slow global climate change. Methane is a short-lived climate pollutant that has a much stronger warming effect than CO₂
+ over a given time period. IEA (2023d) identified that close to 55% (22 Mt) of CMM emissions could be abated with existing technologies. However, there are significant challenges in measuring and recovering methane emissions in the coal sector. Analysis from Assan & Whittle (2023) found that global CMM emissions could be significantly higher than reported, 38–67 Mt/yr compared with the 40 Mt/yr reported by the IEA (2025).
+
+The IEA (2023a) noted that more than half of CMM emissions could be abated through utilization, flaring, or oxidation technologies, with abatement being more practical for underground mines. Many studies (DeFabrizio et al., 2021; Malley et al., 2023; Shindell et al., 2024) have shown that methane abatement strategies can use existing technologies, often at low cost. In some countries, coal operators already identify the location and sources of CMM to meet health and safety regulations (Assan & Whittle, 2023); Setiawan & Wright (2024) noted that existing technologies such as pre-mine drainage and VAM mitigation have been proven in various places around the world over the past 25 years. According to UNEP (2021), coal methane abatement could reduce emissions by 12–25 Mt/yr, with up to 98% of the measures implemented at low cost. However, costs may vary significantly based on the available infrastructure and characteristics of an individual coal mine.
+
+The results presented in this document summarize findings from 21 reviews and meta-analyses and 20 original studies reflecting current evidence from three countries (Australia, China, and the United States) as well as from sources examining global CMM emissions. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Create policies based on global best practices, such as the IEA’s roadmap to implementingCMMregulations.
+
+Require all coal mines to measure and report on methane emissions.
+
+Invest in monitoring, reporting, and verification technologies, such as satellites, and support low-income countries in monitoring emissions.
+
+Provide financial incentives, such as reduced taxes, subsidies, grants, low-interest loans, and feed-in tariffs, for adopting drainage and capture technologies suitable for the region.
+
+Require closed and abandoned mines to be sealed and monitored.
+
+Compile or update global inventories of the status of abandoned and closed mines.
+
+When possible, do not approve the construction of new coal mines.
+
+Require low-emitting technologies for equipment, coal processing, storage, and transportation.
+
+Develop infrastructure to use captured CMM, including gas processing, grid connections, and industry capacity.
+
+Establish clear resource rights to methane emitted from active and abandoned mines.
+
+Include CMM recovery in Nationally Determined Contributions and other international reporting instruments.
+
+Provide educational resources to industry leaders, including potential reduction options, workshops, actionable reports, direct engagements, and demonstrations.
+
+Join, support, or create public initiatives such as the Global Methane Initiative, Global Methane Pledge, or Global Methane Hub.
+
+Methane tracking technologies study. Environmental Defense Fund. (2023)
+
+Global methane hub. (n.d.)
+
+Addressing top barriers to development of coal mine methane projects: Concrete ideas from expert brainstorming. GMI (2023)
+
+Actions for scaling up mitigation of methane emissions from coal mines. GMI (2024)
+
+International coal mine methane project list. GMI (2024)
+
+Global methane pledge. (n.d.)
+
+Strategies to reduce emissions from coal supply. IEA (2023)
+
+Driving down coal mine methane emissions: A regulatory roadmap and toolkit. IEA (n.d.)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+A strategic approach to selecting policy mechanisms for addressing coal mine methane emissions: A case study on Kazakhstan. Roshchanka et al. (2017)
+
+Best practice guidance for effective methane recovery and use from abandoned coal mines. U.N. Economic Commission for Europe (2019)
+
+Best practice guidance for effective management of coal mine methane at national level: Monitoring, reporting, verification and mitigation. U.N. Economic Commission for Europe (2021)
+
+Use or destroy CMM to the maximum extent.
+
+Work with policymakers to create policies based on global best practices, such as the IEA’s roadmap to implementingCMMregulations.
+
+Measure and report on methane emissions.
+
+Invest in monitoring, reporting, and verification technologies, such as satellites, and support low-income countries to monitor emissions.
+
+Take advantage of any financial incentives, such as reduced taxes, subsidies, grants, low-interest loans, and feed-in tariffs, to adopt drainage and capture technologies suitable for the region.
+
+Ensure abandoned and closed mines are sealed and monitored.
+
+Compile or update global inventories of the status of abandoned and closed mines.
+
+When possible, do not approve the construction of new coal mines.
+
+Develop infrastructure to use captured CMM, including gas processing, grid connections, and industry capacity.
+
+Assist policymakers in establishing clear resource rights to methane emitted from active and abandoned mines.
+
+Use existing drainage systems for gas capture, utilization, and sale.
+
+Improve technologies, such as thermal oxidizers, for the purposes of VAM destruction.
+
+Partner with carbon markets that are linked to CMM abatement.
+
+Improve CMM emissions modeling and monitoring, including satellites and on-the-ground methods.
+
+Invest in research and development to improve extraction, capture, storage, transportation, and utilization technologies.
+
+Join, support, or create public initiatives such as the GMI, Global Methane Pledge, or Global Methane Hub.
+
+Educate industry leaders, including sharing potential reduction options, through workshops, actionable reports, direct engagements, and demonstrations.
+
+Curbing methane emissions: How five industries can counter a major climate threat. DeFabrizio et al. (2021)
+
+Methane tracking technologies study. Environmental Defense Fund. (2023)
+
+Global methane hub. (n.d.)
+
+Addressing top barriers to development of coal mine methane projects: Concrete ideas from expert brainstorming. GMI (2023)
+
+Actions for scaling up mitigation of methane emissions from coal mines. GMI (2024)
+
+International coal mine methane project list. GMI (2024)
+
+Global methane pledge. (n.d.)
+
+Driving down coal mine methane emissions: A regulatory roadmap and toolkit. IEA (n.d.)
+
+Strategies to reduce emissions from coal supply. IEA (2023)
+
+A strategic approach to selecting policy mechanisms for addressing coal mine methane emissions: A case study on Kazakhstan. Roshchanka et al. (2017)
+
+Effective monitoring, reporting and verification of methane emissions in the coal industry and the linkage to methane mitigation. Roshchanka et al. (2022)
+
+Best practice guidance for effective methane recovery and use from abandoned coal mines. U.N. Economic Commission for Europe (2019)
+
+Best practice guidance for effective management of coal mine methane at national level: Monitoring, reporting, verification and mitigation. U.N. Economic Commission for Europe (2021)
+
+Abandoned coal mine methane reduction. Zhu et al. (2023)
+
+Ensure that operations or investments that include coal mines utilize or destroy methane emissions.
+
+Do not invest, plan to use, or create agreements with new coal mines.
+
+Invest in high-integrity carbon markets that are linked to CMM abatement.
+
+Invest inR&Dto improve the efficiency of extraction, capture, storage, transportation, and utilization technologies.
+
+Develop infrastructure to use captured CMM, including gas processing, grid connections, and industry capacity.
+
+Utilize existing data sets such as theUN’sInternational Methane Emissions Observatoryto inform current and future decisions.
+
+Join, support, or create public initiatives such as the Global Methane Initiative, Global Methane Pledge, or Global Methane Hub.
+
+Curbing methane emissions: How five industries can counter a major climate threat. DeFabrizio et al. (2021)
+
+Methane tracking technologies study. Environmental Defense Fund. (2023)
+
+Global methane hub. (n.d.)
+
+Addressing top barriers to development of coal mine methane projects: Concrete ideas from expert brainstorming. Global Methane Initiative (2023)
+
+Actions for scaling up mitigation of methane emissions from coal mines. Global Methane Initiative (2024)
+
+International coal mine methane project list. Global Methane Initiative (2024)
+
+Global methane pledge. (n.d.)
+
+Strategies to reduce emissions from coal supply. International Energy Agency (2023)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Advocate for regulating CMM emissions and local policies based on global best practices, such as the IEA’s roadmap to implementingCMMregulations.
+
+Assist coal mines in measuring and reporting or conducting independent studies on CMM emissions.
+
+Advocate for financial incentives, such as reduced taxes, subsidies, grants, low-interest loans, and feed-in tariffs, for the adoption of drainage and capture technologies suitable for the region.
+
+Advocate to stop the construction of new coal mines.
+
+Compile or update global inventories of the status of abandoned and closed mines.
+
+Help create high-integrity carbon markets that are linked to CMM abatement.
+
+Provide educational resources to industry leaders, including potential reduction options, workshops, actionable reports, direct engagements, and demonstrations.
+
+Join, support, or create public initiatives such as the Global Methane Initiative, Global Methane Pledge, or Global Methane Hub.
+
+Curbing methane emissions: How five industries can counter a major climate threat. DeFabrizio et al. (2021)
+
+Methane tracking technologies study. Environmental Defense Fund. (2023)
+
+Global methane hub. (n.d.)
+
+Addressing top barriers to development of coal mine methane projects: Concrete ideas from expert brainstorming. Global Methane Initiative (2023)
+
+Actions for scaling up mitigation of methane emissions from coal mines. Global Methane Initiative (2024)
+
+International coal mine methane project list. Global Methane Initiative (2024)
+
+Global methane pledge. (n.d.)
+
+Driving down coal mine methane emissions: A regulatory roadmap and toolkit. IEA (n.d.)
+
+Strategies to reduce emissions from coal supply. IEA (2023)
+
+A strategic approach to selecting policy mechanisms for addressing coal mine methane emissions: A case study on Kazakhstan. Roshchanka et al. (2017)
+
+Effective monitoring, reporting and verification of methane emissions in the coal industry and the linkage to methane mitigation. Roshchanka et al. (2022)
+
+Best practice guidance for effective methane recovery and use from abandoned coal mines. UN Economic Commission for Europe (2019)
+
+Best practice guidance for effective management of coal mine methane at national level: Monitoring, reporting, verification and mitigation. UN Economic Commission for Europe (2021)
+
+Abandoned coal mine methane reduction. Zhu et al. (2023)
+
+Invest in monitoring, reporting, and verification technologies, such as satellites, and support low-income countries to monitor emissions.
+
+Provide financial support through low-interest loans orgreen bondsto adopt drainage and capture technologies suitable for the region.
+
+Do not invest in constructing new coal mines and require any existing investments to provide transparent emissions data and time-based reduction strategies.
+
+Invest in R&D to improve the efficiency of extraction, capture, storage, transportation, and utilization technologies.
+
+Develop infrastructure to use captured CMM, including gas processing, grid connections, and industry capacity.
+
+Invest in high-integrity carbon markets that are linked to CMM abatement.
+
+Join, support, or create public initiatives such as the Global Methane Initiative, Global Methane Pledge, or Global Methane Hub.
+
+Curbing methane emissions: How five industries can counter a major climate threat. DeFabrizio et al. (2021)
+
+Methane tracking technologies study. Environmental Defense Fund. (2023)
+
+Global methane hub. (n.d.)
+
+Addressing top barriers to development of coal mine methane projects: Concrete ideas from expert brainstorming. Global Methane Initiative (2023)
+
+Actions for scaling up mitigation of methane emissions from coal mines. Global Methane Initiative (2024)
+
+International coal mine methane project list. Global Methane Initiative (2024)
+
+Global methane pledge. (n.d.)
+
+Strategies to reduce emissions from coal supply. IEA (2023)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Invest in monitoring, reporting, and verification technologies, such as satellites, and support low-income countries to monitor emissions.
+
+Provide financial support to adopt drainage and capture technologies suitable for the region.
+
+Invest in R&D to improve the efficiency of extraction, capture, storage, transportation, and utilization technologies.
+
+Assist in establishing clear resource rights to methane emitted from active and abandoned mines.
+
+Help create high-integrity carbon markets that are linked to CMM abatement.
+
+Join, support, or create public initiatives such as the Global Methane Initiative, Global Methane Pledge, or Global Methane Hub.
+
+Provide educational resources to industry leaders, including potential reduction options, workshops, actionable reports, direct engagements, and demonstrations.
+
+Advocate for regulating CMM emissions and local policies based on global best practices, such as the IEA’s roadmap to implementingCMMregulations.
+
+Compile or update global inventories of the status of abandoned and closed mines.
+
+Curbing methane emissions: How five industries can counter a major climate threat. DeFabrizio et al. (2021)
+
+Methane tracking technologies study. Environmental Defense Fund. (2023)
+
+Global methane hub. (n.d.)
+
+Addressing top barriers to development of coal mine methane projects: Concrete ideas from expert brainstorming. Global Methane Initiative (2023)
+
+Actions for scaling up mitigation of methane emissions from coal mines. Global Methane Initiative (2024)
+
+International coal mine methane project list. Global Methane Initiative (2024)
+
+Global methane pledge. (n.d.)
+
+Driving down coal mine methane emissions: A regulatory roadmap and toolkit. IEA (n.d.)
+
+Strategies to reduce emissions from coal supply. IEA (2023)
+
+A strategic approach to selecting policy mechanisms for addressing coal mine methane emissions: A case study on Kazakhstan. Roshchanka et al. (2017)
+
+Effective monitoring, reporting and verification of methane emissions in the coal industry and the linkage to methane mitigation. Roshchanka et al. (2022)
+
+Best practice guidance for effective methane recovery and use from abandoned coal mines. UN Economic Commission for Europe (2019)
+
+Best practice guidance for effective management of coal mine methane at national level: Monitoring, reporting, verification and mitigation. UN Economic Commission for Europe (2021)
+
+Abandoned coal mine methane reduction. Zhu et al. (2023)
+
+Advocate for regulating CMM emissions and local policies based on global best practices, such as the IEA’s roadmap to implementingCMMregulations.
+
+Assist coal mines in measuring and reporting or conducting independent studies on CMM emissions.
+
+Advocate for financial incentives, such as reduced taxes, subsidies, grants, low-interest loans, and feed-in tariffs, for adopting drainage and capture technologies suitable for the region.
+
+Assist in establishing clear resource rights to methane emitted from active and abandoned mines.
+
+Advocate to stop the construction of new coal mines.
+
+Compile or update global inventories of the status of abandoned and closed mines.
+
+Help create high-integrity carbon markets that are linked to CMM abatement.
+
+Provide educational resources to industry leaders, including potential reduction options, workshops, actionable reports, direct engagements, and demonstrations.
+
+Join, support, or create public initiatives such as the Global Methane Initiative, Global Methane Pledge, or Global Methane Hub.
+
+Curbing methane emissions: How five industries can counter a major climate threat. DeFabrizio et al. (2021)
+
+Methane tracking technologies study. Environmental Defense Fund. (2023)
+
+Global methane hub. (n.d.)
+
+Addressing top barriers to development of coal mine methane projects: Concrete ideas from expert brainstorming. Global Methane Initiative (2023)
+
+Actions for scaling up mitigation of methane emissions from coal mines. Global Methane Initiative (2024)
+
+International coal mine methane project list. Global Methane Initiative (2024)
+
+Global methane pledge. (n.d.)
+
+Driving down coal mine methane emissions: A regulatory roadmap and toolkit. IEA (n.d.)
+
+Strategies to reduce emissions from coal supply. IEA (2023)
+
+A strategic approach to selecting policy mechanisms for addressing coal mine methane emissions: A case study on Kazakhstan. Roshchanka et al. (2017)
+
+Effective monitoring, reporting and verification of methane emissions in the coal industry and the linkage to methane mitigation. Roshchanka et al. (2022)
+
+Best practice guidance for effective methane recovery and use from abandoned coal mines. UN Economic Commission for Europe (2019)
+
+Best practice guidance for effective management of coal mine methane at national level: Monitoring, reporting, verification and mitigation. UN Economic Commission for Europe (2021)
+
+Abandoned coal mine methane reduction. Zhu et al. (2023)
+
+
+## Technologists and Researchers
+
+
+Improve CMM emissions modeling and monitoring, including satellites and on-the-ground methods.
+
+Compile or update global inventories of the status of abandoned and closed mines.
+
+Develop infrastructure to use captured CMM, including gas processing, grid connections, and industry capacity.
+
+Discover ways to utilize existing drainage systems for gas capture, utilization, and sale.
+
+Improve technologies, such as thermal oxidizers, for the purposes of VAM destruction.
+
+Develop new ways to improve extraction, capture, storage, transportation, and utilization technologies.
+
+Develop verifiable carbon credits using technology such asblockchainto improve the integrity of carbon markets.
+
+Improve the efficiency of mining equipment to reduce maintenance requirements and costs.
+
+Curbing methane emissions: How five industries can counter a major climate threat. DeFabrizio et al. (2021)
+
+Methane tracking technologies study. Environmental Defense Fund. (2023)
+
+Global methane hub. (n.d.)
+
+Addressing top barriers to development of coal mine methane projects: Concrete ideas from expert brainstorming, Global Methane Initiative (2023)
+
+Actions for scaling up mitigation of methane emissions from coal mines. Global Methane Initiative (2024)
+
+International coal mine methane project list. Global Methane Initiative (2024)
+
+Global methane pledge.(n.d.)
+
+Strategies to reduce emissions from coal supply. IEA (2023)
+
+Effective monitoring, reporting and verification of methane emissions in the coal industry and the linkage to methane mitigation. Roshchanka et al. (2022)
+
+Best practice guidance for effective methane recovery and use from abandoned coal mines. UN Economic Commission for Europe (2019)
+
+Best practice guidance for effective management of coal mine methane at national level: Monitoring, reporting, verification and mitigation. UN Economic Commission for Europe (2021)
+
+Abandoned coal mine methane reduction. Zhu et al. (2023)
+
+
+## Communities, Households, and Individuals
+
+
+Advocate for regulating CMM emissions and local policies based on global best practices, such as the IEA’s roadmap to implementingCMMregulations.
+
+Advocate for financial incentives, such as reduced taxes, subsidies, grants, low-interest loans, and feed-in tariffs, for the adoption of drainage and capture technologies suitable for the region.
+
+Advocate to stop the construction of new coal mines.
+
+Assist coal mines in measuring and reporting or conducting independent studies on CMM emissions.
+
+Provide educational resources to industry leaders, including potential reduction options, workshops, actionable reports, direct engagements, and demonstrations.
+
+Join, support, or create public initiatives such as the Global Methane Initiative, Global Methane Pledge, or Global Methane Hub.
+
+Curbing methane emissions: How five industries can counter a major climate threat. DeFabrizio et al. (2021)
+
+Methane tracking technologies study. Environmental Defense Fund. (2023)
+
+Global methane hub. (n.d.)
+
+Addressing top barriers to development of coal mine methane projects: Concrete ideas from expert brainstorming. Global Methane Initiative (2023)
+
+Actions for scaling up mitigation of methane emissions from coal mines. Global Methane Initiative (2024)
+
+International coal mine methane project list. Global Methane Initiative (2024)
+
+Global methane pledge. (n.d.)
+
+Driving down coal mine methane emissions: A regulatory roadmap and toolkit. IEA (n.d.)
+
+Effective monitoring, reporting and verification of methane emissions in the coal industry and the linkage to methane mitigation. Roshchanka et al. (2022)
+
+Best practice guidance for effective methane recovery and use from abandoned coal mines. UN Economic Commission for Europe (2019)
+
+Abandoned coal mine methane reduction. Zhu et al. (2023)
+
+
+## “Take Action” Sources
+
+
+Curbing methane emissions: how five industries can counter a major climate threat. DeFabrizio et al. (2021)
+
+Methane tracking technologies study. Environmental Defense Fund. (2023)
+
+Actions for scaling up mitigation of methane emissions from coal mines. Global Methane Initiative (2024)
+
+Addressing top barriers to development of coal mine methane projects: concrete ideas from expert brainstorming. Global Methane Initiative (2023)
+
+Driving down coal mine methane emissions: a regulatory roadmap and toolkit. IEA (2023)
+
+Strategies to reduce emissions from coal supply. IEA (2023)
+
+A strategic approach to selecting policy mechanisms for addressing coal mine methane emissions: a case study on Kazakhstan. Roshchanka et al. (2017)
+
+Effective monitoring, reporting and verification of methane emissions in the coal industry and the linkage to methane mitigation. Roshchanka et al. (2022)
+
+Best practice guidance for effective methane recovery and use from abandoned coal mines. UN Economic Commission for Europe (2019)
+
+Best practice guidance for effective management of coal mine methane at national level: monitoring, reporting, verification and mitigation. UN Economic Commission for Europe (2021)
+
+Abandoned coal mine methane reduction. Zhu et al. (2023)
+
+Methods and Supporting Data
+
+Assan, S., & Whittle, E. (2023). In the dark: Underreporting of coal mine methane is a major climate risk.Ember.Link to source:https://ember-energy.org/latest-insights/in-the-dark-underreporting-of-coal-mine-methane-is-a-major-climate-risk/#supporting-material
+
+Assan, S. (2024). Understanding the EU’s methane regulation for coal.Ember.Link to source:https://ember-energy.org/latest-insights/eumethane-reg-explained/
+
+CNX. (2024, March 20).Jumpstarting coal mine methane capture projects for beneficial end use[PowerPoint slides].Global Methane Initiative.Link to source:https://www.globalmethane.org/resources/details.aspx?resourceid=5386
+
+DeFabrizio, S., Glazener, W., Hart, C., Henderson, K., Kar, J., Katz, J., Pratt, M. P., Rogers, M., Ulanov, A., & Tryggestad, C. (2021). Curbing methane emissions: How five industries can counter a major climate threat.McKinsey Sustainability.Link to source:https://www.mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/curbing%20methane%20emissions%20how%20five%20industries%20can%20counter%20a%20major%20climate%20threat/curbing-methane-emissions-how-five-industries-can-counter-a-major-climate-threat-v4.pdf
+
+Domingo, N. G. G., Fiore, A. M., Lamarque, J.-F., Kinney, P. L., Jiang, L., Gasparrini, A., Breitner, S., Lavigne, E., Madureira, J., Masselot, P., das Neves Pereira da Silva, S., Sheng Ng, C. F., Kyselý, J., Guo, Y., Tong, S., Kan, H., Urban, A., Orru, H., Maasikmets, M., … Chen, K. (2024). Ozone-related acute excess mortality projected to increase in the absence of climate and air quality controls consistent with the Paris Agreement.One Earth (Cambridge, Mass.),7(2), 325–335.Link to source:https://doi.org/10.1016/j.oneear.2024.01.001
+
+Fiore, A. M., Jacob, D. J., & Field, B. D. (2002). Linking ozone pollution and climate change: The case for controlling methane.Geophysical Research Letters,29(19), 182-197.Link to source:https://doi.org/10.1029/2002GL015601
+
+Gajdzik, B., Tobór-Osadnik, K., Wolniak, R., & Grebski, W. W. (2024). European climate policy in the context of the problem of methane emissions from coal mines in Poland. Energies, 17(10), 2396.Link to source:https://doi.org/10.3390/en17102396
+
+Global Energy Monitor (n.d.).Global coal mine tracker. Retrieved February 27, 2025 fromLink to source:https://globalenergymonitor.org/projects/global-coal-mine-tracker/
+
+Global Methane Initiative. (2015). Coal mine methane country profiles.Link to source:https://www.globalmethane.org/documents/toolsres_coal_overview_fullreport.pdf
+
+Global Methane Initiative (2018). Expert dialogue on ventilation air methane (VAM).Link to source:https://www.globalmethane.org/documents/res_coal_VAM_Dialogue_Report_20181025.pdf
+
+Global Methane Initiative (2024a). 2023 Accomplishments in methane mitigation, recovery, and use through U.S.-supported international efforts.Link to source:https://www.epa.gov/system/files/documents/2024-12/epa430r24009-fy23-accomplishments-report.pdf
+
+Global Methane Initiative (2024b). International coal mine methane project list.Link to source:https://globalmethane.org/resources/details.aspx?resourceid=1981
+
+Hong, C., Mueller, N. D., Burney, J. A., Zhang, Y., AghaKouchak, A., Moore, F. C., Qin, Y., Tong, D., & Davis, S. J. (2020). Impacts of ozone and climate change on yields of perennial crops in California.Nature Food,1(3), 166–172.Link to source:https://doi.org/10.1038/s43016-020-0043-8
+
+Intergovernmental Panel on Climate Change (IPCC). (2023). In: Climate change 2023: Synthesis report. Contribution of working groups I, II and III to the sixth assessment report of the intergovernmental panel on climate change [core writing team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 1–34, doi: 10.59327/IPCC/AR6-9789291691647.001Link to source:https://www.ipcc.ch/report/ar6/syr/
+
+International Energy Agency. (2021). Global methane tracker 2021: Methane abatement and regulation.Link to source:https://www.iea.org/reports/methane-tracker-2021/methane-abatement-and-regulation
+
+International Energy Agency. (2023a). Net zero roadmap: A global pathway to keep the 1.5℃ goal in reach – 2023 update.Link to source:https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-0c-goal-in-reach
+
+International Energy Agency. (2023b). Strategies to reduce emissions from coal supply. Global Methane Tracker 2023.Link to source:https://www.iea.org/reports/global-methane-tracker-2023/strategies-to-reduce-emissions-from-coal-supply
+
+International Energy Agency. (2023c). The imperative of cutting methane from fossil fuels.Link to source:https://www.iea.org/reports/the-imperative-of-cutting-methane-from-fossil-fuels
+
+International Energy Agency. (2023d). Global methane tracker 2023: Overview.Link to source:https://www.iea.org/reports/global-methane-tracker-2023/overview
+
+International Energy Agency. (2024a). Global methane tracker documentation 2024 version.Link to source:https://iea.blob.core.windows.net/assets/d42fc095-f706-422a-9008-6b9e4e1ee616/GlobalMethaneTracker_Documentation.pdf
+
+International Energy Agency. (2024b). Methane tracker: Data tools.Link to source:https://www.iea.org/data-and-statistics/data-tools/methane-tracker
+
+International Energy Agency. (2024c). World energy outlook 2024.Link to source:https://www.iea.org/reports/world-energy-outlook-2024
+
+International Energy Agency. (2025). Global methane tracker documentation 2025 version.Link to source:https://iea.blob.core.windows.net/assets/2c0cf2d5-3910-46bc-a271-1367edfed212/GlobalMethaneTracker2025.pdf
+
+Kholod, N., Evans, M., Pilcher, R. C., Roshchanka, V., Ruiz, F., Coté, M., & Collings, R. (2020). Global methane emissions from coal mining to continue growing even with declining coal production.Journal of Cleaner Production,256.Link to source:https://doi.org/10.1016/j.jclepro.2020.120489
+
+Lewis, C., Tate, R.D., and Mei, D.L. (2024). Fuel operations sector: Coal mining emissions methodology [Data set]. WattTime and Global Energy Monitor, Climate TRACE Emissions Inventory. Retrieved April 18, 2025, fromLink to source:https://climatetrace.org
+
+Malley, C. S., Borgford-Parnell, N. Haeussling, S., Howard, L. C., Lefèvre E. N., & Kuylenstierna J. C. I. (2023). A roadmap to achieve the global methane pledge.Environmental Research: Climate, 2(1).Link to source:https://doi.org/10.1088/2752-5295/acb4b4
+
+Mar, K. A., Unger, C., Walderdorff, L., & Butler, T. (2022). Beyond CO2equivalence: The impacts of methane on climate, ecosystems, and health.Environmental Science & Policy,134, 127–136.Link to source:https://doi.org/10.1016/j.envsci.2022.03.027
+
+MethaneSAT. (2024).Solving a crucial climate challenge. Retrieved September 2, 2024, fromLink to source:https://www.methanesat.org/satellite/
+
+Mills, G., Sharps, K., Simpson, D., Pleijel, H., Frei, M., Burkey, K., Emberson, L., Cuddling, J., Broberg, M., Feng, Z., Kobayashi, K. & Agrawal, M. (2018). Closing the global ozone yield gap: Quantification and cobenefits for multistress tolerance.Global Change Biology,24(10), 4869–4893.Link to source:https://doi.org/10.1111/gcb.14381
+
+Ocko, I. B., Sun, T., Shindell, D., Oppenheimer, M. Hristov, A. N., Pacala, S. W., Mauzerall, D. L., Xu, Y. & Hamburg, S. P. (2021). Acting rapidly to deploy readily available methane mitigation measures by sector can immediately slow global warming.Environmental Research, 16(5).Link to source:https://doi.org/10.1088/1748-9326/abf9c8
+
+Ramya, A., Dhevagi, P., Poornima, R., Avudainayagam, S., Watanabe, M., & Agathokleous, E. (2023). Effect of ozone stress on crop productivity: A threat to food security.Environmental Research, 236(2), 116816.Link to source:https://doi.org/10.1016/j.envres.2023.116816
+
+Roshchanka, V., Evans, M., Ruiz, F., & Kholod, N. (2017). A strategic approach to selecting policy mechanisms for addressing coal mine methane emissions: A case study on Kazakhstan.Environmental Science & Policy,78, 185–192.Link to source:https://doi.org/10.1016/j.envsci.2017.08.005
+
+Roshchanka, V., & Talkington, C. (2022). Effective monitoring, reporting and verification of methane emissions in the coal industry and the linkage to methane mitigation.Link to source:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298409
+
+Rystad Energy. (2023, October 18).Methane tracking technologies study[PowerPoint slides]. Environmental Defense Fund.Link to source:https://www.edf.org/sites/default/files/documents/Methane%20Tracking%20Technologies%20Study%20Oct%2018%202023.pdf
+
+Sampedro, J., Waldhoff, S., Sarofim, M., & Van Dingenen, R. (2023). Marginal damage of methane emissions: Ozone impacts on agriculture.Environmental and Resource Economics,84(4), 1095–1126.Link to source:https://doi.org/10.1007/s10640-022-00750-6
+
+Setiawan, D. & Wright, C. (2024). The risks of ignoring methane emissions in coal mining.Ember.Link to source:https://ember-energy.org/latest-insights/the-risks-of-ignoring-methane-emissions-in-coal-mining/#supporting-material
+
+Shindell, D., Sadavarte, P., Aben, I., Bredariol, T. O., Dreyfus, G., Höglund-Isaksson, L., Poulter, B., Saunois, M., Schmidt, G. A., Szopa, S., Rentz, K., Parsons, L., Qu, Z., Faluvegi, G., & Maasakkers, J. D. (2024). The methane imperative.Frontiers.Link to source:https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2024.1349770/full
+
+Silvia, F., Talia, V., & Di Matteo, M. (2021). Coal mining and policy responses: Are externalities appropriately addressed? A meta-analysis.Environmental Science & Policy,126, 39–47.Link to source:https://doi.org/10.1016/j.envsci.2021.09.013
+
+Smith, C., Nicholls, Z. R. J., Armour, K., Collins, W., Forster, P., Meinshausen, M., Palmer, M. D., & Watanabe, M. (2021). The earth’s energy budget, climate feedbacks, and climate sensitivity supplementary material (climate change 2021: The physical science basis. Contribution of working group I to the sixth assessment report of the Intergovernmental Panel on Climate Change). Intergovernmental Panel on Climate Change (IPCC).Link to source:https://www.ipcc.ch/
+
+Tai, A. P., Sadiq, M., Pang, J. Y., Yung, D. H., & Feng, Z. (2021). Impacts of surface ozone pollution on global crop yields: comparing different ozone exposure metrics and incorporating co-effects of CO2.Frontiers in Sustainable Food Systems,5, 534616.Link to source:https://doi.org/10.3389/fsufs.2021.534616
+
+Tao, S., Chen, S., & Pan, Z. (2019). Current status, challenges, and policy suggestions for coalbed methane industry development in China: A review.Energy Science & Engineering,7(4), 1059–1074.Link to source:https://doi.org/10.1002/ese3.358
+
+Tate, R. D., (2022). Bigger than oil or gas? Sizing up coal mine methane.Global Energy Monitor.Link to source:https://globalenergymonitor.org/wp-content/uploads/2022/03/GEM_CCM2022_final.pdf
+
+United Nations Economic Commission for Europe (UNECE). (2019). Best practice guidance for effective methane recovery and use from abandoned coal mines.Link to source:https://unece.org/fileadmin/DAM/energy/images/CMM/CMM_CE/Best_Practice_Guidance_for_Effective_Methane_Recovery_and_Use_from_Abandoned_Coal_Mines_FINAL__with_covers_.pdf
+
+United Nations Economic Commission for Europe (UNECE). (2022). Best practice guidance for effective management of coal mine methane at national level: Monitoring, reporting, verification and mitigation.Link to source:https://globalmethane.org/documents/Best%20Practice%20Guidance%20for%20Effective%20Management%20of%20Coal%20Mine%20Methane%20at%20National%20Level%20Monitoring,%20Reporting,%20Verification%20and%20Mitigation.pdf
+
+United Nations Environment Program. (2022). Coal mine methane science studies road map.Link to source:https://www.unep.org/resources/other-evaluation-reportsdocuments/coal-mine-methane-science-studies-road-map
+
+U.S. Center for Disease Control and Prevention, (2024, September 25).Mining fires and explosions.Link to source:https://www.cdc.gov/niosh/mining/topics/fires-explosions.html
+
+U.S. Environmental Protection Agency (2019).Global non-CO2greenhouse gas emission projections & mitigation 2015–2050.Link to source:https://www.epa.gov/sites/default/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf
+
+U.S. Environmental Protection Agency (2024a).About coal mine methane. Retrieved November 5, 2024.Link to source:https://www.epa.gov/cmop/about-coal-mine-methane
+
+U.S. Environmental Protection Agency (2024b).Coalbed methane outreach program accomplishments.Link to source:https://www.epa.gov/cmop/coalbed-methane-outreach-program-accomplishments
+
+U.S. Environmental Protection Agency (2024c).GHGRP underground coal mines.Retrieved November 5, 2024.Link to source:https://www.epa.gov/ghgreporting/ghgrp-underground-coal-mines
+
+U.S. Environmental Protection Agency (2024d).Sources of coal mine methane. Retrieved November 5, 2024.Link to source:https://www.epa.gov/cmop/sources-coal-mine-methane
+
+Ward, K., Mountain State Spotlight, Mierjeski, A. & Scott Pham. (2023). In the game of musical mines, environmental damage takes a back seat.ProPublica.Link to source:https://www.propublica.org/article/west-virginia-coal-blackjewel-bankruptcy-pollution
+
+Zhu, R., Khanna, N., Gordon, J., Dai, F., & Lin, J. (2023). Abandoned coal mine methane reduction.Berkeley Lab.Link to source:https://ccci.berkeley.edu/sites/default/files/Abandonded%20Coal%20Mines_Final%20%28EN%29.pdf
+
+
+## CMM abatement strategy constraints:
+
+
+The type of coal mine, the amount of methane produced, and the available infrastructure greatly affect which abatement strategies are economical. Underground coal mines often produce more CMM and are likely to capture CMM using degasification systems and use it for productive purposes such as electricity generation or selling captured methane. However, VAM, which is a major part of CMM emissions, can be challenging to use for productive purposes due to the low methane concentrations. VAM requires regenerative thermal oxidation technology to effectively destroy and with more gassy coal mines. According to the IEA (2023b), technologies such as flaring and drained CMM can be used at less gassy mines with lower initial capital cost. Capturing methane for destruction has the disadvantage of not creating a source of revenue to offset the capital cost of methane abatement without a form of carbon markets in place.
+
+More than 60% of methane-related emissions from coal mining are from the ventilation of underground coal mines. Large amounts of fresh air are used to lower the concentration of methane and reduce the risk of explosions in underground mines. This makes it challenging to destroy or use the low concentrations of VAM (UNEP, 2022). It is also challenging to capture methane from surface mines because the coal is in direct contact with the atmosphere and over a larger surface area. However, thermal oxidation systems have been used to destroy VAM (U.S. EPA, 2019) and there have been examples of degasification systems used for surface mines as well (IEA, 2023b). Methane emissions from AMM can be dealt with by flooding underground mines with water (Kholod et al., 2020) or by sealing and using capture and utilization projects (Zhu et al., 2023).
+
+Technologies for reducing methane emissions can be divided between underground and surface coal mines:
+
+Predainage prior to mining
+
+VAM capture and utilization
+
+Capture of abandoned mine gas
+
+Sealing or flooding of abandoned mines
+
+Degasification of surface mines
+
+Predrainage of surface mines
+
+CNX. (2024, March 20).Jumpstarting coal mine methane capture projects for beneficial end use[PowerPoint slides].Global Methane Initiative.https://www.globalmethane.org/resources/details.aspx?resourceid=5386
+
+United Nations Economic Commission for Europe (UNECE). (2019). Best practice guidance for effective methane recovery and use from abandoned coal mines.https://unece.org/fileadmin/DAM/energy/images/CMM/CMM_CE/Best_Practice_Guidance_for_Effective_Methane_Recovery_and_Use_from_Abandoned_Coal_Mines_FINAL__with_covers_.pdf
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

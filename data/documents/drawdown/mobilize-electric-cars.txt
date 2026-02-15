@@ -1,0 +1,758 @@
+# Mobilize Electric Cars
+Source: https://drawdown.org/explorer/mobilize-electric-cars
+
+Methods and Supporting Data
+
+
+## Mobilize Electric Cars
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Electriccarsare four-wheeled passenger cars that run on electricity, usually from the electricity grid and stored in onboard batteries (i.e., not including fuel cell electric cars). This definition includes electric pickup trucks, motorhomes, and other suchvehicles. It does not include two-wheeled vehicles or hybrid cars (which combine an electric motor with a gasoline or diesel engine). It also does not include freight and commercial vehicles, such as electric heavy trucks, buses, and ambulances. We define Mobilize Electric Cars as replacingfossil fuel–powered cars (i.e., those powered by internal combustion engines) with electric equivalents, as well as building out the necessary infrastructure (especially charging stations) to support them.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+million passenger kilometers (million pkm)
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Electric cars provide the same functionality as fossil fuel–powered cars, but use electric motors rather than fuel-burning engines. The energy for the motors comes from an onboard battery, which is normally charged using electricity from the grid.
+
+Electric cars have no direct tailpipe emissions, since electric motors do not burn fuel to function. The grid electricity used to charge their batteries may have come from fossil fuel-burning power plants, meaning electric cars are not entirely free ofdirect emissions. However, in most electrical grids, even those that mainly generate electricity from fossil fuels, electric cars usually still produce fewer emissions perpkmthan fossil fuel–powered cars. This is for three reasons. First, large, fixed power plants and efficient electric grids can convert fossil fuels into useful energy more efficiently than smaller, mobile internal combustion engines in cars. In extreme cases, such as grids powered entirely by coal, this might not be the case, particularly if the grid has a lot of transmission and distribution losses. Second, thepowertrainof an electric car delivers electricity from the battery to the wheels much more efficiently than the powertrain of a fossil fuel–powered car, which wastes much more energy as heat (International Transport Forum, 2020; Mofolasayo, 2023; Verma et al., 2022). Third, electric cars’ powertrains enable regenerative braking, where the kinetic energy of the car’s motion is put back into the battery when the driver brakes (Yang et al., 2024).
+
+Electric cars reduce emissions ofCO₂,methane, andnitrous oxideto the atmosphere by replacing fuel-powered cars, which emit these gases from their tailpipes.
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness of the current models of electric cars available at addressing climate change. Effectiveness can change based on how and where this solution is implemented and what other changes, such as grid effectiveness, occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption by 2040 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2050.
+
+This is the high end of the range for estimated achievable adoption by 2040.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Electric cars can effectivelymitigateclimate change in all geographic regions, although there is spatial variability that influences per-pkmeffectivenessand potential solution uptake. Effectiveness heavily depends on thecarbon intensityof the charging source, which varies greatly between and within countries. The effectiveness of electric cars decreases for larger vehicles, favored in some countries (Jones, 2019; Nguyen et al., 2023).
+
+The uptake of electric cars can be significantly influenced by socioeconomic factors, including the relative costs of fuels and electricity, the capacity of civil society to provide adequate charging infrastructure, and the availability of subsidies for electric vehicles.
+
+Extreme temperatures can negatively impact vehicle range, both by slowing battery chemistry and increasing energy demands for regulating passenger compartment temperature, which can adversely affect consumers’ perceptions of electric car suitability in locations with such climates (International Council on Clean Transportation, 2024).
+
+Electric cars are most effective in regions with low-carbon electricity grids (International Transport Forum, 2020; Verma et al., 2022). This includes countries with high hydro power (including Iceland, Norway, Sweden, and parts of Canada such as British Columbia and Quebec), nuclear energy (such as France), and renewables (including Portugal, New Zealand, and parts of the United States, including California and some of the Northwest) (IEA, 2024). Electric car adoption is growing rapidly in a number of regions. For future scaling, targeting countries with supportive policies,renewableenergy potential, and growing urban populations will deliver the greatest climate benefits.
+
+
+## Annual road transportation emissions, 2024
+
+
+Cars are the largest source of vehicle emissions, which are shown here for urban areas.
+
+Kott, T., Foster, K., Villafane-Delgado, M., Loschen, W., Sicurello, P., Ghebreselassie, M., Reilly, E., and Hughes, M. (2024).Transportation sector - Global road emissions. [Data set]. The Johns Hopkins University Applied Physics Laboratory (JHU/APL), Climate TRACE Emissions Inventory. Retrieved March 12, 2025 fromLink to source:https://climatetrace.org
+
+
+## Annual road transportation emissions, 2024
+
+
+Cars are the largest source of vehicle emissions, which are shown here for urban areas.
+
+Kott, T., Foster, K., Villafane-Delgado, M., Loschen, W., Sicurello, P., Ghebreselassie, M., Reilly, E., and Hughes, M. (2024).Transportation sector - Global road emissions. [Data set]. The Johns Hopkins University Applied Physics Laboratory (JHU/APL), Climate TRACE Emissions Inventory. Retrieved March 12, 2025 fromLink to source:https://climatetrace.org
+
+Every million pkm shifted from fossil fuel–powered cars to electric cars reduces 48.52tCO₂‑eqon a100-yr basis(Table 1), or 49.13 t CO₂‑eq
+ on a20-yr basis.
+
+We found this by collecting data on electricity consumption for a range of electric car models (Electric Vehicle Database, 2024) and multiplying it by the global average emissions perkWhof electricity generation. Fossil fuel–powered cars emit 115.3 t CO₂‑eq/million pkm on a 100-yrbasis (116.4 t CO₂‑eq/million pkm on a 20-yr basis). Electric cars already have lower emissions in countries with large shares of renewable, nuclear, or hydropower generation in their electricity grids (International Transport Forum, 2020; Verma et al., 2022).
+
+These data come disproportionately from North America and Europe, and, notably, leave out China, which has made major progress on electric cars in recent years and has many of its own makes and models.
+
+Electric cars today are disproportionately used in high- and upper-middle-income countries, whose electricity grids emit fewerGHGemissions than the global average per unit of electricity generated (International Energy Agency [IEA], 2024). Electric cars in use today reduce more emissions on average than the figure we have calculated.
+
+Electric cars have higherembodied emissionsthan fossil fuel–powered cars, due to the GHG-intensive process of manufacturing batteries. This gives them acarbon paybackperiod which ranges from zero to over 10 years (Dillman et al., 2020; Ren et al., 2023).
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit: t CO₂‑eq/million pkm, 100-yr basis
+
+Shifted from fossil fuel–powered cars to electric cars, 100-yr basis.
+
+Including purchase price, financing, fuel and electricity costs, maintenance costs, and insurance, electric cars cost on average US$0.05 less per pkm (US$49,440/million pkm) than fuel-powered cars. This is based on a population-weighted average of the cost differential between electric and fossil fuel–powered cars in seven countries: Japan, South Korea, China, the United States, France, Germany, and the United Kingdom (Nickel Institute, 2021b, 2021c, 2021a).
+
+While this analysis found that electric cars are less expensive than fossil fuel–powered cars almost everywhere, the margin is often quite small. The difference is less than US$0.01/pkm (US$10,000/million pkm) in South Korea, the United States, and Germany. In some markets, electric cars are more expensive per pkm than fossil fuel–powered cars (IEA, 2022).
+
+This amounts to savings of US$1,019/t CO₂‑eq
+ on a 100-yr basis (Table 2), or US$1,006/t CO₂‑eq
+ avoided emissions on a 20-yr basis).
+
+Our analysis does not include costs that are the same for both electric and fossil fuel–powered cars, including taxes, insurance costs, and public costs of building road infrastructure.
+
+Table 2. Cost per unit climate impact.
+
+Unit:2023 US$/tCO₂‑eq,100-yr basis
+
+For every doubling in electric car production, costs decline by approximately 23% (Table 3; Goetzel & Hasanuzzaman, 2022; Kittner et al., 2020; Weiss et al., 2015).
+
+In addition to manufacturing improvements and economies of scale, this reflects rapid technological advancements in battery production, which is a significant cost component of an electric powertrain (Weiss et al., 2015).
+
+Table 3. Learning rate: drop in cost per doubling of the deployed solution.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Mobilize Electric Cars is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+Approximately 28 million electric cars are in use worldwide (IEA, 2024). This corresponds to about 819,000 million pkm traveled by electric car worldwide each year (Table 4). We assume that all of this travel would be undertaken by a fossil fuel–powered car if the car’s occupants did not use an electric car. Adoption is much higher in some countries, such as Norway, where the share of electric cars was 29% in 2023.
+
+To convert the IEA’s electric car estimates into pkm traveled, we needed to determine the average passenger-distance that each passenger car travels per year. Using population-weighted data from several different countries, the average car carries 1.5 people and travels an average of 29,250 pkm/yr. Multiplying this number by the number of electric cars in use gives the total travel distance shift from fossil fuel–powered cars to electric cars.
+
+Table 4. Current (2024) adoption level.
+
+Implied travel shift from fossil fuel-powered cars to electric cars.
+
+Globally, about 104 billion pkm are displaced from fossil fuel–powered cars by electric cars every year (Table 5). The number of new electric cars purchased each year is growing at an average rate of over 10% (Bloomberg New Energy Finance, 2024; IEA, 2024), although purchase rates have declined slightly from record highs between 2020–2022. Global purchases of electric cars are still increasing by around 3.6 million cars/yr. This is based on globally representative data (Bloomberg New Energy Finance, 2024; IEA, 2024).
+
+Despite this impressive rate of growth, electric cars still have a long way to go before they replace a large percentage of the more than 2 billion cars currently driven (WHO, 2024).
+
+Table 5. 2023-2024 adoption trend.
+
+Implied travel shift from fossil fuel-powered cars to electric cars.
+
+Theadoption ceilingfor electric cars is equal to the total passenger-distance driven by the more than 2 billion cars worldwide (WHO, 2024). Using a population-weighted mean of the average distance (in pkm) traveled per car annually, this translates to about 59 trillion pkm (Table 6).
+
+Replacing every single fossil fuel–powered car with an electric car would require an enormous upscaling of electric car production capacity, rapid development of charging infrastructure, cost reductions to increase affordability, and technological improvements to improve suitability for more kinds of drivers and trips. It would also face cultural obstacles from drivers who are attached to fossil fuel–powered cars (Roberts, 2022).
+
+Table 6. Adoption ceiling.
+
+Implied travel shift from fossil fuel-powered cars to electric cars.
+
+The achievable adoption of electric car travel ranges from about 26–47 trillion pkm displaced from fossil fuel–powered cars (Table 7).
+
+Various organizations have produced forecasts for electric car adoption. These are not assessments of feasible adoption per se; they are instead trying to predictlikelyrates of adoption, given various assumptions about the future (Bloomberg New Energy Finance, 2024; IEA, 2024). However, they are useful in that they take a large number of different variables into account to make their estimates. To convert these estimates of future likely adoption into estimates of the achievable adoption range, we apply some assumptions to the numbers in the scenario projections.
+
+To find a high rate of electric car adoption, we assume that every country could reach the highest rate of adoption projected to occur foranycountry. Bloomberg New Energy Finance’s (2024) Economic Transition scenario predicts that Norway will reach an 80% electric vehicle stock share by 2040. We therefore set our high adoption rate at 80% worldwide. This corresponds to 1,617 million total electric cars in use, or 47 trillion pkm traveled by electric car. An important caveat is that with a global supply constraint in the production of electric car batteries, per-country adoption rates are somewhat zero-sum. Every electric car purchased in Norway is one that cannot be purchased elsewhere. Therefore, for the whole world to achieve an 80% electric car stock share, global electric car and battery production would have to increase radically. While this might be possible due to technological improvements or radical increases in investment, it should not be taken for granted.
+
+To identify a lower feasible rate of electric car adoption, we simply take the highest estimate for global electric car adoption. Bloomberg’s Economic Transition scenario predicts 44% global electric car adoption by 2050. This corresponds to 890 million electric cars, or 26 trillion pkm.
+
+Table 7. Range of achievable adoption levels.
+
+Electric cars are currently displacing 0.040GtCO₂‑eq
+ of GHG emissions from the transportation system on a 20-yr basis (Table 8), or 0.040 Gt CO₂‑eq
+ on a 100-yr basis.
+
+If electric cars reach 44% of the global car stock share by 2040, as Bloomberg (2024) projects, without any change in the total number of cars on the road, they will displace 1.263 Gt CO₂‑eq
+ GHG emissions on a 100-yr basis (1.279 Gt CO₂‑eqon a 20-yr basis).
+
+If electric cars globally reach 80% of car stock share, as Bloomberg projects might happen in Norway by 2040, they will displace 2.296 Gt CO₂‑eq
+ GHG emissions on a 100-yr basis (2.325 Gt CO₂‑eq
+ on a 20-yr basis).
+
+If electric cars replace 100% of the global car fleet, they will displace 2.870 Gt CO₂‑eqGHG emissions on a 100-yr basis (2.906 Gt CO₂‑eq
+ on a 20-yr basis).
+
+These numbers are based on the present-day average emissions intensity from electrical grids in countries with high rates of electric car adoption. If moreclean energyis deployed on electricity grids, the total climate impact from electric cars will increase considerably.
+
+Table 8. Climate impact at different levels of adoption.
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Since electric cars do not have tailpipe emissions, they can mitigate traffic-related air pollution, which is associated with asthma, lung cancer, increased emergency department visits for respiratory disease, and increased mortality (Anenberg et al., 2019; Guarnieri & Balmes, 2014; Pan et al., 2023; Pennington et al., 2024; Requia et al., 2018; Szyszkowicz et al., 2018). Transitioning to electric cars can reduce exposure to air pollution, improve health, and prevent premature mortality (Garcia et al., 2023; Larson et al., 2021; Peters et al., 2020).
+
+The health benefits of adopting electric cars vary spatially and partly depend upon how communities generate electricity (Choma et al., 2020), but there is evidence that they have improved health. A study in California found a reduction in emergency department visits in zip codes with an increase in zero-emissions cars (Garcia et al., 2023). By 2050, projections estimate that about 64,000–167,000 deaths could be avoided by adopting electric cars (Larson et al., 2021).
+
+In the United States, communities with higher proportions of racial and ethnic minorities tend to be located near highways and major traffic corridors and so are disproportionately exposed to air pollution (Kerr et al., 2021). Transitioning to electric cars could improve health in marginalized urban neighborhoods that are located near highways, industry, or ports (Pennington et al., 2024). These benefits depend upon an equitable distribution of electric cars and infrastructure to support the adoption of electric cars (Garcia et al., 2023). Low-income households may not see the same savings from an electric car due to the cost and stability of electricity prices and distance to essential services (Vega-Perkins et al., 2023)
+
+Adopting electric cars can reduce a household’s energy burden, or the proportion of income spent on residential energy (Vega-Perkins et al., 2023). About 90% of United States households that use a car could see a reduction in energy burden by transitioning to an electric car. Money spent to charge electric cars is more likely to stay closer to the local community where electricity is generated, whereas money spent on fossil fuels often benefits oil-producing regions. This benefits local and national economies by improving their trade balance (Melaina et al., 2016).
+
+Substituting electric car charging points for gas stations can eliminate soil and water pollution from leaking underground gas tanks (Yoder, 2023).
+
+The adoption of electric cars reduces emissions of air pollutants, includingsulfur oxides,sulfur dioxide, and nitrous oxides, and especiallycarbon monoxideandvolatile organic compounds. It has a smaller impact on particulate emissions (Requia et al., 2018). Some air pollution reductions are limited (particularlyPMand ozone) due to heavier electric cars and pollution from brakes, tires, and wear on the batteries (Carey, 2023; Jones, 2019).
+
+The effectiveness of electric cars in mitigating GHG emissions is critically dependent on the emissions associated with electricity production. In electricity grids dominated by fossil fuels, electric cars have far higher emissions than in jurisdictions with low-emission electricity generation (International Transport Forum [ITF], 2020; Intergovernmental Panel on Climate Change [IPCC], 2022; Milovanoff et al., 2020).
+
+Electric car adoption faces a major obstacle in the form of constraints on battery production. While electric car battery production is being aggressively upscaled (IEA, 2024), building enough batteries to replace a significant fraction of fossil fuel–powered cars is an enormous challenge and will likely slow down a transition to electric cars, even if there is very high consumer demand (Milovanoff et al., 2020).
+
+Mining minerals necessary to produce electric car batteries carries environmental and social risks. This has been associated with significant harms, particularly in lower-income countries that supply many of these minerals (Agusdinata et al., 2018; Sovacool, 2019).
+
+Electric cars might also pose added safety risks due to their higher weight, which means they have longer stopping distances and can cause more significant damage in collisions and to pedestrians and cyclists (Jones, 2019). This risk includes dual-motor electric cars that incorporate two electric motors – one for the front axle and one for the rear – providing all-wheel drive (AWD) capabilities. The addition of a second motor increases the vehicle's weight and complexity, which can lead to higher energy consumption and reduced overall efficiency. Moreover, the increased manufacturing costs associated with dual-motor systems can result in higher purchase prices for consumers (Nguyen et al., 2023). However, this configuration enhances vehicle performance, offering improved acceleration, traction, and handling, particularly in adverse weather conditions, which are valued by some consumers.
+
+Electric car batteries are currently quite emissions-intensive to produce, resulting in high embodied emissions. While the embodied emissions are higher for electric cars than fossil fuel–powered cars, the results are mixed when coupling these with operating emissions. Dillman et al.’s (2020) review of the literature on this topic found that producing the average battery-electric car emits 63% more GHG emissions than the average gasoline-powered car, and 77% more GHG emissions than the average diesel-powered car. Taking their lower tailpipe emissions into account, this gives them a GHG payback period of zero to more than 10 years. In some cases, the emissions payback period is longer than the expected lifespan of the electric car, meaning it will have higher life cycle GHG emissions than a comparable gasoline or diesel-powered car. However, the International Transport Forum (ITF, 2020) found that the lifetime emissions from manufacturing, operation, and infrastructure are lower for electric cars. All of these studies relied on assumptions, including the type of car, size of battery, electricity grid, km/yr, and lifetime.
+
+There is some criticism against any solution that advocates for car ownership, contending that the focus should be on solutions such asEnhance Public Transitthat reduce car ownership and usage. Jones (2019) noted “there is little evidence to suggest that EVs can offer the universal solution that global governments are seeking,” and that efforts to popularize electric cars “may be better directed at creating more efficient public transport systems, rather than supporting personal transportation, if the significant health disbenefits of car use during the past 150 years are to be in any way reduced.”
+
+Milovanoff et al. (2020) offered similar criticism: “Closing the mitigation gap solely with EVs would require more than 350 million on-road EVs (90% of the fleet), half of national electricity demand, and excessive amounts of critical materials to be deployed in 2050. Improving [the] average fuel consumption of fossil fuel–powered vehicles, with stringent standards and weight control, would reduce the requirement for alternative technologies, but is unlikely to fully bridge the mitigation gap. There is therefore a need for a wide range of policies that include measures to reduce vehicle ownership and usage.”
+
+Allocating the limited global battery supply to privately owned electric cars might undermine the deployment of other solutions that also require batteries, but are more effective at avoiding GHG emissions (Castelvecchi, 2021). These could include electric buses, electric rail, and electric bicycles.
+
+Electric car batteries can potentially be used as stationary batteries for use as energy storage to balance electrical grids, either through vehicle-to-grid (V2G) technology or with degraded electric car batteries being installed in stationary battery farms as a form of reuse (Ravi & Aziz, 2022).
+
+The effectiveness of electric cars in reducing GHG emissions increases as electricity grids become cleaner, since lower-carbon electricity further reduces the emissions associated with car charging.
+
+Deploy Utility-Scale Solar PV
+
+Deploy Distributed Solar PV
+
+Deploy Onshore Wind Turbines
+
+Deploy Offshore Wind Turbines
+
+Improve Grid Efficiency
+
+Electric cars compete with heat pumps for electricity. Installing both heat pumps and electric cars could strain the electric grid’s capacity (Fakhrooeian et al., 2024).
+
+Getting travelers onto bicycles, sidewalks, public transit networks, or smaller electric vehicles (such as electric bicycles) provides a greater climate benefit than getting them into electric cars. There is an opportunity cost to deploying electric cars because those resources could otherwise be used to support these more effective solutions (APEC, 2024).
+
+Improve Nonmotorized Transportation
+
+Enhance Public Transit
+
+Enhance High-Speed Rail
+
+Mobilize Electric Bicycles
+
+Mobilize Electric Scooters & Motorcycles
+
+Mobilize Electric Trains
+
+
+## Consensus of effectiveness in reducing emissions: Mixed
+
+
+There is a high level of consensus among major organizations and researchers working on climate solutions that electric cars offer a substantial reduction in GHG emissions compared to fossil fuel–powered cars. This advantage is strongest in places where electricity in the grid comes from sources with low GHG emissions, but it persists even if fossil fuels play a major role in energy production.
+
+Major climate research organizations generally see electric cars as the primary means of reducing GHG emissions from passenger transportation. This perspective has received criticism from some scholars who argue that electric cars have been overstated as a climate solution, pointing to supply constraints, embodied emissions, and emissions from electricity generation (Jones, 2019; Milovanoff et al., 2020). Embodied emissions are outside the scope of this assessment.
+
+The IPCC (2022) estimated well-to-wheel (upstream and downstream emissions) GHG emissions intensity from gasoline and diesel cars at 139 g CO₂‑eq/pkm and 107 g CO₂‑eq/pkm, respectively. They estimated that electric cars running on low-carbon electricity (solar, wind, and nuclear sourced) emit 9 g CO₂‑eq/pkm; electric cars running onnatural gaselectricity emit 104 g CO₂‑eq/pkm; and electric cars running entirely on coal electricity emit 187 g CO₂‑eq/pkm. These estimates include upstream emissions, such as those from oil refining and coal mining.
+
+The IEA (2024) noted that “[a] battery electric car sold in 2023 will emit half as much as fossil fuel–powered equivalents over its lifetime. This includes fulllife-cycle emissions, including those from producing the car.”
+
+The ITF (2020) estimated that fossil fuel–powered cars emit 162 g CO₂‑eq/pkm, while electric cars emit 125 g CO₂‑eq/pkm. This included embodied and upstream emissions, which are outside the scope of this assessment.
+
+The results presented in this document summarize findings from 15 reviews and meta-analyses and 24 original studies reflecting current evidence from 52 countries, primarily the IEA’s Electric Vehicle Outlook (2024), the Electric Vehicle Database (2024), the International Transportation Forum’s life cycle analysis on sustainable transportation (2020), and the Nickel Institute’s cost estimates on electric cars (Nickel Institute, 2021a, 2021b, 2021c). We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Create government procurement policies to transition government fleets to electric cars.
+
+Provide financial incentives such as tax breaks, subsidies, or grants for electric car production and purchases that gradually reduce as market adoption increases.
+
+Provide complimentary benefits for electric car drivers, such as privileged parking areas, free tolls, and access schemes.
+
+Use targeted financial incentives to assist low-income communities in purchasing electric cars and to incentivize manufacturers to produce more affordable options.
+
+Develop charging infrastructure, ensuring adequate spacing between stations and equitable distribution of stations.
+
+Invest inR&Dor implement regulations to improve manufacturing, adoption,supply chainstandards, and circularity of electric cars, particularly batteries.
+
+Transition fossil fuel electricity production to renewables while promoting the transition to electric cars.
+
+Disincentivize fossil fuel–powered car ownership by gradually introducing taxes, penalties, buy-back programs, or other mechanisms.
+
+Offer educational resources and one-stop shops for information on electric vehicles, including demonstrations, cost savings, environmental impact, and maintenance.
+
+Work with industry and labor leaders to construct new electric car plants and to transition fossil fuel–powered car manufacturing into electric car production.
+
+Set regulations for sustainable use of electric car batteries and improve recycling infrastructure.
+
+Join international efforts to promote and ensure that environmental and human rights standards are met for supply chains.
+
+Incentivize or mandate life-cycle assessments and product labeling (e.g., Environmental Product Declarations).
+
+Create, support, or join partnerships that offer information, training, and general support for electric car adoption.
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+Electric vehicles: total cost of ownership tool. International Energy Agency (2022)
+
+Policies to promote electric vehicle deployment. International Energy Agency (2021)
+
+Government Relations and Public Policy Job Function Action Guide. Project Drawdown (2022)
+
+Legal Job Function Action Guide. Project Drawdown (2022)
+
+Produce and sell affordable electric car models.
+
+Collaborate with dealers to provide incentives, low-interest financing, or income-based payment options.
+
+Develop charging infrastructure, ensuring adequate spacing between stations and equitable distribution of stations.
+
+Invest in R&D to improve manufacturing, adoption, supply chain standards, and circularity of electric cars, particularly batteries.
+
+Offer educational resources and one-stop shops for information on electric cars, including demonstrations, cost savings, environmental impact, and maintenance.
+
+Work with policymakers and labor leaders to construct new electric car plants and to transition fossil fuel–powered car manufacturing into electric car production.
+
+Join international efforts to promote and ensure that environmental and human rights standards are met for supply chains.
+
+Invest in recycling andcircular economyinfrastructure.
+
+Conduct life-cycle assessments and ensure product labeling (e.g., Environmental Product Declarations).
+
+Create, support, or join partnerships that offer information, training, and general support for electric car adoption.
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+Electric vehicles: total cost of ownership tool. International Energy Agency (2022)
+
+Policies to promote electric vehicle deployment. International Energy Agency (2021)
+
+Set company procurement policies to transition corporate fleets to electric cars.
+
+Take advantage of any financial incentives such as tax breaks, subsidies, or grants for electric car purchases.
+
+Create long-term purchasing agreements with electric car manufacturers to support stable demand and improve economies of scale.
+
+Install charging stations and offer employee benefits for electric car drivers, such as privileged parking areas.
+
+Invest in R&D to improve manufacturing, adoption, supply chain standards, and circularity of electric cars, particularly batteries.
+
+Work with industry and labor leaders to transition fossil fuel–powered car manufacturing into electric car production.
+
+Advocate for financial incentives and policies that promote electric car adoption.
+
+Join international efforts to promote and ensure that environmental and human rights standards are met for supply chains.
+
+Educate customers andinvestorsabout the company's transition to electric cars and encourage them to learn more about them.
+
+Create, support, or join partnerships that offer information, training, and general support for electric car adoption.
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+Electric vehicles: total cost of ownership tool. International Energy Agency (2022)
+
+Policies to promote electric vehicle deployment. International Energy Agency (2021)
+
+Climate Solutions at Work. Project Drawdown (2021)
+
+Drawdown-Aligned Business Framework. Project Drawdown (2021)
+
+Set organizational procurement policies to transition fleets to electric cars.
+
+Take advantage of financial incentives such as tax breaks, subsidies, or grants for electric car purchases.
+
+Advocate for financial incentives and policies that promote electric car adoption.
+
+Install charging stations and offer employee benefits for electric car drivers, such as privileged parking areas.
+
+Advocate for or provide improved charging infrastructure.
+
+Offer workshops or support to low-income communities for purchasing and owning electric cars.
+
+Work with industry and labor leaders to transition fossil fuel–powered car manufacturing into electric car production.
+
+Join international efforts to promote and ensure that environmental and human rights standards are met for supply chains.
+
+Advocate for regulations on lithium-ion batteries and investments in recycling facilities.
+
+Offer educational resources and one-stop shops for information on electric cars, including demonstrations, cost savings, environmental impact, and maintenance.
+
+Create, support, or join partnerships that offer information, training, and general support for electric car adoption.
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+Electric vehicles: total cost of ownership tool. International Energy Agency (2022)
+
+Policies to promote electric vehicle deployment. International Energy Agency (2021)
+
+Government Relations and Public Policy Job Function Action Guide. Project Drawdown (2022)
+
+Invest in electric car companies.
+
+Support portfolio companies in transitioning their corporate fleets.
+
+Invest in companies that provide charging equipment or installation.
+
+Invest in R&D to improve manufacturing, adoption, supply chain standards, and circularity of electric cars, particularly batteries.
+
+Invest in electric car companies, associated supply chains, and end-user businesses like rideshare apps.
+
+Join international efforts to promote and ensure that environmental and human rights standards are met for supply chains.
+
+Create, support, or join partnerships that offer information, training, and general support for electric car adoption.
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+Electric vehicles: total cost of ownership tool. International Energy Agency (2022)
+
+Policies to promote electric vehicle deployment. International Energy Agency (2021)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Set organizational procurement policies to transition fleets to electric cars.
+
+Install charging stations and offer employee benefits for electric car drivers, such as privileged parking areas.
+
+Take advantage of any financial incentives such as tax breaks, subsidies, or grants for electric car purchases.
+
+Advocate for financial incentives and policies that promote electric car adoption.
+
+Advocate for or provide improved charging infrastructure.
+
+Offer financial services such as low-interest loans or grants for purchasing electric cars and charging equipment.
+
+Offer workshops or support to low-income communities for purchasing and owning electric cars.
+
+Work with industry and labor leaders to transition fossil fuel–powered car manufacturing into electric car production.
+
+Join international efforts to promote and ensure that environmental and human rights standards are met for supply chains.
+
+Advocate for regulations on lithium-ion batteries and investments in recycling facilities.
+
+Offer educational resources and one-stop shops for information on electric cars, including demonstrations, cost savings, environmental impact, and maintenance.
+
+Create, support, or join partnerships that offer information, training, and general support for electric car adoption.
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+Electric vehicles: total cost of ownership tool. International Energy Agency (2022)
+
+Policies to promote electric vehicle deployment. International Energy Agency (2021)
+
+Government Relations and Public Policy Job Function Action Guide. Project Drawdown (2022)
+
+If purchasing a new car, buy an electric car.
+
+Take advantage of financial incentives such as tax breaks, subsidies, or grants for electric car purchases.
+
+Share your experiences with electric cars through social media and peer-to-peer networks, highlighting the cost savings, benefits, incentive programs, and troubleshooting tips.
+
+Advocate for financial incentives and policies that promote electric car adoption.
+
+Advocate for improved charging infrastructure.
+
+Help improve the circularity of electric car supply chains through design, advocacy, or implementation.
+
+Conduct in-depth life-cycle assessments of electric cars in particular geographies.
+
+Research ways to reduce weight and improve the performance of electric cars while appealing to customers.
+
+Join international efforts to promote and ensure that environmental and human rights standards are met for supply chains.
+
+Create, support, or join partnerships that offer information, training, and general support for electric car adoption.
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+Electric vehicles: total cost of ownership tool. International Energy Agency (2022)
+
+Policies to promote electric vehicle deployment. International Energy Agency (2021)
+
+
+## Technologists and Researchers
+
+
+Improve the circularity of supply chains for electric car components.
+
+Reduce the amount of critical minerals required for electric car batteries.
+
+Innovate low-cost methods to improve safety, labor standards, and supply chains in mining for critical minerals.
+
+Research ways to reduce weight and improve the performance of electric cars while appealing to customers.
+
+Develop vehicle-grid integration and feasible means of using the electrical capacity of electric cars to manage the broader grid.
+
+Improve techniques to repurpose used electric car batteries for stationary energy storage.
+
+Develop methods of converting fossil fuel–powered car manufacturing and infrastructure to electric.
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+Electric vehicles: total cost of ownership tool. International Energy Agency (2022)
+
+Policies to promote electric vehicle deployment. International Energy Agency (2021)
+
+
+## Communities, Households, and Individuals
+
+
+If purchasing a new car, purchase an electric car.
+
+Take advantage of any financial incentives such as tax breaks, subsidies, or grants for electric car purchases.
+
+Share your experiences with electric cars through social media and peer-to-peer networks, highlighting the cost-savings, benefits, incentive programs, and troubleshooting tips.
+
+Help shift the narrative around electric cars by demonstrating capability and performance.
+
+Advocate for financial incentives and policies that promote electric car adoption.
+
+Advocate for improved charging infrastructure.
+
+Help improve ciricularity of electric car supply chains.
+
+Join international efforts to promote and ensure that environmental and human rights standards are met for supply chains.
+
+Create, support, or join partnerships that offer information, training, and general support for electric car adoption.
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+Electric vehicles: total cost of ownership tool. International Energy Agency (2022)
+
+Policies to promote electric vehicle deployment. International Energy Agency (2021)
+
+
+## “Take Action” Sources
+
+
+Electric vehicle outlook 2024. Bloomberg New Energy Finance (2024)
+
+The other benefit of electric vehicles. Carey (2023)
+
+Electric cars and batteries: how will the world produce enough?Castelvecchi (2021)
+
+Review and meta-analysis of EVs: embodied emissions and environmental breakeven. Dillman (2020)
+
+Electric vehicles: total cost of ownership tool. International Energy Agency (2022)
+
+Policies to promote electric vehicle deployment. International Energy Agency (2021)
+
+If electric cars are the answer, what was the question?Jones (2019)
+
+Technological learning in the transition to a low-carbon energy system. Kittner (2020)
+
+Electrification of light-duty vehicle fleet alone will not meet mitigation targets. Milovanoff (2020)
+
+Assessing and managing the direct and indirect emissions from electric and fossil-powered vehicles. Mofolasayo (2023)
+
+Assessing the effectiveness of city-level electric vehicle policies in China. Qiu et al. (2019)
+
+Utilization of electric vehicles for vehicle-to-grid services: progress and perspectives. Ravi (2022)
+
+Hidden delays of climate mitigation benefits in the race for electric vehicle deployment. Ren (2023)
+
+Evaluating electric vehicle policy effectiveness and equity. Sheldon (2022).
+
+The precarious political economy of cobalt: Balancing prosperity, poverty, and brutality in artisanal and industrial mining in the Democratic Republic of the Congo. Sovacool (2019)
+
+Mapping electric vehicle impacts: greenhouse gas emissions, fuel costs, and energy justice in the United States. Vega-Perkins (2023)
+
+Life cycle assessment of electric vehicles in comparison to combustion engine vehicles: a review. Verma (2022)
+
+Methods and Supporting Data
+
+APEC. (2024). Connecting Traveler Choice with Climate Outcomes: Innovative Greenhouse Gas Emissions Reduction Policies and Practices in the APEC Region through Traveler Behavioral Change.Link to source:https://www.apec.org/publications/2024/09/connecting-traveler-choice-with-climate-outcomes--innovative-greenhouse-gas-emissions-reduction-policies-and-practices-in-the-apec-region-through-traveler-behavioral-change
+
+Agusdinata, D. B., Liu, W., Eakin, H., & Romero, H. (2018). Socio-environmental impacts of lithium mineral extraction: Towards a research agenda.Environmental Research Letters,13(12). Scopus.Link to source:https://doi.org/10.1088/1748-9326/aae9b1
+
+Anenberg, S. C., Miller, J., Henze, D., & Minjares, R. (2019, February 26). A global snapshot of the air pollution-related health impacts of transportation sector emissions in 2010 and 2015.International Council on Clean Transportation.Link to source:https://theicct.org/publication/a-global-snapshot-of-the-air-pollution-related-health-impacts-of-transportation-sector-emissions-in-2010-and-2015/
+
+Bloomberg New Energy Finance. (2024).Electric Vehicle Outlook 2024. Bloomberg.Link to source:https://about.bnef.com/electric-vehicle-outlook/
+
+Carey, J. (2023). The other benefit of electric vehicles.Proceedings of the National Academy of Sciences,120(3), e2220923120.Link to source:https://doi.org/10.1073/pnas.2220923120
+
+Castelvecchi, D. (2021). Electric cars and batteries: How will the world produce enough?Nature,596(7872), 336–339.Link to source:https://doi.org/10.1038/d41586-021-02222-1
+
+Choma, E. F., Evans, J. S., Hammitt, J. K., Gómez-Ibáñez, J. A., & Spengler, J. D. (2020). Assessing the health impacts of electric vehicles through air pollution in the United States.Environment International,144, 106015.Link to source:https://doi.org/10.1016/j.envint.2020.106015
+
+Dillman, K. J., Árnadóttir, Á., Heinonen, J., Czepkiewicz, M., & Davíðsdóttir, B. (2020). Review and Meta-Analysis of EVs: Embodied Emissions and Environmental Breakeven.Sustainability,12(22), Article 22.Link to source:https://doi.org/10.3390/su12229390
+
+Electric vehicle database. (2024).Energy consumption of full electric vehicles. Electric Vehicle Database.Link to source:https://ev-database.org/cheatsheet/energy-consumption-electric-car
+
+Fakhrooeian, P., Pitz, V., & Scheppat, B. (2024). Systematic Evaluation of Possible Maximum Loads Caused by Electric Vehicle Charging and Heat Pumps and Their Effects on Common Structures of German Low-Voltage Grids.World Electric Vehicle Journal,15(2), 49.Link to source:https://doi.org/10.3390/wevj15020049
+
+Garcia, E., Johnston, J., McConnell, R., Palinkas, L., & Eckel, S. P. (2023). California’s early transition to electric vehicles: Observed health and air quality co-benefits.The Science of the Total Environment,867, 161761.Link to source:https://doi.org/10.1016/j.scitotenv.2023.161761
+
+Goetzel, N., & Hasanuzzaman, M. (2022). An empirical analysis of electric vehicle cost trends: A case study in Germany.Research in Transportation Business & Management,43, 100825.Link to source:https://doi.org/10.1016/j.rtbm.2022.100825
+
+Guarnieri, M., & Balmes, J. R. (2014). Outdoor air pollution and asthma.Lancet,383(9928), 1581–1592.Link to source:https://doi.org/10.1016/S0140-6736(14)60617-6
+
+IEA. (2022).Electric Vehicles: Total Cost of Ownership Tool. IEA.Link to source:https://www.iea.org/data-and-statistics/data-tools/electric-vehicles-total-cost-of-ownership-tool
+
+IEA. (2024).Global EV Outlook 2024. International Energy Agency.Link to source:https://www.iea.org/reports/global-ev-outlook-2024
+
+International Council on Clean Transportation. (2024). Clearing the air: Why EVs can outperform conventional vehicles in freezing temperatures.International Council on Clean Transportation.Link to source:https://theicct.org/clearing-the-air-why-evs-can-outperform-conventional-vehicles-in-freezing-temperatures-oct24/
+
+International Transport Forum. (2020).Good to Go? Assessing the Environmental Performance of New Mobility(Corporate Partnership Board). OECD.Link to source:https://www.itf-oecd.org/sites/default/files/docs/environmental-performance-new-mobility.pdf
+
+IPCC. (2022).Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge.Link to source:https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_FullReport.pdf
+
+Jones, S. J. (2019). If electric cars are the answer, what was the question?British Medical Bulletin,129(1), 13–23.Link to source:https://doi.org/10.1093/bmb/ldy044
+
+Kerr, G. H., Goldberg, D. L., & Anenberg, S. C. (2021). COVID-19 pandemic reveals persistent disparities in nitrogen dioxide pollution.Proceedings of the National Academy of Sciences,118(30), e2022409118.Link to source:https://doi.org/10.1073/pnas.2022409118
+
+Kittner, N., Tsiropoulos, I., Tarvydas, D., Schmidt, O., Staffell, I., & Kammen, D. M. (2020). Chapter 9—Electric vehicles. In M. Junginger & A. Louwen (Eds.),Technological Learning in the Transition to a Low-Carbon Energy System(pp. 145–163). Academic Press.Link to source:https://doi.org/10.1016/B978-0-12-818762-3.00009-1
+
+Larson, E., Grieg, C., Jenkins, J., Mayfield, E., Pascale, A., Zhang, C., Drossman, J., Williams, R., Pacala, S., Socolow, R., Baik, E., Birdesy, R., Duke, R., Jones, R., Haley, B., Leslie, E., Paustain, K., & Swan, A. (2021).Net-Zero America: Potential Pathways, Infrastructure, and Impacts. Princeton University.Link to source:https://lpdd.org/resources/princeton-report-net-zero-america/
+
+Melaina, M., Bush, B., Eichman, J., Wood, E., Stright, D., Krishnan, V., Keyser, D., Mai, T., & McLaren, J. (2016).National Economic Value Assessment of Plug-in Electric Vehicles: Volume I(No. NREL/TP-5400-66980). National Renewable Energy Lab. (NREL), Golden, CO (United States).Link to source:https://doi.org/10.2172/1338175
+
+Milovanoff, A., Posen, I. D., & MacLean, H. L. (2020). Electrification of light-duty vehicle fleet alone will not meet mitigation targets.Nature Climate Change, 1–6.Link to source:https://doi.org/10.1038/s41558-020-00921-7
+
+Mofolasayo, A. (2023). Assessing and Managing the Direct and Indirect Emissions from Electric and Fossil-Powered Vehicles.Sustainability,15(2), Article 2.Link to source:https://doi.org/10.3390/su15021138
+
+Nguyen, C. T. P., Nguyễn, B.-H., Ta, M. C., & Trovão, J. P. F. (2023). Dual-Motor Dual-Source High Performance EV: A Comprehensive Review.Energies,16(20), Article 20.Link to source:https://doi.org/10.3390/en16207048
+
+Nickel Institute. (2021a).Asia Pacific and UK Automotive ICE vs EV Total Cost of Ownership.Link to source:https://nickelinstitute.org/media/8d993d1b8165b23/tco-asia-pacific-automotive.pdf
+
+Nickel Institute. (2021b).European Union and UK Automotive ICE vs EV Total Cost of Ownership.Link to source:https://nickelinstitute.org/media/8d9058c08d2bcf2/avicenne-study-tco-eu-and-uk-automotive.pdf
+
+Nickel Institute. (2021c).North American Automotive ICE vs EV Total Cost of Ownership.Link to source:https://nickelinstitute.org/media/8d993d0fd3dfd5b/tco-north-american-automotive-final.pdf
+
+Pan, S., Yu, W., Fulton, L. M., Jung, J., Choi, Y., & Gao, H. O. (2023). Impacts of the large-scale use of passenger electric vehicles on public health in 30 US. metropolitan areas.Renewable and Sustainable Energy Reviews,173, 113100.Link to source:https://doi.org/10.1016/j.rser.2022.113100
+
+Pennington, A. F., Cornwell, C. R., Sircar, K. D., & Mirabelli, M. C. (2024). Electric vehicles and health: A scoping review.Environmental Research,251, 118697.Link to source:https://doi.org/10.1016/j.envres.2024.118697
+
+Peters, D. R., Schnell, J. L., Kinney, P. L., Naik, V., & Horton, D. E. (2020). Public health and climate benefits and trade‐offs of U.S. vehicle electrification. GeoHealth, 4, e2020GH000275.Link to source:https://doi.org/10.1029/2020GH000275
+
+Ravi, S. S., & Aziz, M. (2022). Utilization of Electric Vehicles for Vehicle-to-Grid Services: Progress and Perspectives.Energies,15(2), Article 2.Link to source:https://doi.org/10.3390/en15020589
+
+Ren, Y., Sun, X., Wolfram, P., Zhao, S., Tang, X., Kang, Y., Zhao, D., & Zheng, X. (2023). Hidden delays of climate mitigation benefits in the race for electric vehicle deployment.Nature Communications,14(1), 3164.Link to source:https://doi.org/10.1038/s41467-023-38182-5
+
+Requia, W. J., Mohamed, M., Higgins, C. D., Arain, A., & Ferguson, M. (2018). How clean are electric vehicles? Evidence-based review of the effects of electric mobility on air pollutants, greenhouse gas emissions and human health.Atmospheric Environment,185, 64–77.Link to source:https://doi.org/10.1016/j.atmosenv.2018.04.040
+
+Roberts, C. (2022). Easy Street for Low-Carbon Mobility? The Political Economy of Mass Electric Car Adoption. In G. Parkhurst & W. Clayton (Eds.),Electrifying Mobility: Realising a Sustainable Future for the Car(Vol. 15, pp. 13–31). Emerald Publishing Limited.Link to source:https://doi.org/10.1108/S2044-994120220000015004
+
+Sovacool, B. K. (2019). The precarious political economy of cobalt: Balancing prosperity, poverty, and brutality in artisanal and industrial mining in the Democratic Republic of the Congo.The Extractive Industries and Society,6(3), 915–939.Link to source:https://doi.org/10.1016/j.exis.2019.05.018
+
+Szyszkowicz, M., Kousha, T., Castner, J., & Dales, R. (2018). Air pollution and emergency department visits for respiratory diseases: A multi-city case crossover study.Environmental Research,163, 263–269.Link to source:https://doi.org/10.1016/j.envres.2018.01.043
+
+Vega-Perkins, J., Newell, J. P., & Keoleian, G. (2023). Mapping electric vehicle impacts: Greenhouse gas emissions, fuel costs, and energy justice in the United States.Environmental Research Letters,18(1), 014027.Link to source:https://doi.org/10.1088/1748-9326/aca4e6
+
+Verma, S., Dwivedi, G., & Verma, P. (2022). Life cycle assessment of electric vehicles in comparison to combustion engine vehicles: A review.Materials Today: Proceedings,49, 217–222.Link to source:https://doi.org/10.1016/j.matpr.2021.01.666
+
+Weiss, M., Dekker, P., Moro, A., Scholz, H., & Patel, M. K. (2015). On the electrification of road transportation – A review of the environmental, economic, and social performance of electric two-wheelers.Transportation Research Part D: Transport and Environment,41, 348–366.Link to source:https://doi.org/10.1016/j.trd.2015.09.007
+
+WHO. (2024).Number of registered vehicles.Link to source:https://www.who.int/data/gho/data/indicators/indicator-details/GHO/number-of-registered-vehicles
+
+Yang, C., Sun, T., Wang, W., Li, Y., Zhang, Y., & Zha, M. (2024). Regenerative braking system development and perspectives for electric vehicles: An overview.Renewable and Sustainable Energy Reviews,198, 114389.Link to source:https://doi.org/10.1016/j.rser.2024.114389
+
+Yoder, K. (2023, June 14). The environmental disaster lurking beneath your neighborhood gas station.Grist.Link to source:https://grist.org/accountability/gas-stations-underground-storage-tank-leaks-environmental-disaster/
+
+Cameron Roberts, Ph.D.
+
+Cameron Roberts, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

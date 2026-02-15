@@ -1,0 +1,705 @@
+# Use Heat Pumps
+Source: https://drawdown.org/explorer/use-heat-pumps
+
+Methods and Supporting Data
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Heat pumps use electricity to efficiently move heat from one place to another. This solution focuses on the replacement offossil fuel–based heating systems with electric heat pumps. Heat pumps are remarkably efficient because they collect heat from the outside air, ground, or water using arefrigerantand use a pump to move the heat into buildings to keep them warm in colder months. Heat pumps typically replace heating systems such as boilers, furnaces, and electric resistance heaters. Many will also replace air conditioners, because the same pump can move heat out of a building in warmer months.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Heat pumps use a refrigerant cycle to move heat. When the liquid refrigerant enters a low pressure environment, it absorbs heat from the surrounding air (air-source heat pumps), water, or ground (ground-source heat pumps) as it evaporates. When the refrigerant vapor is compressed, it condenses back into a liquid, releasing the stored heat into the building. By passing the refrigerant through this cycle, a heat pump can move heat from outside to inside a building.
+
+Absorbing heat from the outside gets more difficult as temperatures drop. However, modern cold-climate heat pumps are designed to work effectively at temperatures approaching –30 °C (–22 °F) (Gibb et al., 2023). The freezer in your home uses the same technology, moving heat out of the cold box into the warm room to keep your food frozen. In most systems, the refrigerant cycle in a heat pump can be reversed in warmer months, moving heat out of a building to ensure its occupants are comfortable year-round.
+
+Heat pumps are very efficient at using electricity for heating. This is because they move heat rather than generating heat (e.g., by combustion). For example, a heat pump may have aseasonal coefficient of performance(SCOP) of 3, meaning it can move an average of three units of heat energy for every unit of electrical energy that it consumes. Conventional combustion and electric resistance heaters cannot produce more than one unit of heat energy for every unit of fuel energy or electrical energy provided.
+
+Heat pump systems may be all-electric or hybrid, where a secondary fossil fuel-based heating system takes over in colder weather.
+
+A heat pump’s potential to reduceGHGemissions depends on the heating source it replaces and theemissions intensityof the electricity used to run it. When heat pumps replace fossil fuel-based heating, they displace the GHG emissions – primarilyCO₂– generated when the fuel is burned. When replacing electric resistance heaters, heat pumps reduce the GHG emissions from the electricity to power the system because heat pumps are much more energy efficient. As electrical gridsdecarbonize, the GHG emissions from operating heat pumps will decrease.
+
+All-electric heat pumps provide the most climate benefit because they can be powered withclean energy, but hybrid heat pumps also play an important emissions-reduction role. Hybrids consist of a smaller electric heat pump system that switches to fuel-based heating systems in colder weather. They may be attractive due to lower up-front costs and because they have lower peak power demand on cold days, but hybrids also have a smaller emissions impact. Our cost and emissions analyses assumed all-electric air-source heat pumps, while the data used in the adoption analysis included all types of heat pumps with the expectation that all-electric versions will dominate in the longer term.
+
+In this analysis, we calculatedeffectivenessand cost outcomes from specific countries with high heat-pump adoption (European countries, Canada, the United States, Japan, and China) to avoid comparing research studies that use different assumptions. The analysis used global assumptions for heating system efficiency: 90% for fueled systems (International Gas Union, 2019), 100% for electric resistance (U.S. Department of Energy [U.S. DOE], n.d.), and SCOP of 3 for heat pumps (Crownhart, 2023). We also assumed all existing fueled systems usenatural gas, which is currently the dominant fossil fuel used for space heating globally (International Energy Agency [IEA], 2023b). The analysis did not include emissions or costs from cooling but did assume the heat pump is replacing both a heating and cooling system.
+
+The cost and effectiveness analyses focused on residential heating systems due to availability of data and also because large variations in the cost and size of commercial systems make it more challenging to estimate their global impacts. Commercial heating systems are typically larger than residential systems, and their emissions impacts are expected to be proportionally greater per unit. Cost savings may be different due the greater complexity of heating and cooling systems (Tejani & Toshniwal, 2023). Available data on heat pump adoption, on the other hand, typically include both residential and commercial units. Our adoption analysis therefore included both residential and commercial buildings, with greater adoption assumed in the residential sector.
+
+
+## What could cause effectiveness to change?
+
+
+This value reflects the expert estimates of heat pump systems’ effectiveness at addressing climate change. Effectiveness can vary based on the regional electricity mix, climate, types of heating systems, as well as other factors.
+
+This is the mean of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used mean values from expert estimates to determine current adoption (the slider’s low value) and a high estimate for achievable adoption by 2050 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2050.
+
+This is the high end of the range for estimated achievable adoption by 2050.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+In this solution, heat pumps replace space-heating options that rely on fossil fuels. This primarily applies to North America, Asia, and Europe. Limited data are available for some regions, so this analysis focuses on European countries, Canada, the United States, Japan and China.
+
+The effectiveness of heat pumps at reducing GHG emissions is influenced by the heating needs of the region and the generation mix of the electricity grid. Areas with higher heating needs will generally show greater emissions reduction because more energy is needed to keep buildings warm. However, this is partially offset because heat pumps are less energy efficient on colder days. The local electricitygrid mixmatters because heat pumps are powered by electricity. Given the same outside temperature, regions with a largely emissions-free grid (e.g., France or Canada) will have higher emissions impacts from heat pump adoption than areas where electricity is  largely generated from fossil fuels (e.g., China). The type of heat pumps (all-electric vs. hybrid) best suited to each region depends on technological and economic factors.
+
+Heating degree days are a measure of total space heating demand to maintain an indoor temperature above 18 °C.
+
+Copernicus Climate Change Service. (2023).ERA5 hourly data on single levels from 1940 to present[Data set]. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). Retrieved January 13, 2026 fromLink to source:https://doi.org/10.24381/cds.adbb2d47
+
+Hersbach, H., Bell, B., Berrisford, P., Hirahara, S., Horányi, A., Muñoz‐Sabater, J., Nicolas, J., Peubey, C., Radu, R., Schepers, D., Simmins, A., Soci, C., Abdalla, S., Abellan, X., Balsamo, G., Bechtold, P., Biavati, G., Bidlot, J., Bonavita, M., … Thépaut, J. N. (2020). The ERA5 global reanalysis.Quarterly Journal of the Royal Meteorological Society, 146(730), 1999–2049.Link to source:https://doi.org/10.1002/qj.3803
+
+Heating degree days are a measure of total space heating demand to maintain an indoor temperature above 18 °C.
+
+Copernicus Climate Change Service. (2023).ERA5 hourly data on single levels from 1940 to present[Data set]. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). Retrieved January 13, 2026 fromLink to source:https://doi.org/10.24381/cds.adbb2d47
+
+Hersbach, H., Bell, B., Berrisford, P., Hirahara, S., Horányi, A., Muñoz‐Sabater, J., Nicolas, J., Peubey, C., Radu, R., Schepers, D., Simmins, A., Soci, C., Abdalla, S., Abellan, X., Balsamo, G., Bechtold, P., Biavati, G., Bidlot, J., Bonavita, M., … Thépaut, J. N. (2020). The ERA5 global reanalysis.Quarterly Journal of the Royal Meteorological Society, 146(730), 1999–2049.Link to source:https://doi.org/10.1002/qj.3803
+
+Our analysis showed that each all-electric residential heat pump for space heating reduces emissions by an average of 0.95tCO₂‑eq/heat pump system/yr(20-yr and100-yr basis, Table 1).
+
+Heat pumps reduce emissions by reducing the amount of fossil fuels burned for space heating or by reducing the use of less efficient electric resistance heating. Operating a heat pump generates no on-site emissions except refrigerant leaks, which are addressed by theImprove Refrigerant Managementsolution. Our analysis included the emissions from the electricity used to power heat pumps. Thus, the emissions reduction from heat pump adoption is expected to improve as electricity generation incorporates morerenewableenergy (Knobloch et al., 2020).
+
+There are significant regional differences in heat pump effectiveness due to the electricity mix, climate, and types of heating systems used today (Knobloch et al., 2020). The global average is weighted based on regional heating requirements and existing heating technologies.
+
+We did not quantify the reduction in pollutants such asnitrogen oxides,sulfur oxides, andparticulate matter, which are released when fossil fuels are burned for space heating. We also refrained from estimating the global warming impacts of refrigerant leaks associated with the use of heat pumps, which is addressed by ourImprove Refrigerant Managementsolution, or natural gas leaks associated with the use of fossil fuels for heating.
+
+Table 1. Effectiveness at reducing emissions from space heating.
+
+Unit: t CO₂‑eq/heat pump system/yr, 100-yr basis
+
+A residential air-source heat pump has a mean initial installed cost of US$6,800 and an estimated US$540/yr operational cost for heating. Over a 15-year lifespan, this results in a net cost of US$990/yr. A heat pump generally replaces both a heating and cooling system with a combined mean installed cost of US$5,300. Operating a baseline heating system costs US$830/yr (operational cooling cost was not included in this analysis). Over a 15-year lifespan, the baseline case has a net cost of US$1,180/yr. This results in a net US$190 savings for households that switch to a heat pump. This translates to US$200 savings/t CO₂‑eq
+ reduced (Table 2).
+
+These values include the average annual cost to operate the equipment for heating and the annualized up-front cost of a heat pump relative to both a heating and cooling system that it replaces. There can be significant variability in the up-front cost of equipment based on the type of heat pump installed, the size of the building, and the climate in which it is designed to operate. We assumed the cost to operate the equipment for cooling to be the same with heat pumps and the air conditioners they replace.
+
+There are significant regional differences in the operational cost of heating systems due to climate, utility rates, and the heating systems in use today. The global average outcomes described here are weighted averages from Europe, Canada, the United States, China, and Japan based on regional heating requirements and existing heating technologies.
+
+Utility cost estimates are from June 2023 (Global Petrol Prices, 2024) and may vary substantially over time due to factors such as volatile fossil fuel prices, changing carbon prices, and heat pump incentives. Additional installation costs, such as upgrades to electrical systems, ductwork, or radiators, are not included.
+
+Table 2. Cost per unit climate impact. Negative values reflect cost savings.
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+Insufficient data exist to quantify thelearning curvefor heat pumps.
+
+The cost of installing a heat pump includes both equipment costs and the labor cost of installation. According to the U.S. Energy Information Administration ([U.S. EIA] 2023), retail equipment costs are 60–80% of the total installed cost of residential air-source heat pumps (central and ductless).
+
+Equipment costs can decrease with economies of scale and as local markets mature, but may be confounded by technological advances as well as equipment and/or refrigerant regulations that can also increase costs (IEA, 2022). European estimated learning rates for heat pump equipment costs range from 3.3% for ground-source heat pumps (Renaldi et al., 2021) to 18% for air-source heat pumps (Jakob et al., 2020). Ease and cost of installation is a research and development goal for manufacturers (IEA, 2022).
+
+The installed cost is also affected by rising labor costs and projected labor shortages (IEA, 2022). Renaldi et al. (2021) showed negative learning rates for the total installed costs in the United Kingdom due to increasing installation costs: –2.3% and –0.8% for air-source and ground-source heat pumps, respectively.
+
+Heat pump manufacturer efforts to improve the performance of the technology may impact learning curves as well. In North America, the Residential Heat Pump Technology Challenge has supported the development of heat pumps with improved cold-climate performance (U.S. DOE, 2022).
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Use Heat Pumps is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+Our analysis suggests that 130 million heat pumps for heating are currently in operation primarily based on data in Europe, Canada, the United States, China, and Japan (Table 3). These include both all-electric heat pumps and hybrid heat pumps. The IEA (2023a) estimated that 12% of global space heating demand was met by heat pumps in 2022.
+
+This value is based on market reports and national data sources plus IEA (2022) estimates of total GW of installed capacity. To convert installed capacity to the number of heat pumps, we used the median from the range of suggested average capacities (7.5 kW for Europe and North America, 4 kW in Japan and China, 5 kW global average). In Japan, where heat pump units typically heat only one room, we assumed 2.4 units per heat pump (International Renewable Energy Agency [IRENA], 2022).
+
+Table 3. Current heat pump adoption level (2020–2022).
+
+Unit:Heat pump systems in operation
+
+Our estimates put the median adoption trend at 17 million new all-electric and hybrid heat pumps in operation per year (Table 4). This analysis is based on product shipment data (used as a proxy for installed heat pumps), market reports, national statistics, and IEA data for growth in installed capacity. For the IEA data (2010–2023), we assumed a global average of 5 kW of heat capacity per heat pump unit (IEA, 2024).
+
+Shipment and market analysis reports consistently show growing markets for heat pumps in much of the world (Asahi, 2023; European Heat Pump Association, 2024; IEA, 2024). In the United States, shipments of heat pumps have outnumbered gas furnaces since at least 2022 (Air-Conditioning, Heating, and Refrigeration Institute, 2025).
+
+Table 4. Heat pump adoption trend (2010–2023).
+
+Unit:Heat pump systems in operation/yr
+
+Ouradoption ceilingis set at 1.200 billion heat pumps for space heating by 2050 (Table 5), most of which are expected to be in residential buildings. This is based on the IEA’s Net Zero Roadmap projection that heat pumps will represent 6,500 GW of heating capacity globally by 2050, covering 55% of space heating demand (IEA, 2023a). Our adoption ceiling assumes all-electric heat pumps cover all space heating demand.
+
+We assumed that average heat pump sizes (capacities) will increase over time as heat pumps cover a greater portion of a building’s heating load and as more commercial buildings with larger heating loads install heat pumps. Using a global average of 10 kW per heat pump, the IEA projections imply 650 million heat pumps will be in operation by 2050 with the technical adoption ceiling for 1,200 million heat pumps if all heating demand were met by heat pumps.
+
+Table 5. Heat pump adoption ceiling: upper limit for adoption level.
+
+Unit:Heat pump systems in operation by 2050
+
+We estimate the achievable range for heat pump adoption to be 600–960 million heat pumps in operation by 2050 (Table 6).
+
+Most existing space heating systems will be replaced at least once between now and 2050 because this equipment typically has lifetimes of 15–30 years (U.S. EIA, 2023). Policies that encourage high efficiency heat pumps alongside insulation upgrades have the potential to provide lifetime savings, greater comfort, and energy efficiency benefits (Wilson et al., 2024). Given the available timelines and potential benefits, near full adoption is technically feasible.
+
+We have set the Achievable – High heat pump adoption at 80% of the adoption ceiling to account for systems that are difficult to electrify due to very cold climates, policy, economic barriers, and grid constraints. This high achievable value assumes that some systems may be replaced before their end of life to meet climate and/or financial goals.
+
+We have set the Achievable – Low heat pump adoption at 50% of the adoption ceiling. This is roughly consistent with the current adoption trend continuing out to 2050.
+
+Our heat pump units adopted include both all-electric and hybrid heat pumps. This analysis assumes that hybrid heat pumps will become less common as fuels arephased outand that all-electric heat pumps will dominate by 2050.
+
+Table 6. Range of achievable adoption levels.
+
+Unit:Heat pump systems installed
+
+Our estimates show the global impact of existing heat pumps for space heating to be a reduction of 0.12GtCO₂‑eq/yr
+ (100- and20-yr basis) based on current adoption and today’s electricity grid emissions (Table 7). Because electricity grid emissions are decreasing for eachkWhof electricity generated (IEA, 2025), the actual impact will be greater than our estimates when future electricity generation emissions are lower.
+
+For the adoption ceiling, assuming heat pumps supply all of the IEA’s projected global heating demand in 2050 (IEA, 2023a), 1.1 Gt CO₂‑eq/yr
+ (100- and 20-yr basis) could be avoided per year with today’s electricity grid emissions.
+
+A high-end achievable target is 80% of the adoption ceiling, accounting for systems that might continue to use fossil fuels for heating due to factors such as cold climates, economic barriers, and grid constraints. This would result in avoiding 0.91 Gt CO₂‑eq/yr
+ (100- and 20-yr basis) with today’s electricity grid emissions.
+
+A low-end achievable target is 50% of the adoption ceiling, roughly equivalent to heat pump adoption continuing at today’s rate. This would result in avoiding 0.57 Gt CO₂‑eq/yr
+ (100- and 20-yr basis) with today’s electricity grid emissions.
+
+Table 7. Climate impact at different levels of heat pump systemsadoption.
+
+Unit:Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Heat waves and extreme heat are becoming increasingly significant factors of morbidity and mortality worldwide (Romanello et al., 2024). Some buildings that replace heating systems with heat pumps will gain access to cooling (Congedo et al., 2023; Wilson et al., 2024; Zhang et al., 2017). This can provide protection from heat stress in regions experiencing increasingly hotter summers (where air conditioning was not previously necessary) and for populations that are vulnerable to heat stress, such as the elderly (Malmquist et al., 2022). Some jurisdictions incentivize heat pumps for this reason. For example, the United Kingdom plans to install 600,000 heat pumps by 2028 (Zahiri & Gupta, 2023), and local climate adaptation plans in Canada recommend the installation of heat pumps to provide space cooling that can reduce morbidity and mortality during heat waves (Canadian Climate Institute, 2023; City of Vancouver, n.d.). Because exposure to extreme heat is disproportionately higher for minority communities – particularly in urban environments – access to cooling has important implications for environmental justice (Benz & Burney, 2021).
+
+Installing heat pumps can lead to greater household savings on electricity. Research has shown that across the United States, heat pumps can reduce electricity bills for 49 million homes with an average savings of US$350–600 per year, depending on the efficiency of the heat pump (Wilson et al., 2024). Wilson et al. (2024) found that higher efficiency heat pumps could be cost-effective for about 65 million households in the United States. Heat pumps also create jobs (Sovacool et al., 2023). In its post-COVID-19 recovery plan, the IEA (2020) estimated that every US$1 million investment in heat pumps could generate 9.1 new jobs and reduce 0.8 jobs in the fossil fuel industry. About half of the new jobs will be in manufacturing, with the remaining distributed between installation and maintenance.
+
+Burning fossil fuels for heating directly emits health-harming particulates and can generatecarbon monoxide. Replacing fossil gas heating with heat pumps can reduce air pollution (Carella & D’Orazio, 2021) and contribute to improving health outcomes (Zhou et al., 2022). A study in China showed that as the power grid moves to incorporate renewable energy, the air quality and health benefits of heat pumps will increasingly outweigh the benefits of gas heaters (Zhou et al., 2022). The risk of carbon monoxide poisoning also decreases in buildings that switch from fuel-burning space heating to heat pumps. In buildings that burn fuels for applications such as space heating, carbon monoxide can pose serious health risks, including poisoning and death (Mattiuzzi & Lippi, 2020).
+
+Heat pumps can increase demand for electricity and can therefore increase demand for fossil fuel-based power generation. In areas where power generation relies heavily on fossil fuels, heat pumps may generate more emissions than gas heating systems. As the electricity sector adopts more renewables and phases out fossil fuel-based generation, the emissions impact of heat pumps will decrease. Once a building has been designed or retrofitted to accommodate a heat pump it is likely that new heat pumps will be installed at the end of equipment life, perpetuating the benefit.
+
+Efforts are underway to retrofit buildings by improving insulation, air-sealing, and upgrading windows. When done alongside heat pump adoption, retrofits can reduce the size of heat pump needed and increase total energy, emissions, and cost savings.
+
+As heat pump adoption grows, so too will the manufacture of refrigerants, some of which have high global warming potentials when they escape to the atmosphere. SeeDeploy Alternative RefrigerantsandImprove Refrigerant Managementsolutions for more on accelerating change in this sector.
+
+Heat pumps contain refrigerants that often have high global warming potentials. Refrigerant leaks can occur during installation, operation, and end of life (McDiarmid & Parker, 2024). As more heat pumps are adopted, there is a risk of increased emissions from refrigerant leaks during operation as well as refrigerant release at the end of equipment life. Alternate refrigerants with lower global warming potentials are being phased in due to an international agreement to reducehydrofluorocarbons, including many refrigerants (KigaliAmendment).
+
+Higher rates of heat pump installation will require upscaling heat pump manufacturing and training, plus certification of skilled labor to install them. Skilled labor shortages are already creating bottlenecks for heat pump adoption in some countries, some of which can be met by reskilling other heating technicians (IEA, 2022).
+
+Enhanced grid infrastructure will be required to support widespread building electrification and the greater demand for electricity, especially on cold days when heat pumps are less efficient at moving heat (Cooper et al., 2016). Demand-side management, thermal storage, home batteries, bidirectional chargers, and greater adoption of ground-source heat pumps can all help to reduce this increased demand (Cooper et al., 2016; McDiarmid, 2023).
+
+In general, heat pumps have higher up-front costs than do fueled alternatives but will save a building owner money over the lifetime of the system. This can create economic barriers to accessing the benefits of heat pumps, with low-income homeowners and renters who pay for their utilities being particularly vulnerable to being left behind in the transition (Sandoval et al., 2024). Equity advocates are also concerned that the cost of maintaining gas and other fossil fuel infrastructure may increasingly fall on lower-income building owners who struggle to afford the upfront cost of electrifying with heat pumps (Davis & Hausman, 2022).
+
+Advancements in heat pump technology will support the development and adoption of heat pump technology for industrial applications.
+
+Increase Industrial Electrification
+
+The increased adoption of heat pumps will increase the market for alternative refrigerants and refrigerant management.
+
+Deploy Alternative Refrigerants
+
+Improve Refrigerant Management
+
+Heat pumps reduce the emissions from heating and cooling buildings. This reduces the effectiveness of technologies that reduce heating and/or cooling demands.
+
+Improve Building Envelopes
+
+Improve Windows & Glass
+
+Automate Building Systems
+
+Adoption of heat pumps for space heating is likely to generate seasonal peaks in power demand during cold days that may require building out extra generating capacity that decrease grid efficiency (Bloess et al., 2018). Heat pumps can compete with electriccarsfor power during peak times (Van Someren et al., 2021).
+
+Improve Grid Efficiency
+
+Mobilize Electric Cars
+
+
+## Consensus of effectiveness in reducing GHG emissions: High
+
+
+Electric heat pumps are generally viewed as the primary strategy for reducing GHG emissions from buildings. The Intergovernmental Panel on Climate Change ([IPCC] 2023) noted that heat pumps drive electrification in buildings and help decrease emissions. The European Commission (2022) claimed that heat pumps are an essential way of decreasing reliance on gas in heating while increasing the use of renewable energy in the heating sector. The IEA (2022) reported that heat pumps powered by electricity generated with renewable energy “are the central technology in the global transition to secure and sustainable heating.” IRENA (2024) claimed heat pumps in buildings “will play a crucial role in reducing reliance on fossil fuels.”
+
+In one of the largest scientific reviews on the topic, Gaur et al. (2021) concluded that heat pumps “have the potential to play a substantial role in the transition to low carbon heating,” and noted that emissions impacts of heat pumps are dependent on the type of heat pump technology, their location, and the electricity grid mix. Knobloch et al. (2020) studied 59 world regions and found that electrification of the heating sector via heat pumps will reduce emissions in most world regions where they are adopted.
+
+The results presented in this document summarize findings from 46 reports, reviews and meta-analyses and 13 original studies reflecting current evidence from 30 countries, primarily European countries, Canada, the United States, Japan, and China. We recognize this limited geographic and technology scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions and in the commercial sector.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Introduce zero-carbon ready building codes, clearly designating heat pumps as the default for all new buildings.
+
+Incentivize purchases with grants, loans, or tax rebates.
+
+Increasing training and support for heat pump installers.
+
+Expand the electrical grid and increase renewable energy generation.
+
+Streamline permitting processes.
+
+Incentivize complementary solutions such as better insulation, thermal storage, and air sealing.
+
+Institute a clean heat standard (similar to a renewable energy standard) with a well-defined implementation timeline.
+
+Launch performance labels for heating technology.
+
+Roll out new energy efficiency programs.
+
+Heat pump programs can’t keep leaving low-income households behind. Kresowik (2024)
+
+How to mandate clean heat in our buildings. Haley (2023)
+
+All countries targeted for zero-carbon-ready codes for new buildings by 2030. IEA (2022)
+
+Overview of key barriers to accelerating the deployment of heat pumps and corresponding policy solutions. IEA (2022)
+
+A policy toolkit for global mass heat pump deployment version 2.0. Lowes et al. (2024)
+
+Poor-quality HVAC installs are costing us. A solution is within reach. Velez et al. (2023)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Clean heat standards handbook. Santini et al. (2024)
+
+Commit to zero-carbon construction, clearly designating heat pumps as the default for all new buildings.
+
+Increase the available workforce by encouraging trade organizations to promote career and workforce development programs.
+
+Design heat pumps that are simpler, faster, and cheaper to install.
+
+Educate customers on the benefits and train them on usage.
+
+Connect with users and early adopters to understand and adapt to consumer sentiment.
+
+Create appealing incentives and financing programs.
+
+Partner with builders and developers to improve product adoption and increase market demand for heat pumps.
+
+All countries targeted for zero-carbon-ready codes for new buildings by 2030. IEA (2022)
+
+A policy toolkit for global mass heat pump deployment version 2.0. Lowes et al. (2024)
+
+Upgrade your heating and cooling with a heat pump. Rewiring America (n.d.)
+
+Why electrify.Rewiring America (n.d.)
+
+How to get contractors on board with heat pumps and electrification. St. John (2023)
+
+Clean heat standards handbook. Santini et al. (2024)
+
+Heat pump replacement. U.S. DOE (n.d.)
+
+Commit to zero-carbon construction, clearly designating heat pumps as the default for all new buildings.
+
+Deploy heat pumps in all owned and operated facilities.
+
+Encourage building owners and managers to switch to heat pumps in leased facilities.
+
+Promote the benefits of heat pumps and share government incentives with leased facilities and networks.
+
+Encourage employees to reduce emissions at home by providing educational resources on the benefits of domestic heat pumps.
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Upgrade your heating and cooling with a heat pump. Rewiring America (n.d.)
+
+Why electrify. Rewiring America (n.d.)
+
+Heat pump replacement. U.S. DOE (n.d.)
+
+Advocate for zero-carbon construction and building codes that clearly designate heat pumps as the default for all new buildings.
+
+Deploy heat pumps in owned and operated facilities.
+
+Encourage building owners and managers to switch to heat pumps in leased facilities.
+
+Educate businesses and communities on the benefits of installing heat pumps and any tax incentives in their region.
+
+Advocate to policymakers for improved policies and incentives.
+
+Educate community leaders on the need for adoption.
+
+Heat pump programs can’t keep leaving low-income households behind. Kresowik (2024)
+
+How to mandate clean heat in our buildings. Haley (2023)
+
+Overview of key barriers to accelerating the deployment of heat pumps and corresponding policy solutions. IEA (2022)
+
+A policy toolkit for global mass heat pump deployment version 2.0. Lowes et al. (2024)
+
+Poor-quality HVAC installs are costing us. A solution is within reach. Velez et al. (2023)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Why electrify. Rewiring America (n.d.)
+
+Clean heat standards handbook. Santini et al. (2024)
+
+Heat pump replacement. U.S. DOE (n.d.)
+
+Commit to only finance zero-carbon construction with clear requirements for heat pumps as the default for all new development investments.
+
+Deploy capital to efforts that improve heat pump performance and reduce material, installation, and maintenance costs.
+
+Explore investment opportunities that addresssupply chainconcerns.
+
+Consider investments thatmitigatenon-manufacturing barriers to scaling.
+
+Finance heat pump installations via low-interest loans.
+
+Cooling down the U.S. with maximum heat pump adoption. Energy Solutions et al. (2022)
+
+The future of heat pumps. IEA (2022)
+
+Upgrade your heating and cooling with a heat pump. Rewiring America (n.d.)
+
+Why electrify. Rewiring America (n.d.)
+
+How to get contractors on board with heat pumps and electrification. St. John (2023)
+
+Heat pump replacement. U.S. DOE (n.d.)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Directly distribute heat pumps, prioritizing locations where heat pumps maximize emissions reductions, and improve housing affordability.
+
+Advocate for zero-carbon construction and building codes that clearly designate heat pumps as the default for all new buildings.
+
+FundR&Defforts and competitions to improve technology, reduce costs, and address supply chain concerns.
+
+Support consumer advocacy and education campaigns on heat pumps and how to maximize regulatory incentives.
+
+Support training or incentive programs for distributors and installers.
+
+Cooling down the U.S. with maximum heat pump adoption. Energy Solutions et al. (2022)
+
+The future of heat pumps. IEA (2022)
+
+A policy toolkit for global mass heat pump deployment. Lowes et al (2022)
+
+A policy toolkit for global mass heat pump deployment version 2.0. Lowes et al. (2024)
+
+Upgrade your heating and cooling with a heat pump.Rewiring America (n.d.)
+
+Why electrify.Rewiring America (n.d..
+
+How to get contractors on board with heat pumps and electrification. St. John (2023)
+
+Clean heat standards handbook. Santini et al. (2024)
+
+Heat pump replacement. U.S. DOE (n.d.)
+
+Advocate for zero-carbon construction and building codes that clearly designate heat pumps as the default for all new buildings.
+
+Highlight the need to transition away from fossil-fuel-fired heating.
+
+Educate the public on the benefits of heat pumps and how they work.
+
+Provide case studies that present successes and lessons learned.
+
+Increase consumer comfort by including heat pumps in communication content on topics such as home remodeling and construction, technology, health, self-sufficiency, and personal finance.
+
+Provide up-to-date user information on available models.
+
+A policy toolkit for global mass heat pump deployment version 2.0. Lowes et al. (2024)
+
+Nate the house whisperer. Nate Adams (n.d.)
+
+A policy toolkit for global mass heat pump deployment. Lowes et al (2022)
+
+Upgrade your heating and cooling with a heat pump. Rewiring America (n.d.)
+
+Why electrify. Rewiring America (n.d.)
+
+How to get contractors on board with heat pumps and electrification. St. John (2023)
+
+Clean heat standards handbook. Santini et al. (2024)
+
+Heat pump replacement. U.S. DOE (n.d.)
+
+
+## Technologists and Researchers
+
+
+Identify safe, cost-effective, and suitable alternative refrigerants.
+
+Design systems that require less refrigerant.
+
+Work to increase the longevity of heat pumps.
+
+Improve heat pumps’ efficiency and capacity at low temperatures as well as their ability to deliver higher temperature heat.
+
+Research external social factors critical to adoption.
+
+Identify appropriate methods for recycling and disposing of heat pumps and responsibly recovering their refrigerant chemicals at the end of the product life cycle.
+
+The future of heat pumps. IEA (2022)
+
+Upgrade your heating and cooling with a heat pump. Rewiring America (n.d.)
+
+Why electrify. Rewiring America (n.d.)
+
+How to get contractors on board with heat pumps and electrification. St. John (2023)
+
+Heat pump replacement. U.S. DOE (n.d.)
+
+
+## Communities, Households, and Individuals
+
+
+Install heat pumps when possible and encourage local heating, ventilation, and air conditioning (HVAC) retailers and installers to sell services and equipment.
+
+Increase consumer comfort by sharing your experience and tips for troubleshooting technologies.
+
+Advocate for zero-carbon construction and building codes that clearly designate heat pumps as the default for all new buildings.
+
+Build support networks for new users and connect to explore innovations.
+
+Encourage your property management company, employers, and government officials to accelerate adoption.
+
+Upgrade your heating and cooling with a heat pump. Rewiring America (n.d.)
+
+Why electrify. Rewiring America (n.d.)
+
+How to get contractors on board with heat pumps and electrification. St. John (2023)
+
+Heat pump replacement. U.S. DOE (n.d.)
+
+
+## “Take Action” Sources
+
+
+Cooling down the U.S. with maximum heat pump adoption. Energy Solutions et al. (2022)
+
+How to mandate clean heat in our buildings. Haley (2023)
+
+The future of heat pumps. IEA (2022)
+
+Heat pump programs can’t keep leaving low-income households behind. Kresowik (2024)
+
+User innovation, niche construction and regime destabilization in heat pump transitions. Martiskainen et al. (2021)
+
+Accelerating heat pump adoption through the Inflation Reduction Act (IRA) and complementary policies. Malinowski et al. (2023)
+
+Poor-quality HVAC installs are costing us. A solution is within reach. Velez et al. (2023)
+
+Methods and Supporting Data
+
+Air-Conditioning, Heating, and Refrigeration Institute. (2025).AHRI releases November 2024 U.S. heating and cooling equipment shipment data.Link to source:https://www.ahrinet.org/sites/default/files/Stat%20Release%20Nov%2024/November%202024%20Statistical%20Release.pdf
+
+Asahi, T. (2023, July 3).The role of heat pumps toward decarbonization [PowerPoint slides]. Japan Refrigeration and Air Conditioning Industry Association.Link to source:https://www.jraia.or.jp/english/relations/file/2023_July_OEWG45_JRAIA_side_event_Presentation_4.pdf
+
+Benz, S. A., & Burney, J. A. (2021). Widespread race and class disparities in surface urban heat extremes across the United States.Earth’s Future,9(7),Articlee2021EF002016.Link to source:https://doi.org/10.1029/2021EF002016
+
+Bloess, A., Schill, W.-P., & Zerrahn, A. (2018). Power-to-heat for renewable energy integration: A review of technologies, modeling approaches, and flexibility potentials.Applied Energy,212, 1611–1626.Link to source:https://doi.org/10.1016/j.apenergy.2017.12.073
+
+Canadian Climate Institute. (2023).Heat pumps pay off[Report].Link to source:https://climateinstitute.ca/wp-content/uploads/2023/09/Heat-Pumps-Pay-Off-Unlocking-lower-cost-heating-and-cooling-in-Canada-Canadian-Climate-Institute.pdf
+
+Carella, A., & D’Orazio, A. (2021). The heat pumps for better urban air quality.Sustainable Cities and Society,75,Article103314.Link to source:https://doi.org/10.1016/j.scs.2021.103314
+
+City of Vancouver. (n.d.).Climate change adaptation strategy[Report]. Retrieved September 2, 2025, fromLink to source:https://vancouver.ca/files/cov/vancouver-climate-change-adaptation-strategy-2024-25.pdf
+
+Congedo, P. M., Baglivo, C., D’Agostino, D., & Mazzeo, D. (2023). The impact of climate change on air source heat pumps.Energy Conversion and Management,276,Article116554.Link to source:https://doi.org/10.1016/j.enconman.2022.116554
+
+Cooper, S. J. G., Hammond, G. P., McManus, M. C., & Pudjianto, D. (2016). Detailed simulation of electrical demands due to nationwide adoption of heat pumps, taking account of renewable generation and mitigation.IET Renewable Power Generation,10(3), 380–387.Link to source:https://doi.org/10.1049/iet-rpg.2015.0127
+
+Crownhart, C. (2023, February 14). Everything you need to know about the wild world of heat pumps.MIT Technology Review.Link to source:https://www.technologyreview.com/2023/02/14/1068582/everything-you-need-to-know-about-heat-pumps/
+
+Davis, L. W., & Hausman, C. (2022). Who will pay for legacy utility costs?Journal of the Association of Environmental and Resource Economists,9(6), 1047-1085.Link to source:https://doi.org/10.1086/719793
+
+European Commission. (2022).REPowerEU: Joint European action for more affordable, secure and sustainable energy.Link to source:https://build-up.ec.europa.eu/en/resources-and-tools/publications/repowereu-joint-european-action-more-affordable-secure-and
+
+European Heat Pump Association. (2024, February 27).Heat pump sales fall by 5% while EU delays action.Link to source:https://www.ehpa.org/news-and-resources/news/heat-pump-sales-fall-by-5-while-eu-delays-action/
+
+Gaur, A. S., Fitiwi, D. Z., & Curtis, J. (2021). Heat pumps and our low-carbon future: A comprehensive review.Energy Research & Social Science,71,Article101764.Link to source:https://doi.org/10.1016/j.erss.2020.101764
+
+Gibb, D., Rosenow, J., Lowes, R., & Hewitt, N. J. (2023). Coming in from the cold: Heat pump efficiency at low temperatures.Joule,7(9), 1939–1942.Link to source:https://doi.org/10.1016/j.joule.2023.08.005
+
+Global Petrol Prices. (2024).Retail energy price data.Retrieved Feb 2, 2024, fromLink to source:https://www.globalpetrolprices.com/
+
+Intergovernmental Panel On Climate Change (Ed.). (2023).Climate change 2022: Mitigation of climate change. Working group III contribution to the sixth assessment report of the intergovernmental panel on climate change(1st ed.). Cambridge University Press.Link to source:https://doi.org/10.1017/9781009157926
+
+International Energy Agency. (2020).Sustainable recovery—World energy outlook special report(revised version).Link to source:https://iea.blob.core.windows.net/assets/c3de5e13-26e8-4e52-8a67-b97aba17f0a2/Sustainable_Recovery.pdf
+
+International Energy Agency. (2022).The future of heat pumps.Link to source:https://iea.blob.core.windows.net/assets/4713780d-c0ae-4686-8c9b-29e782452695/TheFutureofHeatPumps.pdf
+
+International Energy Agency. (2023a).Net zero roadmap: A global pathway to keep the 1.5 °C goal in reach—2023 update(revised version).Link to source:https://iea.blob.core.windows.net/assets/8ad619b9-17aa-473d-8a2f-4b90846f5c19/NetZeroRoadmap_AGlobalPathwaytoKeepthe1.5CGoalinReach-2023Update.pdf
+
+International Energy Agency. (2023b, June 15).Buildings-related energy demand for heating and share by fuel in the Net Zero Scenario 2022-2030.Link to source:https://www.iea.org/data-and-statistics/charts/buildings-related-energy-demand-for-heating-and-share-by-fuel-in-the-net-zero-scenario-2022-2030
+
+International Energy Agency. (2024).Clean energy market monitor.Link to source:https://iea.blob.core.windows.net/assets/d718c314-c916-47c9-a368-9f8bb38fd9d0/CleanEnergyMarketMonitorMarch2024.pdf
+
+International Energy Agency. (2025).Electricity 2025(revised version).Link to source:https://iea.blob.core.windows.net/assets/0f028d5f-26b1-47ca-ad2a-5ca3103d070a/Electricity2025.pdf
+
+International Gas Union. (2019).Global gas insights 2019 gas & efficiency.Link to source:https://www.igu.org/advocacy/graphics-data/ggi-energy-efficiency
+
+International Renewable Energy Agency. (2022).Renewable solutions in end-uses: Heat pump costs and markets[Report].Link to source:https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2022/Nov/IRENA_Heat_Pumps_Costs_Markets_2022.pdf
+
+International Renewable Energy Agency. (2024).World energy transitions outlook 2024: 1.5°C pathway[Report].Link to source:https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Nov/IRENA_World_energy_transitions_outlook_2024.pdf
+
+Jakob, M., Reiter, U., Krishnan, S., Louwen, A., & Junginger, M. (2020). Chapter 11 - Heating and cooling in the built environment. In M. Junginger & A. Louwen (Eds.),Technological learning in the transition to a low-carbon energy system(pp. 189–219). Academic Press.Link to source:https://doi.org/10.1016/B978-0-12-818762-3.00011-X
+
+Knobloch, F., Hanssen, S. V., Lam, A., Pollitt, H., Salas, P., Chewpreecha, U., Huijbregts, M. A. J., & Mercure, J.-F. (2020). Net emission reductions from electric cars and heat pumps in 59 world regions over time.Nature Sustainability,3(6), 437–447.Link to source:https://doi.org/10.1038/s41893-020-0488-7
+
+Malmquist, A., Hjerpe, M., Glaas, E., Karlsson-Larsson, H., & Lassi, T. (2022). Elderly people’s perceptions of heat stress and adaptation to heat: An interview study.International Journal of Environmental Research and Public Health,19(7),Article3775.Link to source:https://doi.org/10.3390/ijerph19073775
+
+Mattiuzzi, C., & Lippi, G. (2020). Worldwide epidemiology of carbon monoxide poisoning.Human & Experimental Toxicology,39(4), 387-392.Link to source:https://doi.org/10.1177/0960327119891214
+
+McDiarmid, H. (2023).An analysis of the impacts of all-electric heat pumps and peak mitigation technologies on peak power demand in Ontario[Report]. Ontario Clean Air Alliance.Link to source:https://www.cleanairalliance.org/wp-content/uploads/2023/12/Heat-Pump-Peak-Report-ONLINE-dec-11.pdf
+
+McDiarmid, H., & Parker, P. (2024). Retrofitting homes in Ontario entails significant embodied emissions: New policies needed.Climate Policy,25(3), 388–400.Link to source:https://doi.org/10.1080/14693062.2024.2390520
+
+Renaldi, R., Hall, R., Jamasb, T., & Roskilly, A. P. (2021). Experience rates of low-carbon domestic heating technologies in the United Kingdom.Energy Policy,156,Article112387.Link to source:https://doi.org/10.1016/j.enpol.2021.112387
+
+Romanello, M., Walawender, M., Hsu, S.-C., Moskeland, A., Palmeiro-Silva, Y., Scamman, D., Ali, Z., Ameli, N., Angelova, D., Ayeb-Karlsson, S., Basart, S., Beagley, J., Beggs, P. J., Blanco-Villafuerte, L., Cai, W., Callaghan, M., Campbell-Lendrum, D., Chambers, J. D., Chicmana-Zapata, V., … Costello, A. (2024). The 2024 report of the Lancet Countdown on health and climate change: Facing record-breaking threats from delayed action.The Lancet,404(10465), 1847–1896.Link to source:https://doi.org/10.1016/S0140-6736(24)01822-1
+
+Sandoval, N., Harris, C., Reyna, J. L., Fontanini, A. D., Liu, L., Stenger, K., White, P. R., & Landis, A. E. (2024). Achieving equitable space heating electrification: A case study of Los Angeles.Energy and Buildings,317,Article114422.Link to source:https://doi.org/10.1016/j.enbuild.2024.114422
+
+Sovacool, B. K., Evensen, D., Kwan, T. A., & Petit, V. (2023). Building a green future: Examining the job creation potential of electricity, heating, and storage in low-carbon buildings.The Electricity Journal,36(5),Article107274.Link to source:https://doi.org/10.1016/j.tej.2023.107274
+
+Tejani, A., & Toshniwal, V. (2023). Differential energy consumption patterns of HVAC systems in residential and commercial structures: A comparative study.International Journal of Advancements in Science & Technology,1(3), 47–58.
+
+U.S. Department of Energy. (2022).Residential cold-climate heat pump technology challenge.Link to source:https://www.energy.gov/eere/buildings/articles/residential-cold-climate-heat-pump-technology-challenge-fact-sheet
+
+U.S. Department of Energy. (n.d.).Electric resistance heating.Retrieved September 2, 2025, fromLink to source:https://www.energy.gov/energysaver/electric-resistance-heating
+
+U.S. Energy Information Administration. (2023).Updated buildings sector appliance and equipment costs and efficiencies[Report].Link to source:https://www.eia.gov/analysis/studies/buildings/equipcosts/pdf/full.pdf
+
+Van Someren, C., Visser, M., & Slootweg, H. (2021). Impacts of electric heat pumps and rooftop solar panels on residential electricity distribution grids. 2021 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe), 01–06.Link to source:https://doi.org/10.1109/ISGTEurope52324.2021.9640090
+
+Wilson, E. J. H., Munankarmi, P., Less, B. D., Reyna, J. L., & Rothgeb, S. (2024). Heat pumps for all? Distributions of the costs and benefits of residential air-source heat pumps in the United States.Joule,8(4), 1000–1035.Link to source:https://doi.org/10.1016/j.joule.2024.01.022
+
+Zahiri, S., & Gupta, R. (2023).Examining the risk of summertime overheating in UK social housing dwellings retrofitted with heat pumps.Atmosphere,14(11),Article1617.Link to source:https://doi.org/10.3390/atmos14111617
+
+Zhang, Q., Zhang, L., Nie, J., & Li, Y. (2017). Techno-economic analysis of air source heat pump applied for space heating in northern China.Applied Energy,207, 533–542.Link to source:https://doi.org/10.1016/j.apenergy.2017.06.083
+
+Zhou, M., Liu, H., Peng, L., Qin, Y., Chen, D., Zhang, L., & Mauzerall, D. L. (2022). Environmental benefits and household costs of clean heating options in northern China.Nature Sustainability,5(4), 329–338.Link to source:https://doi.org/10.1038/s41893-021-00837-w
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Stephen Agyeman, Ph.D.
+
+Stephen Agyeman, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Cameron Roberts, Ph.D.
+
+Cameron Roberts, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

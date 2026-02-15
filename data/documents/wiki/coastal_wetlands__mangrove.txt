@@ -1,0 +1,189 @@
+# Coastal Wetlands: Mangrove
+Source: https://en.wikipedia.org/wiki/Mangrove
+
+A mangrove is a shrub or tree that grows mainly in coastal saline or brackish water.  Mangroves grow in an equatorial climate, typically along coastlines and tidal rivers. They have particular adaptations to take in extra oxygen and remove salt, allowing them to tolerate conditions that kill most plants. The term is also used for tropical coastal vegetation consisting of such species. Mangroves are taxonomically diverse due to convergent evolution in several plant families. They occur worldwide in tropical and subtropical coastal areas, mainly between latitudes 30° N and 30° S, with the greatest mangrove area within 5° of the equator. Mangrove plant families first appeared during the Late Cretaceous to Paleocene epochs and became widely distributed in part due to the movement of tectonic plates. The oldest known fossils of mangrove palm date to 75 million years ago.
+Mangroves are salt-tolerant (halophytic) and are adapted to live in harsh coastal conditions. They contain a complex salt filtration system and a complex root system to cope with saltwater immersion and  wave action. They are adapted to the low-oxygen conditions of waterlogged mud, but are most likely to thrive in the upper half of the intertidal zone.
+The mangrove biome, often called the mangrove forest or mangal, is a distinct saline woodland or shrubland habitat characterized by depositional coastal environments, where fine sediments (often with high organic content) collect in areas protected from high-energy wave action. The saline conditions tolerated by various mangrove species range from brackish water, through pure seawater (3 to 4% salinity), to water concentrated by evaporation to over twice the salinity of ocean seawater (up to 9% salinity).
+Beginning in 2010, remote sensing technologies and global data have been used to assess areas, conditions and deforestation rates of mangroves around the world. In 2018, the Global Mangrove Watch Initiative released a new global baseline which estimates the total mangrove forest area of the world as of 2010 at 137,600 km2 (53,100 sq mi), spanning 118 countries and territories. A 2022 study on losses and gains of tidal wetlands estimates a 3,700 km2 (1,400 sq mi) net decrease in global mangrove extent from 1999 to 2019. Mangrove loss continues due to human activity, with a global annual deforestation rate estimated at 0.16%, and per-country rates as high as 0.70%. Degradation in quality of remaining mangroves is also an important concern.
+There is interest in mangrove restoration for several reasons. Mangroves support sustainable coastal and marine ecosystems. They protect nearby areas from tsunamis and extreme weather events. Mangrove forests are also effective at carbon sequestration and storage. The success of mangrove restoration may depend heavily on engagement with local stakeholders, and on careful assessment to ensure that growing conditions will be suitable for the species chosen.
+The International Day for the Conservation of the Mangrove Ecosystem is celebrated every year on 26 July.
+
+
+== Etymology ==
+
+Etymology of the English term mangrove is speculative and disputed. 
+The term may have come to English from the Portuguese mangue or the Spanish
+mangle.   Further back, it may be traced to South America and  Cariban and Arawakan languages such as  Taíno. Other possibilities include the Malay language manggi-manggi.
+The English usage may reflect a corruption via folk etymology of the words mangrow and grove.
+The word "mangrove" is used in at least three senses:
+
+Most broadly to refer to the habitat and entire plant assemblage or mangal, for which the terms mangrove forest biome and mangrove swamp are also used;
+To refer to all trees and large shrubs in a mangrove swamp; and
+Narrowly to refer only to mangrove trees of the genus Rhizophora of the family Rhizophoraceae.
+
+
+== Biology ==
+According to Hogarth (2015), among the recognized mangrove species there are about 70 species in 20 genera from 16 families that constitute the "true mangroves" – species that occur almost exclusively in mangrove habitats. Demonstrating convergent evolution, many of these species found similar solutions to the tropical conditions of variable salinity, tidal range (inundation), anaerobic soils, and intense sunlight. Plant biodiversity is generally low in a given mangrove. The greatest biodiversity of mangroves occurs in Southeast Asia, particularly in the Indonesian archipelago.
+
+
+=== Adaptations to low oxygen ===
+The red mangrove (Rhizophora mangle) survives in the most inundated areas, props itself above the water level with stilt or prop roots and then absorbs air through lenticels in its bark.
+The black mangrove (Avicennia germinans) lives on higher ground and develops many specialized root-like structures called pneumatophores, which stick up out of the soil like straws for breathing.
+These "breathing tubes" typically reach heights of up to 30 cm (12 in), and in some species, over 3 m (9.8 ft). The roots also contain wide aerenchyma to facilitate transport within the plants.
+
+
+=== Nutrient uptake ===
+Because the soil is perpetually waterlogged, little free oxygen is available. Anaerobic bacteria liberate nitrogen gas, soluble ferrum (iron), inorganic phosphates, sulfides, and methane, which make the soil much less nutritious. Pneumatophores (aerial roots) allow mangroves to absorb gases directly from the atmosphere, and other nutrients such as iron, from the inhospitable soil. Mangroves store gases directly inside the roots, processing them even when the roots are submerged during high tide.
+
+
+=== Limiting salt intake ===
+Red mangroves exclude salt by having significantly impermeable roots that are highly suberised (impregnated with suberin), acting as an ultrafiltration mechanism to exclude sodium salts from the rest of the plant. One study found that roots of the Indian mangrove Avicennia officinalis exclude 90% to 95% of the salt in water taken up by the plant, depositing the excluded salt in the cortex of the root. An increase in the production of suberin and in the activity of a gene regulating cytochrome P450 were observed in correlation with an increase in the salinity of the water to which the plant was exposed. In a frequently cited concept that has become known as the "sacrificial leaf", salt which does accumulate in the shoot (sprout) then concentrates in old leaves, which the plant then sheds. However, recent research on the Red mangrove Rhizophora mangle suggests that the older, yellowing leaves have no more measurable salt content than the other, greener leaves.
+
+
+=== Limiting water loss ===
+
+Because of the limited fresh water available in salty intertidal soils, mangroves limit the amount of water they lose through their leaves. They can restrict the opening of their stomata (pores on the leaf surfaces, which exchange carbon dioxide gas and water vapor during photosynthesis). They also vary the orientation of their leaves to avoid the harsh midday sun and so reduce evaporation from the leaves. A captive red mangrove grows only if its leaves are misted with fresh water several times a week, simulating frequent tropical rainstorms.
+
+
+=== Filtration of seawater ===
+A 2016 study by Kim et al. investigated the biophysical characteristics of sea water filtration in the roots of the mangrove Rhizophora stylosa from a plant hydrodynamic point of view. R. stylosa can grow even in saline water and the salt level in its roots is regulated within a certain threshold value through filtration. The root possesses a hierarchical, triple layered pore structure in the epidermis and most Na+ ions are filtered at the first sublayer of the outermost layer. The high blockage of Na+ ions is attributed to the high surface zeta potential of the first layer. The second layer, which is composed of macroporous structures, also facilitates Na+ ion filtration. The study provides insights into the mechanism underlying water filtration through halophyte roots and could serve as a basis for the development of a bio-inspired method of desalination.
+Uptake of Na+ ions is desirable for halophytes to build up osmotic potential, absorb water and sustain turgor pressure. However, excess Na+ ions may work on toxic element. Therefore, halophytes try to adjust salinity delicately between growth and survival strategies. In this point of view, a novel sustainable desalination method can be derived from halophytes, which are in contact with saline water through their roots. Halophytes exclude salt through their roots, secrete the accumulated salt through their aerial parts and sequester salt in senescent leaves and/or the bark. Mangroves are facultative halophytes and Bruguiera is known for its special ultrafiltration system that can filter approximately 90% of Na+ions from the surrounding seawater through the roots. The species also exhibits a high rate of salt rejection. The water-filtering process in mangrove roots has received considerable attention for several decades. Morphological structures of plants and their functions have been evolved through a long history to survive against harsh environmental conditions.
+
+
+=== Increasing survival of offspring ===
+
+In this harsh environment, mangroves have evolved a special mechanism to help their offspring survive. Mangrove seeds are buoyant and are therefore suited to water dispersal. Unlike most plants, whose seeds germinate in soil, many mangroves (e.g. red mangrove) are viviparous, meaning their seeds germinate while still attached to the parent tree. Once germinated, the seedling grows either within the fruit (e.g. Aegialitis, Avicennia and Aegiceras), or out through the fruit (e.g. Rhizophora, Ceriops, Bruguiera and Nypa) to form a propagule (a ready-to-go seedling) which can produce its own food via photosynthesis.
+The mature propagule then drops into the water, which can transport it great distances. Propagules can survive desiccation and remain dormant for over a year before arriving in a suitable environment. Once a propagule is ready to root, its density changes so that the elongated shape now floats vertically rather than horizontally. In this position, it is more likely to lodge in the mud and root. If it does not root, it can alter its density and drift again in search of more favorable conditions.
+
+
+== Taxonomy and evolution ==
+The following listings, based on Tomlinson, 2016, give the mangrove species in each listed plant genus and family. Mangrove environments in the Eastern Hemisphere harbor six times as many species of trees and shrubs as do mangroves in the New World. Genetic divergence of mangrove lineages from terrestrial relatives, in combination with fossil evidence, suggests mangrove diversity is limited by evolutionary transition into the stressful marine environment, and the number of mangrove lineages has increased steadily over the Tertiary with little global extinction.
+
+
+=== True mangroves ===
+
+
+=== Other mangroves ===
+
+
+== Species distribution ==
+
+Mangroves are a type of tropical vegetation with some outliers established in subtropical latitudes, notably in South Florida and southern Japan, as well as South Africa, New Zealand and Victoria (Australia). These outliers result either from unbroken coastlines and island chains or from reliable supplies of propagules floating on warm ocean currents from rich mangrove regions.
+
+"At the limits of distribution, the formation is represented by scrubby, usually monotypic Avicennia-dominated vegetation, as at Westonport Bay and Corner Inlet, Victoria, Australia. The latter locality is the highest latitude (38° 45'S) at which mangroves occur naturally. The mangroves in New Zealand, which extend as far south as 37°, are of the same type; they start as low forest in the northern part of the North Island but become low scrub toward their southern limit. In both instances, the species is referred to as Avicennia marina var. australis, although genetic comparison is clearly needed. In Western Australia, A. marina  extends as far south as Bunbury (33° 19'S). In the northern hemisphere, scrubby Avicennia gerrninans in Florida occurs as far north as St. Augustine on the east coast and Cedar Point on the west. There are records of A. germinans and Rhizophora mangle for Bermuda, presumably supplied by the Gulf Stream. In southern Japan, Kandelia obovata occurs to about 31 °N (Tagawa in Hosakawa et al., 1977, but initially referred to as K. candel)."
+
+
+== Mangrove forests ==
+
+Mangrove forests, also called mangrove swamps or mangals, are found in tropical and subtropical tidal areas. Areas where mangroves occur include estuaries and marine shorelines.
+The intertidal existence to which these trees are adapted represents the major limitation to the number of species able to thrive in their habitat. High tide brings in salt water, and when the tide recedes, solar evaporation of the seawater in the soil leads to further increases in salinity. The return of tide can flush out these soils, bringing them back to salinity levels comparable to that of seawater.
+At low tide, organisms are also exposed to increases in temperature and reduced moisture before being then cooled and flooded by the tide. Thus, for a plant to survive in this environment, it must tolerate broad ranges of salinity, temperature, and moisture, as well as several other key environmental factors—thus only a select few species make up the mangrove tree community.
+About 110 species are considered mangroves, in the sense of being trees that grow in such a saline swamp, though only a few are from the mangrove plant genus, Rhizophora. However, a given mangrove swamp typically features only a small number of tree species. It is not uncommon for a mangrove forest in the Caribbean to feature only three or four tree species. For comparison, the tropical rainforest biome contains thousands of tree species, but this is not to say mangrove forests lack diversity. Though the trees themselves are few in species, the ecosystem that these trees create provides a home (habitat) for a great variety of other species, including as many as 174 species of marine megafauna.
+
+Mangrove plants require a number of physiological adaptations to overcome the problems of low environmental oxygen levels, high salinity, and frequent tidal flooding. Each species has its own solutions to these problems; this may be the primary reason why, on some shorelines, mangrove tree species show distinct zonation. Small environmental variations within a mangal may lead to greatly differing methods for coping with the environment. Therefore, the mix of species is partly determined by the tolerances of individual species to physical conditions, such as tidal flooding and salinity, but may also be influenced by other factors, such as crabs preying on plant seedlings.
+
+Once established, mangrove roots provide an oyster habitat and slow water flow, thereby enhancing sediment deposition in areas where it is already occurring. The fine, anoxic sediments under mangroves act as sinks for a variety of heavy (trace) metals which colloidal particles in the sediments have concentrated from the water. Mangrove removal disturbs these underlying sediments, often creating problems of trace metal contamination of seawater and organisms of the area.
+Mangrove swamps protect coastal areas from erosion, storm surge (especially during tropical cyclones), and tsunamis. They limit high-energy wave erosion mainly during events such as storm surges and tsunamis.
+The mangroves' massive root systems are efficient at dissipating wave energy. Likewise, they slow down tidal water so that its sediment is deposited as the tide comes in, leaving all except fine particles when the tide ebbs. In this way, mangroves build their  environments. Because of the uniqueness of mangrove ecosystems and the protection against erosion they provide, they are often the object of conservation programs, including national biodiversity action plans.
+The unique ecosystem found in the intricate mesh of mangrove roots offers a quiet marine habitat for young organisms. In areas where roots are permanently submerged, the organisms they host include algae, barnacles, oysters, sponges, and bryozoans, which all require a hard surface for anchoring while they filter-feed. Shrimps and mud lobsters use the muddy bottoms as their home. Mangrove crabs eat the mangrove leaves, adding nutrients to the mangal mud for other bottom feeders. In at least some cases, the export of carbon fixed in mangroves is important in coastal food webs.
+Larger marine organisms benefit from the habitat as a nursery for their offspring. Lemon sharks depend on mangrove creeks to give birth to their pups. The ecosystem provides little competition and minimizes threats of predation to juvenile lemon sharks as they use the cover of mangroves to practice hunting before entering the food web of the ocean.
+Mangrove plantations in Vietnam, Thailand, Philippines, and India host several commercially important species of fish and crustaceans.
+Mangrove forests can decay into peat deposits because of fungal and bacterial processes as well as by the action of termites. It becomes peat in good geochemical, sedimentary, and tectonic conditions. The nature of these deposits depends on the environment and the types of mangroves involved. In Puerto Rico, the red, white, and black mangroves occupy different ecological niches and have slightly different chemical compositions, so the carbon content varies between the species, as well between the different tissues of the plant (e.g., leaf matter versus roots).
+In Puerto Rico, there is a clear succession of these three trees from the lower elevations, which are dominated by red mangroves, to farther inland with a higher concentration of white mangroves. Mangrove forests are an important part of the cycling and storage of carbon in tropical coastal ecosystems. Knowing this, scientists seek to reconstruct the environment and investigate changes to the coastal ecosystem over thousands of years using sediment cores. However, an additional complication is the imported marine organic matter that also gets deposited in the sediment due to the tidal flushing of mangrove forests. Termites play an important role in the formation of peat from mangrove materials. They process fallen leaf litter, root systems and wood from mangroves into peat to build their nests, and stabilise the chemistry of this peat that represents approximately 2% of above ground carbon storage in mangroves. As the nests are buried over time this carbon is stored in the sediment and the carbon cycle continues.
+Mangroves are an important source of blue carbon. Globally, mangroves stored 4.19 Gt (9.2×1012 lb) of carbon in 2012. Two percent of global mangrove carbon was lost between 2000 and 2012, equivalent to a maximum potential of 0.316996250 Gt (6.9885710×1011 lb) of emissions of carbon dioxide in Earth's atmosphere.
+Globally, mangroves have been shown to provide measurable economic protections to coastal communities affected by tropical storms.
+
+
+== Mangrove microbiome ==
+
+Plant microbiomes play crucial roles in the health and productivity of mangroves. Many researchers have successfully applied knowledge acquired about plant microbiomes to produce specific inocula for crop protection. Such inocula can stimulate plant growth by releasing phytohormones and enhancing uptake of some mineral nutrients (particularly phosphorus and nitrogen). However, most of the plant microbiome studies have focused on the model plant Arabidopsis thaliana and economically important crop plants, such as rice, barley, wheat, maize and soybean. There is less information on the microbiomes of tree species. Plant microbiomes are determined by plant-related factors (e.g., genotype, organ, species, and health status) and environmental factors (e.g., land use, climate, and nutrient availability). Two of the plant-related factors, plant species and genotypes, have been shown to play significant roles in shaping rhizosphere and plant microbiomes, as tree genotypes and species are associated with specific microbial communities. Different plant organs also have specific microbial communities depending on plant-associated factors (plant genotype, available nutrients, and organ-specific physicochemical conditions) and environmental conditions (associated with aboveground and underground surfaces and disturbances).
+
+
+=== Root microbiome ===
+
+Mangrove roots harbour a repertoire of microbial taxa that contribute to important ecological functions in mangrove ecosystems. Like typical terrestrial plants, mangroves depend upon mutually beneficial interactions with microbial communities. In particular, microbes residing in developed roots could help mangroves transform nutrients into usable forms before plant assimilation. These microbes also provide mangroves phytohormones for suppressing phytopathogens or helping mangroves withstand heat and salinity. In turn, root-associated microbes receive carbon metabolites from the plant via root exudates, thus close associations between the plant and microbes are established for their mutual benefits.
+The taxonomic class level shows that most Proteobacteria were reported to come from Gammaproteobacteria, followed by Deltaproteobacteria and Alphaproteobacteria. The diverse function and the phylogenic variation of Gammaproteobacteria, which consisted of orders such as Alteromonadales and Vibrionales, are found in marine and coastal regions and are high in abundance in mangrove sediments functioning as nutrient recyclers. Members of Deltaproteobacteria found in mangrove soil are mostly sulfur-related, consisting of Desulfobacterales, Desulfuromonadales, Desulfovibrionales, and Desulfarculales among others.
+Highly diverse microbial communities (mainly bacteria and fungi) have been found to inhabit and function in mangrove roots. For example, diazotrophic bacteria in the vicinity of mangrove roots could perform biological nitrogen fixation, which provides 40–60% of the total nitrogen required by mangroves; the soil attached to mangrove roots lacks oxygen but is rich in organic matter, providing an optimal microenvironment for sulfate-reducing bacteria and methanogens, ligninolytic, cellulolytic, and amylolytic fungi are prevalent in the mangrove root environment; rhizosphere fungi could help mangroves survive in waterlogged and nutrient-restricted environments. These studies have provided increasing evidence to support the importance of root-associated bacteria and fungi for mangrove growth and health.
+Recent studies have investigated the detailed structure of root-associated microbial communities at a continuous fine-scale in other plants, where a microhabitat was divided into four root compartments: endosphere, episphere, rhizosphere, and nonrhizosphere or bulk soil. Moreover, the microbial communities in each compartment have been reported to have unique characteristics. Root exudates selectively enrich adapted microbial populations; however, these exudates were found to exert only marginal impacts on microbes in the bulk soil outside the rhizosphere. Furthermore, it was noted that the root episphere, rather than the rhizosphere, was primarily responsible for controlling the entry of specific microbial populations into the root, resulting in the selective enrichment of Proteobacteria in the endosphere. These findings provide new insights into the niche differentiation of root-associated microbial communities. Nevertheless, amplicon-based community profiling may not provide the functional characteristics of root-associated microbial communities in plant growth and biogeochemical cycling. Unraveling functional patterns across the four root compartments holds a great potential for understanding functional mechanisms responsible for mediating root–microbe interactions in support of enhancing mangrove ecosystem functioning.
+The diversity of bacteria in disturbed mangroves is reported to be higher than in
+well-preserved mangroves Studies comparing mangroves in different conservation states show that bacterial composition in disturbed mangrove sediment alters its structure, leading to a functional equilibrium, where the dynamics of chemicals in mangrove soils lead to the remodeling of its microbial structure.
+
+
+=== Suggestions for future mangrove microbial diversity research ===
+Despite many research advancements in mangrove sediment bacterial metagenomics
+diversity in various conditions over the past few years, bridging the research gap and
+expanding our knowledge towards the relationship between microbes mainly constituted of bacteria and its nutrient cycles in the mangrove sediment and direct and indirect impacts on mangrove growth and stand-structures as coastal barriers and other ecological service providers. Thus, based on studies by Lai et al.'s systematic review, here they suggest sampling improvements and a fundamental environmental index for future reference.
+
+
+=== Mangrove virome ===
+
+Mangrove forests are one of the most carbon-rich biomes, accounting for 11% of the total input of terrestrial carbon into oceans. Viruses are thought to significantly influence local and global biogeochemical cycles, though as of 2019, little information was available about the community structure, genetic diversity, and ecological roles of viruses in mangrove ecosystems.
+Viruses are the most abundant biological entities on earth, present in virtually all ecosystems. By lysing their hosts, that is, by rupturing their cell membranes, viruses control host abundance and affect the structure of host communities. Viruses also influence their host diversity and evolution through horizontal gene transfer, selection for resistance and manipulation of bacterial metabolisms. Importantly, marine viruses affect local and global biogeochemical cycles through the release of substantial amounts of organic carbon and nutrients from hosts and assist microbes in driving biogeochemical cycles with auxiliary metabolic genes (AMGs).
+It is presumed that AMGs augment viral-infected host metabolism and facilitate the production of new viruses. AMGs have been extensively explored in marine cyanophages and include genes involved in photosynthesis, carbon turnover, phosphate uptake and stress response. Cultivation-independent metagenomic analysis of viral communities has identified additional AMGs that are involved in motility, central carbon metabolism, photosystem I, energy metabolism, iron–sulphur clusters, anti-oxidation and sulphur and nitrogen cycling. Interestingly, a recent analysis of Pacific Ocean Virome data identified niche-specialised AMGs that contribute to depth-stratified host adaptations. Given that microbes drive global biogeochemical cycles, and viruses infect a large fraction of microbes at any given time, viral-encoded AMGs must play important roles in global biogeochemistry and microbial metabolic evolution.
+Mangrove forests are the only woody halophytes that live in salt water along the world's subtropical and tropical coastlines. Mangroves are one of the most productive and ecologically important ecosystems on earth. The rates of primary production of mangroves equal those of tropical humid evergreen forests and coral reefs. As a globally relevant component of the carbon cycle, mangroves sequester approximately 24 million metric tons of carbon each year. Most mangrove carbon is stored in soil and sizable belowground pools of dead roots, aiding in the conservation and recycling of nutrients beneath forests. Although mangroves cover only 0.5% of the earth's coastal area, they account for 10–15% of the coastal sediment carbon storage and 10–11% of the total input of terrestrial carbon into oceans. The disproportionate contribution of mangroves to carbon sequestration is now perceived as an important means to counterbalance greenhouse gas emissions.
+
+Despite the ecological importance of the mangrove ecosystem, knowledge of mangrove biodiversity is notably limited. Previous reports mainly investigated the biodiversity of mangrove fauna, flora, and bacterial communities. Particularly, little information is available about viral communities and their roles in mangrove soil ecosystems. In view of the importance of viruses in structuring and regulating host communities and mediating element biogeochemical cycles, exploring viral communities in mangrove ecosystems is essential. Additionally, the intermittent flooding of sea water and resulting sharp transition of mangrove environments may result in substantially different genetic and functional diversity of bacterial and viral communities in mangrove soils compared with those of other systems.
+
+
+=== Genome sequencing ===
+Rhizophoreae as revealed by whole-genome sequencing
+
+
+== See also ==
+
+Coastal management
+Mangrove swamp
+Mangrove restoration
+Salt marsh
+Flooding
+Longshore drift
+Coastal erosion
+Coastal geography
+Ecological values of mangrove
+Blue carbon
+Nursery habitat
+Foundation species
+Keystone species
+Adelaida K. Semesi
+
+
+== References ==
+
+
+== Further reading ==
+Saenger, Peter (2002). Mangrove Ecology, Silviculture, and Conservation. Kluwer Academic Publishers, Dordrecht. ISBN 1-4020-0686-1.
+Thanikaimoni, Ganapathi (1986). Mangrove Palynology UNDP/UNESCO and the French Institute of Pondicherry, ISSN 0073-8336 (E).
+Tomlinson, Philip B. (1986). The Botany of Mangroves. Cambridge University Press, Cambridge, ISBN 0-521-25567-8.
+Teas, H. J. (1983). Biology and Ecology of Mangroves. W. Junk Publishers, The Hague. ISBN 90-6193-948-8.
+Plaziat, Jean-Claude; Cavagnetto, Carla; Koeniguer, Jean-Claude; Baltzer, Frédéric (2001). "History and biogeography of the mangrove ecosystem, based on a critical reassessment of the paleontological record". Wetlands Ecology and Management. 9 (3): 161–180. Bibcode:2001WetEM...9..161P. doi:10.1023/A:1011118204434. S2CID 24980831.
+Jayatissa, L. P.; Dahdouh-Guebas, F.; Koedam, N. (2002). "A review of the floral composition and distribution of mangroves in Sri Lanka" (PDF). Botanical Journal of the Linnean Society. 138: 29–43. doi:10.1046/j.1095-8339.2002.00002.x.
+Ellison, Aaron M. (2000). "Mangrove Restoration: Do We Know Enough?". Restoration Ecology. 8 (3): 219–229. Bibcode:2000ResEc...8..219E. doi:10.1046/j.1526-100x.2000.80033.x. S2CID 86352384.
+Agrawala, Shardul; Hagestad; Marca; Koshy, Kayathu; Ota, Tomoko; Prasad, Biman; Risbey, James; Smith, Joel; Van Aalst, Maarten. 2003. Development and Climate Change in Fiji: Focus on Coastal Mangroves. Organisation of Economic Co-operation and Development, Paris, Cedex 16, France.
+Barbier, E. B.; Sathirathai, S. (2001). "Valuing Mangrove Conservation in Southern Thailand". Contemporary Economic Policy. 19 (2): 109–122. doi:10.1111/j.1465-7287.2001.tb00054.x.
+Bosire, J. O.; Dahdouh-Guebas, F.; Jayatissa, L. P.; Koedam, N.; Lo Seen, D.; Nitto, Di D. (2005). "How Effective were Mangroves as a Defense Against the Recent Tsunami?". Current Biology. 15 (12): R443–R447. doi:10.1016/j.cub.2005.06.008. hdl:2013/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/46641. PMID 15964259. S2CID 8772526.
+Bowen, Jennifer L.; Valiela, Ivan; York, Joanna K. (2001). "Mangrove Forests: One of the World's Threatened Major Tropical Environments". BioScience. 51 (10): 807–815. doi:10.1641/0006-3568(2001)051[0807:mfootw]2.0.co;2.
+Jin-Eong, Ong (2004). "The Ecology of Mangrove Conservation and Management". Hydrobiologia. 295 (1–3): 343–351. doi:10.1007/BF00029141. S2CID 26686381.
+Glenn, C. R. 2006. "Earth's Endangered Creatures"
+Lewis, Roy R. III (2004). "Ecological Engineering for Successful Management and Restoration of Mangrove Forest". Ecological Engineering. 24 (4): 403–418. doi:10.1016/j.ecoleng.2004.10.003.
+Kuenzer, C.; Bluemel, A.; Gebhardt, S.; Vo Quoc, T. & Dech, S. (2011). "Remote Sensing of Mangrove Ecosystems: A Review". Remote Sensing. 3 (5): 878–928. Bibcode:2011RemS....3..878K. doi:10.3390/rs3050878.
+Lucien-Brun, H (1997). "Evolution of world shrimp production: Fisheries and aquaculture". World Aquaculture. 28: 21–33.
+Twilley, R. R., V. H. Rivera-Monroy, E. Medina, A. Nyman, J. Foret, T. Mallach, and L. Botero. 2000. Patterns of forest development in mangroves along the San Juan River estuary, Venezuela. Forest Ecology and Management
+Murray, M. R.; Zisman, S. A.; Furley, P. A.; Munro, D. M.; Gibson, J.; Ratter, J.; Bridgewater, S.; Mity, C. D.; Place, C. J. (2003). "The Mangroves of Belize: Part 1. Distribution, Composition and Classification". Forest Ecology and Management. 174 (1–3): 265–279. Bibcode:2003ForEM.174..265M. doi:10.1016/s0378-1127(02)00036-1.
+Vo Quoc, T.; Kuenzer, C.; Vo Quang, M.; Moder, F. & Oppelt, N. (December 2012). "Review of Valuation Methods for Mangrove Ecosystem Services". Ecological Indicators. 23: 431–446. Bibcode:2012EcInd..23..431V. doi:10.1016/j.ecolind.2012.04.022.
+Spalding, Mark; Kainuma, Mami and Collins, Lorna (2010) World Atlas of Mangroves Earthscan, London, ISBN 978-1-84407-657-4; 60 maps showing worldwide mangrove distribution
+Warne, Kennedy (2013) Let them eat shrimp: the tragic disappearance of the rainforests of the sea. Island Press, 2012, ISBN 978-1597263344
+Mohammed-Geba, Khaled, Elamin, Ahmed Mohammed, Hassan, Arwa, Mohammed, Essmat, Salah-Eldin, Alaa El-Din, Schott, Eric J., & Galal-Khallaf, Asmaa (2025)  Environmental DNA-based metabarcoding reveals a high animal biodiversity level within Red Sea mangrove beds. Frontiers in Marine Science Sec. Marine Molecular Biology and Ecology, https://doi.org/10.3389/fmars.2025.1686361.
+Massó; Alemán, S.; Bourgeois, C.; Appeltans, W.; Vanhoorne, B.; De Hauwere, N.; Stoffelen, P.; Heaghebaert, A.; Dahdouh-Guebas, F. (2010). "The 'Mangrove Reference Database and Herbarium'" (PDF). Plant Ecology and Evolution. 143 (2): 225–232. Bibcode:2010PlEcE.143..225M. doi:10.5091/plecevo.2010.439.
+Vo Quoc, T.; Oppelt, N.; Leinenkugel, P. & Kuenzer, C. (2013). "Remote Sensing in Mapping Mangrove Ecosystems – An Object-Based Approach". Remote Sensing. 5 (1): 183–201. Bibcode:2013RemS....5..183V. doi:10.3390/rs5010183.
+
+
+== External links ==
+
+"Mangrove Factsheet". Waitt Institute. Archived from the original on 4 September 2015. Retrieved 8 June 2015.
+"Mangroves". Smithsonian Ocean Portal. 30 April 2018.
+Top 10 Mangrove Forest In The World – Travel Mate
+"Mangroves Fact Sheet" (PDF). Fisheries Western Australia. 2013. Archived from the original (PDF) on 23 April 2013.* In May 2011, the VOA Special English service of the Voice of America broadcast a 15-minute program on mangrove forests. A transcript and MP3 of the program, intended for English learners, can be found at Mangrove Forests Could Be a Big Player in Carbon Trading
+"Water Center for the Humid Tropics of Latin America and the Caribbean". Archived from the original on 5 February 2012. Retrieved 25 January 2014.
+"Ocean Data Viewer – UNEP-WCMC". UNEP-WCMC's official website – Ocean Data Viewer. Retrieved 27 November 2020.
+Queensland's coastal kidneys: mangroves. Stacey Larner, John Oxley Library Blog. State Library of Queensland.
+"Take Shelter - Mangroves work together to protect the Earth and its waters. What can they teach us about community and sacrifice?". Atmos. 16 February 2024.

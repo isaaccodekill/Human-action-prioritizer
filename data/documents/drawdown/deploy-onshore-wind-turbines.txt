@@ -1,0 +1,834 @@
+# Deploy Onshore Wind Turbines
+Source: https://drawdown.org/explorer/deploy-onshore-wind-turbines
+
+Methods and Supporting Data
+
+
+## Deploy Onshore Wind Turbines
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Onshore wind turbines are land-based machines that harness natural wind to generate electricity. Electricity generation from wind turbines depends on many factors, including natural wind speeds, consistency, and directionality. The Deploy Onshore Wind Turbines solution focuses on utility-scale electricity generation above 1MWin rated capacity, generally from fields of turbines called wind farms.Deploy Micro Wind TurbinesandDeploy Offshore Wind Turbinesare discussed as separate solutions.
+
+Deploying onshore wind turbines contributes to reducedCO₂emissions by increasing the availability ofrenewableenergy sources to meet electricity demand, thereby reducing dependence onfossil fuel–based sources in the overall electricitygrid mix.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+MW installed capacity
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+An estimated 23% of globalGHGemissions on a100-yr basiscomes from electricity generation annually (Clarke et al., 2022), and in 2022 more than 60% of global electricity generation came from fossil fuel–based energy sources (International Energy Agency [IEA], 2024c). Since wind is a clean and renewable resource, onshore wind turbines do not contribute to GHG emissions or air pollution while generating energy. The Deploy Onshore Wind Turbines solution reduces the need for electricity generation from fossil fuels, which reduces emissions of CO₂
+ as well as of smaller amounts ofmethaneandnitrous oxide.
+
+An onshore wind turbine has a tower with a rotor mounted at the top, connected to a generator. Wind pressure on the turbine blades rotates the rotor, and the generator converts that motion into electrical power. Power potentially generated is directly proportional to the swept area of the rotor blades and the wind speed cubed. Utility-scale turbines require an annual average wind speed of at least 5.8 meters/second (Energy Information Administration [EIA], 2024b). Wind characteristics and technical aspects have a critical impact on electricity generation. Factors include, but are not limited to, wind speed, turbulence, site-specific effects, rotor size, turbine height, generator efficiency, and wind farm layout (Diógenes et al., 2020). Onshore wind farms are often sited where fewer obstacles lead to more consistent wind speeds (Maguire et al., 2024).
+
+The maximum electrical power a turbine can generate is its installed capacity in MW. Due to changing wind characteristics and operational decisions, onshore wind turbines do not always operate at maximum capacity. Thecapacity factorof a turbine captures the actual amount of power generated compared with maximum generation if the turbine always operated at its rated capacity. Due to technological improvements over the past decade, global weighted average capacity factors increased from 27% in 2010 to 36% in 2023 and can exceed 50% in some countries (International Renewable Energy Agency [IRENA], 2024a).
+
+Utility-scale wind farms are connected to the grid to provide electricity. Electric power output can be converted to energy generated by multiplying capacity by the capacity factor and a specified time interval. For annual generation, we multiplied by one year and used our estimated median global capacity factor (37%). In 2023, onshore wind turbines generated 2,089TWhof electricity, approximately 7% of global electricity generation (IEA, 2024c).
+
+Onshore wind turbines can be classified according to their orientation. Horizontal-axis turbines need to face their rotors into the wind to generate power, while vertical-axis turbines operate independently of wind direction. Utility-scale onshore wind turbines are mostly horizontal-axis rotors with three blades, but smaller scale turbines (seeDeploy Micro Wind Turbines) can have more complex rotor designs for a variety of applications. The International Electrical Commission (IEC) standardizes wind turbine classifications with distinct designs to maximize energy capture for different sites (IEC, 2019). Wind farms also require distribution systems to transport electricity to locations of electricity demand.
+
+
+## What could cause effectiveness to change?
+
+
+We estimated effectiveness using the 2023 global electricity grid emissions intensity and onshore wind capacity factor. Since we do not have ranges for these data, we report only a single calculated effectiveness value.
+
+This is the effectiveness value found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine current adoption (the slider’s low value) and the IEA’s World Energy Outlook scenarios to determine a high estimate for achievable adoption by 2050 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2050.
+
+This is the high end of the range for estimated achievable adoption by 2050.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+China, the United States, and Germany lead the market for installed onshore wind capacity, with 60% of global capacity in the United States and China. Installed capacity in China alone was greater than installed capacity across the rest of the world, excluding the United States (IRENA, 2024b).
+
+Capacity factors vary geographically. In 2023, Brazil had the sixth-highest installed capacity globally (29,000 MW) and reported the highest capacity factors, 54%, while capacity factors in China were only 34%, below the global median capacity factor of 37% (IRENA, 2024b). Higher capacity factors lead to better performance and increased electricity output fromclean energysources.
+
+Regions with fossil fuel–dominated grid mixes use onshore wind turbines to diversify electricity sources and cut emissions from electricity generation. Although China led the onshore wind market in 2023, wind energy from both offshore and onshore turbines only accounted for 6% of electricity generation in Asia and the Pacific, while 56% came from coal (IEA, 2022a). Germany and Spain had the highest installed capacity in Europe as of 2023 with combined onshore and offshore energy contributing 14% of total electricity generation, the highest percentage of any regional grid (IEA, 2022b).
+
+While expanding onshore wind in established markets such as Europe is important, targeting regions with little to no electricity generation from renewables could have a larger impact on emissions reductions by providing a clean energy alternative to fossil fuels. It is also critical to ensure that as wind power expands into low- and middle-income countries, the transition to a more renewable electricity grid is done equitably and benefits local communities (Gorayeb et al., 2018).
+
+In 2023, China, the United States, Brazil, Germany, and India cumulatively made up 82% of new global additions to onshore wind capacity (Global Wind Energy Council [GWEC], 2024). Across all countries with new onshore wind installations in 2023, the median global trend was adding 39 MW of installed capacity per year, but expansion was unevenly distributed around the world. China and India were examples of rapidly expanding markets, with adoption trends of more than 32,000 MW per year and 2,600 MW per year, respectively. Despite a reduction in installations in 2023 compared with 2022, previous installations in the United States contributed to a high 10-year adoption trend of 8,800 MW per year (IRENA, 2024b). The slowest expanding countries, Denmark and the Netherlands, were adding 130–430 MW of onshore wind turbine capacity per year, most likely due to highly saturated existing markets for wind power.
+
+There is ample technical potential for onshore wind adoption in Latin America, Africa, the Middle East, and the Pacific, although current installed capacity is relatively low in those regions (IRENA, 2024b; Wiser et al., 2011). The Global Wind Energy Council highlighted Australia, Azerbaijan, Brazil, China, Egypt, India, Japan, Kenya, the Philippines, Saudi Arabia, South Korea, the United States, and Vietnam as markets to watch for growth (GWEC, 2024).
+
+
+## Mean Wind Speed at 100 meters above surface
+
+
+This map shows average wind speeds at 100 meters above the surface, roughly the height of modern turbine towers. Wind speeds above 6 meters per second (m/s) are generally suitable for onshore wind farms, while 9–10 m/s and higher are considered excellent for power generation. The color scale highlights differences: lighter areas show weaker winds, while darker areas indicate strong winds that make onshore projects most efficient.
+
+Global Wind Atlas (2025).Mean wind speed(version 4.0) [Data set]. Technical University of Denmark (DTU).Link to source:https://globalwindatlas.info/
+
+
+## Mean Wind Speed at 100 meters above surface
+
+
+This map shows average wind speeds at 100 meters above the surface, roughly the height of modern turbine towers. Wind speeds above 6 meters per second (m/s) are generally suitable for onshore wind farms, while 9–10 m/s and higher are considered excellent for power generation. The color scale highlights differences: lighter areas show weaker winds, while darker areas indicate strong winds that make onshore projects most efficient.
+
+Global Wind Atlas (2025).Mean wind speed(version 4.0) [Data set]. Technical University of Denmark (DTU).Link to source:https://globalwindatlas.info/
+
+Based on IEA data, global emissions from electricity generation accounted for an estimated 530 kgCO₂‑eq/MWh(540 kg CO₂‑eq
+/MWh, 20-year basis). To convert from MWh to MW, we used the median global average capacity factor for onshore wind turbines of 37% (IRENA, 2024a). We estimated onshore wind turbines to reduce 1,700tCO₂‑eq
+/MW (1,700 t CO₂‑eq
+/MW, 20-year basis) of installed capacity annually (Table 1).
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit: t CO₂‑eq
+ (100-year basis)/MW installed capacity/yr
+
+To estimate theeffectivenessof onshore wind turbines, we assumed that electricity generated by new installations displaces an equivalent MWh of the global electricity grid mix. Then, the reduction in emissions from additional onshore wind capacity was equal to emissions (per MWh) from the 2023 global electricity grid mix (IEA, 2024c). We then used the onshore wind capacity factor to convert to annual emissions per MW of installed capacity.
+
+During operation, onshore wind turbines do not emit GHGs. Life-cycle analyses for onshore wind turbines have estimated lifetime GHG emissions as very low, 7–20 g CO₂‑eq
+ perkWh(100-year) of electricity generated (Barthelmie et al., 2021; Wiser et al., 2011). Emissions from manufacturing, transportation, installation, and decommissioning are commonly paid back in less than two years of wind farm operation (Diógenes et al., 2020; Haces-Fernandez et al., 2022; Kaldellis & Zafirakis, 2011).
+
+Our analysis focused solely on emissions produced during electricity generation; emissions associated with construction and installation of onshore wind are attributed to the Industry, Materials & Waste sector. Thus, we did not includecarbon paybacktime and embodiedlife-cycle emissionsin our estimates of effectiveness, even though this may overestimate climate impacts. We qualitatively discuss life-cycle emissions in Caveats below.
+
+We estimated a meanlevelized cost of electricity(LCOE) for onshore wind turbines of US$52/MWh based on three industry reports (IEA, 2024d; IEA, 2020; IRENA, 2024a).LCOE is commonly used to compare costs across electricity generation technologies because it provides a single metric that combines total installed costs, costs of capital, operating and maintenance costs, the capacity factor, and lifetime of the project (EIA, 2022; Shah & Bazilian, 2020).
+
+In many global markets, wind power is one of the cheapest ways to generate electricity per MWh (IEA, 2024d); in 2023, newly commissioned onshore wind projects had lower electricity costs than the weighted average LCOE for fossil fuels, which was US$70–176/MWh (IRENA, 2024a). According to IRENA, the global weighted average LCOE for onshore wind turbines declined 91% between 1984–2023 (IRENA, 2024a). Although turbine prices increase with height, revenue from increased power generation available to larger turbines can offset increases in upfront costs, reducing LCOE (Beiter et al., 2021). Additional factors influencing cost-competitiveness of onshore wind include regional energy market fluctuations, social costs of carbon, and subsidies. These factors are not included in our analysis, but some policy levers are discussed in Take Action below.
+
+Learning rates for onshore wind vary widely due to different underlying assumptions, geographies, and performance metrics. Pastlearning rateestimates for wind power ranged from –3%, implying that wind power is more expensive over time, to 33% (Beiter et al., 2021). Learning-by-doing rates, based on experience accumulated as capacity increases, ranged from 1–17%, while learning-by-research rates, based on innovation and technological development, ranged from 5–27% (Williams et al., 2017).
+
+More recent LCOE-based learning rate estimates suggest a 10%–20% reduction in LCOE when cumulative global capacity is doubled (Wiser et al., 2021). Since upfront costs are the largest component of LCOE for onshore wind, the reduction in LCOE was driven by a 9–18% decrease in capital expenditures between 2014–2019 due to “turbine price declines, economies of size, technology innovation, and siting choices” (Beiter et al., 2021). Between 2008–2020, onshore wind turbine prices declined by 50% (Wiser et al., 2024). Additionally, installed costs per megawatt decreased with increasing project size, and wind farms above 200 MW had the lowest installed costs (Wiser et al., 2024).Supply chainbottlenecks and higher material costs caused project cost increases between 2020–2022, but in 2023 prices flattened or dropped compared to the previous year (Wiser et al., 2024). Industry experts predicted a 37–49% reduction in wind turbine costs by 2050 (Wiser et al., 2021).
+
+Although learning rates vary from country to country and site to site, we used two high-quality global studies that provided LCOEs for onshore wind to estimate a global learning rate for onshore wind. This resulted in a 28% median global learning rate between 2014–2019 for onshore wind, implying a 28% reduction in LCOE for each doubling of installed capacity during that time period (Table 2).
+
+Table 2. Learning rate: drop in LCOE per doubling of the installed solution base.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Deploy Onshore Wind Turbines is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+Current adoption of onshore wind power is well documented by international agencies; we based our estimate on reported installed capacity in 2023 from IRENA, IEA, and the Global Wind Energy Council (GWEC). Globally, onshore wind turbines exceeded 940,000 MW of installed capacity in 2023 (Table 3), based on the median across three global wind energy reports (GWEC, 2024; IEA, 2024d; IRENA, 2024b). Although we used 2023 as our baseline for current adoption, in 2024 an additional 109 GW of onshore wind capacity was installed, bringing the global total to over 1 million MW (GWEC, 2025).
+
+Table 3. Current adoption level (2023).
+
+Unit: MW installed capacity
+
+Based on data from IRENA, onshore wind turbines generated electricity in 133 countries (IRENA, 2024b). At the country level, China led the market with more than 400,000 MW, and the lowest current adoption was in Trinidad and Tobago with 0.01 MW. Median country-level adoption was in Mongolia with 160 MW of installed capacity. Countries with less than 1 MW of installed capacity each were excluded from analysis, but their combined installed capacity was 6.4 MW across 16 countries. See Geographic Guidance for more regional details.
+
+Based on the IRENA’s 2024 Renewable Energy Statistics, we calculated the global adoption trend by summing adoption across countries for each year between 2013–2023 and taking the year-to-year difference. Comparing year-to-year global adoption, the median global adoption trend was adding 54,000 MW of installed capacity per year (Table 4, Figure 1), but expansion was unevenly distributed geographically.
+
+Table 4. Adoption trend (2013–2023).
+
+Unit: MW installed capacity per year
+
+Figure 1. Global adoption of onshore wind turbines, 2000–2023. Copyright © IRENA 2024
+
+International Renewable Energy Agency. (2024b).Renewable energy capacity statistics 2024—Data product.
+
+Between 2010–2023, global cumulative onshore wind installed increased more than fourfold (IRENA, 2024a). Globally new onshore wind deployment declined between 2020–2022, but this trend reversed in 2023 with record global additions of 108,000 MW for a single year (GWEC, 2024; IEA, 2024b). GWEC projected that average annual installations would continue to increase, with 653,000 MW predicted to be added in 2024–2028 (GWEC, 2024).
+
+The availability of wind resources sets the absolute upper limit of theadoption ceilingfor onshore wind turbines with additional constraints due to land availability. However, wind resources are not evenly distributed around the world, so there will also be regional adoption ceilings for different countries (Wiser et al., 2011). In the literature, the global technical potential for onshore wind energy is calculated using power curves for turbines, statistical wind speed maps, and simulations (Jacobson & Archer, 2012; Jung, 2024). Land availability constrains the adoption ceiling because siting includes assessments of land cover type and exclusions ofprotected areas, bodies of water, and urban areas (Angliviel de La Beaumelle et al., 2023).
+
+At COP28 in 2023, nearly 200 countries pledged to triple renewable energy capacity by 2030 (IEA, 2024a). For onshore wind turbines, tripling capacity would mean accelerating adoption to nearly 270,000 MW installed annually. If that accelerated adoption trend is maintained between 2030–2050, the tripling pledge would result in more than 8.2 million MW of onshore wind turbine installed capacity by 2050. Additionally, the Net Zero Emissions by 2050 scenario in IEA’s World Energy Outlook projected 7.9 million MW of installed capacity for onshore and offshore wind power combined (IEA, 2024d), but we do not include combined wind power estimates in our adoption ceiling. For our analysis, we use the median technical potential to get an adoption ceiling of 12 million MW installed capacity for onshore wind turbines (Table 5).
+
+Table 5. Adoption ceiling: upper limit for adoption level.
+
+Unit: MW installed capacity
+
+The IEA’s World Energy Outlook (WEO) 2024 includes several key scenarios that explore different energy futures based on varying levels of policy intervention, technological development, and market dynamics. We define the adoption achievable range for onshore wind turbines based on the Stated Policies Scenario (STEPS) and Announced Pledges Scenario (APS) (IEA, 2024d).
+
+The Achievable – Low adoption level is based on STEPS, which captured the current trajectory for increased adoption of onshore wind energy as well as future projections based on existing and announced policies. Under this scenario, onshore wind capacity is projected to increase more than threefold from 940,000 MW to 3,200,000 MW by 2050 (Table 6).
+
+The Achievable – High adoption level is based on APS, which assumes the same policy framework as STEPS, plus full realization of announced national energy and climate targets, including net-zero commitments supported by stronger clean energy investments. Under this scenario, onshore wind capacity is projected to increase more than fourfold from 940,000 MW to 4,400,000 MW by 2050 (Table 6).
+
+Table 6. Range of achievable adoption levels.
+
+Unit: MW installed capacity
+
+Current adoption of onshore wind turbines was nearly 8% of our estimated 12 million MW adoption ceiling and the achievable range is between 27% and 37%.
+
+Based on baseline global adoption and effectiveness, we estimate the current total climate impact of onshore wind turbines to be 1.6GtCO₂‑eq
+ (1.6 Gt CO₂‑eq
+, 20-year basis) of reduced emissions per year. We estimated the achievable range of climate impacts using the emissions from the 2023 baseline electricity grid; actual emissions reductions could differ depending on how theemissions intensityof electricity generation changes over time. The IEA Stated Policies Scenario projected that global adoption would reach 3.2 million MW by 2050 (IEA, 2024d), resulting in an increased emissions reduction of 5.4 Gt CO₂‑eq
+ (5.4 Gt CO₂‑eq
+, 20-year basis) per year. The IEA Announced Pledges Scenario projected 4.4 million MW of installed capacity by 2050 (IEA, 2024d), implying an estimated 7.5 Gt CO₂‑eq
+ (7.5 Gt CO₂‑eq
+, 20-year basis) of reduced emissions per year (Table 7).
+
+Table 7. Climate impact at different levels of adoption.
+
+Unit: Gt CO₂‑eq
+ (100-year basis) per year
+
+We based the adoption ceiling solely on technical potential and wind resources, neglecting economic constraints, so onshore wind turbines are unlikely to reach 12 million MW of installed capacity in the next 100 years (IEA, 2024d). However, if the adoption ceiling could be reached, annual emissions reductions would be approximately 20 Gt CO₂‑eq
+ (20 Gt CO₂‑eq
+, 20-year basis).
+
+Wind power has a strong positive impact on the economy. Wind energy projects have been shown to increase both total income and employment in high-, low-, and middle-income countries, although the costs of new projects may be higher in emerging markets until the market develops (Adeyeye et al., 2020; GWEC & GWO, 2021; World Bank, 2021). According to the GWEC & GWO (2023), the wind industry will need more than half a million new technicians to reach renewable energy goals. Technical roles will also be supported by additional jobs for engineers, manufacturers, analysts, and managers. Many of these jobs are in the construction sector. They also include technicians, engineers, manufacturers, analysts, and managers. In the United States, wind energy employed more than 125,000 workers in 2022 (Hartman, 2024). Onshore wind could also strengthen energy security by diversifying the power mix and reducing dependence on imported fuels.
+
+Improvements in air quality offer health benefits from reduced air pollution exposure, including reduced premature mortality. The magnitude and distribution of these benefits depends on the local electricity grid mix and the fuels used to generate electricity (Qiu et al., 2022). In 2022, the air quality health benefits from wind power amounted to US$16 billion at a rate of US$36 permegawatt-hour(Millstein et al., 2024). Health benefits of onshore wind can be greater for racial and ethnic minority groups and low-income populations, who often face higher exposure burdens from fossil-fuel electricity generation; however these benefits also depend on the existing grid and on how pollutants are transported in the atmosphere (Qiu et al., 2022). In the United States, economic benefits of improved health outcomes have already increased from US$2 billion in 2014 to US$16 billion in 2022, but these benefits could be maximized by replacing fossil-fuel power plants in regions with higher health damages (Qiu et al., 2022).
+
+While some wind power systems could displace species through habitat loss, careful planning and development could reduce some of these risks and conserve biodiversity (Kati et al., 2021; Tolvanen et al., 2023). Wind-powered electricity generation can benefit the environment by requiring less water than fossil fuel–powered electricity. According to a life-cycle analysis by Meldrum et al. (2013), wind power has the lowest water consumption of all electricity generation methods.
+
+For a description of water resources benefits, please refer to the Nature Protection section.
+
+Wind energy significantly reduces air pollutants released from fossil-fuel energy generation, thereby avoiding the emission of pollutants such asnitrogen oxides,sulfur dioxide, andparticulate matterassociated with burning coal andnatural gas. In the U.S. Midwest, each MWh of wind energy added to the grid can avoid 4.9 pounds of sulfur dioxide and 2.0 pounds of nitrous oxides (Nordman, 2013). A life-cycle analysis of wind power in China found that wind farms could reduce sulfur dioxide,,nitrous oxides, andPM10emissions by 80.38%, 57.31%, and 30.91%, respectively, compared with emissions from coal-based power plants (Xue et al., 2015).
+
+Emissions from fossil fuel–based electricity generation can be reduced with increased deployment of wind power. One limitation of our approach is assuming that each additional MWh of installed capacity displaces one MWh of the existing grid mix. This implies that new onshore wind may, at times, displace other renewables, rather than fossil-based sources. In reality, the extent of avoided emissions varies based on regional grid dynamics, marginal generation sources, and the timing and location of electricity production. This approach could be refined in the future, since wind generation could displace a larger share of fossil-fuel output than assumed in average grid-mix methods (e.g., Millstein et al., 2024). We may overestimate the achievable range of climate impacts because grid-average emissions would decrease over time as more renewables are added to the grid mix. In regions where utility-scale wind farms contribute significantly to the electricity grid, continued expansion also faces socio-ecological challenges due to limited available land with good wind conditions (da Silva and Galvão, 2022).
+
+Increasing the speed of adoption of onshore wind turbines could lead to issues such as lack of financing, supply chain bottlenecks, land and permit availability, social acceptance, and necessary grid and infrastructure expansion (GWEC, 2024). Globally, bottlenecks in supply chains alongside increased commodity prices for steel and other turbine materials in recent years led to a slowdown in wind power installations compared to solar (Mathis & Saul, 2024). Poor governance and low stakeholder engagement from utilities can also limit future adoption.
+
+Due to the successful adoption of onshore wind in the past, many existing wind farms will reach the end of their average 20- to 25-year project lifetime before 2050 (IEA, 2024b; IRENA, 2024a; Wiser et al., 2024). Global wind energy capacity could decrease as wind farms are decommissioned, which involves dismantling and disposal of turbines and related infrastructure (Agra Neto et al., 2024). However, it is unlikely that a wind farm would be replaced with anonrenewableenergy source (Maguire et al., 2024). Although 85–90% of turbine raw materials can be recycled, including steel andcement, composite materials are still landfilled, with environmental consequences (Barthelmie et al., 2021; GWEC, 2024). Wind farms can also be retrofitted or repowered at the end of their design lifetimes.
+
+GHGs are emitted during construction, installation, operation, decommissioning, and disposal of onshore wind turbines, but full life-cycle emissions are an order of magnitude lower than emissions from fossil fuel–based energy sources (Barthelmie et al., 2021; National Renewable Energy Laboratory [NREL], 2021). Nonoperational emissions are attributed to solutions in the Industry, Materials & Waste sector.
+
+Several key risks could prevent growth in installed capacity of onshore wind turbines. Electricity generation from onshore wind turbines inherently fluctuates because wind speeds vary temporally and spatially. Onshore wind turbines face challenges integrating into regional electricity grids (Diógenes et al., 2020; Shafiullah et al., 2013), depending on their location. To reliably meet demand, many grid mixes rely on backup power from coal and natural gas (Haces-Fernandez et al., 2022; Millstein et al., 2024) – although advances in smart grids, storage, and grid flexibility can help reduce reliance on backup fossil-fuel power. Times of high wind generation can create instability (Smith, 2024), leading turbine operators to curtail power output to prevent overloading the electricity grid. Curtailment can also occur due to infrastructure limitations or market conditions (Hartman, 2024). However, we found that curtailment was often small: In 2018, less than 2% of wind power was curtailed in the United States and Germany (Zhang et al., 2020). Intermittency in wind energy could also drive increases in electricity costs, but this can be reduced through a variety of generation-side, demand-side, and storage technologies (Ren et al., 2017).
+
+Siting, transportation, and transmission challenges involve trade-offs between electricity generation requirements, cost, and impacts to people and the environment (Tarfarte & Lehmann, 2023). Construction delays occur due to regulatory and permitting challenges (McKenna et al., 2025; Timilsina et al., 2013). Larger turbines, which provide more power, also exacerbate logistical challenges of construction, transportation, installation, and optimization (Afridi et al., 2024). Construction and siting of new onshore wind farms could threaten land used for agriculture, Indigenous land rights, cultural landscapes, and ecosystems if not carefully assessed during project planning phases, including minimizing visual disturbances and vibrations (Gorayeb et al., 2018; McKenna et al., 2025; Tolvanen et al., 2023). There are emissions associated with land use change (LUC) for new wind farms becausesequesteredcarbon is released as CO₂
+ when soil is disturbed during construction. The magnitude of LUC emissions depends on the land cover type that the wind farm replaces. LUC emissions caused by constructing on pastureland, cropland, and forests were 6–17% of annual emissions savings from deploying the wind turbines (Albanito et al., 2022; Marashli et al., 2022), and constructing on peatlands could cause emissions greater than the emission savings (Albanito et al., 2022).
+
+Increased availability of renewable energy from onshore wind turbines helps reduce emissions from the electricity grid as a whole. Reduced emissions from the electricity grid lead to lower downstream emissions for solutions that rely on electricity use. Deploying onshore wind turbines also supports increased integration of solarPVby diversifying the renewable energy mix and reducing overreliance on solar variability.
+
+Improve District Heating: Buildings
+
+Deploy Utility-Scale Solar PV
+
+Increase Industrial Electrification
+
+Automated and more efficient use of electricity in buildings can shift energy use to times of high renewable generation and reduce electricity demand to help balance intermittency challenges of onshore wind energy.
+
+Automate Building Systems
+
+Electrification of transportation systems will be more beneficial in reducing global emissions if the underlying grid includes a higher proportion of non-emitting power sources. Electric transportation systems can also reduce curtailment of wind energy through controlled-time charging and other load-shifting technologies.
+
+Enhance High-Speed Rail
+
+Mobilize Electric Bicycles
+
+Mobilize Electric Cars
+
+Mobilize Electric Scooters & Motorcycles
+
+Mobilize Electric Trains
+
+Mobilize Electric Trucks & Buses
+
+Deploying onshore wind energy requires dedicated land use which limits land availability for other renewable energy technologies, raw material and food production, and conservation programs. Deploy Onshore Wind Turbines competes with the following solutions for land:
+
+Deploy Offshore Wind Turbines
+
+Deploy Utility-Scale Solar PV
+
+Deploy Concentrated Solar
+
+Deploy Geothermal Power
+
+Deploy Small Hydropower
+
+Improve Forest Management
+
+Protect Grasslands & Savannas
+
+Restore Grasslands & Savannas
+
+Deploy Biomass Crops on Degraded Land
+
+Deploy Perennial Crops
+
+Restore Abandoned Farmland
+
+Improve Annual Cropping
+
+Improve Livestock Grazing
+
+
+## Consensus of overall effectiveness of onshore wind turbines: High
+
+
+Onshore wind energy is inherently renewable and well established as an efficient and effective electricity source. Increasing availability of wind energy reduces the need for fossil fuel–derived energy sources such as coal and gas, leading to lower GHG emissions from the global electricity sector. Through reduced emissions, deploying onshore wind turbines also leads to climate and air quality benefits (Afridi et al., 2024; Millstein et al., 2024). Wind energy is widely adopted around the world, and in 2023 “the country weighted average turbine capacity ranged from 2.5 MW to 5.8 MW” across 133 countries (IRENA, 2024a).
+
+Ongoing innovation is necessary for broader global adoption of onshore wind. Estimates of technical adoption potential depend on site characteristics and socioeconomic conditions (Jung & Schindler 2023; McKenna et al., 2022). According to the Intergovernmental Panel on Climate Change (IPCC), “at low to medium levels of wind electricity penetration (up to 20% of total electricity demand), the integration of wind energy generally poses no insurmountable technical barriers and is economically manageable” (Wiser et al., 2011). Potentially exploitable wind resources are 20–30 times higher than 2017 global electricity demand (Clarke et al., 2022).
+
+The results presented in this document summarize findings from 8 reviews and meta-analyses, 29 original studies, 18 agency reports, and 4 articles reflecting current evidence from 133 countries. We prioritized global data, but some research primarily focuses on trends in the United States, Brazil, China, and Germany. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Coordinate wind power policies horizontally (e.g., across agencies) and vertically (e.g., across subnational, national, and international efforts), ensuring an inclusive process for impacted communities and consumers.
+
+Develop regulations, standards, and codes to ensure quality equipment production, safe operation, and quick deployment – ideally, before development and adoption to prevent accidents and delays.
+
+Offer equipment testing and certification systems, market information disclosures, and assistance with onsite supervision
+
+Set quotas for power companies and offer expedited permitting processes for renewable energy production, including onshore wind, while maintaining environmental safeguards.
+
+Set adjustments for wind power on-grid pricing through schemes such as feed-in tariffs, renewable energy auctions, or other guaranteed pricing methods for wind energy.
+
+Offer subsidies, grants, low-interest loans, and preferential tax policies for manufacturers, developers, and operators of onshore wind farms.
+
+Invest in and develop grid infrastructure – particularly, high-voltage transmission capacity.
+
+Provide financing for research and development (R&D) to improve the performance of wind turbines, wind forecasting, and related technology.
+
+Mandate onsite wind power forecasting and set standards for data integrity.
+
+Create training programs for engineers, operators, and other personnel.
+
+Coordinate voluntary agreements with industry to increase onshore wind capacity and power generation.
+
+Initiate public awareness campaigns focusing on how wind turbines function, their benefits, and any public concerns.
+
+Disincentivize fuel-based power generation and use funds to subsidize new onshore wind investments.
+
+Energy systems. Clarke et al. (2022)
+
+Barriers to onshore wind energy implementation: A systematic review. Diógenes et al. (2020)
+
+Renewables 2022 – analysis and forecast to 2027. IEA (2022)
+
+Global wind report 2024. Global Wind Energy Council (2024)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+The need for comprehensive and well targeted instrument mixes to stimulate energy transitions: the case of energy efficiency policy. Rosenow et al. (2017)
+
+Plan your energy future. U.S. Department of Energy (U.S. DOE).
+
+Wind energy models and tools. U.S. DOE
+
+Work with external organizations to enter new markets and identify challenges early in development.
+
+Participate in, offer, or explore coinvestments in, electricity infrastructure (e.g.,shared transmission).
+
+Partner with academic institutions and other external organizations to provide workforce development programs.
+
+Focus R&D on increasing the productivity and efficiency of turbines, especially in areas with lower wind conditions, and on supporting technology such as wind forecasting.
+
+Consider leasing usable land for onshore wind development.
+
+Participate in voluntary agreements with government bodies to increase policy support for onshore wind capacity and power generation.
+
+Conduct integrated logistics planning to anticipate transport challenges for large turbine components.
+
+Strengthen local workforce skills through partnerships with technical schools and vocational programs.
+
+Support and participate in public awareness campaigns focusing on how wind turbines function, their benefits, and any public concerns.
+
+Stay abreast of and engage with changing policies, regulations, zoning laws, tax incentives, and related developments to help remove commercial barriers.
+
+Energy systems. Clarke et al. (2022)
+
+Renewables 2022 – analysis and forecast to 2027. IEA (2022)
+
+Scaling wind: Harnessing wind to power sustainable growth. International Finance Corporation
+
+Economics and incentives for wind. U.S. DOE
+
+Plan your energy future. U.S. DOE
+
+Wind energy financial incentives. U.S. DOE
+
+Wind energy models and tools. U.S. DOE
+
+Enter intoPurchase Power Agreements(PPAs), long-term contracts between a company (the buyer) and a renewable energy producer (the seller).
+
+Purchase high-integrity renewable energy certificates (RECs), which track ownership of renewable energy generation.
+
+Support long-term, stable contracts (e.g., PPAs or Contracts for Difference) that de-risk investment in onshore wind technologies and incentivize local supply chain development.
+
+Invest in companies that provide onshore wind energy, those that make components for onshore wind, or those that develop related technology, such as forecasting.
+
+Initiate or join voluntary agreements with national or international bodies and support industry collaboration.
+
+Support workforce development programs and/or offer employee scholarships or sponsor training for careers in onshore wind.
+
+Support community engagement initiatives in areas where you do business to educate and highlight the local economic benefits of onshore wind.
+
+Energy systems. Clarke et al. (2022)
+
+Renewables 2022 – analysis and forecast to 2027. IEA (2022)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Economics and incentives for wind. U.S. DOE
+
+Plan your energy future. U.S. DOE
+
+Wind energy models and tools. U.S. DOE
+
+Advocate for favorable policies and incentives for onshore wind energy development, such as financing, preferential tax policies, guaranteed pricing methods, and quotas.
+
+Propose or help develop regulations, standards, and codes to ensure quality equipment production, safe operation, and quick deployment.
+
+Advocate for equitable sharing of revenue and taxes in areas that produce wind power.
+
+Support fair benefit-sharing arrangements and conflict resolution mechanisms to settle land use disputes.
+
+Conduct open-access research to improve the performance of wind turbines, wind forecasting, and related technology.
+
+Operate or help with equipment testing and certification systems, market information disclosures, and onsite supervision.
+
+Create or help with training programs for engineers, operators, and other personnel.
+
+Coordinate voluntary agreements between governments and industry to increase onshore wind capacity and power generation.
+
+Initiate public awareness campaigns focusing on how wind turbines function, their benefits, and any public concerns.
+
+Energy systems. Clarke et al. (2022)
+
+Renewables 2022 – analysis and forecast to 2027. IEA (2022)
+
+The need for comprehensive and well targeted instrument mixes to stimulate energy transitions: The case of energy efficiency policy. Rosenow, J., et al. (2017)
+
+Economics and incentives for wind. U.S. DOE
+
+Plan your energy future. U.S. DOE
+
+Wind energy models and tools. U.S. DOE
+
+Invest in the development of onshore wind farms.
+
+Consider offering flexible and low-interest loans for developing and operating onshore wind farms.
+
+Invest in supporting infrastructures such as utility companies, grid development, and access roads.
+
+Invest in component technology and related science, such as wind forecasting.
+
+Invest ingreen bondsand/or explore blended finance structures to mobilize capital for companies developing onshore wind energy or supporting infrastructure.
+
+Help develop insurance products for onshore wind in emerging markets.
+
+Align investments with existing public-private partnerships, voluntary agreements, or voluntary guidance that may apply in the location of the investment (including those that apply to biodiversity).
+
+Energy systems. Clarke et al. (2022)
+
+Renewables 2022 – analysis and forecast to 2027. IEA (2022)
+
+Economics and incentives for wind. U.S. DOE
+
+Other wind energy funding opportunities. U.S. DOE
+
+Plan your energy future. U.S. DOE
+
+Wind energy financial incentives. U.S. DOE
+
+Wind energy models and tools. U.S. DOE
+
+
+## Philanthropists and International Aid Agencies
+
+
+Provide catalytic financing for, or help develop, onshore wind farms.
+
+Award grants to improve supporting infrastructures such as utility companies, grid development, and access roads.
+
+Support the development of component technology and related science, such as wind forecasting.
+
+Fund updates to high-resolution wind atlases and data platforms to improve resource assessment and project planning.
+
+Facilitate partnerships to share wind turbine technology and best practices between established and emerging markets, promoting energy equity and access.
+
+Foster cooperation and technology transfer between low- and middle-income countries with emerging wind sectors.
+
+Advocate for favorable policies and incentives for onshore wind energy development, such as financing, preferential tax policies, guaranteed pricing methods, and quotas.
+
+Propose or help develop regulations, standards, and codes to ensure quality equipment production, safe operation, and quick deployment.
+
+Initiate public awareness campaigns focusing on how wind turbines function, their benefits, and any public concerns.
+
+Energy systems. Clarke et al. (2022)
+
+Global wind report 2024. Global Wind Energy Council (2024)
+
+Renewables 2022 – analysis and forecast to 2027. IEA (2022)
+
+The need for comprehensive and well targeted instrument mixes to stimulate energy transitions: The case of energy efficiency policy. Rosenow et al. (2017)
+
+Economics and incentives for wind. U.S. DOE
+
+Other wind energy funding opportunities. U.S. DOE
+
+Plan your energy future. U.S. DOE
+
+Wind energy models and tools. U.S. DOE
+
+Advocate for favorable policies and incentives for onshore wind energy development, such as financing, preferential tax policies, guaranteed pricing methods, and quotas.
+
+Propose or help develop regulations, standards, and codes to ensure quality equipment production, safe operation, and quick deployment.
+
+Conduct research to improve the performance of wind turbines, wind forecasting, and related technology.
+
+Initiate public awareness campaigns focusing on how wind turbines function, their benefits, why they are necessary, and any public concerns.
+
+Advocate for inclusion of community engagement, respect for Indigenous rights, and preservation of cultural heritage and traditional ways of life in wind power expansion efforts.
+
+Advance academic and/or public discourse on fully pricing fossil-fuel externalities to improve fair competition for renewables.
+
+Energy systems. Clarke et al. (2022)
+
+Barriers to onshore wind energy implementation: A systematic review. Diógenes et al. (2020)
+
+Renewables 2022 – Analysis and forecast to 2027. IEA (2022)
+
+The need for comprehensive and well targeted instrument mixes to stimulate energy transitions: The case of energy efficiency policy. Rosenow et al. (2017)
+
+Economics and incentives for wind. U.S. DOE
+
+Plan your energy future. U.S. DOE
+
+Wind energy financial incentives. U.S. DOE
+
+Wind energy models and tools. U.S. DOE
+
+
+## Technologists and Researchers
+
+
+Improve the productivity and efficiency of wind turbines.
+
+Improve battery capacity for electricity storage.
+
+Develop more accurate, timely, and cost-effective means of wind forecasting.
+
+Develop siting maps that highlight exclusion zones for Indigenous lands, cultural heritage sites, and biodiversity hot spots.
+
+Engineer new or improved means of manufacturing towers and components – ideally with locally sourced materials.
+
+Enhance design features such as wake steering, bladeless wind power, and quiet wind turbines.
+
+Develop materials and designs that facilitate recycling and circulate supply chains.
+
+Optimize power output, efficiency, and deployment for vertical axis turbines.
+
+Refine methods for retaining power for low-speed winds.
+
+Research the cumulative social, environmental, and climate impacts of the onshore wind industry.
+
+Explore smart transmission and advanced grid management to address future connection bottlenecks.
+
+Energy systems. Clarke et al. (2022)
+
+Renewables 2022 – analysis and forecast to 2027. IEA (2022)
+
+Scaling wind: Harnessing wind to power sustainable growth. International Finance Corporation
+
+Technology advancements could unlock 80% more wind energy potential during this decade. Laurie (2023)
+
+Innovations In wind turbine design: Increased efficiency & power output. Perch Energy (2024)
+
+Plan your energy future. U.S. DOE
+
+Wind energy models and tools. U.S. DOE
+
+
+## Communities, Households, and Individuals
+
+
+Purchase high-integrity RECs, which track ownership of renewable energy generation.
+
+Advocate for equitable sharing of revenue and taxes in areas that produce wind power.
+
+Participate in public consultations and licensing hearings for wind projects.
+
+Stay informed about wind development projects that impact your community and support them when possible.
+
+Conduct research on the benefits and development of wind energy and share the information with your friends, family, and other networks.
+
+Support the development of community wind cooperatives or shared ownership structures that allow local communities to directly benefit from onshore wind projects.
+
+Participate in public awareness campaigns focused on onshore wind projects.
+
+Advocate for favorable policies and incentives for onshore wind energy development, such as financing, preferential tax policies, guaranteed pricing methods, and quotas.
+
+If your utility company offers transparentgreen pricing, which charges a premium to cover the extra cost of renewable energy, and if it fits your budget, opt into it.
+
+Energy systems. Clarke et al. (2022)
+
+Renewables 2022 – analysis and forecast to 2027. IEA (2022)
+
+Economics and incentives for wind. U.S. DOE
+
+Other wind energy funding opportunities. U.S. DOE
+
+Plan your energy future. U.S. DOE
+
+Wind energy financial incentives. U.S. DOE
+
+Wind energy models and tools. U.S. DOE
+
+
+## “Take Action” Sources
+
+
+Energy systems. Clarke et al. (2022)
+
+Assessment of factors affecting onshore wind power deployment in India. Das et al. (2020)
+
+Barriers to onshore wind farm implementation in Brazil. Diógenes et al. (2019)
+
+Barriers to onshore wind energy implementation: a systematic review. Diógenes et al. (2020)
+
+Overcoming barriers to onshore wind farm implementation in Brazil. Diógenes et al. (2020)
+
+Analysis of the promotion of onshore wind energy in the EU: feed-in tariff or renewable portfolio standard?García-Álvarez et al. (2017)
+
+Renewables 2022 – analysis and forecast to 2027. IEA (2022)
+
+Analysis and recommendations for onshore wind power policies in China. Li et al. (2018)
+
+Renewable energy resources, policies and gaps in BRICS countries and the global impact. Pathak and Shah (2019)
+
+The need for comprehensive and well targeted instrument mixes to stimulate energy transitions: The case of energy efficiency policy. Rosenow et al. (2017)
+
+Methods and Supporting Data
+
+Adeyeye, K., Ijumba, N., & Colton, J. (2020). Exploring the environmental and economic impacts of wind energy: A cost-benefit perspective.International Journal of Sustainable Development & World Ecology, 27(8), 718–731.Link to source:https://doi.org/10.1080/13504509.2020.1768171
+
+Albanito, F., Roberts, S., Shepherd, A., & Hastings, A. (2022). Quantifying the land-based opportunity carbon costs of onshore wind farms.Journal of Cleaner Production, 363(132480), 0959–6526.Link to source:https://doi.org/10.1016/j.jclepro.2022.132480
+
+Angliviel de La Beaumelle, N., Blok, K., de Chalendar, J. A., Clarke, L., Hahmann, A. N., Huster, J., Nemet, G. F., Suri, D., Wild, T. B., & Azevedo, I. M. L. (2023). The global technical, economic, and feasible potential of renewable electricity.Annual Review of Environment and Resources, 48, 419–449.Link to source:https://doi.org/10.1146/annurev-environ-112321-091140
+
+Agra Neto, J., González, M. O. A., Castro, R. L. P. D., Melo, D. C. D., Aiquoc, K. M., Santiso, A. M., Vasconcelos, R. M. D., Souza, L. H. D., & Cabral, E. L. D. S. (2024). Factors influencing the decision-making process at the end-of-life cycle of onshore wind farms: A systematic review.Energies,17(4), Article 848.Link to source:https://doi.org/10.3390/en17040848
+
+Barthelmie, R. J., & Pryor, S. C. (2021). Climate change mitigation potential of wind energy.Climate, 9(9), Article 136.Link to source:https://doi.org/10.3390/cli9090136
+
+Beiter, P., Cooperman, A., Lantz, E., Stehly, T., Shields, M., Wiser, R., Telsnig, T., Kitzing, L., Berkhout, V., & Kikuchi, Y. (2021). Wind power costs driven by innovation and experience with further reductions on the horizon.WIREs Energy and Environment, 10(5), Article e398.Link to source:https://doi.org/10.1002/wene.398
+
+Clarke, L., Wei, Y.-M., De La Vega Navarro, A., Garg, A., Hahmann, A. N., Khennas, S., Azevedo, I. M. L., Löschel, A., Singh, A. K., Steg, L., Strbac, G., & Wada, K. (2022). Energy Systems.In P. R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, & J. Malley (Eds.),Climate change 2022: Mitigation of climate change. Contribution of working group III to the sixth assessment report of the intergovernmental panel on climate change(pp. 613–746). Cambridge University Press.Link to source:https://doi.org/10.1017/9781009157926.008
+
+da Silva, V. P., & Galvão, M. L. d. M. (2022). Onshore wind power generation and sustainability challenges in northeast Brazil: A quick scoping review.Wind, 2(2), 192–209.Link to source:https://doi.org/10.3390/wind2020011
+
+Diógenes, J. R. F., Claro, J., Rodrigues, J. C., & Loureiro, M. V. (2020). Barriers to onshore wind energy implementation: A systematic review.Energy Research & Social Science,60, Article 101337.Link to source:https://doi.org/10.1016/j.erss.2019.101337
+
+Energy Information Administration. (2022).Levelized costs of new generation resources in the Annual Energy Outlook 2022. U.S. Department of Energy.Link to source:https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf
+
+Energy Information Administration. (2024a).Capital cost and performance characteristics for utility-scale electric: Power generating technologies.U.S. Department of Energy.Link to source:https://www.eia.gov/analysis/studies/powerplants/capitalcost/pdf/capital_cost_AEO2025.pdf
+
+Energy Information Administration. (2024b).Where wind power is harnessed.U.S. Department of Energy.Link to source:https://www.eia.gov/energyexplained/wind/where-wind-power-is-harnessed.php
+
+Global Wind Energy Council. (2024).Global wind report 2024.Link to source:https://www.gwec.net/reports/globalwindreport/2024
+
+Global Wind Energy Council. (2025).Global wind report 2025.Link to source:https://www.gwec.net/reports/globalwindreport
+
+Global Wind Organization & Global Wind Energy Council. (2021).Global wind workforce outlook 2021–2025.Link to source:https://www.globalwindsafety.org/statistics/global-wind-workforce-forecast-2021-2025
+
+Global Wind Organization & Global Wind Energy Council. (2023).Global wind workforce outlook 2023–2027.Link to source:https://www.globalwindsafety.org/statistics/global-wind-workforce-outlook-2023-2027
+
+Gorayeb, A., Brannstrom, C., de Andrade Meireles, J., & de Sousa Mendes, J. (2018). Wind power gone bad: Critiquing wind power planning processes in northeastern Brazil.Energy Research & Social Science, 40, 82–88.Link to source:https://doi.org/10.1016/j.erss.2017.11.027
+
+Haces-Fernandez, F., Cruz-Mendoza, M., & Li, H. (2022). Onshore wind farm development: Technologies and layouts.Energies, 15(7), Article 2381.Link to source:https://doi.org/10.3390/en15072381
+
+Hartman, L. (2024). Wind Turbines: The Bigger, the Better.Link to source:https://www.energy.gov/eere/articles/wind-turbines-bigger-better
+
+International Electrotechnical Commission. (2019).TC 88 wind energy generation systems.Link to source:https://www.iec.ch/dyn/www/f?p=103:7:0::::FSP_ORG_ID,FSP_LANG_ID:1282,25
+
+International Energy Agency. (2020).Projected costs of generating electricity 2020.Link to source:https://www.iea.org/reports/projected-costs-of-generating-electricity-2020
+
+International Energy Agency. (2022a).Electricity generation sources, Asia Pacific, 2022.Link to source:https://www.iea.org/regions/asia-pacific/electricity
+
+International Energy Agency. (2022b).Electricity generation sources, Europe, 2022.Link to source:https://www.iea.org/regions/europe/electricity
+
+International Energy Agency. (2024a).COP28 tripling renewable capacity pledge: Tracking countries’ ambitions and identifying policies to bridge the gap.Link to source:https://www.iea.org/reports/cop28-tripling-renewable-capacity-pledge
+
+International Energy Agency. (2024b).Renewables 2024.Link to source:https://www.iea.org/reports/renewables-2024
+
+International Energy Agency. (2024c).World energy balances—Data product.Link to source:https://www.iea.org/data-and-statistics/data-product/world-energy-balances
+
+International Energy Agency. (2024d).World energy outlook 2024.Link to source:https://www.iea.org/reports/world-energy-outlook-2024
+
+International Renewable Energy Agency. (2024a).Renewable power generation costs in 2023.Link to source:https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Sep/IRENA_Renewable_power_generation_costs_in_2023.pdf
+
+International Renewable Energy Agency. (2024b).Renewable energy capacity statistics 2024—Data product.Link to source:https://www.irena.org/Publications/2024/Mar/Renewable-capacity-statistics-2024
+
+Jacobson, M. Z., & Archer, C. L. (2012). Saturation wind power potential and its implications for wind energy.Proceedings of the National Academy of Sciences,109(39), 15679–15684.Link to source:https://doi.org/10.1073/pnas.1208993109
+
+Jung, C. (2024). Recent development and future perspective of wind power generation.Energies, 17(21), Article 5391.Link to source:https://doi.org/10.3390/en17215391
+
+Jung, C., & Schindler, D. (2023). Efficiency and effectiveness of global onshore wind energy utilization.Energy Conversion and Management, 280, Article 116788.Link to source:https://doi.org/10.1016/j.enconman.2023.116788
+
+Kaldellis, J. K., & Zafirakis, D. (2011). The wind energy (r)evolution: A short review of a long history.Renewable Energy, 36, 1887–1901.Link to source:https://doi.org/10.1016/j.renene.2011.01.002
+
+Kati, V., Kassara, C., Vrontisi, Z., & Moustakas, A. (2021). The biodiversity-wind energy-land use nexus in a global biodiversity hotspot.Science of The Total Environment,768, Article 144471.Link to source:https://doi.org/10.1016/j.scitotenv.2020.144471
+
+Khan Afridi, S., Ali Koondhar, M., Ismail Jamali, M., Muhammed Alaas, Z., Alsharif, M. H., Kim, M. K., Mahariq, I., Touti, E., Aoudia, M., & Ahmed, M. M. R. (2024). Winds of progress: An in-depth exploration of offshore, floating, and onshore wind turbines as cornerstones for sustainable energy generation and environmental stewardship.IEEE Access, 12, 66147–66166.Link to source:https://doi.org/10.1109/ACCESS.2024.3397243
+
+Maguire, K., Tanner, S., Winikoff, J.B., & Williams, R. (2024).Utility-scale solar and wind development in rural areas: Land cover change (2009–20)(Report No. ERR-330). U.S. Department of Agriculture, Economic Research Service.Link to source:https://doi.org/10.32747/2024.8374829.ers
+
+Marashli, A., Gasaymeh, A-M., & Shalby, M. (2022). Comparing the global warming impact from wind, solar energy, and other electricity generating systems through life cycle assessment methods (a survey).International Journal of Renewable Energy Research,12(2), 899–920. ​​Link to source:https://doi.org/10.20508/ijrer.v12i2.13010.g8474
+
+Mathis, W., & Saul, J. (2024, October 23).A wind power crisis is holding back the world’s green energy goal.Bloomberg.Link to source:https://www.bloomberg.com/news/articles/2024-10-23/wind-power-crisis-is-threat-to-world-s-renewable-energy-target
+
+McKenna, R., Pfenninger, S., Heinrichs, H., Schmidt, J., Staffell, I., Bauer, C., Gruber, K., Hahmann, A. N., Jansen, M., Klingler, M., Landwehr, N., Larsén, X. G., Lilliestam, J., Pickering, B., Robinius, M., Tröndle, T., Turkovska, O., Wehrle, S., Weinand, J. M., & Wohland, J. (2022). High-resolution large-scale onshore wind energy assessments: A review of potential definitions, methodologies and future research needs.Renewable Energy, 182, 659–684.Link to source:https://doi.org/10.1016/j.renene.2021.10.027
+
+McKenna, R., Lilliestam, J., Heinrichs, H. U., Weinand, J. M., Schmidt, J., Staffell, I., Bauer, C., Hahmann, A. N., Burgherr, P., Burdack, A., Bucha, M., Chen, R., Klingler, M., Lehmann, P., Lowitzsch, J., Novo, R., Price, J., Sacchi, R., Scherhaufer, P.,  … Camargo, L. R. (2025). System impacts of wind energy developments: Key research challenges and opportunities.Joule, 9(1), Article 101799.Link to source:https://doi.org/10.1016/j.joule.2024.11.016
+
+Meldrum, J., Nettles-Anderson, S., Heath G., & Macknick, J. (2013). Life cycle water use for electricity generation: a review and harmonization of literature estimates.Environmental Research Letters,8, Article 015031.Link to source:https://iopscience.iop.org/article/10.1088/1748-9326/8/1/015031
+
+Millstein, D., O'Shaughnessy, E., & Wiser, R. (2024). Climate and air quality benefits of wind and solar generation in the United States from 2019 to 2022.Cell Reports Sustainability,1(6), Article 100105.Link to source:https://doi.org/10.1016/j.crsus.2024.100105
+
+National Renewable Energy Laboratory. (2021).Life cycle greenhouse gas emissions from electricity generation: Update[Fact sheet]. U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.Link to source:https://www.nrel.gov/docs/fy21osti/80580.pdf
+
+Nordman, E. (2013).Wind power and air quality: Reducing air pollution and carbon emissions in Michigan.Link to source:https://www.michiganseagrant.org/wp-content/uploads/2018/08/Wind-Brief-7-Air-Quality.pdf
+
+Qiu, M., Zigler, C. M., & Selin, N. E. (2022). Impacts of wind power on air quality, premature mortality, and exposure disparities in the United States.Science Advances, 8(48), Article eabn8762.Link to source:https://www.science.org/doi/10.1126/sciadv.abn8762
+
+Sander, L., Jung, C., & Schindler, D. (2024). Global review on environmental impacts of onshore wind energy in the field of tension between human societies and natural systems.Energies, 17, Article 3098.Link to source:https://doi.org/10.3390/en17133098
+
+Shafiullah, G. M., Amanullah, M. T., Oo, A. B. M., Shawkat, A., & Wolfs, P. (2013). Potential challenges of integrating large-scale wind energy into the power grid–A review.Renewable and Sustainable Energy Reviews, 20, 306–321.Link to source:http://dx.doi.org/10.1016/j.rser.2012.11.057
+
+Shah, S., & Bazilian, M. (2020).LCOE and its limitations. Energy for Growth Hub. Payne Institute.Link to source:https://energyforgrowth.org/article/lcoe-and-its-limitations/
+
+Smith, A. D. (2024, August 8).To unlock clean power’s potential, timing is key.Project Drawdown.Link to source:https://drawdown.org/insights/to-unlock-clean-powers-potential-timing-is-key
+
+Tafarte, P., & Lehmann, P. (2021).Quantifying trade-offs for the spatial allocation of onshore wind generation capacity: A case study for Germany[White paper]. Helmholtz-Zentrum für Umweltforschung (UFZ).Link to source:https://hdl.handle.net/10419/234329
+
+Timilsina, G. R., van Kooten, G. C., & Narbel, P. A. (2013). Global wind power development: Economics and policies.Energy Policy, 61, 642–652.Link to source:http://dx.doi.org/10.1016/j.enpol.2013.06.062
+
+Tolvanen, A., Routavaara, H., Jokikokko, M., & Rana, P. (2023). How far are birds, bats, and terrestrial mammals displaced from onshore wind power development? – A systematic review.Biological Conservation, 288, Article 110382.Link to source:https://doi.org/10.1016/j.biocon.2023.110382
+
+Williams, E., Hittinger, E., Carvalho, R., & Williams, R. (2017). Wind power costs expected to decrease due to technological progress.Energy Policy, 106, 427–435.Link to source:https://doi.org/10.1016/j.enpol.2017.03.032
+
+Wiser, R., Yang, Z., Hand, M., Hohmeyer, O., Infield, D., Jensen, P. H., Nikolaev, V., O’Malley, M., Sinden, G., & Zervos, A. (2011). Wind energy. In O. Edenhofer, R. Pichs-Madruga, Y. Sokona, K. Seyboth, P. Matschoss, S. Kadner, T. Zwickel, P. Eickemeier, G. Hansen, S. Schlömer, & C. von Stechow (Eds.),IPCC special report on renewable energy sources and climate change mitigation(pp. 535–608). Cambridge University Press.Link to source:https://doi.org/10.1017/CBO9781139151153.011
+
+Wiser, R., Bolinger, M., & Lantz, E. (2019). Assessing wind power operating costs in the United States: Results from a survey of wind industry experts.Renewable Energy Focus, 30, 46–57,Link to source:https://doi.org/10.1016/j.ref.2019.05.003
+
+Wiser, R., Rand, J., Seel, J., Beiter, P., Baker, E., Lantz, E., & Gilman, P. (2021). Expert elicitation survey predicts 37% to 49% declines in wind energy costs by 2050.Nature Energy, 6, 555–565.Link to source:https://doi.org/10.1038/s41560-021-00810-z
+
+Wiser, R. H., Millstein, D., Hoen, B., Bolinger, M., Gorman, W., Rand, J., Barbose, G. L., Cheyette, A., Darghouth, N. R., Jeong, S., Kemp, J. M., O'Shaughnessy, E., Paulos, B., & Joachim Seel, J. (2024).Land-based wind market report: 2024 Edition.Lawrence Berkeley National Laboratory.Link to source:https://emp.lbl.gov/wind-technologies-market-report
+
+World Bank. (2021).Key factors for successful development of offshore wind in emerging markets. Energy Sector Management Assistance Program, World Bank.Link to source:https://documents1.worldbank.org/curated/en/343861632842395836/pdf/Key-Factors-for-Successful-Development-of-Offshore-Wind-in-Emerging-Markets.pdf
+
+Xue, B., Ma, Z., Geng, Y., Heck, P., Ren, W., Tobias, M., Maas, A., Jiang, P., de Oliveira, J. A. P., & Fujita, T. (2015). A life cycle co-benefits assessment of wind power in China.Renewable and Sustainable Energy Reviews,41, 338–346.Link to source:https://doi.org/10.1016/j.rser.2014.08.056
+
+Zhang, H., Yang, J., Ren, X., Wu, Q., Zhou, D., & Elahi, E. (2020). How to accommodate curtailed wind power: A comparative analysis between the US, Germany, India and China.Energy Strategy Reviews, 32, Article 100538.Link to source:https://doi.org/10.1016/j.esr.2020.100538
+
+Megan Matthews, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

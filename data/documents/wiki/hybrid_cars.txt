@@ -1,0 +1,430 @@
+# Hybrid Cars
+Source: https://en.wikipedia.org/wiki/Hybrid_electric_vehicle
+
+A hybrid electric vehicle (HEV) is a type of hybrid vehicle that couples a conventional internal combustion engine (ICE) with one or more electric engines into a combined propulsion system. The presence of the electric powertrain, which has inherently better energy conversion efficiency, is intended to achieve either better fuel economy or better acceleration performance than a conventional vehicle. There is a variety of HEV types and the degree to which each functions as an electric vehicle (EV) also varies. The most common form of HEV is hybrid electric passenger cars, although hybrid electric trucks (pickups, tow trucks and tractors), buses, motorboats, and aircraft also exist.
+Modern HEVs use energy recovery technologies such as motor–generator units and regenerative braking to recycle the vehicle's kinetic energy to electric energy via an alternator, which is stored in a battery pack or a supercapacitor. Some varieties of HEV use an internal combustion engine to directly drive an electrical generator, which either recharges the vehicle's batteries or directly powers the electric traction motors; this combination is known as a range extender. Many HEVs reduce idle emissions by temporarily shutting down the combustion engine at idle (such as when waiting at the traffic light) and restarting it when needed; this is known as a start-stop system. A hybrid-electric system produces less tailpipe emissions than a comparably sized petrol engine vehicle since the hybrid's petrol engine usually has smaller displacement and thus lower fuel consumption than that of a conventional petrol-powered vehicle. If the engine is not used to drive the car directly, it can be geared to run at maximum efficiency, further improving fuel economy.
+Ferdinand Porsche developed the Lohner–Porsche in 1901. But hybrid electric vehicles did not become widely available until the release of the Toyota Prius in Japan in 1997, followed by the Honda Insight in 1999. Initially, hybrid seemed unnecessary due to the low cost of petrol. Worldwide increases in the price of petroleum caused many automakers to release hybrids in the late 2000s; they are now perceived as a core segment of the automotive market of the future.
+As of April 2020, over 17 million hybrid electric vehicles have been sold worldwide since their inception in 1997. Japan has the world's largest hybrid electric vehicle fleet with 7.5 million hybrids registered as of March 2018. Japan also has the world's highest hybrid market penetration with hybrids representing 19.0% of all passenger cars on the road as of March 2018, both figures excluding kei cars. As of December 2020, the U.S. ranked second with cumulative sales of 5.8 million units since 1999, and, as of July 2020, Europe listed third with 3.0 million cars delivered since 2000.
+Global sales are led by the Toyota Motor Corporation with more than 15 million Lexus and Toyota hybrids sold as of January 2020, followed by Honda Motor Co., Ltd. with cumulative global sales of more than 1.35 million hybrids as of June 2014; As of September 2022, worldwide hybrid sales are led by the Toyota Prius liftback, with cumulative sales of 5 million units. The Prius nameplate had sold more than 6 million hybrids up to January 2017. Global Lexus hybrid sales achieved the 1 million unit milestone in March 2016. As of January 2017, the conventional Prius is the all-time best-selling hybrid car in both Japan and the U.S., with sales of over 1.8 million in Japan and 1.75 million in the U.S.
+
+
+== Classification ==
+
+
+=== Types of powertrain ===
+
+Hybrid electric vehicles can be classified according to the way in which power is supplied to the drivetrain:
+
+In parallel hybrids, the ICE and the electric motor are both connected to the mechanical transmission and can simultaneously transmit power to drive the wheels, usually through a conventional transmission. Honda's Integrated Motor Assist (IMA) system as found in the Insight, Civic, Accord, as well as the GM Belted Alternator/Starter (BAS Hybrid) system found in the Chevrolet Malibu hybrids are examples of production parallel hybrids. The internal combustion engine of many parallel hybrids can also act as a generator for supplemental recharging. As of 2013, commercialized parallel hybrids use a full size combustion engine with a single, small (<20 kW) electric motor and small battery pack as the electric motor is designed to supplement the main engine, not to be the sole source of motive power from launch. But after 2015 parallel hybrids with over 50 kW are available, enabling electric driving at moderate acceleration. Parallel hybrids are more efficient than comparable non-hybrid vehicles especially during urban stop-and-go conditions where the electric motor is permitted to contribute, and during highway operation.
+In series hybrids, only the electric motor drives the drivetrain, and a smaller ICE (also called range extender) works as a generator to power the electric motor or to recharge the batteries. They also usually have a larger battery pack than parallel hybrids, making them more expensive. Once the batteries are low, the small combustion engine can generate power at its optimum settings at all times, making them more efficient in extensive city driving.
+Power-split hybrids have the benefits of a combination of series and parallel characteristics. As a result, they are more efficient overall, because series hybrids tend to be more efficient at lower speeds and parallel tend to be more efficient at high speeds; however, the cost of power-split hybrid is higher than a pure parallel. Examples of power-split (referred to by some as "series-parallel") hybrid powertrains include 2007 models of Ford, General Motors, Lexus, Nissan, and Toyota.
+In each of the hybrids above it is common to use regenerative braking to recharge the batteries.
+
+
+=== Type of hybridization ===
+
+
+=== Plug-in hybrids (PHEVs) ===
+
+A plug-in hybrid electric vehicle (PHEV), also known as a plug-in hybrid, is a hybrid electric vehicle with rechargeable batteries that can be restored to full charge by connecting a plug to an external electric power source. A PHEV shares the characteristics of both a conventional hybrid electric vehicle, having an electric motor and an internal combustion engine; and of an all-electric vehicle, also having a plug to connect to the electrical grid. PHEVs have a much larger all-electric range as compared to conventional petrol-electric hybrids, and also eliminate the "range anxiety" associated with all-electric vehicles, because the combustion engine works as a backup when the batteries are depleted.
+
+
+=== Flex-fuel hybrid ===
+
+In December 2018, Toyota do Brasil announced the development of the world's first commercial hybrid electric car with flex-fuel engine capable of running with electricity and ethanol fuel or petrol. The flexible fuel hybrid technology was developed in partnership with several Brazilian federal universities, and a prototype was tested for six months using a Toyota Prius as development mule. Toyota announced plans to start series production of a flex hybrid electric car for the Brazilian market in the second half of 2019.
+The twelfth generation of the Corolla line-up was launched in Brazil in September 2019, which included an Altis trim with the first version of a flex-fuel hybrid powered by a 1.8-litre Atkinson engine. By February 2020, sales of the Corolla Altis flex-fuel hybrid represented almost 25% of all Corolla sales in the country.
+
+
+=== Energy Management Systems ===
+To take advantage of the emission reduction potential of hybrid electric vehicles (HEVs), appropriate design of their energy management systems (EMSs) to control the power flow between the engine and the battery is essential.
+In a conventional (non-hybrid) vehicle, there is no need for an energy management strategy: the driver decides the instant power delivery using the brake and accelerator pedals and, in manual transmission vehicles, decides which gear is engaged at any time. In a hybrid vehicle, on the other hand, there is an additional decision that must be taken due to its ability to recover energy during braking or driving downhill: how much power is delivered by each of the energy sources on-board of the vehicle. The recovered energy can be stored in the battery and deployed at a later time to assist the prime mover to provide tractive power. This is why all hybrid vehicles include an energy management controller, interposed between the driver and the component controllers. As mentioned, the aim of the energy management system is to determine the optimal power split between the on-board energy sources. The decision regarding what to consider optimal depends on the specific application: in most cases, the strategies tend to minimize the fuel consumption, but optimization objectives could also include the minimization of pollutant emissions, maximization of battery life or—in general—a compromise among all the above goals.
+
+
+== History ==
+
+
+=== Early days ===
+
+William H. Patton filed a patent application for a petrol-electric hybrid rail-car propulsion system in early 1889, and for a similar hybrid boat propulsion system in mid-1889.  He went on to test and market the Patton Motor Car, a gas-electric hybrid system used to drive tram cars and small locomotives.  A petrol engine drove a generator that served to charge a lead acid battery in parallel with the traction motors.  A conventional series-parallel controller was used for the traction motors.  A prototype was built in 1889, an experimental tram car was run in Pullman, Illinois, in 1891, and a production locomotive was sold to a street railway company in Cedar Falls, Iowa, in 1897.
+In 1896, the Armstrong Phaeton was developed by Harry E. Dey and built by the Armstrong Company of Bridgeport, CT for the Roger Mechanical Carriage Company. Though there were steam, electric, and internal combustion vehicles introduced in the early days, the Armstrong Phaeton was innovative with many firsts. Not only did it have a petrol powered 6.5-litre, two-cylinder engine, but also a dynamo flywheel connected to an onboard battery.  The dynamo and regenerative braking were used to charge the battery. Its electric starter was used 16 years before Cadillac's. The dynamo also provided ignition spark and powered the electric lamps. The Phaeton also had the first semi-automatic transmission (no manual clutch). The exhaust system was an integrated structural component of the vehicle.  The Armstrong Phaeton's motor was too powerful; the torque damaged the carriage wheels repeatedly.
+
+In 1900, while employed at Lohner Coach Factory, Ferdinand Porsche developed the Mixte, a 4WD series-hybrid version of "System Lohner–Porsche" electric carriage that previously appeared in 1900 Paris World Fair. George Fischer sold hybrid buses to England in 1901; Knight Neftal produced a racing hybrid in 1902. In 1905, Henri Pieper of Germany/Belgium introduced a hybrid vehicle with an electric motor/generator, batteries, and a small petrol engine.  It used the electric motor to charge its batteries at cruise speed and used both motors to accelerate or climb a hill. The Pieper factory was taken over by Impéria, after Pieper died. The 1915 Dual Power, made by the Woods Motor Vehicle electric car maker, had a four-cylinder ICE and an electric motor. Below 15 mph (24 km/h) the electric motor alone drove the vehicle, drawing power from a battery pack, and above this speed the "main" engine cut in to take the car up to its 35 mph (56 km/h) top speed. About 600 were made up to 1918. The Woods hybrid was a commercial failure, proving to be too slow for its price, and too difficult to service. In England, the prototype Lanchester petrol-electric car was made in 1927. It was not a success, but the vehicle is on display in Thinktank, Birmingham Science Museum. The United States Army's 1928 Experimental Motorized Force tested a petrol-electric bus in a truck convoy.
+In 1931, Erich Gaichen invented and drove from Altenburg to Berlin a 1/2 horsepower electric car containing features later incorporated into hybrid cars. Its maximum speed was 25 miles per hour (40 km/h), but it was licensed by the Motor Transport Office, taxed by the German Revenue Department and patented by the German Reichs-Patent Amt. The car battery was re-charged by the motor when the car went downhill. Additional power to charge the battery was provided by a cylinder of compressed air which was re-charged by small air pumps activated by vibrations of the chassis and the brakes and by igniting oxyhydrogen gas. No production beyond the prototype was reported.
+
+During the Second World War, Ferdinand Porsche sought to use his firm's experience in hybrid drivetrain design for powering armoured fighting vehicles for Nazi Germany.  A series of designs, starting with the VK 3001 (P), the unsuccessful VK 4501 (P) heavy tank prototype (which became the Elefant tank destroyer) and concluding with the heaviest armoured fighting vehicle ever prototyped, the Panzerkampfwagen Maus of nearly 190 tonnes in weight, were just two examples of a number of planned Wehrmacht "weapons systems" (including the highly-"electrified" subsystems on the Fw 191 bomber project), crippled in their development by the then-substandard supplies of electrical-grade copper, required for the electric final drives on Porsche's armoured fighting vehicle powertrain designs.
+
+
+=== Predecessors of present technology ===
+The regenerative braking system, a core design concept of most modern production HEVs, was developed in 1967 for the American Motors Amitron and called Energy Regeneration Brake by AMC. This completely battery powered urban concept car was recharged by braking, thus increasing the range of the automobile. The AMC Amitron was first use of regenerative braking technology in the U.S.
+A more recent working prototype of the HEV was built by Victor Wouk (one of the scientists involved with the Henney Kilowatt, the first transistor-based electric car) and Dr. Charles L Rosen. Wouk's work with HEVs in the 1960s and 1970s earned him the title as the "Godfather of the Hybrid". They installed a prototype hybrid drivetrain (with a 16-kilowatt (21 hp) electric motor) into a 1972 Buick Skylark provided by GM for the 1970 Federal Clean Car Incentive Program, but the program was stopped by the United States Environmental Protection Agency (EPA) in 1976 while Eric Stork, the head of the EPA's vehicle emissions control program at the time, was accused of a prejudicial coverup.
+In 1979 the Fiat 131 Ibrido was presented in Detroit, a marching prototype made by the CRF (Fiat Research Center). The engine compartment was composed by the 903cc borrowed from the Fiat 127, set to output 33 hp only and coupled to a 20 kW electric motor. The scheme proposed by Fiat is defined as "parallel hybrid": the petrol engine is connected to the differential with a 1:1 direct gear ratio, without gearbox, instead of the clutch there was an 8-inch torque converter followed by the transmission shaft on which the rotor of the electric motor is keyed, the latter powered by a 12-batteries pack.
+The regenerative brake concept was further developed in the early 1980s by David Arthurs, an electrical engineer, using off-the shelf components, military surplus, and an Opel GT. The voltage controller to link the batteries, motor (a jet-engine starter motor), and DC generator was Arthurs'. The vehicle exhibited 75 miles per US gallon (3.1 L/100 km; 90 mpg‑imp) fuel efficiency, and plans for it were marketed by Mother Earth News.
+In 1982, Fritz Karl Preikschat invented an electric propulsion and braking system for cars based on regenerative braking. While clearly not the only patent relating to the hybrid electric vehicle, the patent was important based on 120+ subsequent patents directly citing it. The patent was issued in the U.S. and the system was not prototyped or commercialized.
+In 1988, Alfa Romeo built three prototypes of the Alfa 33 Hybrid, equipped with the tried and tested Alfasud boxer engine (1,500cc, 95 HP) combined with a three-phase asynchronous electric motor (16 HP, 6.1 kgm of torque) supplied by Ansaldo of Genoa. The design was realistic and already mass production-oriented, with minimal modifications to the standard body and a weight increase of only 150 kg (110 for the batteries, 20 for the electric engine and 10 for power electronics). The Alfa Romeo 33 Ibrida was able to travel up to 60 km/h in full electric mode, with a 5 km range, very good performance for the time.
+In 1989, Audi produced its first iteration of the Audi Duo (the Audi C3 100 Avant Duo) experimental vehicle, a plug-in parallel hybrid based on the Audi 100 Avant quattro. This car had a 9.4 kilowatts (12.8 PS; 12.6 bhp) Siemens electric motor which drove the rear roadwheels. A trunk-mounted nickel–cadmium battery supplied energy to the motor that drove the rear wheels. The vehicle's front road wheels were powered by a 2.3-litre five-cylinder petrol engine with an output of 100 kilowatts (136 PS; 134 bhp). The intent was to produce a vehicle which could operate on the engine in the country, and electric mode in the city. Mode of operation could be selected by the driver. Just ten vehicles are believed to have been made; one drawback was that due to the extra weight of the electric drive, the vehicles were less efficient when running on their engines alone than standard Audi 100s with the same engine.
+Two years later, Audi, unveiled the second duo generation, the Audi 100 Duo – likewise based on the Audi 100 Avant quattro. Once again, this featured an electric motor, a 21.3 kilowatts (29.0 PS; 28.6 bhp) three-phase machine, driving the rear roadwheels. This time, however, the rear wheels were additionally powered via the Torsen centre differential from the main engine compartment, which housed a 2.0-litre four-cylinder engine.
+Research and Development was advancing in the 1990s with projects such as the early BMW 5 Series (E34) CVT hybrid-electric vehicle  In 1992, Volvo ECC was developed by Volvo. The Volvo ECC was built on the Volvo 850 platform. In contrast to most production hybrids, which use a petrol piston engine to provide additional acceleration and to recharge the battery storage, the Volvo ECC used a gas turbine engine to drive the generator for recharging.
+The Clinton administration initiated the Partnership for a New Generation of Vehicles (PNGV) program on 29 September 1993, that involved Chrysler, Ford, General Motors, USCAR, the DoE, and other various governmental agencies to engineer the next efficient and clean vehicle. The United States National Research Council (USNRC) cited automakers' moves to produce HEVs as evidence that technologies developed under PNGV were being rapidly adopted on production lines, as called for under Goal 2. Based on information received from automakers, NRC reviewers questioned whether the "Big Three" would be able to move from the concept phase to cost effective, pre-production prototype vehicles by 2004, as set out in Goal 3. The program was replaced by the hydrogen-focused FreedomCAR initiative by the George W. Bush administration in 2001, an initiative to fund research too risky for the private sector to engage in, with the long-term goal of developing effectively carbon emission- and petroleum-free vehicles.
+1998 saw the Esparante GTR-Q9 became the first Petrol-Electric Hybrid to race at Le Mans, although the car failed to qualify for the main event. The car managed to finished second in class at Petit Le Mans the same year.
+
+
+=== Modern hybrids ===
+
+Automotive hybrid technology became widespread beginning in the late 1990s. The first mass-produced hybrid vehicle was the Toyota Prius, launched in Japan in 1997, and followed by the Honda Insight, launched in 1999 in the United States and Japan. The Prius was launched in Europe, North America and the rest of the world in 2000. The first-generation Prius sedan has an estimated fuel economy of 52 miles per US gallon (4.5 L/100 km; 62 mpg‑imp) in the city and 45 miles per US gallon (5.2 L/100 km; 54 mpg‑imp) in highway driving. The two-door first-generation Insight was estimated at 61 miles per US gallon (3.9 L/100 km; 73 mpg‑imp) in city driving and 68 miles per US gallon (3.5 L/100 km; 82 mpg‑imp) on the highway.
+The Toyota Prius sold 300 units in 1997 and 19,500 in 2000, and cumulative worldwide Prius sales reached the one million mark in April 2008. By early 2010, the Prius global cumulative sales were estimated at 1.6 million units. Toyota launched a second-generation Prius in 2004 and a third in 2009. The 2010 Prius has an estimated U.S. Environmental Protection Agency combined fuel economy cycle of 50 miles per US gallon (4.7 L/100 km; 60 mpg‑imp).
+The Audi Duo III was introduced in 1997, based on the Audi B5 A4 Avant, and was the only Duo to ever make it into series production. The Duo III used the 1.9-litre Turbocharged Direct Injection (TDI) diesel engine, which was coupled with a 21 kilowatts (29 PS; 28 bhp) electric motor. Due to low demand for it because of its high price, only about sixty Audi Duos were produced. Until the release of the Audi Q7 Hybrid in 2008, the Duo was the only European hybrid ever put into production.
+The Honda Civic Hybrid was introduced in February 2002 as a 2003 model, based on the seventh-generation Civic. The 2003 Civic Hybrid appears identical to the non-hybrid version, but delivers 50 miles per US gallon (4.7 L/100 km; 60 mpg‑imp), a 40 percent increase compared to a conventional Civic LX sedan. Along with the conventional Civic, it received a styling update for 2004. The redesigned 2004 Toyota Prius (second generation) improved passenger room, cargo area, and power output, while increasing energy efficiency and reducing emissions. The Honda Insight first generation stopped being produced after 2006 and has a devoted base of owners. A second-generation Insight was launched in 2010. In 2004, Honda also released a 6-cylinder hybrid version of the Accord but discontinued it in 2007, citing disappointing sales, although production of a 4-cylinder hybrid began in 2012.
+The Ford Escape Hybrid, the first hybrid electric sport utility vehicle (SUV), was released in 2005. Toyota and Ford entered into a licensing agreement in March 2004 allowing Ford to use 20 patents from Toyota related to hybrid technology, although Ford's engine was independently designed and built. In exchange for the hybrid licenses, Ford licensed patents involving their European diesel engines to Toyota. Toyota announced calendar year 2005 hybrid electric versions of the Toyota Highlander Hybrid and Lexus RX 400h with 4WD-i, which uses a rear electric motor to power the rear wheels, negating the need for a transfer case.
+In 2006, General Motors Saturn Division began to market a mild parallel hybrid, the 2007 Saturn Vue Green Line, which utilized GM's Belted Alternator/Starter (BAS Hybrid) system combined with a 2.4-litre L4 engine and an FWD automatic transmission. The same hybrid powertrain was also used to power the 2008 Saturn Aura Green Line and Malibu Hybrid models. As of December 2009, only the BAS-equipped Malibu is still in (limited) production.
+In 2007, Lexus released a hybrid electric version of their GS sport sedan, the GS 450h, with a power output of 335 bhp. The 2007 Camry Hybrid became available in summer 2006 in the United States and Canada. Nissan launched the Altima Hybrid with technology licensed by Toyota in 2007.
+Commencing in fall 2007, General Motors began to market their 2008 Two-Mode Hybrid models of their GMT900-based Chevrolet Tahoe and GMC Yukon SUVs, closely followed by the 2009 Cadillac Escalade Hybrid version. For the 2009 model year, General Motors released the same technology in their half-ton pickup truck models, the 2009 Chevrolet Silverado and GMC Sierra Two-Mode Hybrid models.
+The Ford Fusion Hybrid officially debuted at the Greater Los Angeles Auto Show in November 2008, and was launched to the U.S. market in March 2009, together with the second-generation Honda Insight and the Mercury Milan Hybrid.
+
+
+=== Latest developments ===
+
+2009–2010
+The Hyundai Elantra LPI Hybrid was unveiled at the 2009 Seoul Motor Show, and sales began in the South Korean domestic market in July 2009. The Elantra LPI (Liquefied Petroleum Injected) is the world's first hybrid vehicle to be powered by an internal combustion engine built to run on liquefied petroleum gas (LPG) as a fuel. The Elantra PLI is a mild hybrid and the first hybrid to adopt advanced lithium polymer (Li–Poly) batteries. The Elantra LPI Hybrid delivers a fuel economy rating of 41.9 miles per US gallon (5.61 L/100 km; 50.3 mpg‑imp) and CO2 emissions of 99 g/km to qualify as a Super Ultra Low Emission Vehicle (SULEV).
+The Mercedes-Benz S400 BlueHybrid was unveiled in the 2009 Chicago Auto Show, and sales began in the U.S. in October 2009. The S400 BlueHybrid is a mild hybrid and the first hybrid car to adopt a lithium-ion battery. The hybrid technology in the S400 was co-developed by Daimler AG and BMW. The same hybrid technology is being used in the BMW ActiveHybrid 7, expected to go on sales in the U.S. and Europe by mid-2010. In December 2009 BMW began sales of its full hybrid BMW ActiveHybrid X6, while Daimler launched the Mercedes-Benz ML450 Hybrid by lease only.
+
+Sales of the Honda CR-Z began in Japan in February 2010, followed by the U.S. and European markets later in the year, becoming Honda's third hybrid electric car in the market. Honda also launched the 2011 Honda Fit Hybrid in Japan in October 2010, and unveiled the European version, the Honda Jazz Hybrid, at the 2010 Paris Motor Show, which went on sale in some European markets by early 2011.
+Mass production of the 2011 Toyota Auris Hybrid began in May 2010 at Toyota Manufacturing UK (TMUK) Burnaston plant and became the first mass-produced hybrid vehicle to be built in Europe. Sales in the UK began in July 2010, at a price starting at£18,950 (US$27,450), £550 (US$800) less than the Toyota Prius. The 2011 Auris Hybrid shares the same powertrain as the Prius, and combined fuel economy is 74.3 mpg‑imp (3.80 L/100 km; 61.9 mpg‑US).
+The 2011 Lincoln MKZ Hybrid was unveiled at the 2010 New York International Auto Show and sales began in the U.S. in September 2010. The MKZ Hybrid is the first hybrid version ever to have the same price as the petrol-engine version of the same car. The Porsche Cayenne Hybrid was launched in the U.S. in late 2010.
+
+2011–2015
+
+Volkswagen announced at the 2010 Geneva Motor Show the launch of the 2012 Touareg Hybrid, which went on sale on the U.S. in 2011. VW also announced plans to introduce diesel-electric hybrid versions of its most popular models in 2012, beginning with the new Jetta, followed by the Golf Hybrid in 2013 together with hybrid versions of the Passat. Other petrol-electric hybrids released in the U.S. in 2011 were the Lexus CT 200h, the Infiniti M35 Hybrid, the Hyundai Sonata Hybrid and its sibling the Kia Optima Hybrid.
+The Peugeot 3008 HYbrid4 was launched in the European market in 2012, becoming the world's first production diesel-electric hybrid. According to Peugeot the new hybrid delivers a fuel economy of up to 62 miles per US gallon (3.8 L/100 km; 74 mpg‑imp) and CO2 emissions of 99g/km on the European test cycle.
+
+The Toyota Prius v, launched in the U.S. in October 2011, is the first spinoff from the Prius family. Sales in Japan began in May 2011 as the Prius Alpha. The European version, named Prius +, was launched in June 2012. The Prius Aqua was launched in Japan in December 2011, and was released as the Toyota Prius c in the U.S. in March 2012. The Prius c was launched in Australia in April 2012. The production version of the 2012 Toyota Yaris Hybrid went on sale in Europe in June 2012.
+Other hybrids released in the U.S. during 2012 are the Audi Q5 Hybrid, BMW 5 Series ActiveHybrid, BMW 3 series Hybrid, Ford C-Max Hybrid, Acura ILX Hybrid. Also during 2012 were released the next generation of Toyota Camry Hybrid and the Ford Fusion Hybrid, both of which offer significantly improved fuel economy in comparison with their previous generations. The 2013 models of the Toyota Avalon Hybrid and the Volkswagen Jetta Hybrid were released in the U.S. in December 2012.
+Global sales of the Toyota Prius liftback passed the 3 million milestone in June 2013. The Prius liftback is available in almost 80 countries and regions, and it is the world's best-selling hybrid electric vehicle. Toyota released the hybrid versions of the Corolla Axio sedan and Corolla Fielder station wagon in Japan in August 2013. Both cars are equipped with a 1.5-litre hybrid system similar to the one used in the Prius c.
+
+Sales of the Honda Vezel Hybrid SUV began in Japan in December 2013. The Range Rover Hybrid diesel-powered electric hybrid was unveiled at the 2013 Frankfurt Motor Show, and retail deliveries in Europe are slated to start in early 2014. Ford Motor Company, the world's second largest manufacturer of hybrids after Toyota Motor Corporation, reached the milestone of 400,000 hybrid electric vehicles produced in November 2014. After 18 years since the introduction of hybrid cars, Japan became in 2014 the first country to reach sales of over 1 million hybrid cars in a single year, and also the Japanese market surpassed the United States as the world's largest hybrid market.
+The redesigned and more efficient fourth generation Prius was released for retail customers in Japan in December 2015. The 2016 model year Prius Eco surpassed the 2000 first generation Honda Insight as the all-time EPA-rated most fuel efficient petrol-powered car available in the U.S. without plug-in capability. In late 2017 Chevy introduced the Chevy ZH2 that runs on hydrogen fuel cells. The ZH2 was built especially for the U.S.
+
+
+== Sales and rankings ==
+
+As of April 2020, more than 17 million hybrid electric vehicles have been sold worldwide since their inception in 1997. Japan ranks as the market leader with more than 7.5 million hybrids sold as of March 2018, followed by the United States with cumulative sales of 5.4 million units through 2019 while 3.0 million hybrid cars had been sold in Europe by July 2020.  Hybrid sales in the rest of the world totaled over 500,000 units by April 2016. As of August 2014, more than 130,000 hybrids have been sold in Canada, of which, over 100,000 are Toyota and Lexus models. In Australia, over 50,000 Lexus and Toyota models have been sold through February 2014.
+As of January 2020, global hybrid sales led by Toyota Motor Company (TMC) with over 15 million Lexus and Toyota hybrids sold; followed by Honda Motor Co., Ltd. with cumulative global sales of more than 1.35 million hybrids as of June 2014; Ford Motor Corporation with over 424,000 hybrids sold in the United States through June 2015, of which, around 10% are plug-in hybrids; Hyundai Group with cumulative global sales of 200,000 hybrids as of March 2014, including both Hyundai Motors and Kia Motors hybrid models; and PSA Peugeot Citroën with over 50,000 diesel-powered hybrids sold in Europe through December 2013.
+
+TMC experienced record sales of hybrid cars during 2013, with 1,279,400 units sold worldwide, and it took nine months to achieve one million hybrid sales. Again in 2014, TMC sold a record one million hybrids in nine months. Toyota hybrids combined with Lexus models reached 1 million units in May 2007, and the U.S. reached the 1 million mark of sales of both brands by February 2009. Worldwide sales of TMC hybrids totaled over 2 million vehicles by August 2009, 3 million units by February 2011, 5 million in March 2013, 7 million in September 2014, and the 8 million mark in July 2015. The 9 million sales mark was reached in April 2016, again, selling one million hybrids in just ninth months, and the 10 million milestone in January 2017, achieved one more time just nine months after the previous million. TMC achieved the 15 million sales milestone in January 2020.
+Ford experienced record sales of its hybrids models in the U.S. during 2013, with almost 80,000 units sold, almost triple the 2012 total. During the second quarter of 2013 Ford achieved its best hybrid sales quarter ever, up 517% over the same quarter of 2012. In 2013 Toyota's hybrid market share in the U.S. declined from 2012 totals due to new competition, particularly from Ford with the arrival of new products such as the C-Max Hybrid and the new styling of the Fusion. Except for the Prius c, sales of the other models of the Prius family and the Camry Hybrid suffered a decline from 2012, while the Fusion Hybrid experienced a 164.3% increase from 2012, and C-Max Hybrid sales climbed 156.6%. During 2013 Ford increased its market share of the American hybrid market from 7.5% in 2012 to 14.7% in 2013.
+As of January 2017, global hybrid sales are led by the Prius family, with cumulative sales of 6.0361 million units (excluding plug-in hybrids) representing 60% of the 10 million hybrids sold worldwide by Toyota and Lexus since 1997. As of January 2017, the Toyota Prius liftback is the leading model of the Toyota brand with cumulative sales of 3.985 million units. Ranking second is the Toyota Aqua/Prius c, with global sales of 1.380 million units, followed by the Prius v/α/+ with 671,200, the Camry Hybrid with 614,700 units, the Toyota Auris with 378,000 units, and the Toyota Yaris Hybrid with 302,700. U.S. sales of the Toyota Prius reached the 1.0 million milestone in early April 2011, and cumulative sales of the Prius in Japan exceeded the 1 million mark in August 2011. As of January 2017, sales of the Prius liftback totaled over 1.8 million units in Japan and 1.75 million in the United States, ranking as the all-time best-selling hybrid car in both countries.
+Global sales of Lexus brand hybrid vehicles worldwide reached the 500,000 mark in November 2012. The 1 million sales milestone was achieved in March 2016. The Lexus RX 400h/RX 450h ranks as the top-selling Lexus hybrid with 363,000 units delivered worldwide as of January 2017, followed by the Lexus CT 200h with 290,800 units, and the Lexus ES 300h with 143,200 units.
+
+
+=== Annual sales in top markets ===
+
+
+=== Japanese market ===
+
+Japan has the largest hybrid electric vehicle fleet in the world, as of March 2018, a total of 7.51 million hybrids registered in the country, excluding kei cars. By 2016 it represented around 45% of cumulative global hybrid sales since their inception in 1997. After 18 years since their introduction in the Japanese market, annual hybrid sales surpassed the 1 million mark for the first time in 2014. With cumulative sales of over 4 million hybrids through December 2014, Japan surpassed the United States as the world's largest hybrid market. It was also the first time that all eight major Japanese manufacturers offered hybrid vehicles in their lineup.
+Japan also has the world's highest hybrid market penetration, as of March 2018, hybrids represented 19.0% of all passenger cars on the road. The hybrid market share of new car sales began to increase significantly in 2009, when the government implemented aggressive fiscal incentives for fuel efficient vehicles and the third generation Prius was introduced. That year, the hybrid market share of new car sales in the country, including kei cars, jumped from less than 5% in 2008 to over 10% in 2009. If only conventional passenger cars are accounted for, the hybrid market share was about 15%. By 2013 the hybrid market share accounted for more than 30% of the 2.9 million standard passenger vehicles sold, and about 20% of the 4.5 million passenger vehicles including kei cars. Sales of standard cars in 2016 totaled 1.49 million units, with the hybrid segment achieving a record 38% market share. Accounting for kei cars, hybrids achieved a market share of 25.7% of new passenger car sales, up from 22.3% in 2015. In 2016 every one of the standard cars listed in the Japanese top-20 best-selling car ranking had a hybrid version on sale. and the two top-selling standard cars were models available only as a hybrid, the Toyota Prius and the Toyota Aqua.
+Toyota's hybrid sales in Japan since 1997, including both Toyota and Lexus models, passed the 1 million mark in July 2010, 2 million in October 2012, and topped the 3 million mark in March 2014. As of January 2017, TMC hybrid sales in the country totaled 4,853,000 vehicles, of which, only 4,900 units are commercial vehicles. Cumulative sales of the original Prius in Japan reached the 1 million mark in August 2011. Sales of the Prius family vehicles totaled 3,435,800 units through January 2017. The Prius liftback is the top-selling model with 1,812,800 units, followed by the Aqua with 1,154,500 units, the Prius α with 446,400, and the Prius plug-in with 22,100. Cumulative sales of Honda's hybrid vehicles since November 1999 reached 25,239 units by January 2009, and in March 2010, Honda announced that the new 2010 Insight broke through 100,000 sales in Japan in just one year after its introduction.
+
+Hybrid sales in Japan almost tripled in 2009 as compared to 2008 as a result of government incentives that included a scrappage program, tax breaks on hybrid vehicles and other low-emission cars and trucks, and a higher levy on petrol that rose prices in the order of US$4.50. New hybrid car sales jumped from 94,259 in 2008 to 334,000 in 2009, and hybrid sales in 2009 represented around 10% of new vehicles sales in Japan. In contrast, the U.S. market share was 2.8% for the same year. These record sales allowed Japan to surpass the U.S. in total new hybrid sales, with the Japanese market representing almost half (48%) of the worldwide hybrid sales in 2009 while the U.S. market represented 42% of global sales. The Toyota Prius became the first hybrid to top annual new car sales in Japan with 208,876 units sold in 2009. The Insight ranked fifth in overall sales in 2009 with 93,283 units sold.
+A total of 315,669 Priuses were sold domestically in 2010, making the Prius the country's best-selling vehicle for the second straight year. Also the Prius broke Japan's annual sales record for a single model for the first time in 20 years, surpassing the Toyota Corolla, which in 1990 set the previous sales record with 300,008 units. The Prius sold 252,528 units in 2011, becoming the best-selling vehicle for the third-consecutive year. This figure includes sales of the Prius α, launched in May 2011, and the Toyota Aqua, launched in December. Despite keeping to the top-selling spot, total Prius sales for 2011 were 20% lower than 2010 due partly to the disruptions caused by the March 2011 Tōhoku earthquake and tsunami, and also because government incentives for hybrid cars were scaled back. Nevertheless, during the 2011 Japanese fiscal year (April 1, 2011 through March 31, 2012), hybrid vehicles accounted for 16% of all new car sales in the country. In May 2012, hybrid sales reached a record market share of 19.7% of new car sales in the country, including kei cars. Sales were led by the conventional Prius followed by the Toyota Aqua. Also during this month, hybrid sales represented 25% of Honda sales and 46% of Toyota sales in the country.
+The Toyota Aqua, released in December 2011, ranked as the second top-selling new car in Japan in 2012 after the conventional Prius. Totaling 262,367 units sold in 2013, the Aqua topped new car sales in Japan in 2013, including kei car sales. And with 233,209 units sold during 2014, down 11.1% from 2013, the Aqua was the top-selling new car in Japan for the second consecutive year. Again in 2015, with 215,525 units sold, down 7.6% from 2014, the Aqua ranked as the top-selling new car in Japan. The Toyota Aqua not only was the best-selling new car in Japan for three years running, from 2013 to 2015, but it is considered the most successful nameplate launch in the Japanese market of the last 20 years. In the first quarter of 2016, the Prius liftback surpassed the Aqua as the best-selling new car, the Prius ended 2016 as the best-selling standard car in the Japanese market with 248,258 units, followed by the Aqua with 168,208 units.
+
+
+=== American market ===
+
+The market of hybrid electric vehicles in the United States is the second largest in the world after Japan with cumulative sales of 5.4 million units through December 2019. The 3 million mark was achieved in October 2013, and 4 million in April 2016. Sales of hybrid vehicles in the U.S. began to decline following the 2008 financial crisis, and after a short recovery, began to decline again in 2014 due to low petrol prices, and had a small rebound in 2019. Hybrid sales in the American market achieved its highest market share ever in 2013, capturing 3.19% of new carsales that year. At the end of 2015 the hybrid take rate had fallen to 2.21%, dropped to 1.99% in 2016, slightly recovered to 2.4% in 2019.
+Since their inception in 1999, a total of 5,374,000 hybrid electric automobiles and sport utility vehicles have been sold in the country through December 2019. The Toyota Prius family is the market leader with 1,932,805 units sold through April 2016, representing a 48.0% market share of total hybrid sales. The conventional Toyota Prius is the top-selling hybrid model, with 1,643,000 units sold through April 2016, accounting for 40.8% of all hybrids sold in the U.S. since inception. The United States accounted for 44.7% of Toyota Motor Company global hybrid sales through April 2016.
+
+
+=== European market ===
+
+As of July 2020, more than 3.0 million hybrids cars have been sold in Europe since their introduction. PSA Peugeot Citroën had sold over 50,000 diesel-powered hybrids in Europe through December 2013, and Toyota and Lexus hybrids totaled 3.0 million units by July 2020. In 2014, one-fourth of all new vehicles sold by Toyota in the European Union were hybrid-electric. The top-selling hybrid markets in 2015 were France, followed by the UK, Italy, Germany, Spain, the Netherlands, and Norway.
+As of December 2014, hybrid vehicles accounted for 1.4% of new passenger car registrations in the EU Member States, up from 1.1% in 2012. The Netherlands is the leading country within the Union states with a market share of 3.7% of total passenger car sales in 2014, though fewer hybrid vehicles were sold in the Dutch market in 2014 than in previous years. Accounting for all countries in the continent, Norway is the segment leader, with a market share of 6.9% in 2014.
+Sales of hybrids in Europe went up from around 9,000 units in 2004 to 39,880 in 2006, with Toyota accounting for 91% of hybrid sales and Honda with 3,410 units sold that year. Cumulative sales of Toyota hybrids since 2000 reached 69,674 units in 2006, while Honda hybrid sales reached over 8,000 units. By January 2009, Honda had sold 35,149 hybrids in Europe, of which 34,757 were Honda Civic Hybrids. During 2008 combined sales of Toyota and Lexus hybrids in Europe were 57,819 units, representing 5.2% of total Toyota sales in the region. Toyota sales were led by Prius with 41,495 units. Cumulative sales of the Toyota Prius reached 100,000 units in 2008 and the 200,000 mark was reached in July 2010. The UK has been one of the leading European markets for the Prius since its inception, with 20% of Prius sales in Europe by 2010.
+
+Toyota's European hybrid sales reached 70,529 vehicles in 2010, including sales of 15,237 Toyota Auris Hybrids. Sales reached 84,839 units in 2011, including 59,161 Toyota and 25,678 Lexus hybrid vehicles. The Auris hybrid sold 32,725 units in 2011. Lexus hybrids made up 85% of total sales in Western Europe in 2011. Toyota and Lexus hybrids represented 10% percent of Toyota's European new car sales in 2011. TMC share of hybrid sales out of the company's total European sales climbed from 13% in 2012 to 20% during the first 11 months of 2013.
+During the first nine months of 2013, over 118,000 hybrids were sold in Western Europe representing a 1.4% market share of new car sales in the region.  A total of 192,664 hybrid cars were sold in the European Union and EFTA countries in 2014. Sales increased 21.5% in 2015, with 234,170 units sold. In 2015, petrol-powered hybrids represented 91.6% of total hybrid registrations. The top-selling model in 2015 was the Toyota Auris Hybrid, with 75,810 units, up 13.0% from 2014; followed by the Yaris Hybrid with 68,902 units, up 22% from 2014. Seven of the top ten hybrids models sold in 2015 were from either Toyota or the Lexus brand. Toyota achieved record hybrid sales in 2015 with 201,500 units delivered. Hybrid registrations in the European Union and EFTA countries totaled 74,796 units during the first quarter of 2016, up 29.7% from the same quarter the previous year.
+Cumulative TMC sales since the Prius introduction in Europe in 2000 passed the one million unit milestone in November 2015.  As of December 2017, the top-selling Toyota hybrids were the Auris Hybrid (427,600), the Yaris Hybrid (388,900), and the conventional Prius (299,100). The top-selling Lexus models are the Lexus RX 400h/RX 450h with 111,100 units, and the Lexus CT 200h with 78,100 units. European sales of TMC hybrids totaled 3 million cars in July 2020.
+
+UK
+Since 2006 hybrid car registrations in the UK totaled 257,404 units up to April 2016, including 11,679 diesel-electric hybrids, which were introduced in 2011. The market share of the British hybrid segment climbed from 1.1% in 2010, to 1.2% in 2012, and achieved 1.5% of new car registrations in 2014.
+Since 2000, when the Prius was launched in the UK, 100,000 Toyota hybrids had been sold by May 2014, and almost 50,000 Lexus models since the introduction of the RX 400h in 2005. Honda had sold in the UK more than 22,000 hybrid cars through December 2011 since the Insight was launched in the country in 2000. After 15 years since the launch of the Prius in the British market, combined sales of Toyota and Lexus hybrids reached the 200,000 unit milestone in November 2015.
+A total of 37,215 hybrids were registered in 2014, and while petrol-electric hybrids increased 32.6% from 2013, diesel-electric hybrids declined 12.6%.  Hybrid registrations totaled a record of 44,580 units in 2015, consisting of 40,707 petrol-powered hybrids and 3,873 powered by diesel; the latter experienced a 36.3% increase from 2014, while petrol-powered hybrid grew by 18.1%. The hybrid segment market shared reached 1.69% of new car registrations in the UK that year.
+
+France
+A total of 165,915 hybrid cars have been registered in France between 2007 and 2014, including 33,547 diesel-powered hybrids. French registrations account plug-in hybrid together with conventional hybrids. Among EU Member States, France had the second largest hybrid market share in 2014, with 2.3% of new car sales, down from 2.6% in 2013.
+Diesel hybrid technology, introduced by PSA Peugeot Citroën with the HYbrid4 system in 2011, represented 20.2% of the hybrid car stock sold in France between 2011 and 2014. Among the 13,340 units registered in 2011, the top-selling models in the French market were the Toyota Auris (4,740 units), the Prius (2,429 units), and the Honda Jazz Hybrid (1,857 units). The diesel-powered Peugeot 3008 HYbrid4, launched in late 2011, sold 401 units. Toyota led hybrid sales in the French market in 2013 with 27,536 registrations of its Yaris, Auris and Prius models, followed by the PSA group with 13,400 registrations. During 2014, a total of 42,813 hybrid cars and vans were registered, down 8.5% from 2013. Of these, 9,518 were diesel-electric hybrids, down 31.9% from 13,986 units a year earlier, while registrations of petrol-electric hybrids were up 1.5%. The top-selling models in 2014 were the Toyota Yaris Hybrid with 12,819 units, Toyota Auris with 10,595 and the Peugeot 3008 with 4,189 units. Hybrid registrations in 2014 included 1,519 plug-in hybrids, with sales led by the Mitsubishi Outlander P-HEV, with 820 units.
+
+The Netherlands
+As of 31 December 2015, hybrid car registrations totaled 131,011 units, up 11.7% from 117,259 a year earlier. By the end of 2009 there were about 39,300 hybrid cars registered in the Netherlands, up from 23,000 the previous year. Most of the registered hybrid cars belonged to corporate fleets due to tax incentives established in the country in 2008. During the first eight months of 2013, around 65% of TMC cars sold in the Netherlands have been hybrids, with the technology particularly popular among fleet owners and taxi drivers. Following the same market trend as in 2014, more plug-in hybrids were registered in 2015 (41,226) in the country than conventional hybrids (13,752).
+As a result of the tax incentives, the country has had for several years the highest hybrid market share among EU Member States. Hybrid sales climbed from 0.7% in 2006 and 2007 to 2.4% in 2008, and reached 4.2% in 2009. Due to the 2008 financial crisis, the market fell for two years to 2.7% in 2011, but recovered to 4.5% in 2012. As fewer hybrid vehicles were sold in the Dutch market in 2014 than in previous years, the hybrid segment market share fell to 3.7% of total passenger car sales in 2014. The sales decline is due to a change in the national vehicle taxation scheme. As of 2014, Japan (~20%) and Norway (6.9%) are the only countries with a higher market share than the Netherlands.
+
+Germany
+As of January 2016, there were 130,365 hybrid cars registered in Germany, up from 85,575 on the roads on January 1, 2014, and 47,642 vehicles on January 1, 2012. Hybrid car registrations totaled a record of 24,963 units in 2013, and declined to 22,908 in 2014, and to 22,529 in 2015. The German hybrid market share climbed from 0.3% in 2010, to 0.8% in 2013, and declined 0.7% of new car registrations in 2014.
+
+Spain
+A total of 10,350 hybrid cars were registered in Spain in 2011, up 22% from 2010 sales. The top-selling hybrids were the Toyota Prius, Toyota Auris HSD and the Lexus CT 200h, which together represented 83,2% of new hybrid car sales in the country. During 2012 hybrid sales remained almost constant with 10,030 units sold, representing 1.44% of new passenger cars sales that year. The top-selling car was the Prius with 3,969 units, followed by the Auris HSD (2,234) and the Lexus CT 200h (1,244). Combined sales of Toyota and Lexus models represented 89.15% of hybrid sales in the Spanish market in 2012. Hybrid sales in 2013 increased 1.72% from 2012, with 10,294 units registered. The Toyota Auris HSD was the top-selling hybrid with 3,644 units, followed by the Prius (2,378) and the Yaris Hybrid (1,587 ).
+
+Republic of Ireland
+As of February 2020, Hybrid cars as a proportion of all cars for sale in Ireland was very small, which could be seen in a snapshot (7 February 2020) of four car sales websites (Autotrader.ie, Carsireland.ie, Carzone.ie, and Donedeal.ie) that showed that out of circa 38,000 to 70,000 cars listed for sale, only circa 3.7% to 4.7% were Hybrids (including a small proportion of electric plug-in hybrids (PHEV)), so in real terms only 1,844-2,640 hybrid cars were advertised for sale in the market.
+This very low level of Hybrids compared poorly to the circa 25,338 to 46,940 diesel engine cars available for sale on the same date, representing a much larger, circa 64-67% of the market at that time.
+The Irish Government (to January 2020) had stated an aim to ban the sale of petrol, diesel and hybrid new ('non-electric') cars from 2030 (compared to the proposed EU ban by 2040, and the UK's proposed ban on the sale of new petrol, diesel and hybrid cars from 2035 as announced in the first week of February, 2020), though car dealers were reported to consider the Irish Government's target for one million electric and plug-in hybrid cars to be in use by 2030, as far too ambitious (The Irish Times, 07/02/2020).
+A compromise in terms of transition to Electric Vehicles (EVs), and a non-electric car ban implementation around 2030, maybe for acceptance of Hybrid cars with modest size petrol engines (regardless of whether 'Full' or 'Mild' hybrids), for example those at/ less than 1.6Litre (1600cc) engine capacity, and/ or at circa 100g/km CO2, or less in terms of emissions, or a fuel efficiency rating (L/100 km) for Highway/Extra Urban and 'Combined' journeys.
+
+
+== Technology ==
+The varieties of hybrid electric designs can be differentiated by the structure of the hybrid vehicle drivetrain, the fuel type, and the mode of operation.
+In 2007, several automobile manufacturers announced that future vehicles will use aspects of hybrid electric technology to reduce fuel consumption without the use of the hybrid drivetrain. Regenerative braking can be used to recapture energy and stored to power electrical accessories, such as air conditioning. Shutting down the engine at idle can also be used to reduce fuel consumption and reduce emissions without the addition of a hybrid drivetrain. In both cases, some of the advantages of hybrid electric technology are gained while additional cost and weight may be limited to the addition of larger batteries and starter motors. There is no standard terminology for such vehicles, although they may be termed mild hybrids.
+
+
+=== Engines and fuel sources ===
+
+
+==== Petrol ====
+Petrol engines are used in most hybrid electric designs and will likely remain dominant for the foreseeable future. While petroleum-derived petrol is the primary fuel, it is possible to mix in varying levels of ethanol created from renewable energy sources. Like most modern ICE powered vehicles, HEVs can typically use up to about 15% bioethanol. Manufacturers may move to flexible fuel engines, which would increase allowable ratios, but no plans are in place at present.
+
+
+==== Diesel ====
+The most prominent example of a full hybrid diesel system is the HYbrid4 by PSA Peugeot-Citroën. It was discontinued in 2016, following the decline in diesel popularity following the VW Dieselgate scandal.
+Diesel-electric HEVs use a diesel engine for power generation. Diesels have advantages when delivering constant power for long periods of time, suffering less wear while operating at higher efficiency.  The diesel engine's high torque, combined with hybrid technology, may offer substantially improved mileage. Most diesel vehicles can use 100% pure biofuels (biodiesel), so they can use but do not need petroleum at all for fuel (although mixes of biofuel and petroleum are more common).  If diesel-electric HEVs were in use, this benefit would likely also apply. Diesel-electric hybrid drivetrains have begun to appear in commercial vehicles (particularly buses); as of 2007, no light duty diesel-electric hybrid passenger cars are widely available, although prototypes exist. Peugeot was expected to produce a diesel-electric hybrid version of its 308 in late 2008 for the European market.
+PSA Peugeot Citroën has unveiled two demonstrator vehicles featuring a diesel-electric hybrid drivetrain: the Peugeot 307, Citroën C4 Hybride HDi and Citroën C-Cactus. Volkswagen made a prototype diesel-electric hybrid car that achieved 2 L/100 km (140 mpg‑imp; 120 mpg‑US) fuel economy, but has yet to sell a hybrid vehicle. General Motors has been testing the Opel Astra Diesel Hybrid. There have been no concrete dates suggested for these vehicles, but press statements have suggested production vehicles would not appear before 2009.
+At the Frankfurt Motor Show in September 2009 both Mercedes and BMW displayed diesel-electric hybrids.
+Robert Bosch GmbH is supplying hybrid diesel-electric technology to diverse automakers and models, including the Peugeot 308.
+So far, production diesel-electric engines have mostly appeared in mass transit buses.
+FedEx, along with Eaton Corp. in the US and Iveco in Europe, has begun deploying a small fleet of Hybrid diesel electric delivery trucks.
+As of October 2007, Fedex operates more than 100 diesel electric hybrids in North America, Asia and Europe.
+
+
+==== Human power ====
+
+There are bicycles that consist of an electric motor fitted turned by a generator powered from pedals almost similar to but different from pedal only bicycles. It also combines an Electric battery to store surplus power which can be charged from regenerative braking, from battery chargers like a Battery electric vehicle or Plug-in hybrid and also from the pedal powered generator just like in an internal combustion engine vehicle that uses the engine to charge the battery. It is quite likely that such vehicles are considered hybrids since power to the electric motor is coming from two sources (i.e. pedal power via a generator and battery power).
+
+Liquefied petroleum gas
+
+Hyundai introduced in 2009 the Hyundai Elantra LPI Hybrid, which is the first mass production hybrid electric vehicle to run on liquefied petroleum gas (LPG).
+
+
+==== Hydrogen ====
+
+Hydrogen can be used in cars in two ways: a source of combustible heat, or a source of electrons for an electric motor. The burning of hydrogen is not being developed in practical terms; it is the hydrogen fuel-cell electric vehicle (HFEV) which is garnering all the attention. Hydrogen fuel cells create electricity fed into an electric motor to drives the wheels. Hydrogen is not burned, but it is consumed. This means molecular hydrogen, H2, is combined with oxygen to form water. 2H2 (4e−) + O2 --> 2H2O (4e−). The molecular hydrogen and oxygen's mutual affinity drives the fuel cell to separate the electrons from the hydrogen, to use them to power the electric motor, and to return them to the ionized water molecules that were formed when the electron-depleted hydrogen combined with the oxygen in the fuel cell. Recalling that a hydrogen atom is nothing more than a proton and an electron; in essence, the motor is driven by the proton's atomic attraction to the oxygen nucleus, and the electron's attraction to the ionized water molecule.
+An HFEV is an all-electric car featuring an open-source battery in the form of a hydrogen tank and the atmosphere. HFEVs may also comprise closed-cell batteries for the purpose of power storage from regenerative braking, but this does not change the source of the motivation. It implies the HFEV is an electric car with two types of batteries. Since HFEVs are purely electric, and do not contain any type of heat engine, they are not hybrids.
+
+
+==== Solar power ====
+
+Some vehicles like mostly cars and occasionally other vehicles combine the solar photovoltaic cell propulsion system with an electric battery that is charged by the solar panel or sometimes like plug-in hybrid vehicles can also be charged from the power grid. These types of vehicles are technically hybrids, although they consist of two types of cells, since both of them use different fuels. The advantage of combining the two systems is that the vehicle can function with the battery if there is no sunlight and also reduces the risk of getting stuck on the road in case of a battery depletion since the solar panels charge the battery simultaneously.
+
+
+==== Bio-fuels ====
+
+Hybrid vehicles might use an internal combustion engine running on biofuels, such as a flexible-fuel engine running on ethanol or engines running on biodiesel. In 2007 Ford produced 20 demonstration Escape Hybrid E85s for real-world testing in fleets in the U.S. Also as a demonstration project, Ford delivered in 2008 the first flexible-fuel plug-in hybrid SUV to the U.S. Department of Energy (DOE), a Ford Escape Plug-in Hybrid, capable of running on petrol or E85.
+The Chevrolet Volt plug-in hybrid electric vehicle would be the first commercially available flex-fuel plug-in hybrid capable of adapting the propulsion to the biofuels used in several world markets such as the ethanol blend E85 in the U.S., or E100 in Brazil, or biodiesel in Sweden. The Volt will be E85 flex-fuel capable about a year after its introduction.
+
+
+=== Design considerations ===
+In some cases, manufacturers are producing HEVs that use the added energy provided by the hybrid systems to give vehicles a power boost, rather than significantly improved fuel efficiency compared to their traditional counterparts. The trade-off between added performance and improved fuel efficiency is partly controlled by the software within the hybrid system and partly the result of the engine, battery and motor size. In the future, manufacturers may provide HEV owners with the ability to partially control this balance (fuel efficiency vs. added performance) as they wish, through a user-controlled setting. Toyota announced in January, 2006 that it was considering a "high-efficiency" button.
+
+
+=== Conversion kits ===
+
+One can buy a stock hybrid or convert a stock petroleum car to a hybrid electric vehicle using an aftermarket hybrid kit.
+
+
+== Environmental impact ==
+
+
+=== Fuel consumption ===
+
+Electric hybrids reduce petroleum consumption under certain circumstances, compared to otherwise similar conventional vehicles, primarily by using three mechanisms:
+
+Reducing wasted energy during idle/low output, generally by turning the ICE off
+Recapturing waste energy (i.e. regenerative braking)
+Reducing the size and power of the ICE, and hence inefficiencies from under-utilization, by using the added power from the electric motor to compensate for the loss in peak power output from the smaller ICE.
+Any combination of these three primary hybrid advantages may be used in different vehicles to realize different fuel usage, power, emissions, weight and cost profiles. The ICE in an HEV can be smaller, lighter, and more efficient than the one in a conventional vehicle, because the combustion engine can be sized for slightly above average power demand rather than peak power demand. The drive system in a vehicle is required to operate over a range of speed and power, but an ICE's highest efficiency is in a narrow range of operation, making conventional vehicles inefficient. On the contrary, in most HEV designs, the ICE operates closer to its range of highest efficiency more frequently. The power curve of electric motors is better suited to variable speeds and can provide substantially greater torque at low speeds compared with internal-combustion engines. The greater fuel economy of HEVs has implication for reduced petroleum consumption and vehicle air pollution emissions worldwide
+Many hybrids use the Atkinson cycle, which gives greater efficiency, but less power for the size of engine.
+
+
+=== Noise ===
+
+Reduced noise emissions resulting from substantial use of the electric motor at idling and low speeds, leading to roadway noise reduction, in comparison to conventional petrol or diesel powered engine vehicles, resulting in beneficial noise health effects (although road noise from tires and wind, the loudest noises at highway speeds from the interior of most vehicles, are not affected by the hybrid design alone). Reduced noise may not be beneficial for all road users, as blind people or the visually impaired consider the noise of combustion engines a helpful aid while crossing streets and feel quiet hybrids could pose an unexpected hazard. Tests have shown that vehicles operating in electric mode can be particularly hard to hear below 20 mph (32 km/h).
+A 2009 study conducted by the NHTSA found that crashes involving pedestrian and bicyclist have higher incidence rates for hybrids than internal combustion engine vehicles in certain vehicle maneuvers. These accidents commonly occurred on in zones with low speed limits, during daytime and in clear weather.
+In January 2010 the Japanese Ministry of Land, Infrastructure, Transport and Tourism issued guidelines for hybrid and other near-silent vehicles. The Pedestrian Safety Enhancement Act of 2010 was approved by the U.S. Congress in December 2010, and the bill was signed into law by President Barack Obama on January 4, 2011. A proposed rule was published for comment by the National Highway Traffic Safety Administration (NHTSA) in January, 2013. It would require hybrids and electric vehicles traveling at less than 18.6 mph (30 km/h) to emit warning sounds that pedestrians must be able to hear over background noises. The rules are scheduled to go into effect in September 2014. In April 2014 the European Parliament approved legislation that requires the mandatory use of Acoustic Vehicle Alerting Systems (AVAS) for all new electric and hybrid electric vehicles, and car manufacturers have to comply within five years.
+As of mid-2010, and in advance of upcoming legislation, some carmakers announced their decision to address this safety issue shared by regular hybrids and all types of plug-in electric vehicles, and as a result, the Nissan Leaf and Chevrolet Volt, both launched in late 2010, and the Nissan Fuga hybrid and the Fisker Karma plug-in hybrid, both launched in 2011, include synthesized sounds to alert pedestrians, the blind and others to their presence. Toyota introduced its Vehicle Proximity Notification System (VPNS) in the United States in all 2012 model year Prius family vehicles, including the Prius v, Prius Plug-in Hybrid and the standard Prius.
+There is also aftermarket technology available in California to make hybrids sound more like conventional combustion engine cars when the vehicle goes into the silent electric mode (EV mode). In August 2010 Toyota began sales in Japan of an onboard device designed to automatically emit a synthesized sound of an electric motor when the Prius is operating as an electric vehicle at speeds up to approximately 25 kilometres per hour (16 mph). Toyota plans to use other versions of the device for use in petrol-electric hybrids, plug-in hybrids, electric vehicles as well as fuel-cell hybrid vehicles planned for mass production.
+
+
+=== Top ten EPA-rated hybrids ===
+The following table shows the fuel economy ratings and pollution indicators for the top ten most fuel efficient hybrids rated by the U.S. Environmental Protection Agency as of June 2016, for model year 2015 and 2016 available in the American market.
+
+
+== Vehicle types ==
+
+
+=== Motorcycles ===
+Companies such as Zero Motorcycles and Vectrix have market-ready all-electric motorcycles available now, but the pairing of electrical components and an internal combustion engine (ICE) has made packaging cumbersome, especially for niche brands.
+Also, eCycle Inc produces series diesel-electric motorcycles, with a top speed of 80 mph (130 km/h) and a target retail price of $5500.
+Peugeot HYmotion3 compressor, a hybrid scooter is a three-wheeler that uses two separate power sources to power the front and back wheels. The back wheel is powered by a single cylinder 125 cc, 20 bhp (15 kW) single cylinder motor while the front wheels are each driven by their own electric motor. When the bike is moving up to 10 km/h only the electric motors are used on a stop-start basis reducing the amount of carbon emissions.
+In India, Yamaha has a hybrid motorcycle, the Yamaha FZ-S. 
+
+
+=== Automobiles and light trucks ===
+
+
+=== High-performance cars ===
+
+As emissions regulations become tougher for manufacturers to adhere to, a new generation of high-performance cars will be powered by hybrid technology (for example the Porsche GT3 hybrid racing car). Aside from the emissions benefits of a hybrid system, the immediately available torque which is produced from electric motor(s) can lead to performance benefits by addressing the power curve weaknesses of a traditional combustion engine. Hybrid racecars have been very successful, as is shown by the Audi R18 and Porsche 919, which have won the 24 hours of Le Mans using hybrid technology.
+
+
+=== Formula One ===
+Since 2014, Formula One cars have used 1.6 L turbocharged V6 engines, limited to 15,000 rpm. These engines allow Formula One cars to reach speeds of 372 km/h (231 mph), as recorded by Valtteri Bottas at the 2016 Mexican Grand Prix.
+
+
+=== Taxis ===
+
+In 2000, North America's first hybrid electric taxi was put into service in Vancouver, British Columbia, operating a 2001 Toyota Prius which traveled over 332,000 km (206,000 mi) before being retired. In 2015, a taxi driver in Austria claimed to have covered 1,000,000 km (620,000 mi) in his Toyota Prius with the original battery pack.
+Many of the major cities in the world are adding hybrid taxis to their taxicab fleets, led by San Francisco and New York City. By 2009 15% of New York's 13,237 taxis in service are hybrids, the most in any city in North America, and also began retiring its original hybrid fleet after 300,000 and 350,000 miles (480,000 and 560,000 km) per vehicle. Other cities where taxi service is available with hybrid vehicles include Tokyo, London, Sydney, Melbourne, and Rome.
+
+
+=== Buses ===
+
+Hybrid technology for buses has seen increased attention since recent battery developments decreased battery weight significantly. Drivetrains consist of conventional diesel engines and gas turbines. Some designs concentrate on using car engines, recent designs have focused on using conventional diesel engines already used in bus designs, to save on engineering and training costs. As of 2007, several manufacturers were working on new hybrid designs, or hybrid drivetrains that fit into existing chassis offerings without major re-design. A challenge to hybrid buses may still come from cheaper lightweight imports from the former Eastern bloc countries or China, where national operators are looking at fuel consumption issues surrounding the weight of the bus, which has increased with recent bus technology innovations such as glazing, air conditioning and electrical systems. A hybrid bus can also deliver fuel economy though through the hybrid drivetrain. Hybrid technology is also being promoted by environmentally concerned transit authorities.
+
+
+=== Trucks ===
+
+In 2003, GM introduced a hybrid diesel-electric military (light) truck, equipped with a diesel electric and a fuel cell auxiliary power unit. Hybrid electric light trucks were introduced in 2004 by Mercedes-Benz (Sprinter) and Micro-Vett SPA (Daily Bimodale). International Truck and Engine Corp. and Eaton Corp. have been selected to manufacture diesel-electric hybrid trucks for a US pilot program serving the utility industry in 2004. In mid-2005 Isuzu introduced the Elf Diesel Hybrid Truck on the Japanese Market. They claim that approximately 300 vehicles, mostly route buses are using Hinos HIMR (Hybrid Inverter Controlled Motor & Retarder) system. In 2007, high petroleum price means a hard sell for hybrid trucks and appears the first U.S. production hybrid truck (International DuraStar Hybrid).
+Other vehicles are:
+
+Big mining machines like the Liebherr T 282B dump truck or Keaton Vandersteen LeTourneau L-2350 wheel loader are powered that way. Also there were several models of BelAZ (7530 and 7560 series) in USSR (now in Belarus) since the middle of 1970th.
+NASA's huge Crawler-Transporters are diesel-electric.
+Mitsubishi Fuso Canter Eco Hybrid is a diesel-electric commercial truck.
+Azure Dynamics Balance Hybrid Electric is a petrol-hybrid electric medium dutry truck based on the Ford E-450 chassis.
+Hino Motors (a Toyota subsidiary) has the world's first production hybrid electric truck in Australia (110 kW or 150 hp diesel engine plus a 23 kW or 31 hp electric motor).
+Other hybrid petroleum-electric truck makers are DAF Trucks, MAN with MAN TGL Series, Nissan Motors and Renault Trucks with Renault Puncher.
+Hybrid electric truck technology and powertrain maker: ZF Friedrichshafen, EPower Engine Systems.
+By a voice vote, the United States House of Representatives approved the Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2009 ( for heavy duty plug-in hybrid vehicles) authored by representative James Sensenbrenner.
+
+
+=== Military vehicles ===
+Some 70 years after Porsche's pioneering efforts in hybrid-drivetrain armoured fighting vehicles in World War II, the United States Army's manned ground vehicles of the Future Combat System all use a hybrid electric drive consisting of a diesel engine to generate electrical power for mobility and all other vehicle subsystems. However, all FCS land vehicles were put on hold in the 2010 DOD budget. Other military hybrid prototypes include the Millenworks Light Utility Vehicle, the International FTTS, HEMTT model A3, and the Shadow RST-V.
+China's Type 100 tank, which debuted in 2025, is the world's first hybrid armoured fighting vehicle in service.
+
+
+=== Locomotives ===
+
+In May 2003, JR East started test runs with the so-called NE (new energy) train and validated the system's functionality (series hybrid with lithium-ion battery) in cold regions. In 2004, Railpower Technologies had been running pilots in the US with the so-called Green Goats, which led to orders by the Union Pacific and Canadian Pacific Railways starting in early 2005.
+Railpower offers hybrid electric road switchers, as does GE. Diesel-electric locomotives may not always be considered HEVs, not having energy storage on board, unless they are fed with electricity via a collector for short distances (for example, in tunnels with emission limits), in which case they are better classified as dual-mode vehicles.
+
+
+=== Marine and other aquatic ===
+
+For large boats that are already diesel-electric, the upgrade to hybrid can be as straightforward as adding a large battery bank and control equipment; this configuration can provide fuel saving for the operators as well as being more environmentally sensitive.
+Producers of marine hybrid propulsion include:
+
+eCycle Inc.
+Solar Sailor Holdings
+
+
+=== Aircraft ===
+
+A hybrid electric aircraft is an aircraft with a hybrid electric powertrain, as the energy density of lithium-ion batteries is much lower than aviation fuel, it effectively increase the range compared to pure electric aircraft.
+By May 2018, there were over 30 projects, and short-haul hybrid-electric airliners are envisioned by 2032.
+The most advanced are the Zunum Aero 10-seater,  the Airbus E-Fan X demonstrator, the VoltAero Cassio, the UTC modified Bombardier Dash 8, and the Ampaire Electric EEL.
+
+
+== Hybrid premium and showroom cost parity ==
+
+HEVs can be initially more expensive (the so-called "hybrid premium") than pure fossil-fuel-based ICE vehicles, due to extra batteries, more electronics and in some cases other design considerations (although battery renting can be used to reach the cost parity). The trade-off between higher initial cost (also called showroom costs) and lower fuel costs (difference often referred to as the payback period) is dependent on usage – miles traveled, or hours of operation, fuel costs, and in some cases, government subsidies. Traditional economy vehicles may result in a lower direct cost for many users (before consideration of any externality).
+Consumer Reports ran an article in April 2006 stating that HEVs would not pay for themselves over five years of ownership. However, this included an error with charging the "hybrid premium" twice. When corrected, the Honda Civic Hybrid and Toyota Prius did have a payback period of slightly less than five years. This includes conservative estimates with depreciation (seen as more depreciation than a conventional vehicle, although that is not the prevailing norm) and with progressively higher gas prices. In particular, the Consumer Reports article assumed $2/U.S. gallon for three years, $3/U.S. gallon for one year and $4/U.S. gallon the last year. As recent events have shown, this is a volatile market and hard to predict. For 2006, gas prices ranged from low $2 to low $3, averaging about $2.60/U.S. gallon.
+A January 2007 analysis by Intellichoice.com shows that all 22 available HEVs will save their owners money over a five-year period. The most savings is for the Toyota Prius, which has a five-year cost of ownership 40.3% lower than the cost of comparable non-hybrid vehicles.
+A report in the Greeley Tribune says that over the five years it would typically take for a new car owner to pay off the vehicle cost differential, a hybrid Camry driver could save up to US$6,700 in petrol at June 2007 petrol prices, with hybrid tax incentives as an additional saving.
+In countries with incentives to fight against global warming and contamination and promote vehicle fuel efficiency, the pay-back period can be immediate, and all-combustion-engine vehicles can cost more than hybrids because they generate more pollution.
+Toyota and Honda have already said they've halved the incremental cost of electric hybrids and see cost parity in the future (even without incentives).
+
+
+== Raw materials shortage ==
+
+The rare-earth element dysprosium is required to fabricate many of the advanced electric motors and battery systems in hybrid propulsion systems.
+However, nearly all the rare-earth elements in the world come from China, and in 2008 one analyst estimated that an overall increase in Chinese electronics manufacturing may consume this entire supply by 2012. In addition, export quotas on Chinese rare-earth exports have resulted in a generally shaky supply of those metals.
+A few non-Chinese sources such as the advanced Hoidas Lake project in northern Canada and Mt Weld in Australia were under development, however it is not known if these sources will be developed before a shortage hits.
+
+
+== Legislation and incentives ==
+
+In order to encourage the purchase of HEVs, several countries have introduced legislation for incentives and ecotaxes.
+
+
+=== Canada ===
+Residents of Ontario and Quebec in Canada can claim a rebate on the Provincial Retail Sales Tax of up to Can$2,000 on the purchase or lease of a hybrid electric vehicle. Ontario has a green license plate for hybrid car users and was to announce a slew of benefits to go along with it in 2008. Residents in British Columbia are eligible for a 100% reduction of sales tax up to a maximum of $2,000 if the hybrid electric vehicle is purchased or leased before April 1, 2011 (extended in 2007/2008 budget from March 31, 2008, and expanded from a maximum of only $1,000 from April 1, 2008, to March 31, 2009, at which point the concession was scheduled to expire). Prince Edward Island residents can claim rebates on the Provincial Sales Tax of up to Can$3,000 on the purchase or lease of any hybrid vehicles since March 30, 2004.
+
+
+=== Israel ===
+In Haifa, hybrid vehicles are entitled to a free parking in city's parking lots for domestic citizens. Other cities, such as Petah-Tikva, have quickly adopted similar free parking for hybrid cars.
+
+
+=== Japan ===
+
+In 2009 the Japanese government implemented a set of policies and incentives that included a scrappage program, tax breaks on hybrid vehicles and other low emission cars and trucks, and a higher levy on petrol that raised prices in the order of US$4.50 per gallon. New hybrid car sales for 2009 were almost triple those for 2008.
+
+
+=== Jordan ===
+In Jordan, customs and sales tax reduced for all hybrid vehicles from 55% to 25% of the vehicle list price, 12.5% customs fees and sales tax, if the new hybrid is a replacement for an old car (more than 10 years age). However, in March 2018, the government resorted to imposing the 55% customs and sales tax back again in its efforts to increase revenue.
+
+
+=== Malaysia ===
+In Malaysia, since mid 2014 all (CBU) fully imported hybrid and EV cars sold in Malaysia significantly increased in price after the CBU hybrid and EV incentive package that expired on December 31, 2013. The affected cars are Toyota Prius, Toyota Prius c, Honda Civic Hybrid, Honda Insight, Honda CR-Z, Lexus CT200h, Audi A6 Hybrid, Mitsubishi i-MiEV and Nissan Leaf. However the exemption of excise duties and import taxes for hybrids and EV will be extended for models that are (CKD) assembled in Malaysia. The exemption will be extended until December 31, 2015, for hybrids and December 31, 2017, for EVs. Only the locally assembled Honda Jazz Hybrid, Mercedes-Benz S400 L Hybrid, Toyota Camry Hybrid and the facelifted  Nissan Serena S-Hybrid are entitled for hybrid inducements.
+
+
+=== Netherlands ===
+In the Netherlands, the vehicle registration tax (VRT), payable when a car is sold to its first buyer, can earn the owner of an HEV a discount up to €6,000.
+
+
+=== New Zealand ===
+In Christchurch, hybrid vehicles are entitled to an hour free parking in city council parking buildings. Where those buildings already provide an hour free, hybrid vehicles are entitled to an extra hour free.
+
+
+=== Republic of Ireland ===
+In the Republic of Ireland, a discount of up to €1500 on VRT for hybrids, and up to €2500 for plugin hybrids was available until 31 December 2012. Previously there was a potential reduction of 50% of VRT applicable before July 2008, when VRT rates were based on engine size, rather than the CO2 emissions system.  Some concerns were raised regarding the loss of VRT revenue due to the high number of expensive, luxury SUV hybrids imported, and also noting their large engine size, that in highway/extra-urban, and combined driving conditions may have negated much of the Hybrid engine arrangement emissions benefits (The Irish Times 11/11/2006).
+
+
+=== Sweden ===
+In Sweden there is an "Eco car" subsidy of SEK 10,000 (~ US$1,600) cash payout to private car owners. For fringe benefit cars there is a reduction of the benefit tax of 40% for EVs and HEVs and 20% for other "Eco cars".
+
+
+=== United Kingdom ===
+Drivers of HEVs in the United Kingdom benefit from the lowest band of vehicle excise duty (car tax), which is based on carbon dioxide emissions. In central London, these vehicles are also exempt from the £11.5 daily London congestion charge. Due to their low levels of regulated emissions, the greenest cars are eligible for 100% discount under the incentive system. To be eligible the car had to be on the Power Shift Register. As of 2007, these included the cleanest LPG and natural gas cars and most hybrid-, battery- and fuel cell-electric vehicles.
+
+
+=== United States ===
+
+
+==== Federal ====
+
+Through to December 31, 2010, the IRS permitted the purchaser of a hybrid electric car a federal income tax credit up to $3,400. The tax credit was to be phased out two calendar quarters after the manufacturer reached 60,000 new cars sold in the following manner: it was reduced to 50% if delivered in either the third or fourth quarter after the threshold was reached, to 25% in the fifth and sixth quarters, and 0% thereafter.
+As of April 2010, three auto manufactures reached the 60,000 cap; Toyota Motor Company reached it in 2007, Honda in 2008, and as of April 1, 2010, no Ford Motor Company hybrid vehicles remained eligible for this tax credit. Vehicles purchased after December 31, 2010, are not eligible for this credit, as this benefit will expire on this date.
+
+
+==== States and local ====
+Certain states (e.g., California, Florida, New York, and Virginia) allowed singly occupied HEVs to enter the HOV lanes on the highway. Initially, the Federal Highway Administration ruled that this was a violation of federal statute until August 10, 2005, when George W. Bush signed the Transportation Equity Act of 2005 into law. In California, a total of 85,250 owners of the three eligible hybrid models benefited from free access to HOV lanes from 2004 to mid-2011. This incentive expired on July 1, 2011, and now hybrids are required to comply the minimum passenger requirements to use the HOV lanes.
+Some states, e.g., California, exempted hybrid electric cars from the biennial smog inspection, which costs over $50 (as of 2004).
+Until 2007, the city of San Jose, California, issued a free parking tag for hybrid electric cars purchased at San Jose dealerships, after which the tag began being issued for a fee annually. The qualified owners did not have to pay for parking in any city garage or at roadside parking meters.
+Beginning October 1, 2004, the city of Los Angeles, California, offers free parking to all HEVs. The experiment is an extension to an existing offer of free parking for all pure electrical vehicles.
+In October 2005, the city of Baltimore, Maryland, started to offer discount on monthly parking in the city parking lots, and is considering free meter parking for HEVs.
+On 3 November 2005, The Boston Globe reported that Boston's city council was considering the same treatment for hybrid electric cars.
+Annual vehicle registration fees in Washington, D.C., are $36, half those paid for conventional vehicles ($72).
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Ford Transit Eléctrica
+Fleet Test and Evaluation Project – Hybrid Electric Fleet Vehicle Testing (National Renewable Energy Laboratory)
+Hybrid and Electric Vehicles – The Electric Drive Gains Traction Archived 2021-02-26 at the Wayback Machine, IA-HEV, International Energy Agency, May 2013
+Report on how HEVs work.

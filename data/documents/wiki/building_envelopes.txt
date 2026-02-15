@@ -1,0 +1,200 @@
+# Building Envelopes
+Source: https://en.wikipedia.org/wiki/Building_insulation
+
+Building insulation is material used in a building (specifically the building envelope) to reduce the flow of thermal energy. While the majority of insulation in buildings is for thermal purposes, the term also applies to acoustic insulation, fire insulation, and impact insulation (e.g. for vibrations caused by industrial applications). Often an insulation material will be chosen for its ability to perform several of these functions at once.
+Since prehistoric times, humans have created thermal insulation with materials such as animal fur and plants. With the agricultural development, earth, stone, and cave shelters arose. In the 19th century, people started to produce insulated panels and other artificial materials. Now, insulation is divided into two main categories: bulk insulation and reflective insulation. Buildings typically use a combination.
+Insulation is an important economic and environmental investment for buildings. By installing insulation, buildings  use less energy for heating and cooling and occupants experience less thermal variability. Retrofitting buildings with further insulation is an important climate change mitigation tactic, especially when buildings are heated by oil, natural gas, or coal-based electricity. Local and national governments and utilities often have a mix of incentives and regulations to encourage insulation efforts on new and renovated buildings as part of efficiency programs in order to reduce grid energy use and its related environmental impacts and infrastructure costs.
+
+
+== Insulation ==
+
+
+=== The definition of thermal insulation ===
+Thermal insulation usually refers to the use of appropriate insulation materials and design adaptations for buildings to slow the transfer of heat through the enclosure to reduce heat loss and gain. The transfer of heat is caused by the temperature difference between indoors and outdoors. Heat may be transferred either by conduction, convection, or radiation. The rate of transmission is closely related to the propagating medium. Heat is lost or gained by transmission through the ceilings, walls, floors, windows, and doors. This heat reduction and acquisition are usually unwelcome. It not only increases the load on the HVAC system resulting in more energy wastes but also reduces the thermal comfort of people in the building. Thermal insulation in buildings is an important factor in achieving thermal comfort for its occupants. Insulation reduces unwanted heat loss or gain and can decrease the energy demands of heating and cooling systems. It does not necessarily deal with issues of adequate ventilation and may or may not affect the level of sound insulation. In a narrow sense, insulation can just refer to the insulation materials employed to slow heat loss, such as: cellulose, glass wool, rock wool, polystyrene, polyurethane foam, vermiculite, perlite, wood fiber, plant fiber (cannabis, flax, cotton, cork, etc.), recycled cotton denim, straw, animal fiber (sheep's wool), cement, and earth or soil, reflective insulation (also known as a radiant barrier) but it can also involve a range of designs and techniques to address the main modes of heat transfer - conduction, radiation, and convection materials.
+Most of the materials in the above list only retain a large amount of air or other gases between the molecules of the material. The gas conducts heat much less than the solids. These materials can form gas cavities, which can be used to insulate heat with low heat transfer efficiency. This situation also occurs in the fur of animals and birds feathers, animal hair can employ the low thermal conductivity of small pockets of gas, so as to achieve the purpose of reducing heat loss.
+The effectiveness of reflective insulation (radiant barrier) is commonly evaluated by the reflectivity (emittance) of the surface with airspace facing to the heat source.
+The effectiveness of bulk insulation is commonly evaluated by its R-value, of which there are two – metric (SI) (with unit K⋅W−1⋅m2) and US customary (with unit °F⋅ft2⋅h/BTU), the former being 0.176 times the latter numerically, or the reciprocal quantity the thermal conductivity or U-value W⋅K−1⋅m−2.
+For example, in the US the insulation standard for attics, is recommended to be at least R-38 US units, (equivalent to R-6.7 or a U value of 0.15 in SI units).  The equivalent standard in the UK are technically comparable, the approved document L would normally require an average U value over the roof area of 0.11 to 0.18 depending on the age of the property and the type of roof construction. Newer buildings have to meet a higher standard than those built under previous versions of the regulations.
+It is important to realise a single R-value or U-value does not take into account the quality of construction or local environmental factors for each building. Construction quality issues can include inadequate vapor barriers and problems with draft-proofing. In addition, the properties and density of the insulation material itself are critical. Most countries have some regime of either inspections or certification of approved installers to make sure that good standards are maintained.
+
+
+=== History of thermal insulation ===
+The history of thermal insulation is not so long compared with other materials, but human beings have been aware of the importance of insulation for a long time. In the prehistoric time, human beings began their activity of making shelters against wild animals and heavy weather, human beings started their exploration of thermal insulation. Prehistoric peoples built their dwellings by using the materials of animal skins, fur, and plant materials like reed, flax, and straw, these materials were first used as clothing materials, because their dwellings were temporary, they were more likely to use the materials they used in clothing, which were easy to obtain and process. The materials of animal furs and plant products can hold a large amount of air between molecules which can create an air cavity to reduce the heat exchange.
+Later, human beings' long life spans and the development of agriculture determined that they needed a fixed place of residence, earth-sheltered houses, stone houses, and cave dwellings began to emerge. The high density of these materials can cause a time lag effect in thermal transfer, which can make the inside temperature change slowly. This effect keep inside of the buildings warm in winter and cool in summer, also because of the materials like earth or stone is easy to get, this design is really popular in many places like Russia, Iceland, Greenland.
+Organic materials were the first available to build a shelter for people to protect themselves from bad weather conditions and to help keep them warm. But organic materials like animal and plant fiber cannot exist for a long time, so these natural materials cannot satisfy people's long-term need for thermal insulation. So, people began to search for substitutes which are more durable. In the 19th century, people were no longer satisfied with using natural materials for thermal insulation, they processed the organic materials and produced the first insulated panels. At the same time, more and more artificial materials start to emerge, and a large range of artificial thermal insulation materials were developed, e.g. rock wool, fiberglass, foam glass, and hollow bricks.
+
+
+=== Significance of thermal insulation ===
+Thermal insulation can play a significant role in buildings, great demands of thermal comfort result in a large amount of energy consumed for full-heating for all rooms. Around 40% of energy consumption can be attributed to the building, mainly consumed by heating or cooling. Sufficient thermal insulation is the fundamental task that ensures a healthy indoor environment and against structure damages. It is also a key factor in dealing with high energy consumption, it can reduce the heat flow through the building envelope. Good thermal insulation can also bring the following benefits to the building:
+
+Preventing building damage caused by the formation of moisture on the inside of the building envelope. Thermal insulation makes sure that the temperatures of room surface don't fall below a critical level, which avoids condensation and the formation of mould. According to the Building Damage reports, 12.7% and 14% of building damage was caused by mould problems. If there is no sufficient thermal insulation in the building, high relative humidity inside the building will lead to condensation and finally result in mould problems.
+Producing a comfortable thermal environment for people living in the building. Good thermal insulation allows sufficiently high temperatures inside the building during the winter, and it also achieves the same level of thermal comfort by offering relatively low air temperature in the summer.
+Reducing unwanted heating or cooling energy input. Thermal insulation reduces the heat exchange through the building envelope, which allows the heating and cooling machines to achieve the same indoor air temperature with less energy input.
+
+
+== Planning and examples ==
+How much insulation a house should have depends on building design, climate, energy costs, budget, and personal preference. Regional climates make for different requirements. Building codes often set minimum standards for fire safety and energy efficiency, which can be voluntarily exceeded within the context of sustainable architecture for green certifications such as LEED.
+The insulation strategy of a building needs to be based on a careful consideration of the mode of energy transfer and the direction and intensity in which it moves. This may alter throughout the day and from season to season. It is important to choose an appropriate design, the correct combination of materials, and building techniques to suit the particular situation.
+
+
+=== United States ===
+The thermal insulation requirements in the United States follow the ASHRAE 90.1, which is the US energy standard for all commercial and some residential buildings. ASHRAE 90.1 standard considers multiple perspectives such as prescriptive, building envelope types and energy cost budget. And the standard has some mandatory thermal insulation requirements. All thermal insulation requirements in ASHRAE 90.1 are divided by the climate zone; it means that the amount of insulation needed for a building is determined by which climate zone the building locates. The thermal insulation requirements are shown as R-values and continuous insulation R-value as the second index. The requirements for different types of walls (wood framed walls, steel framed walls, and mass walls) are shown in the table.
+
+To determine whether you should add insulation, you first need to find out how much insulation you already have in your home and where. A qualified home energy auditor will include an insulation check as a routine part of a whole-house energy audit. However, you can sometimes perform a self-assessment in certain areas of the home, such as attics. Here, a visual inspection, along with use of a ruler, can give you a sense of whether you may benefit from additional insulation. Residential energy audits are often initiated due homeowners being alerted by a gradual increase in their utility bills which often reflects the buildings attic as being poorly insulated.
+An initial estimate of insulation needs in the United States can be determined by the US Department of Energy's ZIP code insulation calculator.
+
+
+=== Russia ===
+In Russia, the availability of abundant and cheap gas has led to poorly insulated, overheated, and inefficient consumption of energy. The Russian Center for Energy Efficiency found that Russian buildings are either over- or under-heated, and often consume up to 50 percent more heat and hot water than needed. 53 percent of all carbon dioxide (CO2) emissions in Russia are produced through heating and generating electricity for buildings. However, greenhouse gas emissions from the former Soviet Bloc are still below their 1990 levels.
+Energy codes in the Soviet Union start to establish in 1955, norms and rules first mentioned the performance of the building envelope and heat losses, and they formed norms to regulate the energy characteristics of  the building envelope. And the most recent version of Russia energy code (SP 50.13330.2012) was published in 2003. The energy codes of Russia were established by experts of government institutes or nongovernmental organization like ABOK. The energy code of Russia have been revised several times since 1955, the 1995 versions reduced energy depletion per square meter for heating by 20%, and the 2000 version reduced by 40%. The code also has a mandatory requirement on thermal insulation of buildings accompany with some voluntary provisions, mainly focused on heat loss from the building shell.
+
+
+=== Australia ===
+
+The thermal insulation requirements of Australia follow the climate of the building location, the table below is the minimum insulation requirements based on climate, which is determined by the Building Code of Australia (BCA). The building in Australia applies insulation in roofs, ceilings, external walls, and various components of the building (such as Veranda roofs in the hot climate, Bulkhead, Floors). Bulkheads (wall section between ceilings which are in different heights) should have the same insulated level as the ceilings since they suffer the same temperature levels. And the external walls of Australia's building should be insulated to decrease all kinds of heat transfer. Besides the walls and ceilings, the Australia energy code also requires insulation for floors (not all floors). Raised timber floors must have around 400mm soil clearance below the lowest timbers to provide sufficient space for insulation, and concrete slab such as suspended slabs and slab-on-ground should be insulated in the same way. 
+
+
+=== China ===
+China has various climatic characters, which are divided by geographical areas. There are five climate zones in China to identify the building design include thermal insulation. (The very cold zone, cold zone, hot summer and cold winter zone, hot summer and warm winter zone and cold winter zone).
+
+
+=== Germany ===
+Germany established its requirements of building energy efficiency in 1977, and the first energy code-the Energy Saving Ordinance (EnEV) which based on the building performance was introduced in 2002. And the 2009 version of the Energy Saving Ordinance increased the minimum R-values of the thermal insulation of the building shell and introduced requirements for air-tightness tests. The Energy Saving Ordinance (EnEV) 2013 clarified the requirement of thermal insulation of the ceiling. And it mentioned that if the ceiling was not fulfilled, thermal insulation will be needed in accessible ceilings over upper floor's heated rooms. [U-Value must be under 0.24 W/(m2⋅K)]
+
+
+=== Netherlands ===
+The building decree (Bouwbesluit) of the Netherlands makes a clear distinction between home renovation or newly built houses. New builds count as completely new homes, but also new additions and extensions are considered to be new builds. Furthermore, renovations whereby at least 25% of the surface of the integral building is changed or enlarged is also considered to be a new build. Therefore, during thorough renovations, there's a chance that the new construction must meet the new building requirement for insulation of the Netherlands. If the renovation is of a smaller nature, the renovation directive applies. Examples of renovation are post-insulation of a cavity wall and post-insulation of a sloping roof against the roof boarding or under the tiles. Note that every renovation must meet the minimum Rc value of 1.3 W/(m2⋅K). If the current insulation has a higher insulation value (the legally obtained level), then this value counts as a lower limit.
+
+
+=== New Zealand ===
+Insulation requirements for new houses and small buildings in New Zealand are set out in the Building Code and standard NZS 4128:2009.
+
+Zones 1 and 2 include most of the North Island, including Waiheke Island and Great Barrier Island. Zone 3 includes the Taupō District, Ruapehu District, and the Rangitikei District north of 39°50′ latitude south (i.e. north of and including Mangaweka) in the North Island, the South Island, Stewart Island, and the Chatham Islands.
+
+
+=== United Kingdom ===
+Insulation requirements are specified in the Building regulations and in England and Wales the technical content is published as Approved Documents
+Document L defines thermal requirements, and while setting minimum standards can allow for the U values for elements such as roofs and walls to be traded off against other factors such as the type of heating system in a whole building energy use assessment.
+Scotland and Northern Ireland have similar systems but the detail technical standards are not identical.
+The standards have been revised several times in recent years, requiring more efficient use of energy as the UK moves towards a low-carbon economy.
+
+
+== Technologies and strategies in different climates ==
+
+
+=== Cold climates ===
+
+
+==== Strategies in cold climate ====
+
+In cold conditions, the main aim is to reduce heat flow out of the building.  The components of the building envelope—windows, doors, roofs, floors/foundations, walls, and air infiltration barriers—are all important sources of heat loss; in an otherwise well insulated home, windows will then become an important source of heat transfer.  The resistance to conducted heat loss for standard single glazing corresponds to an R-value of about 0.17 m2⋅K⋅W−1 or more than twice that for typical double glazing (compared to 2–4 m2⋅K⋅W−1 for glass wool batts).  Losses can be reduced by good weatherisation, bulk insulation, and minimising the amount of non-insulative (particularly non-solar facing) glazing.  Indoor thermal radiation can also be a disadvantage with spectrally selective (low-e, low-emissivity) glazing. Some insulated glazing systems can double to triple R values.
+
+
+==== Technologies in cold climate ====
+The vacuum panels and aerogel wall surface insulation are two technologies that can enhance the energy performance and thermal insulating effectiveness of the residential buildings and commercial buildings in cold climate regions such as New England and Boston. In the past time, the price of thermal insulation materials that displayed high insulated performance was very expensive. With the development of material industry and the booming of science technologies, more and more insulation materials and insulated technologies have emerged during the 20th century, which gives us various options for building insulation. Especially in the cold climate areas, a large amount of thermal insulation is needed to deal with the heat losses caused by cold weather (infiltration, ventilation, and radiation). There are two technologies that are worth discussing:
+
+
+===== Exterior insulation system (EIFS) based on Vacuum insulation panels (VIP) =====
+
+VIPs are noted for their ultra-high thermal resistance, their ability of thermal resistance is four to eight times more than conventional foam insulation materials which lead to a thinner thickness of thermal insulation to the building shell compared with traditional materials. The VIPs are usually composed of core panels and metallic enclosures. The common materials that used to produce Core panels are fumed and precipitated silica, open-cell polyurethane (PU), and different types of fiberglass. And the core panel is covered by the metallic enclosure to create a vacuum environment, the metallic enclosure can make sure that the core panel is kept in the vacuum environment. Although this material has a high thermal performance, it still maintains a high price in the last twenty years.
+
+
+===== Aerogel exterior and interior wall surface insulation =====
+Aerogel was first discovered by Samuel Stephens Kistle in 1931. It is a kind of gel of which the liquid component of the material is replaced by a gas, thus creating a material that is 99% air. This material has a relatively high R-value of around R-10 per inch which is considerably higher compared with conventional plastic foam insulation materials, due to their designed high porosity. But the difficulties in processing and low productivity limit the development of Aerogels, the cost price of this material still remains at a high level. Only two companies in the United States offer the commercial Aerogel product for wall insulation purposes.
+
+
+===== Aerogels for glazing =====
+The DOE estimates thermal losses nearing 30% through windows, and thermal gains from sunlight leading to unwanted heating. Due to the high R associated with aerogels, their use for glazing applications has become an area of interest explored by many research institutions. Their implementation, however, must not hinder the primary function of windows: transparency. Typically, aerogels have low transmission and appear hazy, even amongst those considered transparent, which is why they have generally been reserved to wall insulation applications. Eldho Abraham, a researcher at the University of Colorado Boulder, recently demonstrated the capabilities of aerogels by designing a silanized cellulose aerogel (SiCellA) which offers near 99% visible transmission in addition to thermal conductivities which effectively reject or retain heat depending on the interior environment, akin to heating/cooling alterations. This is due to the designed 97.5% porosity of the SiCellA: pores are smaller than the wavelength of visible light, leading to transmission; the pores also minimize contact between the cellulose fibers, leading to lower thermal conductivities. The use of cellulose fibers lends itself to sustainability, as this is a naturally derived fiber sourced from wood pulps. This opens the door not only to aerogels, but also more general wood-based materials implementation in an effort to assist sustainable design alternatives with compounding energy saving effects.
+
+
+=== Hot climates ===
+
+
+==== Strategies in hot climate ====
+In hot conditions, the greatest source of heat energy is solar radiation. This can enter buildings directly through windows or it can heat the building shell to a higher temperature than the ambient, increasing the heat transfer through the building envelope. The Solar Heat Gain Co-efficient (SHGC) (a measure of solar heat transmittance) of standard single glazing can be around 78–85%. Solar gain can be reduced by adequate shading from the sun, light coloured roofing, spectrally selective (heat-reflective) paints and coatings and, various types of insulation for the rest of the envelope. Specially coated glazing can reduce SHGC to around 10%. Radiant barriers are highly
+effective for attic spaces in hot climates. In this application, they are much more effective in hot climates than cold climates. For downward heat flow, convection is weak and radiation dominates heat transfer across an air space. Radiant barriers must face an adequate air-gap to be effective.
+If refrigerative air-conditioning is employed in a hot, humid climate, then it is particularly important to seal the building envelope. Dehumidification of humid air infiltration can waste significant energy. On the other hand, some building designs are based on effective cross-ventilation instead of refrigerative air-conditioning to provide convective cooling from prevailing breezes.
+
+
+==== Technologies in hot climate ====
+In hot dry climate regions like Egypt and Africa, thermal comfort in the summer is the main question, nearly half of energy consumption in urban area is depleted by air conditioning systems to satisfy peoples' demand for thermal comfort, many developing countries in hot dry climate region suffer a shortage of electricity in the summer due to the increasing use of cooling machines. A new technology called Cool Roof has been introduced to ameliorate this situation. In the past, architects used thermal mass materials to improve thermal comfort, the heavy thermal insulation could cause the time-lag effect which might slow down the speed of heat transfer during the daytime and keep the indoor temperature in a certain range (Hot and dry climate regions usually have a large temperature difference between the day and night).
+The cool roof is low-cost technology based on solar reflectance and thermal emittance, which uses reflective materials and light colors to reflect the solar radiation. The solar reflectance and the thermal emittance are two key factors that determine the thermal performance of the roof, and they can also improve the effectiveness of the thermal insulation since around 30% solar radiation is reflected back to the sky. The shape of the roof is also under consideration, the curved roof can receive less solar energy compared with conventional shapes. Meanwhile, the drawback of this technology is obvious that the high reflectivity will cause visual discomfort. On the other hand, the high reflectivity and thermal emittance of the roof will increase the heating load of the building.
+
+
+== Orientation – passive solar design ==
+
+Optimal placement of building elements (e.g. windows, doors, heaters) can play a significant role in insulation by considering the impact of solar radiation on the building and the prevailing breezes. Reflective laminates can help reduce passive solar heat in pole barns, garages, and metal buildings.
+
+
+== Construction ==
+See insulated glass and quadruple glazing for discussion of windows.
+
+
+=== Building envelope ===
+The thermal envelope defines the conditioned or living space in a house. The attic or basement may or may not be included in this area. Reducing airflow from inside to outside can help to reduce convective heat transfer significantly.
+Ensuring low convective heat transfer also requires attention to building construction (weatherization) and the correct installation of insulative materials.
+The less natural airflow into a building, the more mechanical ventilation will be required to support human comfort. High humidity can be a significant issue associated with lack of airflow, causing condensation, rotting construction materials, and encouraging microbial growth such as mould and bacteria. Moisture can also drastically reduce the effectiveness of insulation by creating a thermal bridge (see below). Air exchange systems can be actively or passively incorporated to address these problems.
+
+
+=== Thermal bridge ===
+Thermal bridges are points in the building envelope that allow heat conduction to occur. Since heat flows through the path of least resistance, thermal bridges can contribute to poor energy performance. A thermal bridge is created when materials create a continuous path across a temperature difference, in which the heat flow is not interrupted by thermal insulation. Common building materials that are poor insulators include glass and metal.
+A building design may have limited capacity for insulation in some areas of the structure. A common construction design is based on stud walls, in which thermal bridges are common in wood or steel studs and joists, which are typically fastened with metal. Notable areas that most commonly lack sufficient insulation are the corners of buildings, and areas where insulation has been removed or displaced to make room for system infrastructure, such as electrical boxes (outlets and light switches), plumbing, fire alarm equipment, etc.
+Thermal bridges can also be created by uncoordinated construction, for example by closing off parts of external walls before they are fully insulated.
+The existence of inaccessible voids within the wall cavity which are devoid of insulation can be a source of thermal bridging.
+Some forms of insulation transfer heat more readily when wet, and can therefore also form a thermal bridge in this state.
+The heat conduction can be minimized by any of the following: reducing the cross sectional area of the bridges, increasing the bridge length, or decreasing the number of thermal bridges.
+One method of reducing thermal bridge effects is the installation of an insulation board (e.g. foam board EPS XPS, wood fibre board, etc.) over the exterior outside wall. Another method is using insulated lumber framing for a thermal break inside the wall.
+
+
+=== Installation ===
+
+Insulating buildings during construction is much easier than retrofitting, as generally the insulation is hidden, and parts of the building need to be deconstructed to reach them.
+Depending on the country there are different regulations as to which type of insulation is the best alternative for buildings, considering energy efficiency and environmental factors. Geographical location also affects the type of insulation needed as colder climates will need a bigger investment than warmer ones on installation costs.
+
+
+== Materials ==
+
+There are essentially two types of building insulation - bulk insulation and reflective insulation. Most buildings use a combination of both types to make up a total building insulation system. The type of insulation used is matched to create maximum resistance to each of the three forms of building heat transfer - conduction, convection, and radiation.
+
+
+=== The classification of thermal insulation materials ===
+According to three ways of heat exchange, most thermal insulation we use in our buildings can be divided into two categories: Conductive and convective insulators and radiant heat barriers. And there are more detailed classifications to distinguish between different materials. Many thermal insulation materials work by creating tiny air cavities between molecules, these air cavities can largely reduce the heat exchange through the materials. But there are two exceptions which don't use air cavities as their functional element to prevent heat transfer. One is reflective thermal insulation, which creates a great airspace by forming a radiation barrier by attaching metal foil on one side or both sides, this thermal insulation mainly reduces the radiation heat transfer. Although the polished metal foil attached on the materials can only prevent the radiation heat transfer, its effect to stop heat transfer can be dramatic. Another thermal insulation that doesn't apply air cavities is vacuum insulation, the vacuum-insulated panels can stop all kinds of convection and conduction and it can also largely mitigate the radiation heat transfer. But the effectiveness of vacuum insulation is also limited by the edge of the material, since the edge of the vacuum panel can form a thermal bridge which leads to a reduction of the effectiveness of the vacuum insulation. The effectiveness of the vacuum insulation is also related to the area of the vacuum panels.
+
+
+=== Conductive and convective insulators ===
+Bulk insulators block conductive heat transfer and convective flow either into or out of a building. Air is a very poor conductor of heat and therefore makes a good insulator. Insulation to resist conductive heat transfer uses air spaces between fibers, inside foam or plastic bubbles and in building cavities like the attic. This is beneficial in an actively cooled or heated building, but can be a liability in a passively cooled building; adequate provisions for cooling by ventilation or radiation are needed.
+
+
+==== Fibrous insulation materials ====
+Fibrous materials are made by tiny diameter fibers which evenly distribute the airspace. The commonly used materials are silica, glass, rock wool, and slag wool. Glass fiber and mineral wool are two insulation materials that are most widely used in this type.
+
+
+==== Cellular insulation materials ====
+Cellular insulation is composed of small cells which are separated from each other. The commonly cellular materials are glass and foamed plastic like polystyrene, polyolefin, and polyurethane.
+
+
+=== Radiant heat barriers ===
+
+Radiant barriers work in conjunction with an air space to reduce radiant heat transfer across the air space. Radiant or reflective insulation reflects heat instead of either absorbing it or letting it pass through. Radiant barriers are often seen used in reducing downward heat flow, because upward heat flow tends to be dominated by convection. This means that for attics, ceilings, and roofs, they are most effective in hot climates.
+They also have a role in reducing heat losses in cool climates. However, much greater insulation can be achieved through the addition of bulk insulators (see above).
+Some radiant barriers are spectrally selective and will preferentially reduce the flow of infra-red radiation in comparison to other wavelengths. For instance, low-emissivity (low-e) windows will transmit light and short-wave infra-red energy into a building but reflect the long-wave infra-red radiation generated by interior furnishings. Similarly, special heat-reflective paints are able to reflect more heat than visible light, or vice versa.
+Thermal emissivity values probably best reflect the effectiveness of radiant barriers. Some manufacturers quote an 'equivalent' R-value for these products but these figures can be difficult to interpret, or even misleading, since R-value testing measures total heat loss in a laboratory setting and does not control the type of heat loss responsible for the net result (radiation, conduction, convection).
+A film of dirt or moisture can alter the emissivity and hence the performance of radiant barriers.
+
+
+=== Eco-friendly insulation ===
+Eco-friendly insulation is a term used for insulating products with limited environmental impact. The commonly accepted approach to determine whether or not an insulation product, or in fact any product or service is eco-friendly is by doing a life-cycle assessment (LCA). A number of studies compared the environmental impact of insulation materials in their application. The comparison shows that most important is the insulation value of the product meeting the technical requirements for the application. Only in a second order step, a differentiation between materials becomes relevant. The report commissioned by the Belgian government to VITO is a good example of such a study.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+
+Tips for Selecting Roof Insulation
+"Resources on the History of Insulation". solarhousehistory.com. 27 September 2023.
+Best Practice Guide Air Sealing & Insulation Retrofits for Single Family Homes
+insulate surfaces from water, heat and moisture

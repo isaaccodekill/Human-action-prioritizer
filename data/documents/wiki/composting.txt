@@ -1,0 +1,203 @@
+# Composting
+Source: https://en.wikipedia.org/wiki/Compost
+
+Compost is a mixture of ingredients used as plant fertilizer and to improve soil's physical, chemical, and biological properties. It is commonly prepared by decomposing plant and food waste, recycling organic materials, and manure. The resulting mixture is rich in plant nutrients and beneficial organisms, such as bacteria, protozoa, nematodes, and fungi. Compost improves soil fertility in gardens, landscaping, horticulture, urban agriculture, and organic farming, reducing dependency on commercial chemical fertilizers. The benefits of compost include providing nutrients to crops as fertilizer, acting as a soil conditioner, increasing the humus or humic acid contents of the soil, and introducing beneficial microbes that help to suppress pathogens in the soil and reduce soil-borne diseases.
+At the simplest level, composting requires gathering a mix of green waste (nitrogen-rich materials such as leaves, grass, and food scraps) and brown waste (woody materials rich in carbon, such as stalks, paper, and wood chips). The materials break down into humus in a process taking months. Composting can be a multistep, closely monitored process with measured inputs of water, air, and carbon- and nitrogen-rich materials. The decomposition process is aided by shredding the plant matter, adding water, and ensuring proper aeration by regularly turning the mixture in a process using open piles or windrows. Fungi, earthworms, and other detritivores further break up the organic material. Aerobic bacteria and fungi manage the chemical process by converting the inputs into heat, carbon dioxide, and ammonium ions.
+
+Composting is an important part of waste management, since food and other compostable materials make up about 20% of waste in landfills, and due to anaerobic conditions, these materials take longer to biodegrade in the landfill. Composting offers an environmentally superior alternative to using organic material for landfill because composting reduces methane emissions due to anaerobic conditions, and provides economic and environmental co-benefits. For example, compost can also be used for land and stream reclamation, wetland construction, and landfill cover.
+
+
+== Fundamentals ==
+
+Composting is an aerobic method of decomposing organic solid wastes, so it can be used to recycle organic material. The process involves decomposing organic material into a humus-like material, known as compost, which is a good fertilizer for plants.
+Composting organisms require four equally important ingredients to work effectively:
+
+Carbon is needed for energy; the microbial oxidation of carbon produces the heat required for other parts of the composting process. High carbon materials tend to be brown and dry.
+Nitrogen is needed to grow and reproduce more organisms to oxidize the carbon. High nitrogen materials tend to be green and wet. They can also include colourful fruits and vegetables.
+Oxygen is required for oxidizing the carbon, the decomposition process. Aerobic bacteria need oxygen levels above 5% to perform the processes needed for composting.
+Water is necessary in the right amounts to maintain activity without causing locally anaerobic conditions.
+Certain ratios of these materials allow microorganisms to work at a rate that will heat up the compost pile. Active management of the pile (e.g., turning over the compost heap) is needed to maintain sufficient oxygen and the right moisture level. The air/water balance is critical to maintaining high temperatures 130–160 °F (54–71 °C) until the materials are broken down.
+Composting is most efficient with a carbon-to-nitrogen ratio of about 25:1. Hot composting focuses on retaining heat to increase the decomposition rate, thus producing compost more quickly. Rapid composting is favored by having a carbon-to-nitrogen ratio of about 30 carbon units or less. Above 30, the substrate is nitrogen starved. Below 15, it is likely to outgas a portion of nitrogen as ammonia.
+Nearly all dead plant and animal materials have both carbon and nitrogen in different amounts. Fresh grass clippings have an average ratio of about 15:1 and dry autumn leaves about 50:1 depending upon species. Composting is an ongoing and dynamic process; adding new sources of carbon and nitrogen consistently, as well as active management, is important.
+
+
+=== Organisms ===
+Organisms can break down organic matter in compost if provided with the correct mixture of water, oxygen, carbon, and nitrogen. They fall into two broad categories: chemical decomposers, which perform chemical processes on the organic waste, and physical decomposers, which process the waste into smaller pieces through methods such as grinding, tearing, chewing, and digesting.
+
+
+==== Chemical decomposers ====
+Bacteria are the most abundant and important of all the microorganisms found in compost. Bacteria process carbon and nitrogen and excrete plant-available nutrients such as nitrogen, phosphorus, and magnesium. Depending on the phase of composting, mesophilic or thermophilic bacteria may be the most prominent.
+Mesophilic bacteria get compost to the thermophilic stage through oxidation of organic material. Afterwards they cure it, which makes the fresh compost more bioavailable for plants.
+Thermophilic bacteria do not reproduce and are not active between −5 and 25 °C (23 and 77 °F), yet are found throughout soil. They activate once the mesophilic bacteria have begun to break down organic matter and increase the temperature to their optimal range. They have been shown to enter soils via rainwater. They are present so broadly because of many factors, including their spores being resilient. Thermophilic bacteria thrive at higher temperatures, reaching 40–60 °C (104–140 °F) in typical mixes. Large-scale composting operations, such as windrow composting, may exceed this temperature, potentially killing beneficial soil microorganisms but also pasteurizing the waste.
+Actinomycetota are needed to break down paper products such as newspaper, bark, etc., and other large molecules such as lignin and cellulose that are more difficult to decompose. The "pleasant, earthy smell of compost" is attributed to Actinomycetota. They make carbon, ammonia, and nitrogen nutrients available to plants.
+Fungi such as molds and yeasts help break down materials that bacteria cannot, especially cellulose and lignin in woody material.
+Protozoa contribute to biodegradation of organic matter and consume inactive bacteria, fungi, and micro-organic particulates.
+
+
+==== Physical decomposers ====
+Ants create nests, making the soil more porous and transporting nutrients to different areas of the compost.
+Beetles such as grubs feed on decaying vegetables.
+Earthworms ingest partly composted material and excrete worm castings, making nitrogen, calcium, phosphorus, and magnesium available to plants. The tunnels they create as they move through the compost also increase aeration and drainage.
+Flies feed on almost all organic material and put bacteria into the compost. Their population is kept in check by mites and the thermophilic temperatures that are unsuitable for fly larvae.
+Millipedes break down plant material.
+Rotifers feed on plant particles.
+Snails and slugs feed on living or fresh plant material. They should be removed from compost before use, as they can damage plants and crops.
+Sow bugs feed on rotting wood and decaying vegetation.
+Springtails feed on fungi, molds, and decomposing plants.
+
+
+=== Phases of composting ===
+
+Under ideal conditions, composting proceeds through three major phases: 
+
+Mesophilic phase: The initial, mesophilic phase is when the decomposition is carried out under moderate temperatures by mesophilic microorganisms. 2 to 8 days
+Thermophilic phase: As the temperature rises, a second, thermophilic phase starts, in which various thermophilic bacteria carry out the decomposition under higher temperatures (50 to 60 °C (122 to 140 °F).)
+Cooling phase (also called Mesophilic II)
+Maturation phase: As the supply of high-energy compounds dwindles, the temperature starts to decrease.
+Semicomposting is the degradation process that handles volumes of organic waste lower than that recommended for composting and therefore does not present a thermophilic stage, because mesophilic microorganisms are the only responsible ones, for the degradation of organic matter.
+
+
+=== Hot and cold composting – impact on timing ===
+The time required to compost material relates to the volume of material, the particle size of the inputs (e.g. wood chips break down faster than branches), and the amount of mixing and aeration. Generally, larger piles reach higher temperatures and remain in a thermophilic stage for days or weeks. This is hot composting and is the usual method for large-scale municipal facilities and agricultural operations.
+The Berkeley method produces finished compost in 18 days. It requires assembly of at least 1 cubic metre (35 cu ft) of material at the outset and needs turning every two days after an initial four-day phase. Such short processes involve some changes to traditional methods, including smaller, more homogenized particle sizes in the input materials, controlling carbon-to-nitrogen ratio (C:N) at 30:1 or less, and careful monitoring of the moisture level.
+Cold composting is a slower process that can take up to a year to complete. It results from smaller piles, including many residential compost piles that receive small amounts of kitchen and garden waste over extended periods. Piles smaller than 1 cubic metre (35 cu ft) tend not to reach and maintain high temperatures. Turning is not necessary with cold composting, although a risk exists that parts of the pile may go anaerobic as it becomes compacted or waterlogged.
+
+
+=== Pathogen removal ===
+Composting can destroy some pathogens and seeds, by reaching temperatures above 50 °C (122 °F). 
+Dealing with stabilized compost – i.e. composted material in which microorganisms have finished digesting the organic matter and the temperature has reached between 50 and 70 °C (122 and 158 °F) – poses very little risk, as these temperatures kill pathogens and even make oocysts unviable. The temperature at which a pathogen dies depends on the pathogen, how long the temperature is maintained (seconds to weeks), and pH.
+Compost products such as compost tea and compost extracts have been found to have an inhibitory effect on Fusarium oxysporum, Rhizoctonia species, and Pythium debaryanum, plant pathogens that can cause crop diseases. Aerated compost teas are more effective than compost extracts. The microbiota and enzymes present in compost extracts also have a suppressive effect on fungal plant pathogens. Compost is a good source of biocontrol agents like B. subtilis, B. licheniformis, and P. chrysogenum that fight plant pathogens. Sterilizing the compost, compost tea, or compost extracts reduces the effect of pathogen suppression.
+
+
+=== Diseases that can be contracted from handling compost ===
+When turning compost that has not gone through phases where temperatures above 50 °C (122 °F) are reached, a mouth mask and gloves must be worn to protect from diseases that can be contracted from handling compost, including:
+
+Aspergillosis
+Farmer's lung
+Histoplasmosis – a fungus that grows in guano and bird droppings
+Legionnaires' disease
+Paronychia – via infection around the fingernails and toenails
+Tetanus – a central nervous system disease
+Oocytes are rendered unviable by temperatures over 50 °C (122 °F).
+
+
+== Environmental benefits ==
+Compost adds organic matter to the soil and increases the nutrient content and biodiversity of microbes in soil. Composting at home reduces the amount of green waste being hauled to dumps or composting facilities. The reduced volume of materials being picked up by trucks results in fewer trips, which in turn lowers the overall emissions from the waste-management fleet.
+
+
+== Materials that can be composted ==
+Potential sources of compostable materials, or feedstocks, include residential, agricultural, and commercial waste streams. Residential food or yard waste can be composted at home, or collected for inclusion in a large-scale municipal composting facility. In some regions, it could also be included in a local or neighborhood composting project.
+
+
+=== Organic solid waste ===
+
+The two broad categories of organic solid waste are green and brown.  Green waste is generally considered a source of nitrogen and includes pre- and post-consumer food waste, grass clippings, garden trimmings, and fresh leaves. Animal carcasses, roadkill, and butcher residue can also be composted, and these are considered nitrogen sources.
+Brown waste is a carbon source. Typical examples are dried vegetation and woody material such as fallen leaves, straw, woodchips, limbs, logs, pine needles, sawdust, and wood ash, but not charcoal ash.  Products derived from wood such as paper and plain cardboard are also considered carbon sources.
+
+
+=== Animal manure and bedding ===
+On many farms, the basic composting ingredients are animal manure generated on the farm as a nitrogen source, and bedding as the carbon source. Straw and sawdust are common bedding materials. Nontraditional bedding materials are also used, including newspaper and chopped cardboard. The amount of manure composted on a livestock farm is often determined by cleaning schedules, land availability, and weather conditions. Each type of manure has its own physical, chemical, and biological characteristics. Cattle and horse manures, when mixed with bedding, possess good qualities for composting. Swine manure, which is very wet and usually not mixed with bedding material, must be mixed with straw or similar raw materials. Poultry manure must be blended with high-carbon, low-nitrogen materials.
+
+
+=== Human excreta ===
+
+Human excreta, sometimes called "humanure" in the composting context, can be added as an input to the composting process since it is a nutrient-rich organic material. Nitrogen, which serves as a building block for important plant amino acids, is found in solid human waste. Phosphorus, which helps plants convert sunlight into energy in the form of ATP, can be found in liquid human waste.
+Solid human waste can be collected directly in composting toilets, or indirectly in the form of sewage sludge after it has undergone treatment in a sewage treatment plant. Both processes require capable design, as potential health risks need to be managed. In the case of home composting, a wide range of microorganisms, including bacteria, viruses, and parasitic worms, can be present in feces, and improper processing can pose significant health risks.  In the case of large sewage treatment facilities that collect wastewater from a range of residential, commercial and industrial sources, there are additional considerations. The composted sewage sludge, referred to as biosolids, can be contaminated with a variety of metals and pharmaceutical compounds. Insufficient processing of biosolids can also lead to problems when the material is applied to land.
+Urine can be put on compost piles or directly used as fertilizer. Adding urine to compost can increase temperatures, so can increase its ability to destroy pathogens and unwanted seeds. Unlike feces, urine does not attract disease-spreading flies (such as houseflies or blowflies), and it does not contain the most hardy of pathogens, such as parasitic worm eggs.
+
+
+=== Animal remains ===
+Animal carcasses may be composted as a disposal option. Such material is rich in nitrogen.
+
+
+=== Human bodies ===
+
+
+== Composting technologies ==
+
+
+=== Industrial-scale composting ===
+
+
+==== In-vessel composting ====
+
+
+==== Aerated static-pile composting ====
+
+
+==== Windrow composting ====
+
+
+=== Other systems at household level ===
+
+
+==== Hügelkultur (raised garden beds or mounds) ====
+
+The practice of making raised garden beds or mounds filled with rotting wood is also called Hügelkultur in German. It is in effect creating a nurse log that is covered with soil.
+Benefits of Hügelkultur garden beds include water retention and warming of soil. Buried wood acts like a sponge as it decomposes, able to capture water and store it for later use by crops planted on top of the bed.
+
+
+==== Composting toilets ====
+
+
+=== Related technologies ===
+Vermicompost (also called worm castings, worm humus, worm manure, or worm faeces) is the end product of the breakdown of organic matter by earthworms. These castings have been shown to contain reduced levels of contaminants and a higher saturation of nutrients than the organic materials before vermicomposting.
+Black soldier fly (Hermetia illucens) larvae are able to rapidly consume large amounts of organic material and can be used to treat human waste. The resulting compost still contains nutrients and can be used for biogas production, or further traditional composting or vermicomposting
+Bokashi is a fermentation process rather than a decomposition process, and so retains the feedstock's energy, nutrient and carbon contents. There must be sufficient carbohydrate for fermentation to complete and therefore the process is typically applied to food waste, including noncompostable items. Carbohydrate is transformed into lactic acid, which dissociates naturally to form lactate, a biological energy carrier. The preserved result is therefore readily consumed by soil microbes and from there by the entire soil food web, leading to a significant increase in soil organic carbon and turbation. The process completes in weeks and returns soil acidity to normal.
+Co-composting is a technique that processes organic solid waste together with other input materials such as dewatered fecal sludge or sewage sludge.
+Anaerobic digestion combined with mechanical sorting of mixed waste streams is increasingly being used in developed countries due to regulations controlling the amount of organic matter allowed in landfills. Treating biodegradable waste before it enters a landfill reduces global warming from fugitive methane; untreated waste breaks down anaerobically in a landfill, producing landfill gas that contains methane, a potent greenhouse gas. The methane produced in an anaerobic digester can be used as biogas.
+Small-scale and organic farms can also produce aerobic compost piles for crop bed preparation using a "turned pile" technique in which piles are formed with the appropriate ratios of nitrous, carbonous, and neutral materials, checked with a temperature gauge, and turned by-hand at weekly intervals.
+
+
+== Uses ==
+
+
+=== Agriculture and gardening ===
+
+On open ground for growing wheat, corn, soybeans, and similar crops, compost can be broadcast across the top of the soil using spreader trucks or spreaders pulled behind a tractor. It is expected that the spread layer is very thin (approximately 6 mm (0.24 in)) and worked into the soil prior to planting. Application rates of 25 mm (0.98 in) or more are not unusual when trying to rebuild poor soils or control erosion. In countries such as Germany, where compost distribution and spreading are partially subsidized in the original waste fees, compost is used more frequently on open ground on the premise of nutrient "sustainability".
+In plasticulture, strawberries, tomatoes, peppers, melons, and other fruits and vegetables are grown under plastic to control temperature, retain moisture and control weeds. Compost may be banded (applied in strips along rows) and worked into the soil prior to bedding and planting, be applied at the same time the beds are constructed and plastic laid down, or used as a top dressing.
+Many crops are not seeded directly in the field but are started in seed trays in a greenhouse. When the seedlings reach a certain stage of growth, they are transplanted in the field. Compost may be part of the mix used to grow the seedlings, but is not normally used as the only planting substrate. The particular crop and the seeds' sensitivity to nutrients, salts, etc. dictates the ratio of the blend, and maturity is important to insure that oxygen deprivation will not occur or that no lingering phyto-toxins remain.
+Compost can be added to soil, coir, or peat, as a tilth improver, supplying humus and nutrients. It provides a rich growing medium as absorbent material. This material contains moisture and soluble minerals, which provide support and nutrients. Although it is rarely used alone, plants can flourish from mixed soil that includes a mix of compost with other additives such as sand, grit, bark chips, vermiculite, perlite, or clay granules to produce loam. Compost can be tilled directly into the soil or growing medium to boost the level of organic matter and the overall fertility of the soil. Compost that is ready to be used as an additive is dark brown or even black with an earthy smell.
+Generally, direct seeding into a compost is not recommended due to the speed with which it may dry, the possible presence of phytotoxins in immature compost that may inhibit germination, and the possible tie up of nitrogen by incompletely decomposed lignin. It is very common to see blends of 20–30% compost used for transplanting seedlings.
+Compost can be used to increase plant immunity to diseases and pests.
+
+
+==== Compost tea ====
+Compost tea is made up of extracts of fermented water leached from composted materials. Composts can be either aerated or non-aerated depending on its fermentation process. Compost teas are generally produced from adding compost to water in a ratio of 1:4–1:10, occasionally stirring to release microbes.
+There is debate about the benefits of aerating the mixture. Non-aerated compost tea is cheaper and less labor-intensive, but there are conflicting studies regarding the risks of phytotoxicity and human pathogen regrowth. Aerated compost tea brews faster and generates more microbes, but has potential for human pathogen regrowth, particularly when one adds additional nutrients to the mixture.
+Field studies have shown the benefits of adding compost teas to crops due to organic matter input, increased nutrient availability, and increased microbial activity. They have also been shown to have a suppressive effect on plant pathogens and soil-borne diseases. The efficacy is influenced by a number of factors, such as the preparation process, the type of source  the conditions of the brewing process, and the environment of the crops. Adding nutrients to compost tea can be beneficial for disease suppression, although it can trigger the regrowth of human pathogens like E. coli and Salmonella.
+
+
+==== Compost extract ====
+Compost extracts are unfermented or non-brewed extracts of leached compost contents dissolved in any solvent.
+
+
+==== Commercial sale ====
+Compost is sold as bagged potting mixes in garden centers and other outlets. This may include composted materials such as manure and peat but is also likely to contain loam, fertilizers, sand, grit, etc. Varieties include multi-purpose composts designed for most aspects of planting, John Innes formulations, grow bags, designed to have crops such as tomatoes directly planted into them. There are also a range of specialist composts available, e.g. for vegetables, orchids, houseplants, hanging baskets, roses, ericaceous plants, seedlings, potting on, etc.
+
+
+=== Other ===
+Compost can also be used for land and stream reclamation, wetland construction, and landfill cover.
+The temperatures generated by compost can be used to heat greenhouses, such as by being placed around the outside edges.
+
+
+== Regulations ==
+
+There are process and product guidelines in Europe that date to the early 1980s (Germany, the Netherlands, Switzerland) and only more recently in the UK and the US. In both these countries, private trade associations within the industry have established loose standards, some say as a stop-gap measure to discourage independent government agencies from establishing tougher consumer-friendly standards. Compost is regulated in Canada and Australia as well.
+EPA Class A and B guidelines in the United States were developed solely to manage the processing and beneficial reuse of sludge, also now called biosolids, following the US EPA ban of ocean dumping.  About 26 American states now require composts to be processed according to these federal protocols for pathogen and vector control, even though the application to non-sludge materials has not been scientifically tested. An example is that green waste composts are used at much higher rates than sludge composts were ever anticipated to be applied at. U.K guidelines also exist regarding compost quality, as well as Canadian, Australian, and the various European states.
+In the United States, some compost manufacturers participate in a testing program offered by a private lobbying organization called the U.S. Composting Council. The USCC was originally established in 1991 by Procter & Gamble to promote composting of disposable diapers, following state mandates to ban diapers in landfills, which caused a national uproar. Ultimately the idea of composting diapers was abandoned, partly since it was not proven scientifically to be possible, and mostly because the concept was a marketing stunt in the first place. After this, composting emphasis shifted back to recycling organic wastes previously destined for landfills. There are no bonafide quality standards in America, but the USCC sells a seal called  "Seal of Testing Assurance" (also called "STA"). For a considerable fee, the applicant may display the USCC logo on products, agreeing to volunteer to customers a current laboratory analysis that includes parameters such as nutrients, respiration rate, salt content,  pH, and limited other indicators.
+Many countries such as Wales and some individual cities such as Seattle and San Francisco require food and yard waste to be sorted for composting (San Francisco Mandatory Recycling and Composting Ordinance).
+The USA is the only Western country that does not distinguish sludge-source compost from green-composts, and by default 50% of US states expect composts to comply in some manner with the federal EPA 503 rule promulgated in 1984 for sludge products.
+There are health risk concerns about PFASs ("forever chemicals") levels in compost derived from sewage sledge sourced biosolids, and EPA has not set health risk standards for this.  The Sierra Club recommends that home gardeners avoid the use of sewage sludge-base fertilizer and compost, in part due to potentially high levels of PFASs.  The EPA PFAS Strategic Roadmap initiative, running from 2021 to 2024, will consider the full lifecycle of PFAS including health risks of PFAS in wastewater sludge.
+
+
+== History ==
+
+Composting dates back to at least the early Roman Empire and was mentioned as early as Cato the Elder's 160 BCE piece De Agri Cultura. Traditionally, composting involved piling organic materials until the next planting season, at which time the materials would have decayed enough to be ready for use in the soil. Methodologies for organic composting were part of traditional agricultural systems around the world.
+Composting began to modernize somewhat in the 1920s in Europe as a tool for organic farming. The first industrial station for the transformation of urban organic materials into compost was set up in Wels, Austria, in the year 1921. Early proponents of composting in farming include Rudolf Steiner, founder of a farming method called biodynamics, and Annie Francé-Harrar, who was appointed on behalf of the government in Mexico and supported the country in 1950–1958 to set up a large humus organization in the fight against erosion and soil degradation. Sir Albert Howard, who worked extensively in India on sustainable practices, and Lady Eve Balfour were also major proponents of composting. Modern scientific composting was imported to America by the likes of J. I. Rodale – founder of Rodale, Inc. Organic Gardening, and others involved in the organic farming movement.
+
+
+== See also ==
+
+
+== References ==

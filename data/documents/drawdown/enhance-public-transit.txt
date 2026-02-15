@@ -1,0 +1,689 @@
+# Enhance Public Transit
+Source: https://drawdown.org/explorer/enhance-public-transit
+
+Methods and Supporting Data
+
+
+## Enhance Public Transit
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+We define the Enhance Public Transit solution as increasing the use of any form of passenger transportation that uses publicly availablevehicles(e.g., buses, streetcars, subways, commuter trains, and ferries) operating along fixed routes. It does not include increasing the use of publicly available forms of transportation without fixed routes, such as taxis, except when these transport options supplement a larger public transit system (for example, to help passengers with disabilities). It also does not include increasing the use of vehicles traveling over long distances, such as intercity trains, intercity buses, or aircraft. The cost per climate unit is the cost to the transit provider, not the passenger.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+million passenger kilometers (million pkm)
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Public transit vehicles are far more fuel-efficient – and thus lessGHG-intensive – on a per-pkmbasis thanfossil fuel–poweredcars. Diesel-powered buses emit fewer GHGs/pkm than cars because of their much higher occupancy. Electric buses further reduce GHG emissions (Bloomberg New Energy Finance, 2018), as do forms of public transit that already run on electricity. Finally, a fleet of large, centralized public transit vehicles operating along fixed routes is usually easier to electrify than a fleet of fossil fuel–powered cars.
+
+Enhancing public transit to reduce emissions from transportation relies on two processes. First is increasing themodal shareof existing public transit networks by encouraging people to travel by public transit rather than car. This requires building new public transit capacity while also overcoming political, sociocultural, economic, and technical hurdles. Second is improving the emissions performance of public transit networks through electrification and efficiency improvements. We accommodate the latter in this solution by assuming that all shifted trips to buses are electric buses.
+
+These two processes are linked in complex ways. For example, construction of the new public transit networks needed to accommodate additional demand creates an opportunity to install low-carbon vehicles and infrastructures, and bringing additional passengers onto an underused public transit network generates close to zero additional GHG emissions. However, since these complexities are difficult to calculate, we assume that all increases in public transit ridership are supported by a linear increase in capacity.
+
+Buses, trains, streetcars, subways, and other public-transit vehicles predate cars. During the 19th century, most cities developed complex and efficient networks of streetcars and rail that carried large numbers of passengers (Norton, 2011; Schrag, 2000). As a result, it’s clear that a good public transit network can provide for the basic mobility needs of most people, and can therefore substitute for most – if not all – transportation that fossil fuel–powered cars currently provide. Today, public transit networks worldwide already collectively deliver trillions of pkm, not only in big cities but also in small towns and rural areas.
+
+We identified several different types of public transit:
+
+Low-capacity vehicles running on rubber tires on roads. Buses in the baseline are a mix of diesel and electric. For the purposes of this solution, we assume that all buses serving shifted trips are electric.
+
+Mid-capacity vehicles running on steel rails that for at least part of their routes run on roads with traffic, rather than in a dedicated rail corridor or tunnel.
+
+
+## Metros, subways, or light rail
+
+
+High-capacity urban train systems using their own dedicated right-of-way that may or may not be underground.
+
+Large trains running mostly on the surface designed to bring large numbers of commuters from the suburbs into the core of a city that often overlap with regional or intercity rail.
+
+Ferries, cable cars, funiculars, and other forms of public transit that generally play a marginal role.
+
+We assessed all modes together rather than individually because public transit relies on the interactions among different vehicles to maximize the reach, speed, and efficiency of the system. Public transit reduces emissions ofCO₂,methane, andnitrous oxideto the atmosphere by replacing fuel-powered cars, which emit these gases from their tailpipes. Some diesel-powered buses in regions that have low quality diesel emitblack carbon. The black carbon global annual total emissions from transportation is negligible compared with carbon emissions and is therefore not quantified in our study.
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of how effective this solution is at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine the current adoption of this solution (the slider’s low value), and best judgement to estimate the high end of the range of achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Public transit is most effective in urban areas with high population density, where buses, subways, trams, and commuter rail can efficiently carry large numbers of passengers. Electrified or low-emission transit modes achieve the greatest climate impact, especially in regions with clean electricity grids (Bloomberg New Energy Finance, 2018). However, even diesel-based public transit systems can outperform fossil fuel-powered cars on a per-pkm basis if they have high ridership and operate efficiently.
+
+Socioeconomic and political factors, including investment capacity, institutional coordination, and public perceptions of reliability, safety, and comfort, highly influence the adoption andeffectivenessof public transit. Regions with well-funded public infrastructure, integrated fare systems, and strong governance tend to have the highest adoption and climate benefits. Conversely, underinvestment, informal transit dominance, or poorly maintained systems can undermine public transit’s potential (Börjesson et al., 2020; Mees, 2010).
+
+High public transit adoption is seen in Western and Northern Europe, Post-Soviet countries, East Asia (including Japan, South Korea, and China), and some Latin American cities, like Bogotá and Santiago. In contrast, many developing regions face barriers to public transit expansion, such as inadequate funding, urban sprawl, or a reliance on informal minibus systems. However, these same areas offer some of the highest potential for impact. Rapid urbanization, growing demand for mobility, and severe air quality challenges create strong incentives to expand and modernize transit networks.
+
+
+## Primary mode of transport
+
+
+Mapping the primary mode of transportation reveals mobility patterns and opportunities to shift travel toward lower-emitting modes.
+
+Prieto-Curiel, R. and Ospina, Juan P. (2024).The ABC of mobility[Data set]. Environmental International,Link to source:https://doi.org/10.1016/j.envint.2024.108541. Retrieved May 9, 2025 fromLink to source:https://github.com/rafaelprietocuriel/ModalShare
+
+
+## Primary mode of transport
+
+
+Mapping the primary mode of transportation reveals mobility patterns and opportunities to shift travel toward lower-emitting modes.
+
+Prieto-Curiel, R. and Ospina, Juan P. (2024).The ABC of mobility[Data set]. Environmental International,Link to source:https://doi.org/10.1016/j.envint.2024.108541. Retrieved May 9, 2025 fromLink to source:https://github.com/rafaelprietocuriel/ModalShare
+
+Our calculations suggest that an efficiently designed public transit system using the best available vehicle technologies (especially battery-electric buses) would save 58tCO₂‑eq/million pkm (0.000058 t CO₂‑eq
+/pkm) on a100-yr basiscompared with fossil fuel–powered cars, in line with the estimates by other large transportation focused organizations (International Transport Forum, 2020; US Department of Transportation, 2010). This number is highly sensitive to public transit vehicle occupancy, which we estimated using the most recent available data (American Public Transit Association, 2021). Increasing the number of trips taken via public transit would likely increase occupancy, although ideally not to the point of passenger discomfort. This elevated ridership would significantly reduce public transit’s pkm emissions.
+
+To arrive at this figure, we first estimated the emissions of fossil fuel–powered cars as 115 t CO₂‑eq
+/million pkm (0.000115 t/pkm, 100-yrbasis). We then separately calculated the emissions of commuter rail, metros and subways, trams and light rail systems, and electric buses. We used data on the modal share of different vehicles within public transit systems around the world (although much of the available data are biased towards systems in the United States and Europe) to determine what each transit system’s emissions would be per million pkm given our per-million-pkm values for different transit vehicles (UITP, 2024). The median of these city-level values is 58 t CO₂‑eq
+/pkm (0.000058 t/pkm, 100-yr basis). Subtracting this value from the per-pkm emissions for cars gives us the public transit GHG savings figure cited above. Note that none of these values includesembodied emissions(such as emissions from producing cars, buses, trains, roads, etc.), or upstream emissions (such as those from oil refineries).
+
+Pessimistic assumptions regarding the emissions and occupancy of public transit vehicles, and optimistic assumptions about emissions from cars, can suggest a much more marginal climate benefit from public transit (see the 25th percentile row in Table 1). In most cases, however, well-managed public transit is likely to produce a meaningful climate benefit. Such an outcome will depend on increasing the average occupancy of vehicles, which faces a challenge because transit has seen declining occupancies since the COVID-19 pandemic (Qi et al., 2023). For this reason, encouraging additional use of public transit networks without expanding these networks can have an outsized impact because it will allow the substitution of fossil fuel–powered car trips by trips on public transit vehicles for which emissions would not change meaningfully as a result of adding passengers.
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit: t CO₂‑eq/million pkm, 100-yr basis
+
+The extremely large range of values between the 25th and 75th percentile is the result of 1) the large diversity of public transit systems in the world and 2) multiplying multiple layers of uncertainty (e.g., varying estimates for occupancy, energy consumption per vehicle kilometer (vkm), percent of pkm reliant on buses vs. trains).
+
+Under present-day public transit costs and revenues, it costs the transit provider US$0.23 to transport a single passenger one kilometer. In comparison, travel by car costs the consumer US$0.42/pkm. On a per passenger basis, for the transit provider, public transit is almost 50% cheaper than car transportation, costing US$0.20/pkm less. Combined with the emissions reductions from using public transit, this means that the emissions reductions from shifting people out of cars onto public transit has a net negative cost, saving US$3,300/t CO₂‑eqmitigated(Table 2).
+
+This figure includes all relevant direct costs for travel by public transit and by car, including the costs of infrastructure, operations, vehicle purchase, and fuel. It does not include external costs, such as medical costs resulting from car crashes. Capital costs (i.e., the large fixed costs of building public transit infrastructure) are accounted for via the annualized capital costs listed in public transit agencies’ financial reports.
+
+A very large proportion of the total costs of providing public transit is labor (e.g., wages for bus drivers and station attendants). This cost is unlikely to come down as a result of technological innovations (Bloomberg New Energy Finance, 2018).
+
+For an individual passenger, however, the marginal costs of public transit (i.e., the fares they pay) can sometimes be higher than the marginal costs of driving. This is in large part due to many external costs of driving which are borne by society at large (Litman, 2024). However, increasing the public transit availability would likely increase occupancy, which would in turn drive costs down.
+
+Table 2. Cost per unit of climate impact.
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+Transit provider cost, not passenger cost.
+
+Public transit is a largely mature technology with limited opportunities for radical cost-saving innovation. While our research did not find any papers reporting alearning curvein public transit as a whole, battery-electric buses are in fact subject to many of the same experience effects of other battery-electric vehicles. Although there are no studies assessing declines in the cost of electric buses as a whole, there are studies assessing learning curves for their batteries, which is the most costly component. The cost of batteries used in battery-electric buses has declined 19.25% with each doubling of installed capacity (Table 3).
+
+Table 3. Learning rate: drop in cost per doubling of the installed solution base.
+
+This applies only to the cost of batteries in electric buses, not to public transportation as a whole.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Enhance Public Transit is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+In cities around the world surveyed over the last 15 years, public transit has an average modal share of approximately 26.2% of trips. In comparison, fossil fuel–powered cars account for 51.4% of all trips, whilenonmotorized transportationaccounts for 22.4% (Prieto-Curiel & Ospina, 2024). The 26.2% of trips taken via public transit corresponds to approximately 7.2 trillion pkm traveled on public transit in cities every year (Table 4).
+
+We calculated adoption from modal share data (i.e., the percentage of trips in a given city taken via various modes of transportation). We estimated total pkm traveled by assuming a global average daily distance traveled based on travel surveys from the United States as well as several European countries (Christensen & Vázquez, 2013; Department for Transport, 2024; Ecke, 2023; Federal Highway Administration, 2022; Statistics Netherlands, 2024). Most of these data did not account for population, and therefore gave too much weight to small cities and skewed the results. Therefore, we used Prieto-Curiel and Ospina’s (2024) global population-weighted mean modal share of the ITF’s (2021) urban passenger market as our global adoption value.
+
+We assumed that Prieto-Curiel and Ospina’s data refer only to urban modal share. Public transit can be useful in rural areas (Börjesson et al., 2020), but we did not attempt to estimate rural public transit adoption in this assessment.
+
+Table 4. Current (2024) adoption level.
+
+Based on data from Prieto-Curiel and Ospina (2024) and the UITP (2024) for 1,097 cities worldwide, the rate of adoption of public transit has not changed since 2010, with the median annual growth rate equal to 0 (Table 5). This was calculated using all of the cities in Prieto-Curiel and Ospina’s (2024) database for which modal share data exist.
+
+Despite the lack of a global trend in public transit use, some cities, including Amsterdam, Edinburgh, and Leeds, report double-digit growth rates in the use of public transit.
+
+Table 5. 2023–2024 adoption trend.
+
+Public transit could theoretically replace all trips currently undertaken by fossil fuel–powered cars. This would amount to 23 trillion pkm on public transit annually, worldwide (Table 6). This would not be feasible to achieve in practice, as it would require construction of new public transit vehicles and infrastructure on an unfeasibly large scale, and massive changes to living patterns for many people. It would also be much more expensive than we calculated above, because such a change would require extending public transit coverage into areas where it would be highly uneconomic. Public transit is capable of providing a good transportation option in rural areas, but there is a limit to its benefits when population densities are low even by rural standards. Even in cities, this scenario would require a radical redesign of some neighborhoods to prioritize public transit. Such large public transit coverage would also inevitably shift other modes of transportation, such as pedestrian travel and cycling, leading to an even higher pkm total than that suggested by current adoption of fossil fuel–powered cars.
+
+Table 6. Adoption ceiling.
+
+The achievable range of public transit adoption is 12.0 to 17.7 trillion pkm traveled by public transit in cities globally.
+
+To estimate the upper bound of achievable adoption, we assumed that urban trips taken by fossil fuel–powered car (currently 51.4% of trips globally) can be shifted to public transit until public transit increases to 76.6% of trips (the current highest modal share of public transit in any city with a population of more than 1 million) or until car travel decreases to 12.0% of trips (the current lowest modal share of fossil fuel–powered cars in any city with a population of more than 1 million). This equals a shift of 10.9  trillion pkm from fossil fuel–powered car travel to public transit, which, added to present-day public transit trips (6.8 trillion trips/yr), equals 17.7 trillion pkm/yr (Table 7).
+
+To set the lower bound, we performed the same calculation as above, but on a regional basis, adding up all the resultant modal shifts to get a global figure. For example, every northern European city might reach the public transit modal share of London (44.5% of trips), while every South Asian city might reach that of Mumbai (52.0% of trips). Having done that, we then added together the public transit adoption rates from all world regions, apart from three (Polynesia, Micronesia, and Melanesia) for which we did not find any modal share data. This corresponds to a shift of 5.3 trillion pkm/yr from cars to public transit, and a total achievable public transit adoption rate of 12.0 trillion pkm/yr.
+
+Achieving both of these levels of adoption would require not only major investments in expanding public transit networks, but also major changes in how cities are planned so as to allow more areas to be effectively served by transit. These levels of adoption would also require overcoming cultural and political resistance to abandoning cars in favor of public modes. However, unlike the scenario discussed underAdoption Ceiling, these scenarios are feasible, since they are based on real achievements by cities around the world.
+
+Table 7. Range of achievable adoption levels.
+
+If all public transit trips were taken by fossil fuel–powered cars instead of by public transit, they would result in an additional 0.40GtCO₂‑eq/yr
+ of emissions (Table 8).
+
+The global potential climate impact of enhancing public transit, if all car trips were shifted onto public transit systems, is 1.31 Gt. As discussed under Adoption Ceiling, this is an unrealistic scenario.
+
+In a more realistic scenario, if every city in the world shifted car traffic onto public transit until it reached the public transit modal share of Hong Kong (i.e., the high estimate of achievable adoption), it would save 1.03 Gt CO₂‑eq/yr
+ globally. Meanwhile, if every city shifts car trips to public transit until it reaches the car modal share of the region’s least car-dependent city (i.e., the low estimate of achievable adoption), it would save 0.701 Gt CO₂‑eq/yr.
+
+Table 8. Climate impact at different levels of adoption.
+
+Unit:Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Investment in enhancing public transit can also generate substantial economic returns. The APTA estimated that each US$1 billion invested in transit can create 49,700 jobs and yield a five-to-one economic return (APTA, 2020). According to another study, shifting 50% of highway funds to mass transit systems in 20 U.S. metropolises could generate more than 1 million new transit jobs within five years (Swanstrom et al., 2010).
+
+Improved air quality due to enhanced public transit has direct health benefits, such as lowering cardiovascular disease risk, and secondary health benefits, such as increased physical activity (Xiao et al., 2019), fewer traffic-related injuries, lower rates of cancer, and enhanced access to health-care facilities and nutritious food (Gouldson et al., 2018; Health Affairs, 2021).
+
+Limited access to transportation restricts labor participation, particularly for women. Expanding public transit can foster gender equity by improving women’s access to employment opportunities. For example, in Peru expansion of public transit has led to improvements in women’s employment and earnings (Martinez et al., 2020). Similarly, in India, the extension of the light rail system in Delhi has increased women’s willingness to commute for work (Tayal & Mehta, 2021).
+
+Public transit enhances community connectivity by providing accessible transportation options. Expanded mobility allows individuals to reach employment, health-care, education, and recreational sites with greater ease, heightening social inclusion. The social equity benefits of public transit are especially significant for low-income people in terms of time and cost savings and safety and health benefits (Serulle & Cirillo, 2016; Venter et al., 2017).
+
+An indirect benefit of enhanced public transit is its contribution to reducing resource consumption, such as the minerals used in manufacturing personal vehicles. Enhanced public transit can also improve land-use efficiency by curbing urban sprawl, which helps reduce pollution and limit biodiversity loss (Ortiz, 2002).
+
+GHG emissions from transportation are often emitted with other harmful air pollutants. Consequently, reducing fuel consumption by replacing transport by fossil fuel–powered cars with public transit can lead to cleaner air. The scale of this benefit varies by location and is influenced by differences in emission levels between private and public transit travels and the relative demand substitutability between modes (Beaudoin et al., 2015). For U.S. cities, significant investment in public transit could cut pollution around 1.7% on average (Borck, 2019). The benefits are more significant in low- and middle-income countries, where fossil fuel–powered cars are more polluting due to lenient air quality regulations (Goel & Gupta, 2017; Guo & Chen, 2019).
+
+Public transit competes for passengers not just with cars, but also with other transportation modes – some of which have lower emissions on average. If an increase in public transit’s modal share comes at the expense ofnonmotorized transportation(i.e., pedestrian travel or cycling), orelectric bicycles, this will result in a net increase in emissions. Similarly, public transit could generate additional trips that would not have occurred if the public transit network those trips were taken on did not exist. Under this scenario, a net increase in emissions would occur; however, these new trips might bring additional social benefits that would outweigh these new emissions.
+
+Low occupancy could also diminish the climate benefit of enhancing public transit. While it is certainly possible to build effective and efficient public transit networks in suburban and rural areas, there is a risk that such networks could have high per-pkm GHG emissions if they have low average occupancy (Mees, 2010). It is therefore important to efficiently plan public transit networks, ensure vehicles are right-sized and have efficientpowertrains, and promote high levels of ridership even in rural areas to maximize the climate benefit of these kinds of networks.
+
+Upscaling public transit networks – and, crucially, convincing more motorists to use them – is an enduring challenge that faces cultural resistance in some countries, issues with cost, and sometimes a lack of political will. Successfully enhancing public transit will require that these hurdles are overcome.
+
+If expanded service on high-quality public transit systems replaced journeys fromnonmotorized transportationorelectric bicyclesrather than from cars – or if expanded service on high-quality public transit systems generated journeys that would not have otherwise happened – this will have a net-negative climate impact, since public transit has higher per-pkm GHG emissions than electric bicycles or not traveling (International Transport Forum, 2020).
+
+There may be cases where public transit networks cannot be implemented efficiently enough to provide a meaningful benefit compared to fossil fuel–powered cars in terms of GHG emissions. This would occur in places where there are so few potential riders that most trips would have a very low occupancy. The result would be a much higher rate of emissions per pkm. However, effective public transit networks can be built in suburban and even rural areas (Börjesson et al., 2020; Mees, 2010).
+
+Finally, expanding public transit networks has proven very difficult in recent years. Entrenched preferences for car travel, reluctance on the part of governments to invest heavily in new transit infrastructure, and local political challenges over land use, noise, gentrification, and similar issues are all obstacles to increased public transit use. Public transit expansion has faced stronger headwinds in recent years in particular, due to both the impact of the COVID-19 pandemic and competition from new (and mostly less sustainable) mobility services, such as app-basedride-hailing(Shaller, 2017).
+
+Public transit vehicles are sometimes unsafe, particularly for vulnerable groups such as women (Loukaitou-Sideris, 2014). In some circumstances – although this remains controversial – new public transit routes can also lead to gentrification of neighborhoods, forcing people to move far away from city centers and use cars for travel (Padeiro et al., 2019).
+
+Expansion of public transit networks could also have negative consequences in areas directly adjacent to transit infrastructure. Diesel buses create air pollution (Lovasi et al., 2022), and public transit networks of all types can create noise pollution (Hemmat et al., 2023).
+
+For people living without cars, public transit provides a crucial service that is hard to replace for certain kinds of trips, such as trips over long distances, with small children, or carrying large objects. As a result, public transit plays a large role in making it more viable for people to live without owning a car (Brown, 2017). Research suggests that the key to a low-carbon mobility system is to reduce the need for people to own cars altogether (Van Acker & Witlox, 2010).
+
+Improve Nonmotorized Transportation
+
+Enhance High-Speed Rail
+
+Mobilize Electric Trains
+
+Mobilize Electric Bicycles
+
+Electric cars, hybrid cars and electric scoters and motorcycles, and public transit compete for pkm. Consequently, increased use of public transit could reduce kilometers traveled using electric and hybrid cars and electric scooters and motorcycles.
+
+Mobilize Electric Cars
+
+Mobilize Electric Scooters & Motorcycles
+
+
+## Consensus of effectiveness in reducing transportation emissions: High
+
+
+Experts agree that public transit usually produces fewer GHG/pkm than fossil fuel–powered cars (Bloomberg New Energy Finance, 2018; Brunner et al., 2018; Ilie et al., 2014; International Transport Forum, 2020; Kennedy, 2002; Kuminek, 2013; Lim et al., 2021; Mahmoud et al., 2016; Rodrigues & Seixas, 2022; Sertsoz et al., 2013). There is also consensus on two points: First, shifting people from cars to public transit even under status-quo emissions levels will reduce transport emissions overall; second, opportunities exist todecarbonizethe highest-emitting parts of public transit systems through electrification, especially buses (Bloomberg New Energy Finance, 2018).
+
+According to the Intergovernmental Panel on Climate Change (IPCC, 2023), public transit can help decrease vehicle travel and lower GHG emissions by reducing both the number and length of trips made in fossil fuel–powered cars (medium confidence). Adjustments to public transportation operations – such as increasing bus stop density, reducing the distance between stops and households, improving trip duration and frequency, and lowering fares – can encourage a shift from fossil fuel–powered car use to public transit.
+
+Bloomberg New Energy Finance (2018) provides a good overview of the state of electric buses – a technology crucial to reduce the public transit fleet’s fossil fuel consumption, and help transition these fleets entirely to electric power. It determined that electric buses have significantly lower operating costs and can be more cost-effective than conventional buses when considering total ownership costs.
+
+Litman (2024) found that “High quality (relatively fast, convenient, comfortable, and integrated) transit can attract discretionary passengers who would otherwise drive, which reduces traffic problems including congestion, parking costs, accidents, and pollution emissions. This provides direct user benefits, since they would not change mode if they did not consider themselves better off overall.”
+
+The results presented in this document summarize findings from 28 reviews and meta-analyses and 23 original studies reflecting current evidence from 32 countries, primarily the American Public Transit Association (APTA, 2020), Bloomberg New Energy Finance (2018), International Transport Forum (2020), and UITP (2024). We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Use public transit and create incentive programs for government employees to use public transit.
+
+Improve and invest in local public transit infrastructure, increasing routes and frequency while improving onboard safety, especially for women.
+
+Electrify public buses, vans, and other vehicles used in the public transit system.
+
+Implement the recommendations of transit-oriented development, such as increasing residential and commercial density, placing development near stations, and ensuring stations are easily accessible.
+
+Provide online information, ticketing, and payment services.
+
+Implement regional or nationwide public transit ticketing systems.
+
+Consider a wide range of policy options that include demand-side options, such as free fare or fare reductions, and that are informed by citizen-centered approaches.
+
+Create dedicated coordinating bodies across government agencies, businesses, and the public to develop public transit.
+
+Disincentivize car trips in areas serviced by public transit through reduced access, increases in parking fares, congestion charges, taxes, or other means.
+
+Incorporate social signaling in public transit information and signage, such as smiley faces and “sustainable transport” labels.
+
+Develop public transit awareness campaigns – starting from early childhood – focusing on internally motivating factors such as money saved, health benefits, reduced pollution, free time while traveling, and lifestyle sustainability.
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+How to prioritize walking and cycling. United Nations Environment Programme (2024)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Share the road design guidelines. United Nations Environment Programme (2018)
+
+Transport. United Nations Environment Programme (n.d.)
+
+Use public transit and create incentive programs for government employees to utilize public transit.
+
+Increase routes and frequency while also improving onboard safety, especially for women.
+
+Electrify public buses, vans, and other vehicles used in the public transit system.
+
+Incorporate social signaling in public transit information and signage, such as smiley faces and “sustainable transport” labels.
+
+Provide online information, ticketing, and payment services
+
+Implement regional or nationwide public transit ticketing systems.
+
+Consider a wide range of policy options that include demand-side options, such as free fare or fare reductions, and that are informed through citizen-centered approaches.
+
+Create dedicated coordinating bodies across government agencies, businesses, and the public to develop public transit.
+
+Develop public transit awareness campaigns – starting from early childhood – focusing on internally motivating factors such as money saved, health benefits, reduced pollution, free time while traveling, and a sustainable lifestyle.
+
+How to prioritize walking and cycling. United Nations Environment Programme (2024)
+
+Share the road design guidelines. United Nations Environment Programme (2018)
+
+Transport. United Nations Environment Programme (n.d.)
+
+Use public transit and encourage employees to do so when feasible.
+
+Encourage public transit use for company purposes.
+
+Offer employees who agree to forego a free parking space the annualized cash value or cost of that parking space as a salary increase.
+
+Incorporate company policies on public transit use into company sustainability and emission reduction initiatives and communicate how they support broader company goals.
+
+Ensure your business is accessible via public transit and offer information on nearest access points both online and in person.
+
+Offer employees pre-tax commuter benefits to include reimbursement for public transit expenses.
+
+Create and distribute educational materials for employees on commuting best practices.
+
+Partner with, support, and/or donate to infrastructure investments and public transit awareness campaigns.
+
+Advocate for better public transit systems with city officials.
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+How to prioritize walking and cycling. United Nations Environment Programme (2024)
+
+Share the road design guidelines. United Nations Environment Programme (2018)
+
+Transport. United Nations Environment Programme (n.d.)
+
+Use public transit and encourage staff to do so when feasible.
+
+Offer staff pre-tax commuter benefits to include reimbursement for public transit expenses.
+
+Offer employees who agree to forego a free parking space the annualized cash value or cost of that parking space as a salary increase.
+
+Expand access to underserved communities by providing fare assistance through microgrants and/or public-private partnerships.
+
+Create, support, or partner with existing public transit awareness campaigns that – starting from early childhood – focus on internally motivating factors such as money saved, health benefits, reduced pollution, free time while traveling, and a sustainable lifestyle.
+
+Ensure your office is accessible via public transit and offer information – online and in person – on the nearest access points.
+
+Advocate to policymakers for improved infrastructure and incentives for riders.
+
+Advocate for infrastructure improvements and note specific locations where improvements can be made.
+
+Encourage local businesses to create employee incentives.
+
+Host or support community participation in local public transit infrastructure design.
+
+Join public-private partnerships to encourage, improve, or operate public transit.
+
+Climate Solutions at Work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+How to prioritize walking and cycling. United Nations Environment Programme (2024)
+
+Share the road design guidelines. United Nations Environment Programme (2018)
+
+Transport. United Nations Environment Programme (n.d.)
+
+Use public transit and encourage staff to do so when feasible.
+
+Encourage public transit use for company purposes.
+
+Invest in electric battery and component suppliers for public buses and vehicle fleets.
+
+Deploy capital to efforts that improve public transit comfort, convenience, access, and safety.
+
+Seek investment opportunities that reduce material and maintenance costs for public transit.
+
+How to prioritize walking and cycling. United Nations Environment Programme (2024)
+
+Share the road design guidelines. United Nations Environment Programme (2018)
+
+Transport. United Nations Environment Programme (n.d.)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Use public transit and encourage staff to do so when feasible.
+
+Award grants to local organizations advocating for improved public transit and services.
+
+Expand access to underserved communities by providing fare assistance through microgrants and/or public-private partnerships.
+
+Improve and finance local infrastructure and public transit capacity.
+
+Build local capacity for infrastructure design, maintenance, and construction.
+
+Assist with local policy design or provide means for assessments, data collection, citizen participation, and other steps in the policymaking process.
+
+Create, support, or partner with existing public transit awareness campaigns that – starting from early childhood – focus on internally motivating factors such as money saved, health benefits, reduced pollution, free time while traveling, and a sustainable lifestyle.
+
+How to prioritize walking and cycling. United Nations Environment Programme (2024)
+
+Share the road design guidelines. United Nations Environment Programme (2018)
+
+Transport. United Nations Environment Programme (n.d.)
+
+Lead by example and use public transit regularly.
+
+Create, support, or partner with existing public transit awareness campaigns that – starting from early childhood – focus on internally motivating factors such as money saved, health benefits, reduced pollution, free time while traveling, and a sustainable lifestyle.
+
+Share detailed information on local public transit routes.
+
+Assist with local policy design or provide means for assessments, data collection, citizen participation, and other steps in the policymaking process.
+
+Advocate to policymakers for improved infrastructure, noting specific locations that need improvements and incentives for riders.
+
+How to prioritize walking and cycling. United Nations Environment Programme (2024)
+
+Share the road design guidelines. United Nations Environment Programme (2018)
+
+Transport. United Nations Environment Programme (n.d.)
+
+
+## Technologists and Researchers
+
+
+Use public transit and encourage your colleagues to use public transit when feasible.
+
+Improve electric batteries and electrification infrastructure for public buses and vehicles.
+
+Develop models for policymakers to demonstrate the impact of public transit policies on pollutant emissions, health, and other socioeconomic variables.
+
+Conduct randomized control trials and collect longitudinal data on the impacts of interventions to increase public transit usage.
+
+Innovate better, faster, and cheaper public transit networks – focusing on infrastructure, operations, and public transit vehicles.
+
+How to prioritize walking and cycling. United Nations Environment Programme (2024)
+
+Share the road design guidelines. United Nations Environment Programme (2018)
+
+Transport. United Nations Environment Programme (n.d.)
+
+
+## Communities, Households, and Individuals
+
+
+Use public transit and encourage your household and neighbors to use public transit when feasible.
+
+Share your experiences with public transit, as well as tips and reasons for choosing this mode of transportation.
+
+Advocate to local officials for infrastructure improvements and note specific locations where improvements can be made.
+
+Advocate to employers and local businesses to provide incentives and start local initiatives.
+
+How to prioritize walking and cycling. United Nations Environment Programme (2024)
+
+Share the road design guidelines. United Nations Environment Programme (2018)
+
+Transport. United Nations Environment Programme (n.d.)
+
+
+## “Take Action” Sources
+
+
+Adapting to the new normal: understanding public transport use and willingness-to-pay for social distancing during a pandemic context. Filgueiras et al. (2024)
+
+Transport. Jaramillo (2022)
+
+An option generation tool for potential urban transport policy packages. May et al. (2012)
+
+A method for evaluating the effectiveness of improving public transport services, parking fee policies, and park-and-ride facilities in order to encourage the use of public transport. Nguyen (2024)
+
+Towards smart transportation: the impact of transportation policies on mobility in the outskirts (case study: Mijen suburban area in Semarang City). Purwantoro et al. (2024)
+
+Transport. Sims et al. (2014)
+
+Enhancing public transport use: the influence of soft pull interventions. Zarabi et al. (2024)
+
+Methods and Supporting Data
+
+American Public Transit Association. (2020). Economic impact of public transportation investment – American Public Transportation Association.Link to source:https://www.apta.com/research-technical-resources/research-reports/economic-impact-of-public-transportation-investment/
+
+American Public Transit Association. (2021). National Transit Database Tables. American Public Transportation Association.Link to source:https://www.apta.com/research-technical-resources/transit-statistics/ntd-data-tables/
+
+Beaudoin, J., Farzin, Y. H., & Lin Lawell, C.-Y. C. (2015). Public transit investment and sustainable transportation: A review of studies of transit’s impact on traffic congestion and air quality. Research in Transportation Economics, 52, 15–22.Link to source:https://doi.org/10.1016/j.retrec.2015.10.004
+
+Bloomberg New Energy Finance. (2018).Electric buses in cities: Driving towards cleaner air and lower CO2.Link to source:https://about.bnef.com/insights/clean-transport/electric-buses-cities-driving-towards-cleaner-air-lower-co2/
+
+Börjesson, M., Fung, C. M., & Proost, S. (2020). How rural is too rural for transit? Optimal transit subsidies and supply in rural areas.Journal of Transport Geography,88, 102859.Link to source:https://doi.org/10.1016/j.jtrangeo.2020.102859
+
+Borck, R. (2019). Public transport and urban pollution. Regional Science and Urban Economics, 77, 356–366.Link to source:https://doi.org/10.1016/j.regsciurbeco.2019.06.005
+
+Brown, A. E. (2017). Car-less or car-free? Socioeconomic and mobility differences among zero-car households. Transport Policy, 60, 152–159.Link to source:https://doi.org/10.1016/j.tranpol.2017.09.016
+
+Brunner, H., Hirz, M., Hirschberg, W., & Fallast, K. (2018). Evaluation of various means of transport for urban areas.Energy, Sustainability and Society,8(1), 9.Link to source:https://doi.org/10.1186/s13705-018-0149-0
+
+Christensen, L., & Vázquez, N. S. (2013). Post-harmonised European National Travel Surveys.Proceedings from the Annual Transport Conference at Aalborg University,20(1), Article 1.Link to source:https://doi.org/10.5278/ojs.td.v1i1.5701
+
+Department for Transport. (2024).Transport Statistics Finder: Interactive Dashboard. Department for Transport.Link to source:https://app.powerbi.com/view?r=eyJrIjoiMGE2YTQ5YTMtMDkwNC00MjBmLWFkNjUtMjBjZjUzZWU0ZjNmIiwidCI6IjI4Yjc4MmZiLTQxZTEtNDhlYS1iZmMzLWFkNzU1OGNlNzEzNiIsImMiOjh9
+
+Ecke, L. (2023).German Mobility Panel—Startseite(KIT). Lisa Ecke.Link to source:https://mobilitaetspanel.ifv.kit.edu/english/
+
+Federal Highway Administration. (2022).Summary of Travel Trends: 2022 National Household Travel Survey. US Department of Transportation.Link to source:https://nhts.ornl.gov/assets/2022/pub/2022_NHTS_Summary_Travel_Trends.pdf
+
+Goel, D., & Gupta, S. (2017). The Effect of Metro Expansions on Air Pollution in Delhi.The World Bank Economic Review, 31(1), 271–294.Link to source:https://doi.org/10.1093/wber/lhv056
+
+Gouldson, A., Sudmant, A., Khreis, H., & Papargyropoulou, E. (2018). The Economic and Social Benefits of Low-Carbon Cities: A Systematic Review of the Evidence.Link to source:https://urbantransitions.global/en/publication/the-economic-and-social-benefits-of-low-carbon-cities-a-systematic-review-of-the-evidence/
+
+Guo, S., & Chen, L. (2019). Can urban rail transit systems alleviate air pollution? Empirical evidence from Beijing. Growth and Change, 50(1), 130–144.Link to source:https://doi.org/10.1111/grow.12266
+
+Health Affairs. (2021). Public Transportation in the U.S. RWJF.Link to source:https://www.rwjf.org/content/rwjf-web/us/en/insights/our-research/2021/07/public-transportation-in-the-us-a-driver-of-health-and-equity.html
+
+Hemmat, W., Hesam, A. M., & Atifnigar, H. (2023). Exploring noise pollution, causes, effects, and mitigation strategies: A review paper. European Journal of Theoretical and Applied Sciences, 1(5), Article 5.Link to source:https://doi.org/10.59324/ejtas.2023.1(5).86
+
+Ilie, N., Iurie, N., Alexandr, M., & Vitalie, E. (2014). Rehabilitation of the tram DC traction with modern power converters.2014 International Conference and Exposition on Electrical and Power Engineering (EPE), 704–709.Link to source:https://doi.org/10.1109/ICEPE.2014.6970000
+
+International Transport Forum. (2020).Good toGo? Assessing the Environmental Performance of New Mobility(Corporate Partnership Board). OECD.Link to source:https://www.itf-oecd.org/sites/default/files/docs/environmental-performance-new-mobility.pdf
+
+IPCC. (2023).Renewable Energy Sources and Climate Change Mitigation—IPCC.Link to source:https://www.ipcc.ch/report/renewable-energy-sources-and-climate-change-mitigation/
+
+Kennedy, C. A. (2002). A comparison of the sustainability of public and private transportation systems: Study of the Greater Toronto Area.Transportation,29(4), 459–493.Link to source:https://doi.org/10.1023/A:1016302913909
+
+Kuminek, T. (2013). Energy Consumption in Tram Transport.Logistics and Transport.Link to source:https://www.semanticscholar.org/paper/Energy-Consumption-in-Tram-Transport-Kuminek/2aa2d97130a8e51ea7f64913c2065e8437126774
+
+Lim, L. K., Muis, Z. A., Hashim, H., Ho, W. S., & Idris, M. N. M. (2021). Potential of Electric Bus as a Carbon Mitigation Strategies and Energy Modelling: A Review.Chemical Engineering Transactions,89, 529–534.Link to source:https://doi.org/10.3303/CET2189089
+
+Lovasi, G. S., Treat, C. A., Fry, D., Shah, I., Clougherty, J. E., Berberian, A., Perera, F. P., & Kioumourtzoglou, M.-A. (2023). Clean fleets, different streets: Evaluating the effect of New York City’s clean bus program on changes to estimated ambient air pollution. Journal of Exposure Science & Environmental Epidemiology, 33(3), 332–338.Link to source:https://doi.org/10.1038/s41370-022-00454-5
+
+Litman, T. (2024).Evaluating Public Transit Benefits and Costs.Link to source:https://www.vtpi.org/tranben.pdf
+
+Loukaitou-Sideris, A. (2014). Fear and safety in transit environments from the women’s perspective.Security Journal,27(2), 242–256.Link to source:https://doi.org/10.1057/sj.2014.9
+
+Mahmoud, M., Garnett, R., Ferguson, M., & Kanaroglou, P. (2016). Electric buses: A review of alternative powertrains.Renewable and Sustainable Energy Reviews,62, 673–684.Link to source:https://doi.org/10.1016/j.rser.2016.05.019
+
+Martinez, D., Mitnik, O., Salgado, E., Yãnez-Pagans, P., & Scholl, L. (2020). Connecting to Economic Opportunity: The Role of Public Transport in Promoting Women’s Employment in Lima | Journal of Economics, Race, and Policy.Link to source:https://link.springer.com/article/10.1007/s41996-019-00039-9
+
+Mees, P. (2010).Transport for Suburbia: Beyond the Automobile Age. Earthscan.Link to source:https://www.routledge.com/Transport-for-Suburbia-Beyond-the-Automobile-Age/Mees/p/book/9781844077403?srsltid=AfmBOoqLpikgSll7C5BzwVRtvO9Ji0JgM1XAHe60uh_s1qGh3YxCr018
+
+Norton, P. D. (2011).Fighting Traffic: The Dawn of the Motor Age in the American City. MIT Press.Link to source:https://mitpress.mit.edu/9780262516129/fighting-traffic/
+
+Ortiz, F. (2002). Biodiversity, the City, and Sprawl. Boston University Law Review, 82(1), 145–194.Link to source:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3499945
+
+Padeiro, M., Louro, A., & da Costa, N. M. (2019). Transit-oriented development and gentrification: A systematic review.Transport Reviews,39(6), 733–754.Link to source:https://doi.org/10.1080/01441647.2019.1649316
+
+Prieto-Curiel, R., & Ospina, J. P. (2024). The ABC of mobility.Environment International,185, 108541.Link to source:https://doi.org/10.1016/j.envint.2024.108541
+
+Qi, Y., Liu, J., Tao, T., & Zhao, Q. (2023). Impacts of COVID-19 on public transit ridership. International Journal of Transportation Science and Technology, 12(1), 34–45.Link to source:https://doi.org/10.1016/j.ijtst.2021.11.003
+
+Rodrigues, A. L. P., & Seixas, Sonia. R. C. (2022). Battery-electric buses and their implementation barriers: Analysis and prospects for sustainability.Sustainable Energy Technologies and Assessments,51, 101896.Link to source:https://doi.org/10.1016/j.seta.2021.101896
+
+Rodriguez Mendez, Q., Fuss, S., Lück, S., & Creutzig, F. (2024). Assessing global urban CO2 removal.Nature Cities,1(6), 413–423.Link to source:https://doi.org/10.1038/s44284-024-00069-x
+
+Serulle, N. U., & Cirillo, C. (2016). Transportation needs of low income population: A policy analysis for the Washington D.C. metropolitan region. Public Transport, 8(1), 103–123.Link to source:https://doi.org/10.1007/s12469-015-0119-2
+
+Schaller, B. (2017). Unsustainable? The Growth of App-Based Ride Services and Traffic, Travel and the Future of New York City. Schaller Consulting.Link to source:http://schallerconsult.com/rideservices/unsustainable.htm
+
+Schrag, Z. M. (2000). “The Bus Is Young and Honest”: Transportation Politics, Technical Choice, and the Motorization of Manhattan Surface Transit, 1919-1936.Technology and Culture,41(1), 51–79.Link to source:https://muse.jhu.edu/article/33496
+
+Sertsoz, M., Kusdogan, S., & Altuntas, O. (2013). Assessment of Energy Efficiencies and Environmental Impacts of Railway and Bus Transportation Options. In I. Dincer, C. O. Colpan, & F. Kadioglu (Eds.),Causes, Impacts and Solutions to Global Warming(pp. 921–931). Springer.Link to source:https://doi.org/10.1007/978-1-4614-7588-0_48
+
+Statistics Netherlands. (2024).Mobility; per person, personal characteristics, modes of travel and regions[Webpage]. Statistics Netherlands.Link to source:https://www.cbs.nl/en-gb/figures/detail/84709ENG
+
+Swanstrom, T., Winter, W., & Wiedlocher, L. (2010). The Impact of Increasing Funding for Public Transit.Link to source:https://librarysearch.adelaide.edu.au/discovery/fulldisplay/alma9928308820601811/61ADELAIDE_INST:UOFA
+
+Tayal, D., & Mehta, A. (2021). Working Women, Delhi Metro and Covid-19: A Case Study in Delhi-NCR | The Indian Journal of Labour Economics.Link to source:https://link.springer.com/article/10.1007/s41027-021-00313-1?fromPaywallRec=true
+
+UITP. (2024).A global analysis of transit data. CityTransit Data.Link to source:https://citytransit.uitp.org
+
+US Department of Transportation. (2010). Public transportation’s role in responding to climate change. US Department of Transportation.Link to source:https://www.transit.dot.gov/sites/fta.dot.gov/files/docs/PublicTransportationsRoleInRespondingToClimateChange2010.pdf
+
+Van Acker, V., & Witlox, F. (2010). Car ownership as a mediating variable in car travel behaviour research using a structural equation modelling approach to identify its dual relationship.Journal of Transport Geography,18(1), 65–74.Link to source:https://doi.org/10.1016/j.jtrangeo.2009.05.006
+
+Venter, C., Jennings, G., Hidalgo, D., & Pineda, A. (2017). The equity impacts of bus rapid transit: A review of the evidence and implications for sustainable transport: International Journal of Sustainable Transportation: Vol 12 , No 2—Get Access.Link to source:https://www.tandfonline.com/doi/full/10.1080/15568318.2017.1340528
+
+Xiao, C., Goryakin, Y., & Cecchini, M. (2019). Physical Activity Levels and New Public Transit: A Systematic Review and Meta-analysis. American Journal of Preventive Medicine, 56(3), 464–473.Link to source:https://doi.org/10.1016/j.amepre.2018.10.022
+
+Cameron Roberts, Ph.D.
+
+Cameron Roberts, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Chrstina Swanson, Ph.D.
+
+Chrstina Swanson, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

@@ -1,0 +1,903 @@
+# Deploy Alternative Refrigerants
+Source: https://drawdown.org/explorer/deploy-alternative-refrigerants
+
+Methods and Supporting Data
+
+
+## Deploy Alternative Refrigerants
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+This solution involves reducing the use of high-global warming potential(GWP)refrigerants, instead deploying lower-GWP refrigerants. High-GWP (>800 on a100-yr basis) fluorinated gases (F-gases) are currently used as refrigerants in refrigeration, air conditioning, and heat pump systems. Over the lifetime of this equipment, refrigerants escape into the atmosphere where they contribute to climate change.
+
+Leaked lower-GWP refrigerant gases trap less heat in the atmosphere than do higher-GWP gases, so using lower-GWP gases reduces the climate impact of refrigerant use. In our analysis, this solution is only deployed as new equipment replaces decommissioned equipment because alternative refrigerants cannot typically be retrofitted into existing systems.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+kt high-GWP refrigerant phased out
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Refrigerants are chemicals that can absorb and release heat as they move between gaseous and liquid states under changing pressure. In this solution, we considered their use in six applications: residential, commercial, industrial, and transport refrigeration as well as stationary and mobile air conditioning. Heat pumps double as heating sources, though they are included here with air conditioning appliances. Refrigerants are released to the atmosphere during manufacturing, transport, installation, operation, repair, and disposal of refrigerants and equipment.Deploy Alternative Insulation Materialscovers the use of refrigerant chemicals to produce foams.
+
+Climate impacts of emissions of refrigerants can be reduced by:
+
+using lower-GWP refrigerants
+
+reducing leaks during equipment manufacturing, transport, installation, use, and maintenance
+
+reclaiming refrigerant at end-of-life and destroying or recycling it
+
+using less refrigerant through efficiency improvements or reduction in demand.
+
+This solution evaluated the use of lower-GWP refrigerants alone. Leak reduction and responsible disposal are covered inImprove Refrigerant Management. Lowering use of and demand for refrigerants – while outside the scope of these assessments – is the most effective way to reduce emissions.
+
+Most refrigerants used in new equipment today are a group of F-gases calledhydrofluorocarbons(HFCs) (Figure 1). HFCs are GHGs and are typically hundreds to thousands of times more potent thanCO₂(Smith et al., 2021). Since high-GWP refrigerants are usually short-livedclimate pollutants, their negative climate impacts tend to be concentrated in the near term (Shah et al., 2015). High-GWPHFCproduction and consumption are beingphased downunder theKigali Amendment to the Montreal Protocol, but existing stock and production remains high worldwide (Amendment to the Montreal Protocol on Substances That Deplete the Ozone Layer, 2016; United Nations Framework Convention on Climate Change [UNFCCC], 2023). Other types of refrigerants that deplete the ozone layer – including chlorofluorocarbons (CFCs) and hydrochlorofluorocarbons (HCFCs) — are also beingphased outof new production and use globally (Montreal Protocol on Substances That Deplete the Ozone Layer, 1987; Figure 1).
+
+Figure 1. Examples of common refrigerants and their climate and environmental impacts
+
+High-GWP: red; Medium-GWP: yellow; Low-GWP: green
+
+*Safety classes based on ASHRAE Standard 34:
+
+A1: non-flammable, lower toxicity
+
+A2L: lower flammability, lower toxicity
+
+A3: higher flammability, lower toxicity
+
+B2L: lower flammability, higher toxicity
+
+Baha, M., & Dupont, J.-L. (2023, September 15).Global warming potential (GWP) of HFC refrigerants.International Institute of Refrigeration.
+
+Behringer, D., Heydel, F., Gschrey, B., Osterheld, S., Schwarz, W., Warncke, K., Freeling, F., Nödler, K., Henne, S., Reimann, S., Blepp, M., Jörß, W., Liu, R., Ludig, S., Rüdenauer, I., & Gartiser, S. (2021).Persistent degradation products of halogenated refrigerants and blowing agents in the environment: Type, environmental concentrations, and fate with particular regard to new halogenated substitutes with low global warming potential.Final report. Umweltbundesamt [German Environment Agency].
+
+Burkholder, J. B., Hodnebrog, Ø., McDonald, B. C., Orkin, V., Papadimitriou, V. C., & Van Hoomissen, D. (2023). Annex: Summary of abundances, lifetimes, ODPs, REs, GWPs, and GTPs. Scientific Assessment of Ozone Depletion 2022.
+
+Garry, M. (2021, June 23).Certain HFCs and HFOs are in PFAS group that five EU countries intend to restrict.
+
+Smith, C., Nicholls, Z. R. J., Armour, K., Collins, W., Forster, P., Meinshausen, M., Palmer, M. D., & Watanabe, M. (2021). The Earth’s energy budget, climate feedbacks, and climate sensitivity supplementary material. InClimate Change 2021: The Physical Science Basis.Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change.
+
+Trevisan, T. (2023, July 3).Overview of PFAS refrigerants used in HVAC&R and relevance of refrigerants in the PFAS Restriction Intention.UN Montreal Protocol 45th OEWG, Bangkok.
+
+United Nations Environment Programme. (2023).Refrigeration, Air Conditioning and Heat Pumps Technical Options Committee: 2022 assessment report.
+
+United Nations Environment Programme & ASHRAE. (2025).Update on new refrigerants designations and safety classifications June 2025.
+
+In this solution, production and consumption of high-GWP refrigerants (which we defined as GWP>800, 100-yrbasis) are avoided by the use of lower-GWP refrigerants in new equipment. These alternative refrigerants can still leak to the atmosphere, but their heat-trapping effect is much lower. Some promising alternatives have low GWPs (<5, 100-yr basis), including somehydrofluoroolefins(HFOs) as well asnatural refrigerants, which include CO₂,
+ ammonia, propane, and isobutane. (Figure 1). However, the adoption of these low-GWP refrigerants comes with challenges, including flammability, cost, building codes, and technical limitations (see Risks and Take Action sections below).
+
+Refrigerants with medium GWPs (<800, 100-yr basis; <2,700,20-yr basis(Smith et al., 2021)) can also be near-term alternatives that increase adoption while providing a climate benefit. In our analysis, we separately considered medium-GWP alternatives in applications where low-GWP alternatives are less common (Figure 2).
+
+Figure 2.Alternative refrigerants used to calculate the low-GWP and medium-GWP scenarios. The low-GWP scenario assumed equipment using high-GWP refrigerants is replaced at end-of-life with equipment using alternative refrigerants with GWP<5. The medium-GWP calculations assumed GWP<800 (100-yr basis) and GWP<2,700 (20-yr basis) alternatives in applications where low-GWP replacements are currently less common (commercial refrigeration, transport refrigeration, stationary air conditioning) and assumed low-GWP replacements for the remaining applications where they are more developed technologies (residential refrigeration, industrial refrigeration, mobile air conditioning). The alternative refrigerants in the table are used for effectiveness and/or cost calculations.
+
+Purohit, P., & Höglund-Isaksson, L. (2017). Global emissions of fluorinated greenhouse gases 2005–2050 with abatement potentials and costs.Atmospheric Chemistry and Physics, 17(4), 2795–2816.
+
+Sustainable Purchasing Leadership Council Climate Friendly Refrigerant Action Team. (2021).Recommendations for climate friendly refrigerant management and procurement.
+
+United Nations Environment Programme. (2023).Refrigeration, Air Conditioning and Heat Pumps Technical Options Committee: 2022 assessment report.
+
+United Nations Framework Convention on Climate Change. (2023). National inventory submissions, Annex 1 parties [Data set].
+
+U.S. Environmental Protection Agency. (2011).Transitioning to low-GWP alternatives in transport refrigeration.
+
+There is currently no single refrigerant that perfectly fits the climate, safety, and performance requirements for all applications. Instead, the optimal alternative refrigerant will vary depending on equipment type and location (United Nations Environment Programme [UNEP], 2023).
+
+Generating electricity to run heating, ventilation, air conditioning, and refrigeration (HVAC&R) equipment also produces high levels of emissions (mostly CO₂
+) at power plants – more than twice the emissions from direct release of refrigerants (United Nations Development Programme [UNDP], 2022). Using alternative refrigerants can impact efficiency, changing these electricity-related emissions. However,indirect emissionsare not quantified in this solution.
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects how the average effectiveness changes as the GWP of the alternative refrigerants changes. At the slider’s high end, phasing out high-GWP refrigerants in favor of low-GWP refrigerants in all applications. At the slider’s low end, using medium-GWP refrigerants in some applications (see Figure 2).
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. Effectiveness increases when the GWP of the alternative refrigerants decreases.
+
+
+## What is this range based on?
+
+
+Current adoption was estimated from Velders et al. (2015, 2022) models of 2022 HFC emissions. The achievable range follows the phasedown targets set by the Kigali Amendment to the Montreal Protocol (2016).
+
+This is the low end of the range for estimated achievable adoption by 2047.
+
+This is the high end of the range for estimated achievable adoption by 2047.
+
+This is the estimated current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Deploy Alternative Refrigerants is most effective at mitigating climate change in regions with high levels of current refrigerant use. Unfortunately, there are no comprehensive data available at the country level to estimate the quantity of high-GWP or alternative refrigerants stored in equipment. Countries report HFC stocks and emissions for refrigeration and air conditioning to the UNFCCC, but these do not include high-GWP ozone-depleting substances such as CFCs and HCFCs (UNFCCC, 2023). Since national emissions estimates such as the Emissions Database for Global Atmospheric Research (EDGAR) do not report high-GWP ozone-depleting F-gases, we do not include these data in this analysis (Crippa et al., 2025). The UNEP does track CFC, HCFC, and HFC production and consumption, but this does not provide a comprehensive use or emissions picture since many current emissions are from stock already contained in existing equipment (Ozone Secretariat, n.d.).
+
+Regions with greater cooling demand are likely to require more refrigerant use for refrigeration and air conditioning. Regional patterns of where this solution is most important may evolve in the future as cooling appliances become more widespread and the climate warms.
+
+International, national, and local policies have a large impact on the adoption of alternative refrigerants. The Kigali Amendment to the Montreal Protocol mandates HFC phasedown schedules for participating countries through 2047. Additionally, local building codes and policies influence the use of alternative refrigerants. The Air-Conditioning, Heating, and Refrigeration Institute (AHRI) and The North American Sustainable Refrigeration Council (NASRC) give region-specific information in North America about such policies (AHRI, n.d.-a, n.d.-b; NASRC, n.d.).
+
+CLASP found that in 2025, China and the United States had the highest numbers of both residential air conditioners and refrigerator-freezers (CLASP, 2025). This suggests that residential refrigerant use and emissions are likely to be highest in these countries.
+
+Emissions from producing refrigerants will be higher in locations with more refrigerant manufacturing. Refrigerant manufacturing is more common in locations that are close to chemicalfeedstocks, have financial incentives, and have experienced and cheap labor (Booten et al., 2020).
+
+
+## Space cooling demand (21 °C basis)
+
+
+This map shows the annual average cooling degree days (CDD) for the decade ending in 2025. CDD are a measure of how much the temperature in a location exceeds 21 °C each day, summed cumulatively over a year. Regions with greater cooling degree days will likely have higher demand for space cooling equipment to maintain a comfortable indoor air temperature in buildings and vehicles.
+
+Copernicus Climate Change Service. (2023).ERA5 hourly data on single levels from 1940 to present[Data set]. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). Retrieved January 13, 2026 fromLink to source:https://doi.org/10.24381/cds.adbb2d47Hersbach, H., Bell, B., Berrisford, P., Hirahara, S., Horányi, A., Muñoz‐Sabater, J., Nicolas, J., Peubey, C., Radu, R., Schepers, D., Simmins, A., Soci, C., Abdalla, S., Abellan, X., Balsamo, G., Bechtold, P., Biavati, G., Bidlot, J., Bonavita, M., … Thépaut, J. N. (2020). The ERA5 global reanalysis.Quarterly Journal of the Royal Meteorological Society, 146(730), 1999–2049.Link to source:https://doi.org/10.1002/qj.3803
+
+
+## Space cooling demand (21 °C basis)
+
+
+This map shows the annual average cooling degree days (CDD) for the decade ending in 2025. CDD are a measure of how much the temperature in a location exceeds 21 °C each day, summed cumulatively over a year. Regions with greater cooling degree days will likely have higher demand for space cooling equipment to maintain a comfortable indoor air temperature in buildings and vehicles.
+
+Copernicus Climate Change Service. (2023).ERA5 hourly data on single levels from 1940 to present[Data set]. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). Retrieved January 13, 2026 fromLink to source:https://doi.org/10.24381/cds.adbb2d47Hersbach, H., Bell, B., Berrisford, P., Hirahara, S., Horányi, A., Muñoz‐Sabater, J., Nicolas, J., Peubey, C., Radu, R., Schepers, D., Simmins, A., Soci, C., Abdalla, S., Abellan, X., Balsamo, G., Bechtold, P., Biavati, G., Bidlot, J., Bonavita, M., … Thépaut, J. N. (2020). The ERA5 global reanalysis.Quarterly Journal of the Royal Meteorological Society, 146(730), 1999–2049.Link to source:https://doi.org/10.1002/qj.3803
+
+For everykthigh-GWP refrigerant phased out in favor of low-GWP refrigerant, approximately 460,000tCO₂‑eq/yr
+ of F-gas emissions will bemitigatedon a 100-yr basis (Table 1). If medium-GWP refrigerants are instead adopted in certain applications (Figure 2), theeffectivenessdecreases to 400,000 t CO₂‑eq
+ (100-yr)/kt high-GWP refrigerant phased out/yr (Table 1). Effectiveness is based on average GWP of the high-, low-, and medium-GWP refrigerants; the difference inrefrigerant charge; and the expected percent released to the atmosphere.
+
+Since F-gases are short-lived climate pollutants, the effectiveness of this solution on a 20-yr basis is higher than on a 100-yr basis. Switching to low-GWP refrigerants saves 860,000 t CO₂‑eq
+/kt high-GWP refrigerant phased out/yr on a 20-yr basis. Medium-GWP refrigerants in certain applications reduces the effectiveness to 700,000 t CO₂‑eq
+ (20-yr)/kt high-GWP refrigerant phased out/yr.
+
+Using low-GWP refrigerants mitigates almost all CO₂‑eq
+ emissions from direct release of high-GWP refrigerants. Medium-GWP refrigerants potentially offer a faster path to adoption in certain applications, but yield a smaller reduction in CO₂‑eq
+ emissions. Switching to the lowest possible GWP refrigerant appropriate for a given application will have the highest effectiveness at cutting emissions.
+
+Table 1. Effectiveness at reducing emissions using low-GWP refrigerants only or medium-GWP refrigerants in some applications and low-GWP alternatives otherwise
+
+Unit:t CO₂‑eq
+/kt high-GWP refrigerant phased out/yr, 100-yr basis
+
+We estimated the cost of purchasing and using low-GWP alternative refrigerants and equipment by taking a weighted average across all application types, averaging to US$23 million/kt high-GWP refrigerant phased out/yr. A kt of refrigerant goes a long way; a typical residential air conditioner requires only 0.6–3 kg refrigerant, depending on the country and refrigerant type (CLASP & ATMOsphere, 2022). On average across all applications, the emissionsabatementcost for this solution is only US$50/t CO₂‑eq
+ on a 100-yr basis (Table 2), or US$27/t CO₂‑eq
+ on a 20-yr basis.
+
+We separately evaluated the net costs of using medium-GWP refrigerants in some applications (Figure 2). Using medium-GWP refrigerants brought average costs down to US$9.4 million/kt high-GWP refrigerant phased out/yr. The emissions abatement cost is US$24/t CO₂‑eq
+ (100-yr basis) or US$13/t CO₂‑eq
+ (20-yr basis).
+
+We calculated cost using values of initial cost and annual operation and maintenance costs from Purohit and Höglund-Isaksson (2017). The overall net cost is a weighted average of the average net costs of switching to alternative refrigerants for each of the six refrigerant applications (Figure 2). Costs are likely to change as the HFC phase-down continues under the Kigali Amendment. We did not evaluate external costs such as those to manufacturers.
+
+Although our calculated costs are averages, costs varied widely depending on the specific equipment, refrigerant type, and geographic location. Using ammonia in industrial refrigeration yields net savings of US$24 million/kt high-GWP refrigerant/yr. Low-GWP alternative refrigerants for transport refrigeration lead to cost savings over high- or medium-GWP refrigerants, as dohydrocarbonsin residential and commercial air conditioning.
+
+We did not consider energy cost differences due to changes in efficiency. Since electricity costs are the majority of the life-cycle costs for certain equipment, these changes in energy costs may be significant (Goetzler et al., 2016).
+
+Table 2. Cost per unit of climate impact for low-GWP refrigerants.
+
+Unit:2023 US$/t CO₂‑eq
+, 100-yr basis
+
+We did not find alearning ratefor this solution, although there is evidence that costs of equipment and refrigerant decrease as more alternative refrigerants are deployed. Zanchi et al. (2019) claim that after regulations limiting emissions from F-gases and capping allowable refrigerant GWP were enacted in Europe, component prices for natural refrigerant equipment – particularly in commercial refrigeration – became comparable with lower HFC unit prices. Equipment prices have trended downwards through other similar technological transitions in the past (JMS Consulting & Inforum, 2018).
+
+The cost of refrigerants can change with adoption as well as the cost of equipment. Natural refrigerants tend to be inexpensive, but cost premiums for expensive HFO refrigerants could drop by more than 75% as production volumes increase (Booten et al., 2020). Certain expensive-to-produce alternative refrigerants like HFO-1234yf have limited information about possible future price reductions, but other refrigerant transitions have indicated that prices should decrease due to increased production experience, capacity, and number of producers – especially as patents expire (Sherry et al., 2017).
+
+Speed of actionrefers to how quickly a climate solution physically affects the atmosphere after it is deployed. This is different from speed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Deploy Alternative Refrigerants is anEMERGENCY BRAKEclimate solution. It has the potential to deliver a more rapid impact than gradual and delayed solutions. Because emergency brake solutions can deliver their climate benefits quickly, they can help accelerate our efforts to address dangerous levels of climate change. For this reason, they are a high priority.
+
+We estimated that 440 kt high-GWP refrigerants already have been phased out in favor of low-GWP alternative refrigerants worldwide (Table 3). For adoption, we did not differentiate between low- and medium-GWP alternative refrigerants due to insufficient data.
+
+There are limited recent and global data available to quantify the adoption of alternative refrigerants. For this reason, our approach to quantifying adoption is a simplified approximation. We used projected 2022 HFC emissions from Velders et al. (2015) as our baseline. These projections were made before any Kigali Amendment phase-down began, and we assumed they represent a reasonable 2022 emissions picture in the absence of policy-regulated HFC reductions.
+
+To calculate current adoption, we analyzed a Velders et al. (2022) model of 2022 HFC emissions accounting for current policies. Projected 2022 emissions in the current model were 6.4% lower than the 2015-projected baseline, which we assumed to be proportional to the amount of high-GWP HFC phased out and replaced with low-GWP alternatives. We estimated current adoption by applying this assumption to an estimated 6,480 kt bank of existing refrigerants (Climate and Ozone Protection Alliance, 2025). That bank includes all HFC and ozone-depleting refrigerants in new, in-use, and end-of-life equipment, and represents the potential refrigerant that could be replaced by alternative refrigerants. Since some alternative refrigerants were adopted before our 2015 baseline, the current adoption value is likely an underestimate.
+
+Some applications are known to have higher levels of current adoption than others. For example, 800 million domestic refrigerators are estimated to use isobutane refrigerant globally, and most of the market for commercial supermarket plug-in cases in Europe, the United States, and Japan use hydrocarbons such as propane (Hayes et al., 2023; UNEP, 2023).
+
+Table 3. Current (2022 modeled) adoption level of low-GWP alternative refrigerants relative to 2015 baseline levels.
+
+Unit:kt high-GWP refrigerant phased out
+
+We estimated that 77 kt high-GWP refrigerants are phased out for alternative low-GWP refrigerants each year (Table 4). Using the same method as current adoption, we compared baseline and policy-adjusted projections of HFC emissions from Velders et al. (2015, 2022) for 2019–2022. The difference between the projections increased by a median 1.2% year-over-year.
+
+We applied this percent change directly to the 2022 HFC refrigerant bank estimate to determine the tonnage of high-GWP refrigerant that will be phased out as new equipment replaces decommissioned stock. We assumed the replacements all use low-GWP refrigerants.
+
+Although more HFC is being phased out each year, the bank and associated emissions of HFCs are also growing as refrigeration and cooling equipment are more heavily used globally. Alternative refrigerant adoption will need to outpace market growth before net emissions reductions occur. The adoption trend is likely higher today than what is reflected by the data used in our calculations (prior to 2023), since 2024 was a Kigali-mandated increase in HFC phase-down for certain countries. We expect adoption trend to continue to increase as HFC restrictions tighten further in the future.
+
+Table 4. 2019–2022 adoption trend of low-GWP alternative refrigerants.
+
+Unit:kt high-GWP refrigerant phased out/yr
+
+Theadoption ceilingfor this solution is phasing out all high-GWP refrigerants, or 6,900 kt globally (Table 5). This value represents the entire current bank of HFCs and ozone-depleting refrigerants added to the current adoption of low-GWP refrigerants (Climate and Ozone Protection Alliance, 2025).
+
+This quantity assumes no increase in the total refrigerant bank above 2022 levels, while in reality the bank is projected to increase substantially as demand for cooling and refrigeration grows worldwide (International Energy Agency [IEA], 2023). Consumption of refrigerants in stationary air conditioning applications alone is projected to increase 3.5-fold between 2020–2050 (Denzinger, 2023). Additionally, new equipment that uses refrigerants (such as heat pump water heaters) is expected to replace non-refrigerant equipment, adding to future refrigerant demand. However, projecting future refrigerant demand was not part of this assessment.
+
+We assumed that in all future cases, high-GWP refrigerants can be phased out for low-GWP alternatives. While ambitious, this ceiling is possible across all applications as new refrigerants, blends, and equipment are developed and commercialized. Since we considered implementation in new equipment, it comes with an adoption delay as existing equipment with high-GWP refrigerants finish their lifespans, which can last 10–20 years (California Public Utilities Commission, 2022; CLASP & ATMOsphere, 2022).
+
+Table 5. Adoption ceiling for low-GWP refrigerants.
+
+Unit:kt high-GWP refrigerant phased out
+
+The achievable adoption range is clearly laid out by the Kigali Amendment schedule for reduction in HFC consumption and production. The Achievable – Low adoption assumes that worldwide, all countries meet the Kigali phase-down schedule and collectively reach 80% reduction from baseline emissions by 2045. Under the Kigali Amendment, all participating countries are expected to meet at least this standard by this date. It is achievable that this adoption level could be reached collectively across all nations (including higher-adopting countries and non-Kigali signatories). This comes to 5,500 kt reduction in high-GWP refrigerants, calculated as 80% of the sum of net bank and current adoption (Table 6).
+
+Achievable – High assumes that all countries average the highest Kigali-mandated HFC reduction levels for any country (85% reduction from baseline), which comes to 5,900 kt high-GWP refrigerant phased out when applied to our adoption ceiling. If countries continue to follow the Kigali Amendment phase-down schedule, most production and use of HFCs will be eliminated over the coming decades. Other high-GWP ozone-depleting refrigerants are mostly phased out of new production under the Montreal Protocol, although large quantities still exist in refrigerant banks (Montreal Protocol on Substances That Deplete the Ozone Layer, 1987).
+
+Our achievable adoption values do not account for growth in the refrigerant bank over 2022 levels. Although refrigerant use is expected to grow substantially in the coming decades (IEA, 2023), we did not project future demand as part of our assessment. If HFC phaseout does not outpace refrigerant demand growth, emissions can increase despite more widespread adoption of this solution. Lowering the demand for refrigerant while ensuring that all people have access to refrigeration, heating, and cooling will be challenging.
+
+Table 6. Range of achievable adoption levels for low-GWP refrigerants.
+
+Unit:kt high-GWP refrigerant phased out
+
+This solution has high potential climate impact due to both the quantity and high GWP of many current refrigerants. High-GWP refrigerant already phased out for low-GWP alternatives has an estimated current climate impact of 0.20GtCO₂‑eq/yr
+ on a 100-yr basis (Table 7). If the Kigali Amendment HFC phasedown schedule is followed globally, we expect the achievable-adoption climate impact to be 2.5–2.7 Gt CO₂‑eq
+ (100-yr)/yr. Reaching the adoption ceiling could potentially mitigate 3.2 Gt CO₂‑eq
+ (100-yr)/yr.
+
+Due to the short lifetime of most high-GWP refrigerants, the climate benefit of phasing them out for alternatives is higher on a 20-year time horizon, making this solution highly impactful in the short-term. The use of low-GWP refrigerants currently saves an estimated 0.38 Gt CO₂‑eq
+ (20-yr)/yr. The achievable 20-year impact is 4.7–5.0 Gt CO₂‑eq/yr,
+ with a ceiling of 5.9 Gt CO₂‑eq/yr.
+
+Since medium-GWP refrigerants are less effective at reducing emissions, the climate impacts are lower. If the same achievable adoption scenarios are reached but the effectiveness is calculated for medium-GWP refrigerants in commercial refrigeration, transport refrigeration, and stationary air conditioning applications, the climate impact reduces to 2.2–2.4 Gt CO₂‑eq
+ (100-yr)/yr or 3.9–4.1 Gt CO₂‑eq
+ (20-yr)/yr.
+
+Our findings for impact are higher than many estimates of the scale of current refrigerant emissions. This is because other reports of F-gas emissions typically do not include high-GWP ozone-depleting refrigerants such as CFCs and HCFCs. TheIPCCSixth Assessment (2023) estimates 1.4 ± 0.41 GtCO₂‑eq/yr
+ of 2019 emissions were F-gases from all sources, but this value does not include CFCs or HCFCs. The UNEP (2022) estimates that CFCs and HCFCs stored in equipment produce almost twice as many CO₂‑eq
+ emissions as HFCs do. Our calculated achievable climate impact accounts for all major high-GWP refrigerant chemicals (CFCs, HCFCs, and HFCs), and therefore an achievable climate impact much higher than 1.4 GtCO₂‑eq/yr
+ is reasonable.
+
+Table 7. Climate impact at different levels of adoption of low-GWP alternative refrigerants.
+
+Unit:Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Transitioning from HFCs to refrigerants with lower GWP can increase jobs (Colbourne et al., 2013; U.S.EPA, 2025). Reports from the Alliance for Responsible Atmospheric Policy and collaborators found that moving toward lower GWP refrigerants in the United States would increase jobs, increase manufacturing outputs of alternative refrigerants, and create more exports, strengthening the United States’ trade position (Inforum et al., 2019; JMS Consulting & Inforum, 2018). It is possible that using alternative refrigerants could lead to consumer savings on energy bills, depending on the alternative refrigerant, application, and equipment design (Colbourne et al., 2013; Purohit & Höglund-Isaksson, 2017; Shah et al., 2019; Zaelke & Borgford-Parnell, 2015). For example, an analysis of mobile air conditioning found that switching to an alternative refrigerant, such as R152a, can lead to high cost savings over its lifetime, and consumers in hotter climates would see the savings benefits (Blumberg et al., 2019). Since efficiency improvements are possible but not guaranteed in all cases, we do not consider this a guaranteed additional benefit.
+
+For a description of the benefits to land resources, please refer to Air Quality below.
+
+Some F-gases such as HFCs are considered per- and polyfluoroalkyl substances (PFAS) and can persist in the environment for centuries, posing serious human and ecosystem health risks (Figure 1) (Dimitrakopoulou et al., 2024; Fenton et al., 2021). PFAS can decompose in the atmosphere to produce trifluoroacetic acid (TFA), which can harm the environment and human health (UNEP, 2023). Possible impacts of high atmospheric TFA concentrations include acid rain, accumulation in terrestrial ecosystems in water and plant matter, and harmful effects on the environment and organisms (Chele et al., 2024; Hanson et al., 2024). Non-fluorinated alternative refrigerants would reduce the amount of PFAS pollution and reduce atmospheric TFA formation, lessening these harmful impacts. Some of these air quality benefits would also benefit indoor air quality because most refrigerants are used in buildings. Using alternative refrigerants avoids release of ozone-depleting substances such as HCFCs that can harm the ozone layer (Bolaji & Huan, 2013).
+
+These benefits depend on the alternative refrigerant used – some low-GWP F-gas refrigerants such as HFOs are highly reactive, can be classified as PFAS, and can form TFA and other degradation products (Salvador et al., 2024). Therefore, the type of alternative refrigerant affects whether this is a benefit or a risk (see Risks below for more information). The thresholds at which these impacts occur are not well understood, and more research is needed to understand the potential harmful effects of TFA (Arp et al., 2024).
+
+There is a low risk of the emissions reductions for this solution being reversed. Each kt high-GWP refrigerant phased out for a lower-GWP alternative reduces the emissions from refrigerant release during manufacturing, transport, installation, operation, repair, and disposal of equipment.
+
+This solution is additional when alternative refrigerant is used in applications that would have used HFCs or other high-GWP refrigerants in recent history. HFCs are not the baseline refrigerant in every scenario: hydrocarbons, for example, have been widely used in residential refrigeration and ammonia in industrial refrigeration for many years.
+
+In our analysis, we considered any path to adoption of alternative refrigerants to be part of its effectiveness at reducingGHGemissions. For example, we considered all HFC reductions mandated by policy to be considered additional over baseline HFC usage. However, some GHG accounting or crediting organizations would consider this regulatory additionality; the only emissions reductions that count as additional would be those not mandated by international, regional, and application-specific policy limits.
+
+Some alternative refrigerants – including propane and ammonia – can react in the atmosphere to form polluting or toxic compounds (Chele et al., 2024). Low- and medium-GWP HFO or HFC refrigerants degrade into TFA, which is considered by some regulating bodies to be a PFAS, a class of chemicals with a proposed ban in Europe (European Chemicals Agency, 2023; European Environmental Bureau, 2025; Garavagno et al., 2024). Although TFA concentrations are currently low and impacts are minimal, increased HFO use could lead to greater accumulation, making it important to further study the potential risks (Chele et al., 2024; European Environmental Bureau, 2025; Hanson et al., 2024; Holland et al., 2021). Moreover, HFOs are made from high-GWP feedstocks, perpetuating the production and release of high-GWP chemicals (Booten et al., 2020; Chele et al., 2024). The use of other alternative refrigerant chemistries will reduce these risks (see Figure 1 and Additional Benefits).
+
+Alternative refrigerants can be flammable (e.g., propane, ammonia) and toxic (e.g., ammonia). This potentially risks the well-being of people or property due to ignition, explosion, or refrigerant leaks (Shah et al., 2017). Minimizing leaks, reducing proximity to ignition sources, enhancing leak sensing, regulating safe charge sizes, and training installation and maintenance professionals are ways to lower this risk (Secop, 2018). Many alternative refrigerants are classified in ASHRAE safety group A2L, and these refrigerants have a low risk of ignition (Gradient, 2015; Imamura et al., 2015). Many countries have updated their standards in recent years to ensure safe use of low-GWP refrigerants, but adoption can be slowed if building codes do not allow for adoption (Heubes et al., 2012; UNEP, 2023).
+
+Some specific technological solutions are required to avoid risks – for example, ammonia corrodes copper (Dräger, n.d.), and CO₂
+ refrigerant requires equipment and safety mechanisms that can handle its high operating pressure (Zanchi et al., 2019).
+
+For particular alternative refrigerants and applications, switching to a lower-GWP refrigerant can reduce equipment efficiency (ASHRAE, 2009). Such a switch would decreasedirect emissionsdue to reduction in refrigerant GWP, but would increase emissions associated with electricity generation.
+
+Less efficient refrigerants may also require larger equipment and heavier masses of refrigerants, increasing the emissions for producing and transporting appliances. Fabris et al. (2024) reported that transport refrigeration systems using CO₂
+ refrigerant are heavier, leading to a 9.3% increase in emissions from fuel consumption during transport.
+
+Decreasingfood loss and wastecould require increases in cold storage capacity, especially in commercial, residential, and transport refrigeration (Babiker, 2017; Food and Agriculture Organization of the United Nations, 2019). Alternative refrigerants will lead to reduced GHG emissions from this new food refrigeration equipment, particularly for high-leakagesystems such as supermarket refrigeration. However, if less food is produced to better managefood loss, this could lead to a decreased demand for cold storage (Dong et al., 2021).
+
+Reduce Food Loss & Waste
+
+Alternative refrigerants require design changes (Kim et al., 2020) that could increase the up-front cost of heat pumps.
+
+Using alternative refrigerants will decrease the CO₂‑eq
+ emissions from released refrigerants. This means that management practices to reduce refrigerant release will save fewer CO₂‑eq
+ emissions.
+
+Improve Refrigerant Management
+
+Consensus of effectiveness in reducing emissions: High
+
+Phasing out high-GWP refrigerants for low or medium-GWP refrigerants is unquestionably effective at reducing emissions from refrigerant use.
+
+In a report from two U.S. national laboratories, Booten et al. (2020) claim that systems using F-gas refrigerants for refrigeration and air conditioning are “the most difficult and impactful” innovation spaces for refrigerants. Zaelke and Borgford-Parnell (2015) asserted that reducing short-lived climate pollutants including HFCs “is the most effective strategy for constraining warming and associated impacts in the near term.” Utilizing low-GWP alternative refrigerants is a proven means to achieve this.
+
+The IPCC Sixth Assessment (2023) cites the World Meteorological Organization (2018) and Höglund-Isaksson et al. (2017) in claiming that worldwide compliance with the Kigali Amendment schedule would reduce HFC emissions by 61% over baseline emissions by 2050. Velders et al. (2022) modeled future HFC emissions under the Kigali Amendment and found that these HFC reductions could save 3.1–4.4 Gt CO₂‑eq
+, 100-yr basis/yr by 2050. Dreyfus et al. (2020) estimate possible cumulative savings of 33–47 Gt CO₂‑eq
+ (100-yr) through 2050, with an additional 53 Gt CO₂‑eq
+ (100-yr) through 2060 if HFC phase-down is immediate.
+
+Expert consensus is that the potential impact of alternative refrigerants will increase as a warming climate and increased population and development drive demand for higher use of cooling equipment (Campbell et al., 2018; Dreyfus et al., 2020; Petri & Caldeira, 2015). This will particularly be true for developing countries in already warm climates (Dong et al., 2021).
+
+The results presented in this document summarize findings from one review article, six original studies, two reports, one international treaty, two industry guidelines, one conference proceeding, and eight national GHG inventory submissions to the United Nations. This reflects current evidence from 34 countries, primarily Annex 1 countries as identified by the United Nations as well as China. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Develop national cooling plans and integrate them into national climate plans.
+
+Enact comprehensive policies that incentivize the lowest possible GWP refrigerants, penalize high-GWP refrigerants, and provide updated building code requirements.
+
+Create government procurement policies that become stricter over time to mandate the use of alternative refrigerants or implement refrigerant GWP limits in government buildings and cooling systems.
+
+Offer financial incentives such as subsidies, tax credits, and grants for using alternative refrigerants.
+
+Implement the transition to alternative refrigerants while simultaneously working to improve equipment energy efficiency.
+
+Implement an array of safety regulations that reduce the risk of leaks and exposure, such as restricting charge sizes, improving ventilation and leak sensors, and requiring certification for professionals.
+
+Create free workforce training programs to improve safety around installation and maintenance.
+
+Invest inR&Dto improve availability, compatibility with existing equipment, and safety of alternative refrigerants.
+
+Require detailed recordkeeping for vendors, contractors, and technicians to track and report on refrigerant types and amounts in use.
+
+Develop refrigerant audit programs similar to energy audit programs.
+
+Conduct consultations with national and local government agencies, businesses, schools, universities, farmers, healthcare professionals, research institutions, nonprofits, and the public to determine how best to transition localsupply chainsto alternative refrigerants.
+
+Create certification schemes to identify which businesses utilize alternative refrigerants.
+
+Offer educational resources, creating one-stop shops for information on alternative refrigerants and energy efficiency; offer demonstrations, highlighting their cost savings and climate benefits.
+
+Create, support, or join networks or partnerships dedicated to advancing and deploying alternative refrigerants.
+
+Refrigeration, air conditioning and foam blowing sectors technology roadmap. Heubes et al. (2012)
+
+Space cooling. IEA (2023)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Cooling emissions and policy synthesis report: Benefits of cooling efficiency and the Kigali Amendment. UNEP & IEA (2020)
+
+Use alternative refrigerants and equipment that uses the lowest possible GWP refrigerant, and phase in alternative refrigerants throughout the rest of your supply chain.
+
+Advocate for comprehensive policy plans that incentivize the lowest possible GWP refrigerants, penalize high-GWP refrigerants, and provide updated building code requirements.
+
+Avoid venting or intentional releases of high-GWP refrigerants and conduct regular maintenance on equipment.
+
+Maintain detailed records to track and report on refrigerant types and amounts in use.
+
+Improve building, operations, and cooling designs to reduce demand for refrigerants.
+
+Implement an array of safety protocols to reduce the risk of leaks and exposure, such as restricting charge sizes, improving ventilation and leak sensors, and ensuring only trained professionals service the equipment.
+
+Take advantage of financial incentives such as subsidies, tax credits, and grants for using alternative refrigerants.
+
+Participate in consultations with national and local government agencies, businesses, universities, farmers, healthcare professionals, research institutions, nonprofits, and the public to determine how best to transition local supply chains to alternative refrigerants.
+
+Stay abreast of changing regulations, identify authoritative and trustworthy sources of legal and policy information, and invest in technology that stays ahead of the refrigerant transition curve.
+
+Participate in certification schemes that identify which businesses utilize alternative refrigerants.
+
+Create, support, or join networks or partnerships dedicated to advancing and deploying alternative refrigerants.
+
+Refrigeration, air conditioning and foam blowing sectors technology roadmap. Heubes et al. (2012)
+
+Space cooling. IEA (2023)
+
+Cooling emissions and policy synthesis report: Benefits of cooling efficiency and the Kigali Amendment. UNEP & IEA (2020)
+
+Establish time-bound, transparent targets for transitioning to alternative refrigerants.
+
+Use alternative refrigerants and equipment that uses the lowest possible GWP refrigerant; pressure or incentivize suppliers to phase in and report on alternative refrigerants throughout your supply chain.
+
+Take advantage of financial incentives such as subsidies, tax credits, and grants for using alternative refrigerants.
+
+Maintain detailed records to track and report on refrigerant types and amounts in use within operations; request and maintain records from suppliers.
+
+Improve building, operations, and cooling designs to reduce demand for refrigerants.
+
+Participate in consultations with national and local government agencies, businesses, universities, farmers, healthcare professionals, research institutions, nonprofits, and the public to determine how best to transition local supply chains to alternative refrigerants.
+
+Participate in certification schemes that identify which businesses utilize alternative refrigerants.
+
+Advocate for comprehensive policy plans that incentivize the lowest possible GWP refrigerants, penalize high-GWP refrigerants, and provide updated building code requirements.
+
+Advocate for bans on venting or intentional releases of high-GWP refrigerants, requirements for regular maintenance, and refrigerant or equipment tracking programs to help enforcement.
+
+Create, support, or join networks or partnerships dedicated to advancing and deploying alternative refrigerants.
+
+Refrigeration, air conditioning and foam blowing sectors technology roadmap. Heubes et al. (2012)
+
+Space cooling. IEA (2023)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Cooling emissions and policy synthesis report: Benefits of cooling efficiency and the Kigali Amendment. UNEP & IEA (2020)
+
+Ensure operations use alternative refrigerants and equipment that uses the lowest possible GWP refrigerant, if relevant.
+
+Advocate for comprehensive policy plans that incentivize the lowest possible GWP refrigerants, penalize high-GWP refrigerants, and provide updated building code requirements.
+
+Advocate for bans on venting or intentional releases of high-GWP refrigerants, requirements for regular maintenance, and refrigerant or equipment tracking programs to help enforcement.
+
+Help develop national cooling plans and integrate them into national climate plans.
+
+Work with public schools, health facilities, and other public venues to deploy alternative refrigerants.
+
+Create free workforce training programs to improve safety around installation and maintenance.
+
+Assist with technology transfer to low- and middle-income countries to help improve low-cost adoption.
+
+Create public campaigns to advocate against dumping inefficient equipment in local markets – especially in low- and middle-income countries.
+
+Help develop refrigerant audit programs similar to energy audit programs.
+
+Participate in consultations with national and local government agencies, businesses, universities, farmers, healthcare professionals, research institutions, nonprofits, and the public to determine how best to transition local supply chains to alternative refrigerants.
+
+Offer educational resources, creating one-stop shops for information on alternative refrigerants and energy efficiency; offer demonstrations, highlighting their cost savings and climate benefits.
+
+Administer or participate in certification schemes that identify which businesses utilize alternative refrigerants.
+
+Create, support, or join networks or partnerships dedicated to advancing and deploying alternative refrigerants.
+
+Refrigeration, air conditioning and foam blowing sectors technology roadmap. Heubes et al. (2012)
+
+Space cooling. IEA (2023)
+
+Cooling emissions and policy synthesis report: Benefits of cooling efficiency and the Kigali Amendment. UNEP & IEA (2020)
+
+Ensure portfolio companies use or have a credible plan to use alternative refrigerants and phase in alternative refrigerants throughout the rest of their supply chain.
+
+Ensure infrastructure investment projects leverage building, operations, and cooling designs that reduce demand for refrigerants.
+
+Invest in start-ups working to improve and deploy alternative refrigeration technologies and refrigerant recycling.
+
+Offer preferential loan agreements for developers utilizing alternative refrigerants and other climate-friendly practices.
+
+Offer innovative financing methods such as microloans andgreen bondsto invest in projects that use alternative refrigerants.
+
+Invest in R&D to improve availability, cost, compatibility with existing equipment, and safety of alternative refrigerants.
+
+Create, support, or join networks or partnerships dedicated to advancing and deploying alternative refrigerants.
+
+Refrigeration, air conditioning and foam blowing sectors technology roadmap. Heubes et al. (2012)
+
+Space cooling. IEA (2023)
+
+Cooling emissions and policy synthesis report: Benefits of cooling efficiency and the Kigali Amendment. UNEP & IEA (2020)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Ensure operations use alternative refrigerants and equipment that uses the lowest possible GWP refrigerant, if relevant.
+
+Advocate for comprehensive policy plans that incentivize the lowest possible GWP refrigerants, penalize high-GWP refrigerants, and provide updated building code requirements.
+
+Advocate for bans on venting or intentional releases of high-GWP refrigerants, requirements for regular maintenance, and refrigerant or equipment tracking to help enforcement.
+
+Invest in start-ups working to improve and deploy alternative refrigeration technologies.
+
+Set requirements for alternative refrigerants when funding new construction.
+
+Offer financing options such as grants, microloans, and green bonds to invest in projects that use alternative refrigerants.
+
+Invest in R&D to improve availability, cost, compatibility with existing equipment, and safety of alternative refrigerants.
+
+Help develop national cooling plans and integrate them into national climate plans.
+
+Work with public schools, health facilities, and other public venues to deploy alternative refrigerants.
+
+Create free workforce training programs to improve safety around installation and maintenance.
+
+Assist with technology transfer to low- and middle-income countries to help improve adoption.
+
+Create public campaigns to advocate against dumping inefficient equipment in local markets – especially in low- and middle-income countries.
+
+Help develop refrigerant audit programs similar to energy audit programs.
+
+Research other traditional methods of cooling and food storage, develop means of scaling relevant methods, and find practical means of integrating traditional methods with modern lifestyles.
+
+Participate in consultations with national and local government agencies, businesses, universities, farmers, healthcare professionals, research institutions, nonprofits, and the public to determine how best to transition local supply chains to alternative refrigerants.
+
+Offer educational resources, creating one-stop shops for information on alternative refrigerants and energy efficiency; offer demonstrations, highlighting their cost savings and climate benefits.
+
+Participate in certification schemes that identify which businesses utilize alternative refrigerants.
+
+Create, support, or join networks or partnerships dedicated to advancing and deploying alternative refrigerants.
+
+Refrigeration, air conditioning and foam blowing sectors technology roadmap. Heubes et al. (2012)
+
+Space cooling. IEA (2023)
+
+Cooling emissions and policy synthesis report: Benefits of cooling efficiency and the Kigali Amendment. UNEP & IEA (2020)
+
+Advocate for comprehensive policy plans that incentivize the lowest possible GWP refrigerants, penalize high-GWP refrigerants, and provide updated building code requirements.
+
+Advocate for bans on venting or intentional releases of high-GWP refrigerants, requirements for regular maintenance, and refrigerant or equipment tracking to help enforcement.
+
+Help develop national cooling plans and integrate them into national climate plans.
+
+Work with public schools, health facilities, and other public venues to deploy alternative refrigerants.
+
+Assist with technology transfer to low- and middle-income countries to help improve adoption.
+
+Create public campaigns to advocate against dumping inefficient equipment in local markets – especially in low- and middle-income countries.
+
+Help develop refrigerant audit programs similar to energy audit programs.
+
+Research other traditional methods of cooling and food storage, develop means of scaling relevant methods, and find practical means of integrating traditional methods with modern lifestyles.
+
+Participate in consultations with national and local government agencies, businesses, universities, farmers, healthcare professionals, research institutions, nonprofits, and the public to determine how best to transition local supply chains to alternative refrigerants.
+
+Create, support, or join networks or partnerships dedicated to advancing and deploying alternative refrigerants.
+
+Refrigeration, air conditioning and foam blowing sectors technology roadmap. Heubes et al. (2012)
+
+Space cooling. IEA (2023)
+
+Cooling emissions and policy synthesis report: Benefits of cooling efficiency and the Kigali Amendment. UNEP & IEA (2020)
+
+
+## Technologists and Researchers
+
+
+Research and develop new low- and medium-GWP alternative refrigerants.
+
+Find ways to optimize the charge size, cooling performance, and end-of-life management of alternative refrigerants.
+
+Design better cooling and heat pump systems to reduce cost of installation and maintenance.
+
+Develop software to track types and quantities of refrigerants in use.
+
+Conduct R&D on improving cost-effectiveness, safety, and compatibility with existing equipment of alternative refrigerants.
+
+Develop software for companies to model and simulate alternative refrigerants within various system configurations.
+
+Find opportunities to achieve higher equipment efficiencies or other energy-saving designs, such as recovering and utilizing waste heat from CO₂
+ refrigerant systems.
+
+Improve gas detection systems to improve safety protocols around alternative refrigerants.
+
+Research other traditional methods of cooling and food storage; develop means of scaling relevant methods; find practical means of integrating traditional methods with modern lifestyles.
+
+Refrigeration, air conditioning and foam blowing sectors technology roadmap. Heubes et al. (2012)
+
+Space cooling. IEA (2023)
+
+Cooling emissions and policy synthesis report: Benefits of cooling efficiency and the Kigali Amendment. UNEP & IEA (2020)
+
+
+## Communities, Households, and Individuals
+
+
+Use alternative refrigerants and equipment that uses the lowest possible GWP.
+
+Explore and integrate other traditional methods of cooling and food storage, if relevant.
+
+Advocate for comprehensive policy plans that incentivize the lowest possible GWP refrigerants, penalize high-GWP refrigerants, and provide updated building code requirements.
+
+Advocate for bans on venting or intentional releases of high-GWP refrigerants, requirements for regular maintenance, and refrigerant or equipment tracking to help enforcement.
+
+Work with public schools, health facilities, and other public venues to deploy alternative refrigerants.
+
+Take advantage of financial incentives such as subsidies, tax credits, and grants for using alternative refrigerants.
+
+Participate in consultations with national and local government agencies, businesses, universities, farmers, healthcare professionals, research institutions, nonprofits, and the public to determine how best to transition local supply chains to alternative refrigerants.
+
+Create, support, or join networks or partnerships dedicated to advancing and deploying alternative refrigerants.
+
+Refrigeration, air conditioning and foam blowing sectors technology roadmap. Heubes et al. (2012)
+
+Space cooling. IEA (2023)
+
+Cooling emissions and policy synthesis report: Benefits of cooling efficiency and the Kigali Amendment. UNEP & IEA (2020)
+
+
+## “Take Action” Sources
+
+
+ASHRAE position document on natural refrigerants. ASHRAE (2009)
+
+Phasing down the use of hydrofluorocarbons (HFCs). Borgford-Parnell et al. (2015)
+
+Forward-looking low-global warming potential refrigerant transition study – draft report. California Public Utilities Commission (2024)
+
+Solving the global cooling challenge: how to counter the climate threat from room air conditioners. Campbell et al. (2018)
+
+2023 MEP 2040 6th forum — refrigerants. Carbon Leadership Forum (2023)
+
+Industrial refrigeration: best practices guide. Cascade Energy (n.d.)
+
+Potential policy framework for the promotion of sustainable ODS/HFC banks management. Climate and Ozone Protection Alliance (2023)
+
+Cooling with ammonia: What you should keep in mind. Dräger (n.d.)
+
+Assessment of climate and development benefits of efficient and climate-friendly cooling. Dreyfus et al. (2020)
+
+Refrigeration, air conditioning and foam blowing sectors technology roadmap. Heubes et al. (2012)
+
+Space cooling. IEA (2023)
+
+Module 6: Technology roadmap for the RAC&F sectors. Oppelt (2013)
+
+Benefits of leapfrogging to superefficiency and low global warming potential refrigerants in room air conditioning. Shah et al. (2015)
+
+Opportunities for simultaneous efficiency improvement and refrigerant transition in air conditioning. Shah et al. (2017)
+
+Sustainable cooling for all in Ghana: Meeting cooling needs while accelerating a just and equitable transition. Sustainable Energy for All (2024)
+
+Recommendations for climate friendly refrigerant management and procurement. Sustainable Purchasing Leadership Council Climate Friendly Refrigerant Action Team (2021)
+
+Market impacts of low-gwp refrigerants for refrigeration equipment. TRC (2021)
+
+Cooling emissions and policy synthesis report: Benefits of cooling efficiency and the Kigali Amendment. UNEP & IEA (2020)
+
+Refrigeration, air conditioning and heat pumps technical options committee: 2022 assessment report. UNEP (2023)
+
+Doing cold smarter. Birmingham Energy Institute (2015)
+
+Transitioning to low-GWP alternatives in transport refrigeration. U.S. EPA (2011)
+
+Refrigerant transition management and planning for the future. U.S. EPA (2023)
+
+Low global warming potential refrigerants for direct HVAC applications. Walter-Terrinoni & DeBullet (2019)
+
+Methods and Supporting Data
+
+Air-Conditioning, Heating, and Refrigeration Institute. (n.d.-a).A2L refrigerant building code map - Canada.Link to source:https://www.ahrinet.org/a2l-refrigerant-building-code-map-canada
+
+Air-Conditioning, Heating, and Refrigeration Institute. (n.d.-b).A2L refrigerant building code map - US.Link to source:https://www.ahrinet.org/a2l-refrigerant-building-code-map-us
+
+Amendment to the Montreal Protocol on substances that deplete the ozone layer.(2016, October 15).Link to source:https://treaties.un.org/doc/Treaties/2016/10/20161015%2003-23%20PM/Ch_XXVII-2.f-English%20and%20French.pdf
+
+Arp, H. P. H., Gredelj, A., Glüge, J., Scheringer, M., & Cousins, I. T. (2024). The global threat from the irreversible accumulation of trifluoroacetic acid (TFA).Environmental Science & Technology, 58(45), 19925–19935.Link to source:https://doi.org/10.1021/acs.est.4c06189
+
+ASHRAE. (2009).ASHRAE position document on natural refrigerants.Link to source:https://www.epa.gov/sites/default/files/documents/ASHRAE_PD_Natural_Refrigerants_2011.pdf
+
+Babiker, M., Berndes, G., Blok, K., Cohen, B., Cowie, A., Geden, O., Ginzburg, V., Leip, A., Smith, P., Sugiyama, M., & Yamba, F. (2022). Cross-sectoral perspectives. In P. R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, & J. Malley (Eds.),Climate change 2022: Mitigation of climate change.Contribution of working group III to the sixth assessment report of the intergovernmental panel on climate change (pp. 1245–1354). Cambridge University Press.Link to source:https://doi.org/10.1017/9781009157926.014
+
+Baha, M., & Dupont, J.-L. (2023, September 15).Global warming potential (GWP) of HFC refrigerants.International Institute of Refrigeration.Link to source:https://iifiir.org/en/encyclopedia-of-refrigeration/global-warming-potential-gwp-of-hfc-refrigerants
+
+Behringer, D., Heydel, F., Gschrey, B., Osterheld, S., Schwarz, W., Warncke, K., Freeling, F., Nödler, K., Henne, S., Reimann, S., Blepp, M., Jörß, W., Liu, R., Ludig, S., Rüdenauer, I., & Gartiser, S. (2021).Persistent degradation products of halogenated refrigerants and blowing agents in the environment: Type, environmental concentrations, and fate with particular regard to new halogenated substitutes with low global warming potential.Final report. Umweltbundesamt [German Environment Agency].Link to source:https://www.umweltbundesamt.de/sites/default/files/medien/5750/publikationen/2021-05-06_texte_73-2021_persistent_degradation_products.pdf
+
+Blumberg, K., Isenstadt, Taddonio, K. N., Andersen, S. O., & Sherman, N. J. (2019).Mobile air conditioning: The life-cycle costs and greenhouse-gas benefits of switching to alternative refrigerants and improving system efficiencies.Link to source:https://theicct.org/wp-content/uploads/2021/06/ICCT_mobile-air-cond_CBE_201903.pdf
+
+Bolaji, B. O., & Huan, Z. (2013). Ozone depletion and global warming: Case for the use of natural refrigerant – a review.Renewable and Sustainable Energy Reviews, 18,49–54.Link to source:https://doi.org/10.1016/j.rser.2012.10.008
+
+Booten, C., Nicholson, S., Mann, M., & Abdelaziz, O. (2020).Refrigerants: Market trends and supply chain assessment.Link to source:https://www.nrel.gov/docs/fy20osti/70207.pdf
+
+Burkholder, J. B., Hodnebrog, Ø., McDonald, B. C., Orkin, V., Papadimitriou, V. C., & Van Hoomissen, D. (2023). Annex: Summary of abundances, lifetimes, ODPs, REs, GWPs, and GTPs. Scientific Assessment of Ozone Depletion 2022.Link to source:https://csl.noaa.gov/assessments/ozone/2022/downloads/Annex_2022OzoneAssessment.pdf
+
+California Public Utilities Commission. (2022). Refrigerant avoided cost calculator [Data set].Link to source:https://www.cpuc.ca.gov/dercosteffectiveness
+
+Campbell, I., Kalanki, A., & Sachar, S. (2018).Solving the global cooling challenge: How to counter the climate threat from room air conditioners.Rocky Mountain Institute.Link to source:https://rmi.org/wp-content/uploads/2018/11/Global_Cooling_Challenge_Report_2018.pdf
+
+Chele, F. S., Salvador, C., Stevenson, L., Dolislager, F., Armstrong, A., Power, S., Mathews, T., & Yana Motta, S. F. (2024).Critical literature review of low global warming potential (GWP) refrigerants and their environmental impact.Oak Ridge National Laboratory.Link to source:https://www.osti.gov/servlets/purl/2528023
+
+CLASP. (2025, December).Mepsy: The appliance & equipment climate impact calculator(Version 1.15.0).Link to source:https://clasp.shinyapps.io/mepsy
+
+CLASP & ATMOsphere. (2022).Global refrigerant impact from 6 appliances in 22 countries.Link to source:https://www.clasp.ngo/wp-content/uploads/2022/05/Refrigerant-Modeling-Interim-Report-APR142022.pdf
+
+Climate and Ozone Protection Alliance. (2025).Global banks of ozone depleting substances (ODS) and hydrofluorocarbons (HFCs).Link to source:https://www.copalliance.org/imglib/publications/2025-04_COPA_Global%20Banks%20ODS%20HFC_update.pdf
+
+Colbourne, D., Croiset, I., Ederberg, L., Heubes, J., Martin, M., Narayan, C., Oppelt, D., Papst, I., Usinger, J., & Gschrey, B. (2013).NAMAs in the refrigeration, air conditioning and foam sectors: A technical handbook.Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH [German Agency for International Cooperation] .Link to source:https://transparency-partnership.net/sites/default/files/e-bruochure-20131015-neu.pdf
+
+Copernicus Climate Change Service. (2023).ERA5 hourly data on single levels from 1940 to present [Data set]. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). Retrieved January 13, 2026 fromLink to source:https://doi.org/10.24381/cds.adbb2d47
+
+Crippa, M., Guizzardi, D., Pagani, F., Banja, M., Muntean, M., Schaaf, E., Quadrelli, R., Risquez Martin, A., Taghavi-Moharamli, P., Köykkä, J., Grassi, G., Rossi, S., Melo, J., Oom, D., Branco, A., Suárez-Moreno, M., Sedano, F., San-Miguel, J., Manca, G., … Pekar, F. (2025).GHG emissions of all world countries - 2025 Report(JRC143227). Publications Office of the European Union.Link to source:https://data.europa.eu/doi/10.2760/9816914
+
+Denzinger, P. (2023, December 9).Context and global mitigation potential of “green” ACs.COP28 UAE.Link to source:https://www.green-cooling-initiative.org/fileadmin/user_upload/Final_02_COP28_Side_Event_Green_ACs_Final_Final.pdf
+
+Dimitrakopoulou, M.-E., Karvounis, M., Marinos, G., Theodorakopoulou, Z., Aloizou, E., Petsangourakis, G., Papakonstantinou, M., & Stoitsis, G. (2024). Comprehensive analysis of PFAS presence from environment to plate.npj Science of Food, 8,80.Link to source:https://doi.org/10.1038/s41538-024-00319-1
+
+Dong, Y., Coleman, M., & Miller, S. A. (2021). Greenhouse gas emissions from air conditioning and refrigeration service expansion in developing countries.Annual Review of Environment and Resources, 46,59–83.Link to source:https://doi.org/10.1146/annurev-environ-012220-034103
+
+Dräger. (n.d.).Cooling with ammonia: What you should keep in mind.Link to source:https://www.draeger.com/Content/Documents/Content/ammoniak-fa-pdf-8110-en.pdf
+
+Dreyfus, G., Borgford-Parnell, N., Christensen, J., Fahey, D. W., Motherway, B., Peters, T., Picolotti, R., Shah, N., & Xu, Y. (2020).Assessment of climate and development benefits of efficient and climate-friendly cooling.Link to source:https://www.ccacoalition.org/resources/assessment-climate-and-development-benefits-efficient-and-climate-friendly-cooling
+
+European Chemicals Agency. (2023).Annex XV restriction report: Per- and polyfluoroalkyl substances (PFASs).Link to source:https://echa.europa.eu/documents/10162/f605d4b5-7c17-7414-8823-b49b9fd43aea
+
+European Environmental Bureau. (2025).Universal PFAS restriction under REACH: Briefing on fluorinated gases in the universal PFAS restriction—The F-lephant in the room.Link to source:https://eeb.org/wp-content/uploads/2025/02/EEB_EURENI_F-gas_Policy-Brief.pdf
+
+Fabris, F., Fabrizio, M., Marinetti, S., Rossetti, A., & Minetto, S. (2024). Evaluation of the carbon footprint of HFC and natural refrigerant transport refrigeration units from a life-cycle perspective.International Journal of Refrigeration, 159,17–27.Link to source:https://doi.org/10.1016/j.ijrefrig.2023.12.018
+
+Fenton, S. E., Ducatman, A., Boobis, A., DeWitt, J. C., Lau, C., Ng, C., Smith, J. S., & Roberts, S. M. (2021). Per- and polyfluoroalkyl substance toxicity and human health review: Current state of knowledge and strategies for informing future research.Environmental Toxicology and Chemistry, 40(3), 606–630.Link to source:https://doi.org/10.1002/etc.4890
+
+Food and Agriculture Organization of the United Nations. (2019).The state of food and agriculture 2019: Moving forward on food loss and waste reduction.Link to source:https://openknowledge.fao.org/server/api/core/bitstreams/11f9288f-dc78-4171-8d02-92235b8d7dc7/content
+
+Garavagno, M. d. l. A., Holland, R., Khan, M. A. H., Orr-Ewing, A. J., & Shallcross, D. E. (2024). Trifluoroacetic acid: Toxicity, sources, sinks and future prospects.Sustainability, 16(6), Article 2382.Link to source:https://doi.org/10.3390/su16062382
+
+Garry, M. (2021, June 23).Certain HFCs and HFOs are in PFAS group that five EU countries intend to restrict.Link to source:https://naturalrefrigerants.com/certain-hfcs-and-hfos-are-in-pfas-group-that-five-eu-countries-intend-to-restrict/
+
+Goetzler, W., Guernsey, M., Young, J., Fuhrman, J., & Abdelaziz, O. (2016).The future of air conditioning for buildings.U.S. Department of Energy. Office of Energy Efficiency and Renewable Energy. Building Technologies Office.Link to source:https://www.energy.gov/sites/prod/files/2016/07/f33/The%20Future%20of%20AC%20Report%20-%20Full%20Report_0.pdf
+
+Gradient. (2015).Risk assessment of refrigeration systems using A2L flammable refrigerants.Link to source:https://www.ahrinet.org/system/files/2023-08/AHRI-8009_Final_Report.pdf
+
+Green Cooling Initiative. (n.d.).Global greenhouse gas emissions from the RAC sector.Retrieved April 15, 2025, fromLink to source:https://www.green-cooling-initiative.org/country-data
+
+Hanson, M. L., Madronich, S., Solomon, K., Sulbaek Andersen, M. P., & Wallington, T. J. (2024). Trifluoroacetic acid in the environment: Consensus, gaps, and next steps.Environmental Toxicology and Chemistry, 43,2091–2093.Link to source:https://doi.org/10.1002/etc.5963
+
+Hayes, C., Stausholm, T., Ilana, K., & Devin, Y. (2023).Natural refrigerants: State of the industry.ATMOsphere.Link to source:https://atmosphere.cool/marketreport-2022/
+
+Hersbach, H., Bell, B., Berrisford, P., Hirahara, S., Horányi, A., Muñoz‐Sabater, J., Nicolas, J., Peubey, C., Radu, R., Schepers, D., Simmins, A., Soci, C., Abdalla, S., Abellan, X., Balsamo, G., Bechtold, P., Biavati, G., Bidlot, J., Bonavita, M., … Thépaut, J. N. (2020). The ERA5 global reanalysis.Quarterly Journal of the Royal Meteorological Society,146(730), 1999–2049.Link to source:https://doi.org/10.1002/qj.3803
+
+Heubes, J., Martin, M., & Oppelt, D. (2012).Refrigeration, air conditioning and foam blowing sectors technology roadmap.GIZ Proklima.Link to source:https://unfccc.int/ttclear/misc_/StaticFiles/gnwoerk_static/TEM_tec_cfi_rm/993ecdfa67144e68b88b4735ea50fcf0/647faaa714484a2983fe6851111ab9aa.pdf
+
+Höglund-Isaksson, L., Purohit, P., Amann, M., Bertok, I., Rafaj, P., Schöpp, W., & Borken-Kleefeld, J. (2017). Cost estimates of the Kigali Amendment to phase-down hydrofluorocarbons.Environmental Science & Policy, 75,138–147.Link to source:https://doi.org/10.1016/j.envsci.2017.05.006
+
+Holland, R., Khan, M. A. H., Driscoll, I., Chhantyal-Pun, R., Derwent, R. G., Taatjes, C. A., Orr-Ewing, A. J., Percival, C. J., & Shallcross, D. E. (2021). Investigation of the production of trifluoroacetic acid from two halocarbons, HFC-134a and HFO-1234yf and its fates using a global three-dimensional chemical transport model.ACS Earth and Space Chemistry, 5(4), 849–857.Link to source:https://doi.org/10.1021/acsearthspacechem.0c00355
+
+Imamura, T., Kamiya, K., & Sugawa, O. (2015). Ignition hazard evaluation on A2L refrigerants in situations of service and maintenance.Journal of Loss Prevention in the Process Industries, 36,553–561.Link to source:https://doi.org/10.1016/j.jlp.2014.12.018
+
+Inforum, JMS Consulting, The Alliance for Responsible Atmospheric Policy, & Air-Conditioning, Heating, and Refrigeration Institute. (2019, December 12).Economic & consumer impacts of HFC phasedown.Link to source:https://www.congress.gov/116/meeting/house/110388/documents/HHRG-116-IF18-20200114-SD003.pdf
+
+International Energy Agency. (2023, July 12).Space cooling.Link to source:https://www.iea.org/energy-system/buildings/space-cooling
+
+Intergovernmental Panel on Climate Change. (2023).Climate change 2022: Mitigation of climate change. Working Group III Contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change.Cambridge University Press.Link to source:https://doi.org/10.1017/9781009157926
+
+JMS Consulting & Inforum. (2018).Consumer cost impacts of U.S. ratification of the Kigali Amendment.Link to source:https://www.alliancepolicy.org/site/usermedia/application/10/Consumer_Costs_Final_InforumJMS_20181109.pdf
+
+Kim, B., Lee, S. H., Lee, D., & Kim, Y. (2020). Performance comparison of heat pumps using low global warming potential refrigerants with optimized heat exchanger designs.Applied Thermal Engineering,171, Article 114990.Link to source:https://doi.org/10.1016/j.applthermaleng.2020.114990
+
+Montreal protocol on substances that deplete the ozone layer. (1987, September 16).Link to source:https://treaties.un.org/doc/publication/unts/volume%201522/volume-1522-i-26369-english.pdf
+
+The North American Sustainable Refrigeration Council. (n.d.).HFC policies & refrigerant regulations by state.Link to source:https://nasrc.org/hfc-policy-tracker/
+
+Ozone Secretariat. (2017, February 17).Frequently asked questions relating to the Kigali Amendment to the Montreal Protocol. United Nations, United Nations Environment Programme.Link to source:https://ozone.unep.org/sites/default/files/FAQs_Kigali_Amendment.pdf
+
+Ozone Secretariat. (2020).Treaties. United Nations, United Nations Environment Programme.Link to source:https://ozone.unep.org/classification-parties
+
+Ozone Secretariat. (n.d.).Country data. United Nations, United Nations Environment Programme.Link to source:https://ozone.unep.org/countries/data
+
+Petri, Y., & Caldeira, K. (2015). Impacts of global warming on residential heating and cooling degree-days in the United States.Scientific Reports, 5(1), Article 12427.Link to source:https://doi.org/10.1038/srep12427
+
+Purohit, P., & Höglund-Isaksson, L. (2017). Global emissions of fluorinated greenhouse gases 2005–2050 with abatement potentials and costs.Atmospheric Chemistry and Physics, 17(4), 2795–2816.Link to source:https://doi.org/10.5194/acp-17-2795-2017
+
+Salvador, C. M., Chele, F. S., Stevenson, L., Dolislager, F., Armstrong, A., Mathews, T., & Yana Motta, S. (2024).Atmospheric transformation of refrigerants: Current research developments and knowledge gaps.International Refrigeration and Air Conditioning Conference, USA, Paper 2671.Link to source:https://docs.lib.purdue.edu/iracc/2671
+
+Secop. (2018).Practical application of refrigerants R600a and R290 in small hermetic systems.Link to source:https://www.secop.com/fileadmin/user_upload/technical-literature/guidelines/application_guideline_r600a_r290_02-2018_desa610a202.pdf
+
+Shah, N., Khanna, N., Karali, N., Park, W. Y., Qu, Y., & Zhou, N. (2017).Opportunities for simultaneous efficiency improvement and refrigerant transition in air conditioning.Lawrence Berkeley National Laboratory.Link to source:https://cooling.lbl.gov/publications/opportunities-simultaneous-efficiency
+
+Shah, N., Wei, M., Letschert, V., & Phadke, A. (2015).Benefits of leapfrogging to superefficiency and low global warming potential refrigerants in room air conditioning.Lawrence Berkeley National Laboratory.Link to source:https://www.osti.gov/servlets/purl/1235571
+
+Shah, N., Wei, M., Letschert, V., & Phadke, A. (2019).Benefits of energy efficient and low-global warming potential refrigerant cooling equipment.Lawrence Berkeley National Laboratory.Link to source:https://cooling.lbl.gov/publications/benefits-energy-efficient-and-low
+
+Sherry, D., Nolan, M., Seidel, S., & Andersen, S. O. (2017). HFO-1234yf:An examination of projected long-term costs of production.Nolan Sherry & Associates, Center for Climate and Energy Solutions, Institute for Governance and Sustainable Development.Link to source:https://www.c2es.org/wp-content/uploads/2017/04/hfo-1234yf-examination-projected-long-term-costs-production.pdf
+
+Smith, C., Nicholls, Z. R. J., Armour, K., Collins, W., Forster, P., Meinshausen, M., Palmer, M. D., & Watanabe, M. (2021). The Earth’s energy budget, climate feedbacks, and climate sensitivity supplementary material. InClimate Change 2021: The Physical Science Basis.Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change.Link to source:https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter07_SM.pdf
+
+Sustainable Purchasing Leadership Council Climate Friendly Refrigerant Action Team. (2021).Recommendations for climate friendly refrigerant management and procurement.Link to source:https://www.igsd.org/publications/recommendations-for-climate-friendly-refrigerant-management-and-procurement/
+
+Trevisan, T. (2023, July 3).Overview of PFAS refrigerants used in HVAC&R and relevance of refrigerants in the PFAS Restriction Intention.UN Montreal Protocol 45th OEWG, Bangkok.Link to source:https://ozone.unep.org/system/files/documents/OEWG45_ATMO_sidevent.pdf
+
+United Nations Development Programme. (2022).Guidance note: Assessing greenhouse gas emissions from refrigerants use in UNDP operations.Link to source:https://www.undp.org/sites/g/files/zskgke326/files/2022-07/Refrigerants%20methodology%20version%20July%202022.pdf
+
+United Nations Environment Programme. (2022). Medical and Chemical Technical Options Committee: 2022 assessment report.Link to source:https://ozone.unep.org/system/files/documents/MCTOC-Assessment-Report-2022.pdf
+
+United Nations Environment Programme. (2023).Refrigeration, Air Conditioning and Heat Pumps Technical Options Committee: 2022 assessment report.Link to source:https://ozone.unep.org/system/files/documents/RTOC-assessment%20-report-2022.pdf
+
+United Nations Environment Programme & ASHRAE. (2025).Update on new refrigerants designations and safety classifications June 2025.Link to source:https://www.ashrae.org/file%20library/professional%20development/ashrae-unep/unep---ashrae-factsheet--english.pdf
+
+United Nations Framework Convention on Climate Change. (2023). National inventory submissions, Annex 1 parties [Data set].Link to source:https://unfccc.int/ghg-inventories-annex-i-parties/2023
+
+U.S. Environmental Protection Agency. (2011).Transitioning to low-GWP alternatives in transport refrigeration.Link to source:https://www.epa.gov/sites/default/files/2015-07/documents/transitioning_to_low-gwp_alternatives_in_transport_refrigeration.pdf
+
+U.S. Environmental Protection Agency. (2025).Frequent questions on the phasedown of hydrofluorocarbons.Link to source:https://www.epa.gov/climate-hfcs-reduction/frequent-questions-phasedown-hydrofluorocarbons
+
+Velders, G. J. M., Daniel, J. S., Montzka, S. A., Vimont, I., Rigby, M., Krummel, P. B., Muhle, J., O’Doherty, S., Prinn, R. G., Weiss, R. F., & Young, D. (2022). Projections of hydrofluorocarbon (HFC) emissions and the resulting global warming based on recent trends in observed abundances and current policies.Atmospheric Chemistry and Physics, 22(9), 6087–6101.Link to source:https://doi.org/10.5194/acp-22-6087-2022
+
+Velders, G. J. M., Fahey, D. W., Daniel, J. S., Andersen, S. O., & McFarland, M. (2015). Future atmospheric abundances and climate forcings from scenarios of global and regional hydrofluorocarbon (HFC) emissions.Atmospheric Environment, 123,200–209.Link to source:https://doi.org/10.1016/j.atmosenv.2015.10.071
+
+World Meteorological Organization. (2018).Executive summary: Scientific assessment of ozone depletion: 2018 (Report No. 58).Link to source:https://ozone.unep.org/sites/default/files/2019-04/SAP-2018-Assessment-report-ES-rev%20%281%29.pdf
+
+Zaelke, D., & Borgford-Parnell, N. (2015). The importance of phasing down hydrofluorocarbons and other short-lived climate pollutants.Journal of Environmental Studies and Sciences, 5(2), 169–175.Link to source:https://doi.org/10.1007/s13412-014-0215-7
+
+Zanchi, V., Boban, L., & Soldo, V. (2019). Refrigerant options in the near future.Journal of Sustainable Development of Energy, Water and Environment Systems, 7(2), 293–304.Link to source:https://doi.org/10.13044/j.sdewes.d6.0250
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

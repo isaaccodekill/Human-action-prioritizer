@@ -1,0 +1,1127 @@
+# Concentrated Solar
+Source: https://en.wikipedia.org/wiki/Concentrated_solar_power
+
+Concentrated solar power (CSP), also called concentrating solar power or concentrated solar thermal, involves systems that collect solar heat for multiple purposes like cooking, desalination, or the generation of electric solar power, by using mirrors to concentrate a large area of sunlight toward a receiver.  
+Electricity is generated when the concentrated light is converted to heat (solar thermal energy), which drives a heat engine, either Stirling engine or a steam turbine as in fossil thermal power stations, via an electrical power generator, or powers a thermochemical reaction.
+In combination with thermal energy storage, concentrated solar power can produce electricity also during the night, to compete against the combination of battery energy storage systems fed by photovoltaics, the predominant solar power technology, with about 1 terawatt of global installed nameplate capacity in 2022.
+By comparison, as of 2021, global installed capacity was less than 1% as concentrated solar power stood at only 6.8 GW. As of 2023, the total was 8.1 GW, with the inclusion of three new CSP projects in construction in China and in Dubai in the UAE. The U.S.-based National Renewable Energy Laboratory (NREL), which maintains a global database of CSP plants, counts 6.6 GW of operational capacity and another 1.5 GW under construction.
+
+
+== Comparison between CSP and other electricity sources ==
+As a thermal energy generating power station, CSP has more in common with thermal power stations such as coal, gas, or geothermal. A CSP plant can incorporate thermal energy storage, which stores energy either in the form of sensible heat or as latent heat (for example, using molten salt), which enables these plants to continue supplying electricity whenever it is needed, day or night. This makes CSP a dispatchable form of solar. Dispatchable renewable energy is particularly valuable in places where there is already a high penetration of photovoltaics (PV), such as California, because demand for electric power peaks near sunset just as PV capacity ramps down (a phenomenon referred to as duck curve).
+CSP is often compared to photovoltaic solar (PV) since they both use solar energy. While solar PV experienced huge growth during the 2010s due to falling prices, solar CSP growth has been slow due to technical difficulties and high prices. In 2017, CSP represented less than 2% of worldwide installed capacity of solar electricity plants. However, CSP can more easily store energy during the night, making it more competitive with dispatchable generators and baseload plants.
+The DEWA project in Dubai, under construction in 2019, held the world record for lowest CSP price in 2017 at US$73 per MWh for its 700 MW combined trough and tower project: 600 MW of trough, 100 MW of tower with 15 hours of thermal energy storage daily. Base-load CSP tariff in the extremely dry Atacama region of Chile reached below $50/MWh in 2017 auctions.
+
+
+== History ==
+
+A legend from later centuries has it that Archimedes not only used the Claw of Archimedes, but also a "burning glass" to concentrate sunlight on the invading Roman fleet and repel them from the Siege of Syracuse (213–212 BC). In 1973 a Greek scientist, Dr. Ioannis Sakkas, curious about whether Archimedes' heat ray could really have destroyed the Roman fleet in 212 BC, lined up nearly 60 Greek sailors, each holding an oblong mirror tipped to catch the sun's rays and direct them at a tar-covered plywood silhouette 49 m (160 ft) away. The ship caught fire after a few minutes; however, historians continue to doubt the Archimedes story.
+In 1866, Auguste Mouchout used a parabolic trough to produce steam for the first solar steam engine. The first patent for a solar collector was obtained by the Italian Alessandro Battaglia in Genoa, Italy, in 1886. Over the following years, inventors such as John Ericsson and Frank Shuman developed concentrating solar-powered devices for irrigation, refrigeration, and locomotion. In 1913 Shuman finished a 55 horsepower (41 kW) parabolic solar thermal energy station in Maadi, Egypt for irrigation. The first solar-power system using a mirror dish was built by Dr. R.H. Goddard, who was already well known for his research on liquid-fueled rockets and wrote an article in 1929 in which he asserted that all the previous obstacles had been addressed.
+Professor Giovanni Francia (1911–1980) designed and built the first concentrated-solar plant, which entered into operation in Sant'Ilario, near Genoa, Italy in 1968. This plant had the architecture of today's power tower plants, with a solar receiver in the center of a field of solar collectors. The plant was able to produce 1 MW with superheated steam at 100 bar and 500 °C. The 10 MW Solar One power tower was developed in Southern California in 1981. Solar One was converted into Solar Two in 1995, implementing a new design with a molten salt mixture (60% sodium nitrate, 40% potassium nitrate) as the receiver working fluid and as a storage medium. The molten salt approach proved effective, and Solar Two operated successfully until it was decommissioned in 1999. The parabolic-trough technology of the nearby Solar Energy Generating Systems (SEGS), begun in 1984, was more workable. The 354 MW SEGS was the largest solar power plant in the world until 2014.
+No commercial concentrated solar was constructed from 1990, when SEGS was completed, until 2006, when the Compact linear Fresnel reflector system at Liddell Power Station in Australia was built. Few other plants were built with this design, although the 5 MW Kimberlina Solar Thermal Energy Plant opened in 2009.
+In 2007, 75 MW Nevada Solar One was built, a trough design and the first large plant since SEGS. Between 2010 and 2013, Spain built over 40 parabolic trough systems, size constrained at no more than 50 MW by the support scheme. Where not bound in other countries, the manufacturers have adopted up to 200 MW size for a single unit, with a cost soft point around 125 MW for a single unit.
+Due to the success of Solar Two, a commercial power plant, called Solar Tres Power Tower, was built in Spain in 2011, later renamed Gemasolar Thermosolar Plant. Gemasolar's results paved the way for further plants of its type. Ivanpah Solar Power Facility was constructed at the same time but without thermal storage, using natural gas to preheat water each morning.
+Most concentrated solar power plants use the parabolic trough design, instead of the power tower or Fresnel systems. There have also been variations of parabolic trough systems like the integrated solar combined cycle (ISCC) which combines troughs and conventional fossil fuel heat systems.
+CSP was originally treated as a competitor to photovoltaics, and Ivanpah was built without energy storage, although Solar Two included several hours of thermal storage. By 2015, prices for photovoltaic plants had fallen and PV commercial power was selling for 1⁄3 of contemporary CSP contracts. However, increasingly, CSP was being bid with 3 to 12 hours of thermal energy storage, making CSP a dispatchable form of solar energy. As such, it is increasingly seen as competing with natural gas and PV with batteries for flexible, dispatchable power.
+
+
+== Current technology ==
+CSP is used to produce electricity (sometimes called solar thermoelectricity, usually generated through steam). Concentrated solar technology systems use mirrors or lenses with tracking systems to focus a large area of sunlight onto a small area. The concentrated light is then used as heat or as a heat source for a conventional power plant (solar thermoelectricity). The solar concentrators used in CSP systems can often also be used to provide industrial process heating or cooling, such as in solar air conditioning.
+Concentrating technologies exist in four optical types, namely parabolic trough, dish, concentrating linear Fresnel reflector, and solar power tower. Parabolic trough and concentrating linear Fresnel reflectors are classified as linear focus collector types, while dish and solar tower are point focus types. Linear focus collectors achieve medium concentration factors (50 suns and over), and point focus collectors achieve high concentration factors (over 500 suns). Although simple, these solar concentrators are quite far from the theoretical maximum concentration. For example, the parabolic-trough concentration gives about 1⁄3 of the theoretical maximum for the design acceptance angle, that is, for the same overall tolerances for the system. Approaching the theoretical maximum may be achieved by using more elaborate concentrators based on nonimaging optics.
+Different types of concentrators produce different peak temperatures and correspondingly varying thermodynamic efficiencies due to differences in the way that they track the sun and focus light. New innovations in CSP technology are leading systems to become more and more cost-effective.
+In 2023, Australia's national science agency CSIRO tested a CSP arrangement in which tiny ceramic particles fall through the beam of concentrated solar energy, the ceramic particles capable of storing a greater amount of heat than molten salt, while not requiring a container that would diminish heat transfer.
+
+
+=== Parabolic trough ===
+
+A parabolic trough consists of a linear parabolic reflector that concentrates light onto a receiver positioned along the reflector's focal line. The receiver is a tube positioned at the longitudinal focal line of the parabolic mirror and filled with a working fluid. The reflector follows the sun during the daylight hours by tracking along a single axis. A working fluid (e.g. molten salt) is heated to 150–350 °C (302–662 °F) as it flows through the receiver and is then used as a heat source for a power generation system. Trough systems are the most developed CSP technology. The Solar Energy Generating Systems (SEGS) plants in California, some of the longest-running in the world until their 2021 closure; Acciona's Nevada Solar One near Boulder City, Nevada; and Andasol, Europe's first commercial parabolic trough plant are representative, along with Plataforma Solar de Almería's SSPS-DCS test facilities in Spain.
+
+
+==== Enclosed trough ====
+The design encapsulates the solar thermal system within a greenhouse-like glasshouse. The glasshouse creates a protected environment to withstand the elements that can negatively impact reliability and efficiency of the solar thermal system. Lightweight curved solar-reflecting mirrors are suspended from the ceiling of the glasshouse by wires. A single-axis tracking system positions the mirrors to retrieve the optimal amount of sunlight. The mirrors concentrate the sunlight and focus it on a network of stationary steel pipes, also suspended from the glasshouse structure. Water is carried throughout the length of the pipe, which is boiled to generate steam when intense solar radiation is applied. Sheltering the mirrors from the wind allows them to achieve higher temperature rates and prevents dust from building up on the mirrors.
+GlassPoint Solar, the company that created the Enclosed Trough design, states its technology can produce heat for Enhanced Oil Recovery (EOR) for about $5 per 290 kWh (1,000,000 BTU) in sunny regions, compared to between $10 and $12 for other conventional solar thermal technologies.
+
+
+=== Solar power tower ===
+
+ 
+
+A solar power tower consists of an array of dual-axis tracking reflectors (heliostats) that concentrate sunlight on a central receiver atop a tower; the receiver contains a heat-transfer fluid, which can consist of water-steam or molten salt. Optically a solar power tower is the same as a circular Fresnel reflector. The working fluid in the receiver is heated to 500–1000 °C (773–1,273 K or 932–1,832 °F) and then used as a heat source for a power generation or energy storage system. An advantage of the solar tower is the reflectors can be adjusted instead of the whole tower. Power-tower development is less advanced than trough systems, but they offer higher efficiency and better energy storage capability. Beam down tower application is also feasible with heliostats to heat the working fluid. CSP with dual towers are also used to enhance the conversion efficiency by nearly 24%.
+The Solar Two in Daggett, California and the CESA-1 in Plataforma Solar de Almeria Almeria, Spain, are the most representative demonstration plants. The Planta Solar 10 (PS10) in Sanlucar la Mayor, Spain, is the first commercial utility-scale solar power tower in the world. The 377 MW Ivanpah Solar Power Facility, located in the Mojave Desert, was the largest CSP facility in the world, and uses three power towers. Ivanpah generated only 0.652 TWh (63%) of its energy from solar means, and the other 0.388 TWh (37%) was generated by burning natural gas.
+Supercritical carbon dioxide can be used instead of steam as heat-transfer fluid for increased electricity production efficiency. However, because of the high temperatures in arid areas where solar power is usually located, it is impossible to cool down carbon dioxide below its critical temperature in the compressor inlet. Therefore, supercritical carbon dioxide blends with higher critical temperatures are currently in development.
+
+
+=== Fresnel reflectors ===
+
+Fresnel reflectors are made of many thin, flat mirror strips to concentrate sunlight onto tubes through which working fluid is pumped. Flat mirrors allow more reflective surface in the same amount of space than a parabolic reflector, thus capturing more of the available sunlight, and they are much cheaper than parabolic reflectors. Fresnel reflectors can be used in various size CSPs.
+Fresnel reflectors are sometimes regarded as a technology with a worse output than other methods. The cost efficiency of this model is what causes some to use this instead of others with higher output ratings. Some new models of Fresnel reflectors with Ray Tracing capabilities have begun to be tested and have initially proved to yield higher output than the standard version.
+
+
+=== Dish Stirling ===
+
+A dish Stirling or dish engine system consists of a stand-alone parabolic reflector that concentrates light onto a receiver positioned at the reflector's focal point. The reflector tracks the Sun along two axes. The working fluid in the receiver is heated to 250–700 °C (482–1,292 °F) and then used by a Stirling engine to generate power. Parabolic-dish systems provide high solar-to-electric efficiency (between 31% and 32%), and their modular nature provides scalability. The Stirling Energy Systems (SES), United Sun Systems (USS) and Science Applications International Corporation (SAIC) dishes at UNLV, and Australian National University's Big Dish in Canberra, Australia are representative of this technology. A world record for solar to electric efficiency was set at 31.25% by SES dishes at the National Solar Thermal Test Facility (NSTTF) in New Mexico on 31 January 2008, a cold, bright day. According to its developer, Ripasso Energy, a Swedish firm, in 2015 its dish Stirling system tested in the Kalahari Desert in South Africa showed 34% efficiency. The SES installation in Maricopa, Phoenix, was the largest Stirling Dish power installation in the world until it was sold to United Sun Systems. Subsequently, larger parts of the installation have been moved to China to satisfy part of the large energy demand.
+
+
+== CSP with thermal energy storage ==
+
+In a CSP plant that includes storage, the solar energy is first used to heat molten salt or synthetic oil, which is stored providing thermal/heat energy at high temperature in insulated tanks. Later the hot molten salt (or oil) is used in a steam generator to produce steam to generate electricity by steam turbo generator as required. Thus solar energy which is available in daylight only is used to generate electricity round the clock on demand as a load following power plant or solar peaker plant. The thermal storage capacity is indicated in hours of power generation at nameplate capacity. Unlike solar PV or CSP without storage, the power generation from solar thermal storage plants is dispatchable and self-sustainable, similar to coal/gas-fired power plants, but without the pollution. CSP with thermal energy storage plants can also be used as cogeneration plants to supply both electricity and process steam round the clock. As of December 2018, CSP with thermal energy storage plants' generation costs have ranged between 5 c € / kWh and 7 c € / kWh, depending on good to medium solar radiation received at a location. Unlike solar PV plants, CSP with thermal energy storage can also be used economically around the clock to produce process steam, replacing polluting fossil fuels. CSP plants can also be integrated with solar PV for better synergy.
+CSP with thermal storage systems are also available using Brayton cycle generators with air instead of steam for generating electricity and/or steam round the clock. These CSP plants are equipped with gas turbines to generate electricity. These are also small in capacity (<0.4 MW), with flexibility to install in few acres' area. Waste heat from the power plant can also be used for process steam generation and HVAC needs. In case land availability is not a limitation, any number of these modules can be installed, up to 1000 MW with RAMS and cost advantages since the per MW costs of these units are lower than those of larger size solar thermal stations.
+Centralized district heating round the clock is also feasible with concentrated solar thermal storage plants.
+
+
+== Deployment around the world ==
+
+An early plant operated in Sicily at Adrano. The US deployment of CSP plants started by 1984 with the SEGS plants. The last SEGS plant was completed in 1990. From 1991 to 2005, no CSP plants were built anywhere in the world. Global installed CSP-capacity increased nearly tenfold between 2004 and 2013 and grew at an average of 50 percent per year during the last five of those years, as the number of countries with installed CSP was growing. In 2013, worldwide installed capacity increased by 36% or nearly 0.9 gigawatt (GW) to more than 3.4 GW. The record for capacity installed was reached in 2014, corresponding to 925 MW; however, it was followed by a decline caused by policy changes, the 2008 financial crisis, and the rapid decrease in price of the photovoltaic cells. Nevertheless, total capacity reached 6800 MW in 2021.
+Spain accounted for almost one third of the world's capacity, at 2,300 MW, despite no new capacity entering commercial operation in the country since 2013.
+The United States follows with 1,740 MW. Interest is also notable in North Africa and the Middle East, as well as China and India. There is a notable trend towards developing countries and regions with high solar radiation with several large plants under construction in 2017.
+
+The global market was initially dominated by parabolic-trough plants, which accounted for 90% of CSP plants at one point.
+Since about 2010, central power tower CSP has been favored in new plants due to its higher temperature operation – up to 565 °C (1,049 °F) vs. trough's maximum of 400 °C (752 °F) – which promises greater efficiency.
+Among the larger CSP projects are the Ivanpah Solar Power Facility (392 MW) in the United States, which uses solar power tower technology without thermal energy storage, and the Ouarzazate Solar Power Station in Morocco, which combines trough and tower technologies for a total of 510 MW with several hours of energy storage.
+
+
+== Cost ==
+As early as 2011, the rapid decline of the price of photovoltaic systems led to projections that CSP would no longer be economically viable. As of 2020, the least expensive utility-scale concentrated solar power stations in the United States and worldwide were five times more expensive than utility-scale photovoltaic power stations, with a projected minimum price of 7 cents per kilowatt-hour for the most advanced CSP stations against record lows of 1.32 cents per kWh for utility-scale PV. This five-fold price difference has been maintained since 2018. Some hybrid PV-CSP plants in China have sought to operate profitably on the regional coal tariff of 5 US cents per kWh in 2021.
+Even though overall deployment of CSP remains limited in the early 2020s, the levelized cost of power from commercial scale plants has decreased since the 2010s. With a learning rate estimated at around 20% cost reduction of every doubling in capacity, the costs were approaching the upper end of the fossil fuel cost range at the beginning of the 2020s, driven by support schemes in several countries, including Spain, the US, Morocco, South Africa, China, and the UAE.
+
+
+=== Energy storage ===
+Some researchers expect CSP in combination with Thermal Energy Storage (TES) to become cheaper than PV with lithium batteries for storage durations above 4 hours per day, while others such as NREL expects that by 2030 PV with 10-hour storage lithium batteries will cost the same as PV with 4-hour storage used to cost in 2020, leaving CSP no cost advantage when it comes to energy storage. Regardless of these cost projections, energy storage solutions remain essential, as they improve stability and reliability by reducing the impact of renewable intermittency and power factor mismatch.
+
+
+== Efficiency ==
+The efficiency of a concentrating solar power system depends on the technology used to convert the solar power to electrical energy, the operating temperature of the receiver and the heat rejection, thermal losses in the system, and the presence or absence of other system losses; in addition to the conversion efficiency, the optical system which concentrates the sunlight will also add additional losses.
+Real-world systems claim a maximum thermal to electrical conversion efficiency of 23-35% for "power tower" type systems, operating at temperatures from 250 to 565 °C, with the higher efficiency number assuming a combined cycle turbine. Dish Stirling systems, operating at temperatures of 550-750 °C, claim an efficiency of about 30%, with the record solar-to-grid conversion efficiency of 31.25%, "the highest recorded efficiency for any field solar technology" set by Sandia in 2008, and a slightly slightly higher record of 31.4% solar-to-electric system efficiency reported by the U.S. Department of Energy.
+Due to variation in sun incidence during the day, the average conversion efficiency achieved is not equal to these maximum efficiencies, and the net annual solar-to-electricity efficiencies are 7-20% for pilot power tower systems, and 12-25% for demonstration-scale Stirling dish systems.
+
+
+=== Theory ===
+The solar energy to electrical power conversion efficiency is the product of several factors: the fraction of solar energy captured (accounting for optical losses in the solar concentration system), the heating efficiency (accounting for thermal losses in the element receiving the solar energy), and the thermal conversion efficiency (the efficiency of converting heat energy to electrical power).
+The maximum conversion efficiency of any thermal to electrical energy system is given by the Carnot efficiency, which represents a theoretical limit to the efficiency that can be achieved by any system, set by the laws of thermodynamics. Real-world systems do not achieve the Carnot efficiency.
+The conversion efficiency 
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+  
+ of the incident solar radiation into mechanical work depends on the thermal radiation properties of the solar receiver and on the heat engine (e.g. steam turbine). 
+Solar irradiation is first concentrated onto the receiver by an optical system and converted into heat by the solar receiver with the efficiency 
+  
+    
+      
+        
+          η
+          
+            R
+            e
+            c
+            e
+            i
+            v
+            e
+            r
+          
+        
+      
+    
+    {\displaystyle \eta _{Receiver}}
+  
+, and subsequently the heat is converted into mechanical energy by the heat engine with the efficiency 
+  
+    
+      
+        
+          η
+          
+            m
+            e
+            c
+            h
+            a
+            n
+            i
+            c
+            a
+            l
+          
+        
+      
+    
+    {\displaystyle \eta _{mechanical}}
+  
+, using Carnot's principle. The mechanical energy is then converted into electrical energy by a generator.
+For a solar receiver with a mechanical converter (e.g., a turbine), the overall conversion efficiency can be defined as follows:
+
+  
+    
+      
+        η
+        =
+        
+          η
+          
+            
+              o
+              p
+              t
+              i
+              c
+              s
+            
+          
+        
+        ⋅
+        
+          η
+          
+            
+              r
+              e
+              c
+              e
+              i
+              v
+              e
+              r
+            
+          
+        
+        ⋅
+        
+          η
+          
+            
+              m
+              e
+              c
+              h
+              a
+              n
+              i
+              c
+              a
+              l
+            
+          
+        
+        ⋅
+        
+          η
+          
+            
+              g
+              e
+              n
+              e
+              r
+              a
+              t
+              o
+              r
+            
+          
+        
+      
+    
+    {\displaystyle \eta =\eta _{\mathrm {optics} }\cdot \eta _{\mathrm {receiver} }\cdot \eta _{\mathrm {mechanical} }\cdot \eta _{\mathrm {generator} }}
+  
+
+where 
+  
+    
+      
+        
+          η
+          
+            
+              o
+              p
+              t
+              i
+              c
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \eta _{\mathrm {optics} }}
+  
+ represents the fraction of incident light concentrated onto the receiver, 
+  
+    
+      
+        
+          η
+          
+            
+              r
+              e
+              c
+              e
+              i
+              v
+              e
+              r
+            
+          
+        
+      
+    
+    {\displaystyle \eta _{\mathrm {receiver} }}
+  
+ the fraction of light incident on the receiver that is converted into heat energy, 
+  
+    
+      
+        
+          η
+          
+            
+              m
+              e
+              c
+              h
+              a
+              n
+              i
+              c
+              a
+              l
+            
+          
+        
+      
+    
+    {\displaystyle \eta _{\mathrm {mechanical} }}
+  
+ the efficiency of conversion of heat energy into mechanical energy, and 
+  
+    
+      
+        
+          η
+          
+            
+              g
+              e
+              n
+              e
+              r
+              a
+              t
+              o
+              r
+            
+          
+        
+      
+    
+    {\displaystyle \eta _{\mathrm {generator} }}
+  
+ the efficiency of converting the mechanical energy into electrical power.
+
+  
+    
+      
+        
+          η
+          
+            
+              r
+              e
+              c
+              e
+              i
+              v
+              e
+              r
+            
+          
+        
+      
+    
+    {\displaystyle \eta _{\mathrm {receiver} }}
+  
+ is:
+
+  
+    
+      
+        
+          η
+          
+            
+              r
+              e
+              c
+              e
+              i
+              v
+              e
+              r
+            
+          
+        
+        =
+        
+          
+            
+              
+                Q
+                
+                  
+                    a
+                    b
+                    s
+                    o
+                    r
+                    b
+                    e
+                    d
+                  
+                
+              
+              −
+              
+                Q
+                
+                  
+                    l
+                    o
+                    s
+                    t
+                  
+                
+              
+            
+            
+              Q
+              
+                
+                  i
+                  n
+                  c
+                  i
+                  d
+                  e
+                  n
+                  t
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \eta _{\mathrm {receiver} }={\frac {Q_{\mathrm {absorbed} }-Q_{\mathrm {lost} }}{Q_{\mathrm {incident} }}}}
+  
+
+with 
+  
+    
+      
+        
+          Q
+          
+            
+              i
+              n
+              c
+              i
+              d
+              e
+              n
+              t
+            
+          
+        
+      
+    
+    {\displaystyle Q_{\mathrm {incident} }}
+  
+, 
+  
+    
+      
+        
+          Q
+          
+            
+              a
+              b
+              s
+              o
+              r
+              b
+              e
+              d
+            
+          
+        
+      
+    
+    {\displaystyle Q_{\mathrm {absorbed} }}
+  
+, 
+  
+    
+      
+        
+          Q
+          
+            
+              l
+              o
+              s
+              t
+            
+          
+        
+      
+    
+    {\displaystyle Q_{\mathrm {lost} }}
+  
+ respectively the incoming solar flux and the fluxes absorbed and lost by the system solar receiver.
+The conversion efficiency 
+  
+    
+      
+        
+          η
+          
+            
+              m
+              e
+              c
+              h
+              a
+              n
+              i
+              c
+              a
+              l
+            
+          
+        
+      
+    
+    {\displaystyle \eta _{\mathrm {mechanical} }}
+  
+ is at most the Carnot efficiency, which is determined by the temperature of the receiver 
+  
+    
+      
+        
+          T
+          
+            H
+          
+        
+      
+    
+    {\displaystyle T_{H}}
+  
+ and the temperature of the heat rejection ("heat sink temperature") 
+  
+    
+      
+        
+          T
+          
+            0
+          
+        
+      
+    
+    {\displaystyle T^{0}}
+  
+,
+
+  
+    
+      
+        
+          η
+          
+            
+              C
+              a
+              r
+              n
+              o
+              t
+            
+          
+        
+        =
+        1
+        −
+        
+          
+            
+              T
+              
+                0
+              
+            
+            
+              T
+              
+                H
+              
+            
+          
+        
+      
+    
+    {\displaystyle \eta _{\mathrm {Carnot} }=1-{\frac {T^{0}}{T_{H}}}}
+  
+
+The real-world thermal-conversion efficiencies of typical engines achieve 50% to at most 70% of the Carnot efficiency due to losses such as heat loss and windage in the moving parts.
+
+
+=== Ideal case ===
+For a solar flux 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+ (e.g. 
+  
+    
+      
+        I
+        =
+        1000
+        
+        
+          W
+          
+            /
+          
+          
+            m
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle I=1000\,\mathrm {W/m^{2}} }
+  
+) concentrated 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ times with an efficiency 
+  
+    
+      
+        
+          η
+          
+            O
+            p
+            t
+            i
+            c
+            s
+          
+        
+      
+    
+    {\displaystyle \eta _{Optics}}
+  
+ on the system solar receiver with a collecting area 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ and an absorptivity 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+:
+
+  
+    
+      
+        
+          Q
+          
+            
+              s
+              o
+              l
+              a
+              r
+            
+          
+        
+        =
+        I
+        C
+        A
+      
+    
+    {\displaystyle Q_{\mathrm {solar} }=ICA}
+  
+,
+
+  
+    
+      
+        
+          Q
+          
+            
+              a
+              b
+              s
+              o
+              r
+              b
+              e
+              d
+            
+          
+        
+        =
+        
+          η
+          
+            
+              o
+              p
+              t
+              i
+              c
+              s
+            
+          
+        
+        α
+        
+          Q
+          
+            
+              s
+              o
+              l
+              a
+              r
+            
+          
+        
+      
+    
+    {\displaystyle Q_{\mathrm {absorbed} }=\eta _{\mathrm {optics} }\alpha Q_{\mathrm {solar} }}
+  
+,
+For simplicity's sake, one can assume that the losses are only radiative ones (a fair assumption for high temperatures), thus for a reradiating area A and an emissivity 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+  
+ applying the Stefan–Boltzmann law yields:
+
+  
+    
+      
+        
+          Q
+          
+            
+              l
+              o
+              s
+              t
+            
+          
+        
+        =
+        A
+        ϵ
+        σ
+        
+          T
+          
+            H
+          
+          
+            4
+          
+        
+      
+    
+    {\displaystyle Q_{\mathrm {lost} }=A\epsilon \sigma T_{H}^{4}}
+  
+
+Simplifying these equations by considering perfect optics (
+  
+    
+      
+        
+          η
+          
+            
+              O
+              p
+              t
+              i
+              c
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \eta _{\mathrm {Optics} }}
+  
+ = 1) and without considering the ultimate conversion step into electricity by a generator, collecting and reradiating areas equal and maximum absorptivity and emissivity (
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+ = 1, 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+  
+ = 1) then substituting in the first equation gives
+
+  
+    
+      
+        η
+        =
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  σ
+                  
+                    T
+                    
+                      H
+                    
+                    
+                      4
+                    
+                  
+                
+                
+                  I
+                  C
+                
+              
+            
+          
+          )
+        
+        ⋅
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  T
+                  
+                    0
+                  
+                
+                
+                  T
+                  
+                    H
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \eta =\left(1-{\frac {\sigma T_{H}^{4}}{IC}}\right)\cdot \left(1-{\frac {T^{0}}{T_{H}}}\right)}
+  
+
+The graph shows that the overall efficiency does not increase steadily with the receiver's temperature. Although the heat engine's efficiency (Carnot) increases with higher temperature, the receiver's efficiency does not. On the contrary, the receiver's efficiency is decreasing, as the amount of energy it cannot absorb (Qlost) grows by the fourth power as a function of temperature. Hence, there is a maximum reachable temperature. When the receiver efficiency is null (blue curve on the figure below), Tmax is:
+
+  
+    
+      
+        
+          T
+          
+            
+              m
+              a
+              x
+            
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  I
+                  C
+                
+                σ
+              
+            
+            )
+          
+          
+            0.25
+          
+        
+      
+    
+    {\displaystyle T_{\mathrm {max} }=\left({\frac {IC}{\sigma }}\right)^{0.25}}
+  
+
+There is a temperature Topt for which the efficiency is maximum, i.e.. when the efficiency derivative relative to the receiver temperature is null:
+
+  
+    
+      
+        
+          
+            
+              d
+              η
+            
+            
+              d
+              
+                T
+                
+                  H
+                
+              
+            
+          
+        
+        (
+        
+          T
+          
+            
+              o
+              p
+              t
+            
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle {\frac {d\eta }{dT_{H}}}(T_{\mathrm {opt} })=0}
+  
+
+Consequently, this leads us to the following equation:
+
+  
+    
+      
+        
+          T
+          
+            o
+            p
+            t
+          
+          
+            5
+          
+        
+        −
+        (
+        0.75
+        
+          T
+          
+            0
+          
+        
+        )
+        
+          T
+          
+            
+              o
+              p
+              t
+            
+          
+          
+            4
+          
+        
+        −
+        
+          
+            
+              
+                T
+                
+                  0
+                
+              
+              I
+              C
+            
+            
+              4
+              σ
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle T_{opt}^{5}-(0.75T^{0})T_{\mathrm {opt} }^{4}-{\frac {T^{0}IC}{4\sigma }}=0}
+  
+
+Solving this equation numerically allows us to obtain the optimum process temperature according to the solar concentration ratio 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ (red curve on the figure below)
+
+Theoretical efficiencies aside, real-world experience of CSP reveals a 25%–60% shortfall in projected production, a good part of which is due to the practical Carnot cycle losses not included in the above analysis.
+
+
+== Incentives and markets ==
+
+
+=== Spain ===
+
+In 2008, Spain launched the first commercial scale CSP market in Europe. Until 2012, solar-thermal electricity generation was initially eligible for feed-in tariff payments (art. 2 RD 661/2007) – leading to the creation of the largest CSP fleet in the world which at 2.3 GW of installed capacity contributes about 5TWh of power to the Spanish grid every year.
+The initial requirements for plants in the FiT were:
+
+Systems registered in the register of systems prior to 29 September 2008: 50 MW for solar-thermal systems.
+Systems registered after 29 September 2008 (PV only).
+The capacity limits for the different system types were re-defined during the review of the application conditions every quarter (art. 5 RD 1578/2008, Annex III RD 1578/2008). Prior to the end of an application period, the market caps specified for each system type are published on the website of the Ministry of Industry, Tourism and Trade (art. 5 RD 1578/2008). Because of cost concerns Spain has halted acceptance of new projects for the feed-in-tariff on 27 January 2012 Already accepted projects were affected by a 6% "solar-tax" on feed-in-tariffs, effectively reducing the feed-in-tariff.
+In this context, the Spanish Government enacted the Royal Decree-Law 9/2013 in 2013, aimed at the adoption of urgent measures to guarantee the economic and financial stability of the electric system, laying the foundations of the new Law 24/2013 of the Spanish electricity sector. This new retroactive legal-economic framework applied to all the renewable energy systems was developed in 2014 by the RD 413/2014, which abolished the former regulatory frameworks set by the RD 661/2007 and the RD 1578/2008 and defined a new remuneration scheme for these assets.
+After a lost decade for CSP in Europe, Spain announced in its National Energy and Climate Plan with the intention of adding 5GW of CSP capacity between 2021 and 2030. Towards this end bi-annual auctions of 200 MW of CSP capacity starting in October 2022 are expected, but details are not yet known.
+
+
+=== Australia ===
+
+Several CSP dishes have been set up in remote Aboriginal settlements in the Northern Territory: Hermannsburg, Yuendumu and Lajamanu.
+So far no commercial scale CSP project has been commissioned in Australia, but several projects have been suggested. In 2017, now-bankrupt American CSP developer SolarReserve was awarded a PPA to realize the 150 MW Aurora Solar Thermal Power Project in South Australia at a record low rate of just AUD$ 0.08/kWh, or close to USD$ 0.06/kWh. However, the company failed to secure financing, and the project was cancelled. Another application for CSP in Australia are mines that need 24/7 electricity but often have no grid connection. Vast Solar, a startup company aiming to commercialize a novel modular third generation CSP design, was looking to start construction of a 50 MW combined CSP and PV facility in Mt. Isa of North-West Queensland by 2021, and a 30 MW CSP system with multiple smaller solar towers near Port Augusta, with $180 million Australian Renewable Energy Agency grant plus up to $110 million of other funding after 2025.
+At the federal level, under the Large-scale Renewable Energy Target (LRET), in operation under the Renewable Energy Electricity Act 2000, large-scale solar thermal electricity generation from accredited RET power stations may be entitled to create large-scale generation certificates (LGCs). These certificates can then be sold and transferred to liable entities (usually electricity retailers) to meet their obligations under this tradeable certificates scheme. However, as this legislation is technology neutral in its operation, it tends to favour more established RE technologies with a lower levelised cost of generation, such as large-scale onshore wind, rather than solar thermal and CSP.
+At state level, renewable energy feed-in laws typically are capped by maximum generation capacity in kWp, and are open only to micro or medium scale generation and in a number of instances are only open to solar photovoltaic (PV) generation. This means that larger scale CSP projects would not be eligible for payment for feed-in incentives in many of the State and Territory jurisdictions.
+
+
+=== China ===
+
+In 2024, China is offering second generation CSP technology to compete with other on-demand electricity generation methods based on renewable or non-renewable fossil fuels without any direct or indirect subsidies. In the current 14th five-year plan CSP projects are developed in several provinces alongside large GW sized solar PV and wind projects.
+In 2016, China announced its intention to build a batch of 20 technologically diverse CSP demonstration projects in the context of the 13th five-year plan, with the intention of building up an internationally competitive CSP industry. Since the first plants were completed in 2018, the generated electricity from the plants with thermal storage is supported with an administratively set FiT of RMB 1.5 per kWh. At the end of 2020, China operated a total of 545 MW in 12 CSP plants: seven plants (320 MW) are molten-salt towers, another two plants (150 MW) use the proven Eurotrough 150 parabolic trough design, and three plants (75 MW) use linear Fresnel collectors. Plans to build a second batch of demonstration projects were never enacted and further technology specific support for CSP in the upcoming 14th five-year plan is unknown. Federal support projects from the demonstration batch ran out at the end of 2021.
+
+
+=== India ===
+In March 2024, SECI announced that a RfQ for 500 MW would be called in the year 2024.
+
+
+== Solar thermal reactors ==
+CSP has other uses than electricity. Researchers are investigating solar thermal reactors for the production of solar fuels, making solar a fully transportable form of energy in the future. These researchers use the solar heat of CSP as a catalyst for thermochemistry to break apart molecules of H2O to create hydrogen (H2) from solar energy with no carbon emissions. By splitting both H2O and CO2, other much-used hydrocarbons – for example, the jet fuel used to fly commercial airplanes – could also be created with solar energy rather than from fossil fuels.
+Heat from the sun can be used to provide steam used to make heavy oil less viscous and easier to pump. This process is called solar thermal enhanced oil recovery. Solar power towers and parabolic troughs can be used to provide the steam, which is used directly, so no generators are required and no electricity is produced. Solar thermal enhanced oil recovery can extend the life of oilfields with very thick oil which would not otherwise be economical to pump.
+Carbon neutral synthetic fuel production using concentrated solar thermal energy at nearly 1500 °C temperature is technically feasible and will be commercially viable in the future if the costs of CSP plants decline. Also, carbon-neutral hydrogen can be produced with solar thermal energy (CSP) using the sulfur–iodine cycle, hybrid sulfur cycle, iron oxide cycle, copper–chlorine cycle, zinc–zinc oxide cycle, cerium(IV) oxide–cerium(III) oxide cycle, or an alternative.
+
+
+== Gigawatt-scale solar power plants ==
+Around the turn of the millennium up to about 2010, there have been several proposals for gigawatt-size, very-large-scale solar power plants using CSP. They include the Euro-Mediterranean Desertec proposal and Project Helios in Greece (10 GW), both now canceled. A 2003 study concluded that the world could generate 2,357,840 TWh each year from very large-scale solar power plants using 1% of each of the world's deserts. Total consumption worldwide was 15,223 TWh/year (in 2003). The gigawatt size projects would have been arrays of standard-sized single plants. In 2012, the BLM made available 97,921,069 acres (39,627,251 hectares) of land in the southwestern United States for solar projects, enough for between 10,000 and 20,000 GW. The largest single plant in operation is the 510 MW Noor Solar Power Station. In 2022 the 700 MW CSP 4th phase of the 5GW Mohammed bin Rashid Al Maktoum Solar Park in Dubai will become the largest solar complex featuring CSP.
+
+
+=== Suitable sites ===
+The locations with highest direct irradiance are dry, at high altitude, and located in the tropics. These locations have a higher potential for CSP than areas with less sun.
+Abandoned opencast mines, moderate hill slopes, and crater depressions may be advantageous in the case of power tower CSP, as the power tower can be located on the ground integral with the molten salt storage tank.
+
+
+== Environmental effects ==
+CSP has a number of environmental impacts, particularly by the use of water and land.
+Water is generally used for cooling and to clean mirrors. Some projects are looking into various approaches to reduce the water and cleaning agents used, including the use of barriers, non-stick coatings on mirrors, water misting systems, and others.
+
+
+=== Water use ===
+Concentrating solar power plants with wet-cooling systems have the highest water-consumption intensities of any conventional type of electric power plant; only fossil-fuel plants with carbon-capture and storage may have higher water intensities. A 2013 study comparing various sources of electricity found that the median water consumption during operations of concentrating solar power plants with wet cooling was 3.1 cubic metres per megawatt-hour (810 US gal/MWh) for power tower plants and 3.4 m3/MWh (890 US gal/MWh) for trough plants. This was higher than the operational water consumption (with cooling towers) for nuclear at 2.7 m3/MWh (720 US gal/MWh), coal at 2.0 m3/MWh (530 US gal/MWh), or natural gas at 0.79 m3/MWh (210 US gal/MWh). A 2011 study by the National Renewable Energy Laboratory came to similar conclusions: for power plants with cooling towers, water consumption during operations was 3.27 m3/MWh (865 US gal/MWh) for CSP trough, 2.98 m3/MWh (786 US gal/MWh) for CSP tower, 2.60 m3/MWh (687 US gal/MWh) for coal, 2.54 m3/MWh (672 US gal/MWh) for nuclear, and 0.75 m3/MWh (198 US gal/MWh) for natural gas. The Solar Energy Industries Association noted that the Nevada Solar One trough CSP plant consumes 3.2 m3/MWh (850 US gal/MWh). The issue of water consumption is heightened because CSP plants are often located in arid environments where water is scarce.
+In 2007, the US Congress directed the Department of Energy to report on ways to reduce water consumption by CSP. The subsequent report noted that dry cooling technology was available that, although more expensive to build and operate, could reduce water consumption by CSP by 91 to 95 percent. A hybrid wet/dry cooling system could reduce water consumption by 32 to 58 percent. A 2015 report by NREL noted that of the 24 operating CSP power plants in the US, 4 used dry cooling systems. The four dry-cooled systems were the three power plants at the Ivanpah Solar Power Facility near Barstow, California, and the Genesis Solar Energy Project in Riverside County, California. Of 15 CSP projects under construction or development in the US as of March 2015, 6 were wet systems, 7 were dry systems, 1 hybrid, and 1 unspecified.
+Although many older thermoelectric power plants with once-through cooling or cooling ponds use more water than CSP, meaning that more water passes through their systems, most of the cooling water returns to the water body available for other uses, and they consume less water by evaporation. For instance, the median coal power plant in the US with once-through cooling uses 138 m3/MWh (36,350 US gal/MWh), but only 0.95 m3/MWh (250 US gal/MWh) (less than one percent) is lost through evaporation.
+
+
+=== Effects on wildlife ===
+
+Insects can be attracted to the bright light caused by concentrated solar technology, and as a result birds that hunt them can be killed by being burned if they fly near the point where light is being focused. This can also affect raptors that hunt the birds. Federal wildlife officials were quoted by opponents as calling the Ivanpah power towers "mega traps" for wildlife.
+Some media sources have reported that concentrated solar power plants have injured or killed large numbers of birds due to intense heat from the concentrated sunrays. Some of the claims may have been overstated or exaggerated.
+According to rigorous reporting, in over six months of its first year of operation, 321 bird fatalities were counted at Ivanpah, of which 133 were related to sunlight being reflected onto the boilers. Over a year, this figure rose to a total count of 415 bird fatalities from known causes, and 288 from unknown causes. Taking into account the search efficiency of the dead bird carcasses, the total avian mortality for the first year was estimated at 1492 for known causes and 2012 from unknown causes. Of the bird deaths due to known causes, 47.4% were burned, 51.9% died of collision effects, and 0.7% died from other causes. Mitigations actions can be taken to reduce these numbers, such as focusing no more than four mirrors on any one place in the air during standby, as was done at Crescent Dunes Solar Energy Project. Over the 2020-2021 period, 288 bird fatalities were directly accounted for at Ivanpah, a figure consistent with the ranges found in previous annual assessments. In more general terms, a 2016 preliminary study assessed that the annual bird mortality per MW of installed power was similar between U.S. concentrated solar power plants and wind power plants, and higher for fossil fuel power plants.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Concentrating Solar Power Utility
+NREL Concentrating Solar Power Program
+Plataforma Solar de Almeria, CSP research center
+ISFOC (Institute of Concentrating Photovoltaic Systems)
+Baldizon, Roberto (5 March 2019). "Innovations on Concentrated Solar Thermal Power". Medium. Retrieved 18 January 2020.

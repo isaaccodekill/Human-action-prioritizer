@@ -1,0 +1,1043 @@
+# Protect Forests: Temperate
+Source: https://drawdown.org/explorer/protect-forests-temperate
+
+Methods and Supporting Data
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+We define the Protect Forests solution as the long-term protection of tree-dominated ecosystems through establishment ofprotected areas(PAs), managed with the primary goal of conserving nature, andland tenurefor Indigenous peoples. These protections reduce forest degradation, avoidingGHGemissions and ensuring continuedcarbon sequestrationby healthy forests. This solution addresses protection of forests onmineral soils. The Protect Peatlands and Protect Coastal Wetlands solutions address protection of forested peatlands and mangrove forests, respectively, and the Restore Forests solution addresses restoring degraded forests.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted and CO₂
+ reduced due to activities or technologies that pull the gas out of the atmosphere and store it.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted and CO₂
+ reduced due to activities or technologies that pull the gas out of the atmosphere and store it.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted and CO₂
+ reduced due to activities or technologies that pull the gas out of the atmosphere and store it.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted and CO₂
+ reduced due to activities or technologies that pull the gas out of the atmosphere and store it.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Forests store carbon inbiomassand soils and serve as carbon sinks, taking up an estimated 12.8GtCO₂‑eq/yr(including mangroves and forested peatlands; Pan et al., 2024). Carbon stored in forests is released into the atmosphere through deforestation and degradation, which refer to forest clearing or reductions in ecosystem integrity from human influence (DellaSala et al., 2025). Humans cleared an average of 0.4% (16.3Mha) of global forest area annually from 2001–2019 (excluding wildfire but including mangroves and forested peatlands; Hansen et al., 2013). This produced a gross flux of 7.4 GtCO₂‑eq/yr
+ (Harris et al., 2021), equivalent to ~14% of total global GHG emissions over that period (Dhakal et al., 2022). Different forest types store varying amounts of carbon and experience different rates of clearing; in this analysis, we individually evaluate forest protection inboreal,temperate,subtropical, andtropicalregions. We includedwoodlandsin our definition of forests because they are not differentiated in the satellite-based data used in this analysis.
+
+We consider forests to be protected if they 1) are formally designated as PAs (UNEP-WCMC andIUCN, 2024), or 2) are mapped as Indigenous peoples’ lands in the global study by Garnett et al. (2018). The International Union for Conservation of Nature defines PAs as areas managed primarily for the long-term conservation of nature and ecosystem services. They are disaggregated into six levels of protection, ranging from strict wilderness preserves to sustainable-use areas that allow for some natural resource extraction, including logging. We included all levels of protection in this analysis, primarily because not all PAs have been classified into these categories. We rely on existing maps of Indigenous peoples’ lands but emphasize that much of their extent has not been fully mapped nor recognized for its conservation benefits (Garnett et al., 2018). Innovative and equity-driven strategies for forest protection that recognize the land rights, sovereignty, and stewardship of Indigenous peoples and local communities are critical for achieving just and effective forest protection globally (Dawson et al., 2024; Fa et al., 2020;FAO, 2024; Garnett et al., 2018; Tran et al., 2020; Zafra-Calvo et al., 2017).
+
+Indigenous peoples’ lands and PAs reduce, but do not eliminate, forest clearing relative to unprotected areas (Baragwanath et al., 2020; Blackman & Viet 2018; Li et al., 2024; McNicol et al., 2023; Sze et al. 2022; Wolf et al., 2023; Wade et al., 2020). We rely on estimates of how effectivePAare currently for this analysis but highlight that improving management to further reduce land use change within PAs is a critical component of forest protection (Jones et al., 2018; Meng et al., 2023; Vijay et al., 2018; Visconti et al., 2019; Watson et al., 2014).
+
+Market-based strategies and other policies can complement legal protections by increasing the value of intact forests and reducing incentives for clearing (e.g., Garett et al., 2019; Golub et al., 2021; Heilmayr et al., 2020; Lambin et al., 2018; Levy et al., 2023; Macdonald et al., 2024; Marin et al., 2022; Villoria et al., 2022; West et al., 2023). The estimates in this report are based on legal protection alone because theeffectivenessof market-based strategies is difficult to quantify, but strategies such as sustainable commodities programs, reducing or redirecting agricultural subsidies, and strategic infrastructure planning will be further discussed in a future update.
+
+
+## What could cause effectiveness to change?
+
+
+We do not report a statistical range because we use a single data source for the emissions from deforestation, one variable in the effectiveness calculation. Effectiveness can change based on the baseline rate of deforestation, emissions from deforestation, and how effective protected areas are at reducing deforestation.
+
+This is the calculated effectiveness value from our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine the current adoption of this solution (the slider’s low value), as well as the high estimate for achievable adoption by 2050 (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption by 2050.
+
+This is the high end of the range for estimated achievable adoption by 2050.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+## What could cause effectiveness to change?
+
+
+We do not report a statistical range because we use a single data source for the emissions from deforestation, one variable in the effectiveness calculation. Effectiveness can change based on the baseline rate of deforestation, emissions from deforestation, and how effective protected areas are at reducing deforestation.
+
+This is the calculated effectiveness value from our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine the current adoption of this solution (the slider’s low value), as well as the high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+## What could cause effectiveness to change?
+
+
+We do not report a statistical range because we use a single data source for the emissions from forest loss, one variable in the effectiveness calculation. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it. Specifically, this solution depends on the baseline rate of deforestation and how effective protected areas are at reducing deforestation.
+
+This is the calculated effectiveness value from our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine the current adoption of this solution (the slider’s low value), as well as the high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+
+## What could cause effectiveness to change?
+
+
+We do not report a statistical range because we use a single data source for the emissions from forest loss, one variable in the effectiveness calculation. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it. Specifically, this solution depends on the baseline rate of deforestation and how effective protected areas are at reducing deforestation.
+
+This is the calculated effectiveness value from our assessment.
+
+
+## What is this range based on?
+
+
+Our analysis used median values from expert estimates to determine the current adoption of this solution (the slider’s low value), as well as the high estimate for achievable adoption (the slider’s high value).
+
+This is the low end of the range for estimated achievable adoption.
+
+This is the high end of the range for estimated achievable adoption.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+The adoption, potential adoption, and effectiveness of forest protection are highly geographically variable. While forest protection can help avoid emissions anywhere that forests occur, areas with high rates of forest loss from human drivers and particularly carbon-rich forests have the greatest potential for avoiding emissions via forest protection. The tropics and subtropics are high-priority areas for forest protection as they contain 55% of currently unprotected forest area, forest loss due to agricultural expansion is particularly concentrated in these regions (Curtis et al., 2018; West et al., 2014; Gibbs et al., 2010), and tend to have larger biomass carbon stocks than boreal forests (Harris et al., 2021).
+
+Developed countries also have significant potential to protect remaining old and long unlogged forests and foster recovery in secondary natural forests. The top 10 forested countries include Canada, the USA, Russia and even Australia, with the latter moving towards ending commodity production in its natural forests and increasing formal protection. Restoration of degraded forests is addressed in the Forest Restoration solution, but including regenerating forests in well designed protected areas is well within the capacity of every developed country.
+
+Buffering and reconnecting existing high integrity forests is a low risk climate solution that increases current and future forest ecosystem resilience and adaptive capacity (Brennan et al., 2022; Brink et al., 2017; Grantham et al., 2020; Rogers et al., 2022). Forests with high ecological integrity provide outsized benefits for carbon storage and biodiversity and have greater resilience, making them top priorities for protection (Grantham et al., 2020; Rogers et al., 2022). Within a given forest, large-diameter trees similarly provide outsized carbon storage and biodiversity benefits, comprising only 1% of trees globally but storing 50% of the above ground forest carbon (Lutz et al., 2018). Additionally, forests that improve protected area connectivity (Brennan et al., 2022; Brink et al., 2017), areas at high risk of loss (particularly to expansion of commodity agriculture; Curtis et al., 2018; Hansen et al., 2013), and areas with particularly large or specialized benefits for biodiversity, ecosystem services, and human well-being (Dinerstein et al., 2024; Sarira et al., 2022; Soto-Navarro et al., 2020) may be key targets for forest protection.
+
+
+## Tree cover, 2000 (excluding mangroves and peatlands)
+
+
+We exclude mangroves and peatlands because they are addressed in other solutions.
+
+Global Forest Watch (2023).Global peatlands[Data set]. Retrieved December 6, 2024 fromLink to source:https://data.globalforestwatch.org/datasets/gfw::global-peatlands/aboutHansen, M.C., Potapov, P.V., Moore, R., Hancher, M., Turubanova, S.A., Tyukavina, A., Thau, D., Stehman, S.V., Goetz, S.J., Loveland, T.R., Kommareddy, A., Egorov, A., Chini, L., Justice, C.O., and Townshend, J.R.G. (2013).High-resolution global maps of 21st-century forest cover change[Data set]. Science 342 (15 November): 850-53.Link to source:https://glad.earthengine.app/view/global-forest-changeUNEP-WCMC (2025).Ocean+ habitats(version 1.3) [Data set]. Retrieved November 2024 fromhabitats.oceanplus.org
+
+
+## Tree cover, 2000 (excluding mangroves and peatlands)
+
+
+We exclude mangroves and peatlands because they are addressed in other solutions.
+
+Global Forest Watch (2023).Global peatlands[Data set]. Retrieved December 6, 2024 fromLink to source:https://data.globalforestwatch.org/datasets/gfw::global-peatlands/aboutHansen, M.C., Potapov, P.V., Moore, R., Hancher, M., Turubanova, S.A., Tyukavina, A., Thau, D., Stehman, S.V., Goetz, S.J., Loveland, T.R., Kommareddy, A., Egorov, A., Chini, L., Justice, C.O., and Townshend, J.R.G. (2013).High-resolution global maps of 21st-century forest cover change[Data set]. Science 342 (15 November): 850-53.Link to source:https://glad.earthengine.app/view/global-forest-changeUNEP-WCMC (2025).Ocean+ habitats(version 1.3) [Data set]. Retrieved November 2024 fromhabitats.oceanplus.org
+
+We estimated that onehaof forest protection provides total carbon benefits of 0.299–2.204tCO₂‑eq/yr
+ depending on the biome (Table 1a–d; Appendix). This effectiveness estimate includes avoided emissions and preserved sequestration capacity attributable to the reduction in forest loss conferred by protection (Equation 1). First, we calculated the difference between the rate of human-caused forest loss outside of PAs (Forest lossbaseline) and the rate inside of PAs (Forest lossprotected). We then multiplied the annual rate of avoided forest loss by the sum of the carbon stored in onehectareof forest (Carbonstock) and the amount of carbon that one hectare of intact forest takes up over a 30-yr timeframe (Carbonsequestration).
+
+Each of these factors varies across biomes. Based on our definition, for instance, the effectiveness of forest protection in boreal forests is lower than that in tropical and subtropical forests primarily because the former face lower rates of human-caused forest loss (though greater wildfire impacts). Importantly, the effectiveness of forest protection as defined here reflects only a small percentage of the carbon stored (394 t CO₂‑eq
+) and absorbed (4.25 t CO₂‑eq/yr
+) per hectare of forest (Harris et al., 2021). This is because humans clear ~0.4% of forest area annually, and forest protection is estimated to reduce human-caused forest loss by an average of 40.5% (Curtis et al., 2018; Wolf et al., 2023).
+
+Table 1. Effectiveness at reducing emissions and sequestering carbon, with carbon sequestration calculated over a 30-yr timeframe. Differences in values between biomes are driven by variation in forest carbon stocks and sequestration rates, baseline rates of forest loss, and effectiveness of PAs at reducing forest loss. See the Appendix for source data and calculation details. Emissions and sequestration values may not sum to total effectiveness due to rounding.
+
+Unit: t CO₂‑eq/ha/yr,100-yr basis
+
+Unit: t CO₂‑eq/ha/yr, 100-yr basis
+
+Unit: t CO₂‑eq/ha/yr, 100-yr basis
+
+Unit: t CO₂‑eq/ha/yr, 100-yr basis
+
+We estimated that forest protection costs approximately US$2/t CO₂‑eq
+ (Table 2). Data related to the costs of forest protection are limited, and these estimates are uncertain. The costs of forest protection include up-front costs of land acquisition and ongoing costs of management and enforcement. The market price of land reflects the opportunity cost of not using the land for other purposes (e.g., agriculture or logging). Protecting forests also generates revenue, notably through increased tourism. Costs and revenues vary across regions, depending on the costs of land and enforcement and potential for tourism.
+
+The cost of land acquisition for ecosystem protection was estimated by Dienerstein et al. (2024), who found a median cost of US$988/ha (range: US$59–6,616/ha), which weamortizedover 30 years. Costs of PA maintenance were estimated at US$9–17/ha/yr (Bruner et al., 2004; Waldron et al., 2020). These estimates reflect the costs of effective enforcement and management, but many existing PAs do not have adequate funds for effective enforcement (Adams et al., 2019; Barnes et al., 2018; Burner et al., 2004). Tourism revenues directly attributable to forest protection were estimated to be US$43/ha/yr (Waldron et al., 2020), not including downstream revenues from industries that benefit from increased tourism. Inclusion of a tourism multiplier would substantially increase the estimated economic benefits of forest protection.
+
+Table 2. Cost per unit of climate impact.
+
+Unit: 2023 US$/t CO₂‑eq, 100-yr basis
+
+Alearning curveis defined here as falling costs with increased adoption. The costs of forest protection do not fall with increasing adoption, so there is no learning curve for this solution.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Protect Forests is anEMERGENCY BRAKEclimate solution. It has the potential to deliver a more rapid impact than gradual and delayed solutions. Because emergency brake solutions can deliver their climate benefits quickly, they can help accelerate our efforts to address dangerous levels of climate change. For this reason, they are a high priority.
+
+We estimated that approximately 1,673 Mha of forests are currently recognized as PAs or Indigenous peoples’ lands (Table 3e; Garnett et al., 2018; UNEP-WCMC and IUCN, 2024). Using two different maps of global forests that differ in their methodologies and definitions (ESA CCI, 2019; Hansen et al., 2013), we found an upper-end estimate of 1,943 Mha protected and a lower-end estimate of 1,404 Mha protected. These two maps classify forests using different thresholds for canopy cover and vegetation height, different satellite data, and different classification algorithms (see the Appendix for details).
+
+Based on our calculations, tropical forests make up the majority of forested PAs, with approximately 936 Mha under protection (Table 3d), followed by boreal forests (467 Mha, Table 3a), temperate forests (159 Mha, Table 3b), and subtropical forests (112 Mha, Table 3c). We estimate that 49% of all forests have some legal protection, though only 7% of forests are under strict protection (IUCN class I or II), with the remaining area protected under other IUCN levels, as OECMs, or as Indigenous peoples’ lands.
+
+Table 3. Current (circa 2023) forest and woodland area under legal protection by biome (Mha). The low and high values are calculated using two different maps of global forest cover that differ in methodology for defining a forest (ESA CCI, 2019; Hansen et al., 2013). Biome-level values may not sum to global totals due to rounding.
+
+We calculated the rate of PA expansion based on the year the PA was established. We do not have data on the expansion rate of Indigenous peoples’ lands, so the calculated adoption trend reflects only PAs. An average of 19 Mha of additional forests were protected each year between 2000 and 2020 (Table 4a–e; Figure 1), representing a roughly 2% increase in PAs per year (excluding Indigenous peoples’ lands that are not located in PAs). There were large year-to-year differences in how much new forest area was protected over this period, ranging from only 6.4 Mha in 2020 to over 38 Mha in both 2000 and 2006. Generally, the rate at which forest protection is increasing has been decreasing, with an average increase of 27 Mha/yr between 2000–2010 declining to 11 Mha/yr between 2010–2020. Recent rates of forest protection (2010–2020) are highest in the tropics (5.6 Mha/yr), followed by temperate regions (2.4 Mha/yr) and the boreal (2.0 Mha/yr), and lowest in the subtropics (0.7 Mha/yr).
+
+Figure 1. Trend in forest protection by climate zone. These values reflect only the area located within PAs; Indigenous peoples’ lands, which were not included in the calculation of the adoption trend, are excluded.
+
+Table 4. 2000–2020 adoption trend.
+
+Unit:Mha protected/yr
+
+Unit:Mha protected/yr
+
+Unit:Mha protected/yr
+
+Unit:Mha protected/yr
+
+Unit:Mha protected/yr
+
+We estimated anadoption ceilingof 3,370 Mha of forests globally (Table 5e), defined as all existing forest areas, excluding peatlands and mangroves. Of the calculated adoption ceiling, 469 Mha of boreal forests (Table 5a), 282 Mha of temperate forests (Table 5b), 211 Mha of subtropical forests (Table 5c), and 734 Mha of tropical forests (Table 5d) are currently unprotected. The high and low values represent estimates of currently forested areas from two different maps of forest cover that use different methodologies and definitions (ESA CCI, 2019; Hansen et al., 2013). While it is not socially, politically, or economically realistic that all existing forests could be protected, these values represent the technical upper limit to adoption of this solution. Additionally, some PAs allow for ongoing sustainable use of resources, enabling some demand for wood products to be met via sustainable use of trees in PAs.
+
+Table 5. Adoption ceiling.
+
+We defined the lower end of the achievable range for forest protection as all high integrity forests in addition to forests in existing PAs and Indigenous peoples’ lands, totaling 2,297 Mha (Table 6a–e). We estimated that there are 624 Mha of unprotected high integrity forests, based on maps of forest integrity developed by Grantham et al. (2020). High integrity forests have experienced little disturbance from human pressures (i.e., logging, agriculture, and buildings), are located further away from areas of human disturbance, and are well-connected to other forests. High integrity forests are a top priority for protection as they have particularly high value with respect to biodiversity and ecosystem service provisioning. These forests are also not currently being used to meet human demand for land or forest-derived products, and thus their protection may be more feasible.
+
+To estimate the upper end of the achievable range, we excluded the global areas of planted trees and tree crops from the adoption ceiling (Richter et al., 2024), comprising approximately 335 Mha globally (Table 6a–e). Planted trees include tree stands established for crops such as oil palm, products such as timber and fiber production, and those established as windbreaks or for ecosystem services such as erosion control. These stands are often actively managed and are unlikely to be protected.
+
+Table 6. Range of achievable adoption levels.
+
+We estimated that forest protection currently avoids approximately 2.00 Gt CO₂‑eq/yr,
+ with potential impacts of 2.49 Gt CO₂‑eq/yr
+ at the low-achievable scenario, 3.62 Gt CO₂‑eq/yrat the high-achievable scenario, and 4.10 Gt CO₂‑eq/yr
+ at the adoption ceiling (Table 7a–e). Although not directly comparable due to the inclusion of different land covers, these values are aligned with Griscom et al. (2017) estimates that forest protection could avoid 3.6 Gt CO₂‑eq/yr
+ and theIPCCestimate that protection of all ecosystems could avoid 6.2 Gt CO₂‑eq/yr
+ (Nabuurs et al., 2022).
+
+Note that the four adoption scenarios vary only with respect to the area under protection. Increases in either the rate of forest loss that would have occurred if the area had not been protected or in the effectiveness of PAs at avoiding forest loss would substantially increase the climate impacts of forest protection. For instance, a hypothetical 50% increase in the rate of forest loss outside of PAs would increase the carbon impacts of the current adoption, low achievable, high achievable, and adoption ceiling scenarios to 3.0, 3.7, 5.4, and 6.1 Gt CO₂‑eq/yr,
+ respectively. Similarly, if legal forest protection reduced forest loss twice as much as it currently does, the climate impacts of the four scenarios would increase to 3.9, 4.8, 7.0, and 7.8 Gt CO₂‑eq/yr,
+ respectively.
+
+Table 7. Climate impact at different levels of adoption.
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+
+## Extreme Weather Events
+
+
+Protected forests are more biodiverse and therefore more resilient and adaptable, providing higher-quality ecosystem services to surrounding communities (Gray et al., 2016). Protected forests can also buffer surrounding areas from the effects of extreme weather events. By increasing plant species richness, forest preservation can contribute to drought and fire tolerance (Buotte et al., 2020). Forests help regulate local climate by reducing temperature extremes (Lawrence et al., 2022). Studies have shown that the extent of forest coverage helps to alleviate vulnerability associated with heat effects (Walton et al., 2016). Tropical deforestation threatens human well-being by removing critical local cooling effects provided by tropical forests, exacerbating extreme heat conditions in already vulnerable regions (Seymour et al., 2022).
+
+For a description of the Income and Work benefits, please refer to Food Security and Health sections below.
+
+Protecting forests in predominantly natural areas can improve food security by supporting crop pollination of nearby agriculture. Sarira et al. (2022) found that protecting 58% of threatened forests in Southeast Asia could support the dietary needs of about 305,000–342,000 people annually. Forests also provide a key source of income and livelihoods for subsistence households and individuals (de Souza et al., 2016; Herrera et al., 2017; Naidoo et al., 2019). By maintaining this source of income through forest protection, households can earn sufficient income that contributes to food security.
+
+Protected forests can benefit the health and well-being of surrounding communities through impacts on the environment and local economies. Herrera et al. (2017) found that in rural areas of low- and middle-income countries, household members living downstream of higher tree cover had a lower probability of diarrheal disease. Proximity to PAs can benefit local tourism, which may provide more economic resources to surrounding households. Naidoo et al. (2019) found that households near PAs in low- and middle-income countries were more likely to have higher levels of wealth and were less likely to have children who were stunted. Reducing deforestation can improve health by lowering vector-borne diseases, mitigating extreme weather impacts, and improving air quality (Reddington et al., 2015).
+
+Indigenous peoples have a long history of caring for and shaping landscapes that are rich with biodiversity (Fletcher et al., 2021). Indigenous communities provide vital ecological functions for preserving biodiversity, like seed dispersal and predation (Bliege Bird & Nimmo, 2018). Indigenous peoples also have spiritual and cultural ties to their lands (Garnett et al., 2018). Establishing protected areas must prioritize the return of landscapes to Indigenous peoples so traditional owners can feel the benefits of biodiversity. However, the burden of conservation should not be placed on Indigenous communities without legal recognition or support (Fa et al., 2020). In fact, land grabs and encroachments on Indigenous lands have led to greater deforestation pressure (Sze et al., 2022). Efforts to protect these lands must include legal recognition of Indigenous ownership to support a just and sustainable conservation process (Fletcher et al., 2021).
+
+Forests are home to a wide range of species and habitats and are essential for safeguarding biodiversity. Forests have high above- and below-ground carbon density, high tree species richness, and often provide habitat to threatened and endangered species (Buotte et al., 2020). PAs can aid in avoiding extinctions by protecting rare and threatened species (Dinerstein et al. 2024). In Southeast Asia, protecting 58% of threatened forests could safeguard about half of the key biodiversity areas in the region (Sarira et al., 2022).
+
+Forests act as a natural water filter and can maintain and improve water quality (Melo et al., 2021). Forests can also retain nutrients from polluting the larger watershed (Sweeney et al., 2004). For example, forests can uptake excess nutrients like nitrogen, reducing their flow into surrounding water (Sarira et al., 2022). These excessive nutrients can causeeutrophicationand algal blooms that negatively impact water quality and aquatic life.
+
+Additionality, or the degree to which emissions reductions are above and beyond a baseline, is a key caveat for emissions avoided through forest protection (e.g., Fuller et al., 2020; Ruseva et al., 2017). Emissions avoided via forest protection are only considered additional if that forest would have been cleared or degraded without protection (Delacote et al., 2022; Delacote et al., 2024; Gallemore et al., 2020). In this analysis, additionality is addressed by using baseline rates of forest loss outside of PAs in the effectiveness calculation. Additionality is particularly important when forest protection is used to generate carbon offsets. However, the likelihood of forest removal in the absence of protection is often difficult to determine at the local level.
+
+Permanence, or the durability of stored carbon over long timescales, is another important consideration not directly addressed in this solution. Carbon stored in forests can be compromised by natural factors, like drought, heat, flooding, wildfire, pests, and diseases, which are further exacerbated by climate change (Anderegg et al., 2020; Dye et al., 2024). Forest losses via wildfire in particular can create very large pulses of emissions (e.g., Kolden et al. 2024; Phillips et al. 2022) that negate accumulated carbon benefits of forest protection. Reversal of legal protections, illegal forest clearing, biodiversity loss, edge effects from roads, and disturbance from permitted uses can also cause forest losses directly or reduce ecosystem integrity, further increasing vulnerability to other stressors (McCallister et al., 2022).
+
+Ecosystem protection initiatives that are not led by or undertaken in close collaboration with local communities can compromise community sovereignty and create injustice and inequity (Baragwanath et al., 2020; Blackman & Viet 2018; Dawson et al., 2024; Fa et al., 2020; FAO, 2024; Garnett et al. 2018; Sze et al. 2022; Tauli-Corpuz et al., 2020). Forest protection has the potential to be a win-win for climate and communities, but only if PAs are established with respect to livelihoods and other socio-ecological impacts, ensuring equity in procedures, recognition, and the distribution of benefits (Zafra-Calvo et al., 2017).
+
+Leakageis a key risk of relying on forest protection as a climate solution. Leakage occurs when deforestation-related activities move outside of PA boundaries, resulting in the relocation of, rather than a reduction in, emissions from forest loss. If forest protection efforts are not coupled with policies to reduce incentives for forest clearing, leakage will likely offset some of the emissions avoided through forest protection. Additional research is needed to comprehensively quantify the magnitude of leakage effects, though two regional-scale studies found only small negative effects (Fuller et al., 2020; Herrera et al., 2019).
+
+Other intact and degraded ecosystems often occur within areas of forest protection. Therefore, forest protection can facilitate natural restoration of these other degraded ecosystems, and increase the health of adjacent ecosystems.
+
+Protect Grasslands & Savannas
+
+Protect Coastal Wetlands
+
+Restore Grasslands & Savannas
+
+Restore Coastal Wetlands
+
+Forest protection helps restored ecosystems avoid future degradation and can also accelerate the adoption of improved forest management practices
+
+Improve Forest Management
+
+Protecting forests could limit land availability forrenewableenergy technologies and raw material and food production. Protect Forests competes with the following solutions for land
+
+Deploy Onshore Wind Turbines
+
+Deploy Utility-Scale Solar PV
+
+Deploy Concentrated Solar
+
+Deploy Geothermal Power
+
+Deploy Small Hydropower
+
+Deploy Perennial Crops
+
+Restore Abandoned Farmland
+
+Deploy Biomass Crops on Degraded Land
+
+Restore Grasslands & Savannas
+
+This solution reduces the supply of wood. This limits the wood available as raw material to the following solutions that use it.
+
+Deploy Alternative Insulation Materials
+
+Deploy Low-Emission Industrial Feedstocks
+
+Improve Cement Production
+
+Improve District Heating: Buildings
+
+Improve Other Building Materials
+
+Increase Centralized Composting
+
+
+## Consensus of effectiveness in reducing emissions and maintainingcarbon removal: High
+
+
+There is high scientific consensus that forest protection is a key strategy for reducing forest loss and addressing climate change. Rates of forest loss are lower inside of PAs and Indigenous peoples’ lands than outside of them. Globally, Wolf et al. (2021) found that rates of forest loss inside PAs are 40.5% lower on average than in unprotected areas, and Li et al. (2024) estimated that overall forest loss is 14% lower in PAs relative to unprotected areas. Regional studies find similar average effects of PAs on deforestation rates. For instance, McNichol et al. (2023) reported 39% lower deforestation rates in African woodlands in PAs relative to unprotected areas, and Graham et al. (2021) reported 69% lower deforestation rates in PAs relative to unprotected areas in Southeast Asia. In the tropics, Sze et al. (2022) found that rates of forest loss were similar between Indigenous lands and PAs, with forest loss rates reduced 17–29% relative to unprotected areas. Baragwanath & Bayi (2020) reported a 75% decline in deforestation in the Brazilian Amazon when Indigenous peoples are granted full property rights.
+
+Reductions in forest loss lead to proportionate reductions in CO₂
+ emissions. The Intergovernmental Panel on Climate Change (IPCC) estimated that ecosystem protection, including forests, peatlands, grasslands, and coastal wetlands, has a technicalmitigationpotential of 6.2 Gt CO₂‑eq/yr,
+ 4.0 Gt of which are available at a carbon price less than US$100 tCO₂‑eq/yr(Nabuurs et al., 2022). Similarly, Griscom et al. (2017) found that avoiding human-caused forest loss is among the most effective natural climate solutions, with a potential impact of 3.6 Gt CO₂‑eq/yr
+ (including forests on peatlands), nearly 2 Gt CO₂‑eq/yr
+ of which is achievable at a cost below US$10/t CO₂‑eq/yr.
+
+The results presented in this document were produced through analysis of 12 global datasets. We recognize that geographic biases can influence the development of global datasets and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Set achievable targets and pledges for PA designation and set clear effectiveness goals for PAs, emphasizing the effectiveness of current PAs before seeking to expand designations.
+
+Use a variety of indicators to measure effectiveness, such as estimated avoided deforestation.
+
+Ensure public procurement utilizes deforestation-free products andsupply chains.
+
+Grant Indigenous communities full property rights and autonomy and support them in monitoring, managing, and enforcing PAs.
+
+Ensure PAs do not displace, violate rights, or reduce access to vital resources for local and Indigenous communities.
+
+Invest in PA infrastructure, monitoring, management, and enforcement mechanisms.
+
+Utilize real-time monitoring and satellite data such as the “Real-Time System for Detection of Deforestation” (DETER).
+
+Join, support, or create certification schemes like the Forest Stewardship Council for sustainable logging practices.
+
+Conduct proactive land-use planning to avoid roads and other development projects that may interfere with PAs or incentivize deforestation.
+
+Create processes for legal grievances, dispute resolution, and restitution.
+
+Remove harmful agricultural and logging subsidies.
+
+Prioritize reducingfood loss and waste.
+
+Create education programs that educate the public on PA regulations, the benefits of the regulations, and how to use forest resources sustainably.
+
+Forests, people, climate. (n.d.)
+
+Agriculture, forestry and other land uses (AFOLU). IPCC (2022)
+
+Government relations and public policy job function action guide. Project Drawdown (n.d.)
+
+Legal job function action guide. Project Drawdown (n.d.)
+
+Protected planet: The world database on protected areas and world database on other effective area-based conservation measures. UNEP-WCMC & IUCN (2024)
+
+Set achievable targets and pledges for PA designation and set clear effectiveness goals for PAs, emphasizing the effectiveness of current PAs before seeking to expand designations
+
+Use a variety of indicators to measure effectiveness, such as estimated avoided deforestation.
+
+Ensure PAs do not displace, violate rights, or reduce access to vital resources for local and Indigenous communities.
+
+Utilize real-time monitoring and satellite data such as the “Real-Time System for Detection of Deforestation” (DETER).
+
+Create sustainable use regulations for PA areas that provide resources to the local community.
+
+Conduct proactive land-use planning to avoid infrastructure or development projects that may interfere with PAs or incentivize deforestation.
+
+Grant Indigenous communities full property rights and autonomy and support them in monitoring, managing, and enforcing PAs.
+
+Join, support, or create certification schemes like the Forest Stewardship Council for sustainable logging practices.
+
+Create processes for legal grievances, dispute resolution, and restitution.
+
+Create education programs that educate the public on PA regulations, the benefits of the regulations, and how to use forest resources sustainably.
+
+Forests, people, climate. (n.d.)
+
+Agriculture, forestry and other land uses (AFOLU). IPCC (2022)
+
+Protected planet: The world database on protected areas and world database on other effective area-based conservation measures. UNEP-WCMC & IUCN (2024)
+
+Create deforestation-free supply chains, utilizing data, information, and the latest technology to inform product sourcing.
+
+Integrate deforestation-free business and investment policies and practices in Net-Zero strategies.
+
+Only purchase carbon credits from high-integrity, verifiablecarbon marketsand do not use them as replacements for reducing emissions.
+
+Help shift the public narrative around carbon markets as integrity increases to boost education, dialogue, and awareness.
+
+Develop financial instruments to invest in PA jurisdictions, focusing on supporting Indigenous communities.
+
+Join or create public-private partnerships, alliances, or coalitions of stakeholders and rightsholders to support PAs and advance deforestation-free markets.
+
+Join, support, or create certification schemes like the Forest Stewardship Council for sustainable logging practices.
+
+Conduct proactive land-use planning to avoid infrastructure or development projects that may interfere with PAs or incentivize deforestation.
+
+Amplify the voices of local communities and civil society to promote robust media coverage.
+
+Invest in and support Indigenous and local communities' capacity for public relations and communications.
+
+Support education programs that educate the public on PA regulations, the benefits of the regulations, and how to use forest resources sustainably.
+
+Leverage political influence to advocate for stronger PA policies at national and international levels, especially policies that reduce deforestation pressure.
+
+Forests, people, climate. (n.d.)
+
+Agriculture, forestry and other land uses (AFOLU). IPCC (2022)
+
+Climate solutions at work. Project Drawdown (n.d.)
+
+Drawdown-aligned business framework. Project Drawdown (n.d.)
+
+Protected planet: The world database on protected areas and world database on other effective area-based conservation measures. UNEP-WCMC & IUCN (2024)
+
+Ensure operations utilize deforestation-free products and supply chains.
+
+Advocate for PAs and for public investments and evaluation indicators to strengthen the effectiveness of PAs.
+
+Assist in managing and monitoring PAs, utilizing real-time monitoring and satellite data such as the “Real-Time System for Detection of Deforestation” (DETER).
+
+Provide financial support for PAs management, monitoring, and enforcement.
+
+Assist in conducting proactive land-use planning to avoid infrastructure or development projects that may interfere with PAs or incentivize deforestation.
+
+Advocate for creating legal grievance processes, dispute resolution mechanisms, and restitution procedures for violations or disagreements over PAs.
+
+Support high-integrity carbon markets, institutions, rules, and norms to cultivate the demand for high-quality carbon credits.
+
+Help shift the public narrative around carbon markets as integrity increases to boost education, dialogue, and awareness.
+
+Support PAs, businesses, andinvestorsby sharing data, information, and investment frameworks that successfully avoid deforestation.
+
+Help shift public narratives to mobilize public action and build political will for PAs by creating educational campaigns and strengthening networks of stakeholders and rightsholders.
+
+Join, support, or create certification schemes like the Forest Stewardship Council for sustainable logging practices.
+
+Amplify the voices of local communities and civil society to promote robust media coverage.
+
+Invest in and support Indigenous and local communities' capacity for legal protection and public relations.
+
+Advocate for non-timber forest products to support local and Indigenous communities.
+
+Advocate to remove harmful agricultural subsidies and prioritize reducingfood lossand waste.
+
+Forests, people, climate. (n.d.)
+
+Agriculture, forestry and other land uses (AFOLU). IPCC (2022)
+
+Protected planet: The world database on protected areas and world database on other effective area-based conservation measures. UNEP-WCMC & IUCN (2024)
+
+Create deforestation-free investment portfolios, utilizing data, information, and the latest technology to inform investments.
+
+Invest in PA infrastructure, monitoring, management, and enforcement mechanisms.
+
+Invest ingreen bondsor high-integrity carbon credits for forest conservation efforts.
+
+Develop financial instruments to invest in PA jurisdictions, focusing on supporting Indigenous communities.
+
+Support PAs, other investors, and NGOs by sharing data, information, and investment frameworks that successfully avoid investments that drive deforestation.
+
+Join, support, or create science-based certification schemes like the Forest Stewardship Council for sustainable logging practices.
+
+Help shift public narratives to mobilize public action and build political will for PAs by creating educational campaigns and strengthening networks of stakeholders and rightsholders.
+
+Require portfolio companies to eliminate deforestation from their supply chains and ask that they demonstrate strong PA practices.
+
+Consider opportunities to invest in forest monitoring technologies or bioeconomy products derived from standing forests (e.g., nuts, berries, or other derivatives)
+
+Forests, people, climate. (n.d.)
+
+Agriculture, forestry and other land uses (AFOLU). IPCC (2022)
+
+Protected planet: The world database on protected areas and world database on other effective area-based conservation measures. UNEP-WCMC & IUCN (2024)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Ensure operations utilize deforestation-free products and supply chains.
+
+Provide financial support for PAs management, monitoring, and enforcement.
+
+Assist in monitoring PAs, utilizing real-time monitoring and satellite data such as the “Real-Time System for Detection of Deforestation” (DETER).
+
+Assist in conducting proactive land-use planning to avoid infrastructure or development projects that may interfere with PAs or incentivize deforestation.
+
+Support and finance high-integrity carbon markets, institutions, rules, and norms to cultivate the demand for high-quality carbon credits.
+
+Help shift the public narrative around carbon markets as integrity increases to boost education, dialogue, and awareness.
+
+Support PAs, businesses, and investors by sharing data, information, and investment frameworks that successfully avoid deforestation.
+
+Help shift public narratives to mobilize public action and build political will for PAs by creating educational campaigns and strengthening networks of stakeholders and rightsholders.
+
+Amplify the voices of local communities and civil society to promote robust media coverage.
+
+Invest in and support Indigenous and local communities' capacity for public relations and communications.
+
+Financially support Indigenous land tenure.
+
+Join, support, or create certification schemes like the Forest Stewardship Council for sustainable logging practices.
+
+Advocate for PAs and for public investments and evaluation indicators to strengthen the effectiveness of PAs.
+
+Advocate for legal grievances, dispute resolution, and restitution processes.
+
+Forests, people, climate. (n.d.)
+
+Agriculture, forestry and other land uses (AFOLU). IPCC (2022)
+
+Protected planet: The world database on protected areas and world database on other effective area-based conservation measures. UNEP-WCMC & IUCN (2024)
+
+Advocate for PAs and for public investments and evaluation indicators to strengthen the effectiveness of PAs.
+
+Assist in monitoring PAs, utilizing real-time monitoring and satellite data such as the “Real-Time System for Detection of Deforestation” (DETER).
+
+Assist in conducting proactive land-use planning to avoid infrastructure or development projects that may interfere with PAs or incentivize deforestation.
+
+Advocate for legal grievances, dispute resolution, and restitution processes.
+
+Support high-integrity carbon markets, institutions, rules, and norms to cultivate the demand for high-quality carbon credits.
+
+Help shift the public narrative around carbon markets as integrity increases to boost education, dialogue, and awareness.
+
+Support PAs, businesses, and investors by sharing data, information, and investment frameworks that successfully avoid deforestation.
+
+Help shift public narratives to mobilize public action and build political will for PAs by creating educational campaigns and strengthening networks of stakeholders and rightsholders.
+
+Amplify the voices of local communities and civil society to promote robust media coverage.
+
+Support Indigenous and local communities' capacity for public relations and communications.
+
+Forests, people, climate. (n.d.)
+
+Agriculture, forestry and other land uses (AFOLU). IPCC (2022)
+
+Protected planet: The world database on protected areas and world database on other effective area-based conservation measures. UNEP-WCMC & IUCN (2024)
+
+
+## Technologists and Researchers
+
+
+Improving PA monitoring methods and data collection, utilizing satellite imagery and GIS tools.
+
+Develop land-use planning tools that help avoid infrastructure or development projects that may interfere with PAs or incentivize deforestation.
+
+Create tools for local communities to monitor PAs, such as mobile apps, e-learning platforms, and mapping tools.
+
+Conduct evaluations of the species richness of potential PAs and recommend areas of high biodiversity to be designated as PAs.
+
+Develop verifiable carbon credits using technology such asblockchainto improve the integrity of carbon markets.
+
+Develop supply chain tracking software for investors and businesses seeking to create deforestation-free portfolios and products.
+
+Forests, people, climate. (n.d.)
+
+Agriculture, forestry and other land uses (AFOLU). IPCC (2022)
+
+Protected planet: The world database on protected areas and world database on other effective area-based conservation measures. UNEP-WCMC & IUCN (2024)
+
+
+## Communities, Households, and Individuals
+
+
+Ensure purchases and investments utilize deforestation-free products and supply chains.
+
+Advocate for PAs and for public investments and evaluation indicators to strengthen the effectiveness of PAs.
+
+Assist in monitoring PAs, utilizing real-time monitoring and satellite data such as the “Real-Time System for Detection of Deforestation” (DETER).
+
+Assist in conducting proactive land-use planning to avoid infrastructure or development projects that may interfere with PAs or incentivize deforestation.
+
+Advocate for legal grievances, dispute resolution, and restitution processes.
+
+Support Indigenous and local communities' capacity for public relations and communications.
+
+Assist with evaluations of the species richness of potential PAs and advocate for PAs in areas of high biodiversity that are threatened.
+
+Help shift public narratives to mobilize public action and build political will for PAs by creating educational campaigns and strengthening networks of stakeholders and rightsholders.
+
+Undertake forest protection and expansion initiatives locally by working to preserve existing forests and restore degraded forest areas.
+
+Engage in citizen science initiatives by partnering with researchers or conservation groups to monitor PAs and document threats.
+
+Forests, people, climate. (n.d.)
+
+Agriculture, forestry and other land uses (AFOLU). IPCC (2022)
+
+Protected planet: The world database on protected areas and world database on other effective area-based conservation measures. UNEP-WCMC & IUCN (2024)
+
+
+## “Take Action” Sources
+
+
+Making protected areas effective for biodiversity, climate and food. Arneth et al. (2023)
+
+Collective property rights reduce deforestation in the Brazilian Amazon.Baragwanath et al. (2020)
+
+Prevent perverse outcomes from global protected area policy. Barnes et al. (2018)
+
+Is it just conservation? A typology of Indigenous peoples’ and local communities’ roles in conserving biodiversity. Dawson et al. (2024)
+
+Forests, people, climate. (n.d.)
+
+Protected-area planning in the Brazilian Amazon should prioritize additionality and permanence, not leakage mitigation. Fuller et al. (2020)
+
+Agriculture, forestry and other land uses (AFOLU). IPCC
+
+Mixed effectiveness of global protected areas in resisting habitat loss. Li et al. (2024)
+
+Key steps toward expanding protected areas to conserve global biodiversity. Lindenmayer (2024)
+
+Cornered by PAs: Adopting rights-based approaches to enable cost-effective conservation and climate action. Tauli-Corpuz, V. (2020)
+
+Protected planet: The world database on protected areas and world database on other effective area-based conservation measures. UNEP-WCMC & IUCN (2024)
+
+Methods and Supporting Data
+
+Adams, V. M., Iacona, G. D., & Possingham, H. P. (2019). Weighing the benefits of expanding protected areas versus managing existing ones.Nature Sustainability, 2(5), 404–411.Link to source:https://doi.org/10.1038/s41893-019-0275-5
+
+Anderegg, W. R. L., Trugman, A. T., Badgley, G., Anderson, C. M., Bartuska, A., Ciais, P., Cullenward, D., Field, C. B., Freeman, J., Goetz, S. J., Hicke, J. A., Huntzinger, D., Jackson, R. B., Nickerson, J., Pacala, S., & Randerson, J. T. (2020). Climate-driven risks to the climate mitigation potential of forests.Science,368(6497), eaaz7005.Link to source:https://doi.org/10.1126/science.aaz7005
+
+Arneth, A., Leadley, P., Claudet, J., Coll, M., Rondinini, C., Rounsevell, M. D. A., Shin, Y.-J., Alexander, P., & Fuchs, R. (2023). Making protected areas effective for biodiversity, climate and food.Global Change Biology,29(14), 3883–3894.Link to source:https://doi.org/10.1111/gcb.16664
+
+Baragwanath, K., & Bayi, E. (2020). Collective property rights reduce deforestation in the Brazilian Amazon.Proceedings of the National Academy of Sciences,117(34), 20495–20502.Link to source:https://doi.org/10.1073/pnas.1917874117
+
+Barnes, M. D., Glew, L., Wyborn, C., & Craigie, I. D. (2018). Prevent perverse outcomes from global protected area policy.Nature Ecology & Evolution,2(5), 759–762.Link to source:https://doi.org/10.1038/s41559-018-0501-y
+
+Bliege Bird, R., & Nimmo, D. (2018). Restore the lost ecological functions of people.Nature Ecology & Evolution,2(7), 1050–1052.Link to source:https://doi.org/10.1038/s41559-018-0576-5
+
+Blackman, A., & Veit, P. (2018). Titled Amazon Indigenous Communities Cut Forest Carbon Emissions.Ecological Economics,153, 56–67.Link to source:https://doi.org/10.1016/j.ecolecon.2018.06.016
+
+Brennan, A., Naidoo, R., Greenstreet, L., Mehrabi, Z., Ramankutty, N., & Kremen, C. (2022). Functional connectivity of the world’s protected areas.Science,376(6597), 1101–1104.Link to source:https://doi.org/10.1126/science.abl8974
+
+Brinck, K., Fischer, R., Groeneveld, J., Lehmann, S., Dantas De Paula, M., Pütz, S., Sexton, J. O., Song, D., & Huth, A. (2017). High resolution analysis of tropical forest fragmentation and its impact on the global carbon cycle.Nature Communications,8(1), 14855.Link to source:https://doi.org/10.1038/ncomms14855
+
+Bruner, A. G., Gullison, R. E., & Balmford, A. (2004). Financial Costs and Shortfalls of Managing and Expanding Protected-Area Systems in Developing Countries.BioScience,54(12), 1119–1126.Link to source:https://doi.org/10.1641/0006-3568(2004)054[1119:FCASOM]2.0.CO;2
+
+Buotte, P. C., Law, B. E., Ripple, W. J., & Berner, L. T. (2020). Carbon sequestration and biodiversity co-benefits of preserving forests in the western United States.Ecological Applications,30(2), e02039.Link to source:https://doi.org/10.1002/eap.2039
+
+Curtis, P. G., Slay, C. M., Harris, N. L., Tyukavina, A., & Hansen, M. C. (2018). Classifying drivers of global forest loss.Science, 361(6407), 1108–1111.Link to source:https://doi.org/10.1126/science.aau3445
+
+Dawson, N. M., Coolsaet, B., Bhardwaj, A., Booker, F., Brown, D., Lliso, B., Loos, J., Martin, A., Oliva, M., Pascual, U., Sherpa, P., & Worsdell, T. (2024). Is it just conservation? A typology of Indigenous peoples’ and local communities’ roles in conserving biodiversity.One Earth,7(6), 1007–1021.Link to source:https://doi.org/10.1016/j.oneear.2024.05.001
+
+de Souza, S. E. X. F., Vidal, E., Chagas, G. de F., Elgar, A. T., & Brancalion, P. H. S. (2016). Ecological outcomes and livelihood benefits of community-managed agroforests and second growth forests in Southeast Brazil.Biotropica,48(6), 868–881.Link to source:https://doi.org/10.1111/btp.12388
+
+Delacote, P., Le Velly, G., & Simonet, G. (2022). Revisiting the location bias and additionality of REDD+ projects: The role of project proponents status and certification.Resource and Energy Economics,67, 101277.Link to source:https://doi.org/10.1016/j.reseneeco.2021.101277
+
+Delacote, P., Velly, G. L., & Simonet, G. (2024). Distinguishing potential and effective additionality of forest conservation interventions.Environment and Development Economics, 1–21.Link to source:https://doi.org/10.1017/S1355770X24000202
+
+DellaSala, D. A., Mackey, B., Kormos, C. F., Young, V., Boan, J. J., Skene, J. L., Lindenmayer, D. B., Kun, Z., Selva, N., Malcolm, J. R., & Laurance, W. F. (2025). Measuring forest degradation via ecological-integrity indicators at multiple spatial scales.Biological Conservation,302, 110939.Link to source:https://doi.org/10.1016/j.biocon.2024.110939
+
+Dhakal, S., J.C. Minx, F.L. Toth, A. Abdel-Aziz, M.J. Figueroa Meza, K. Hubacek, I.G.C. Jonckheere, Yong-Gun Kim, G.F. Nemet, S. Pachauri, X.C. Tan, T. Wiedmann, 2022: Emissions Trends and Drivers. In IPCC, 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [P.R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, J. Malley, (eds.)]. Cambridge University Press, Cambridge, UK and New York, NY, USA.Link to source:https://doi.org/10.1017/9781009157926.004
+
+Dinerstein, E., Joshi, A. R., Hahn, N. R., Lee, A. T. L., Vynne, C., Burkart, K., Asner, G. P., Beckham, C., Ceballos, G., Cuthbert, R., Dirzo, R., Fankem, O., Hertel, S., Li, B. V., Mellin, H., Pharand-Deschênes, F., Olson, D., Pandav, B., Peres, C. A., … Zolli, A. (2024). Conservation Imperatives: Securing the last unprotected terrestrial sites harboring irreplaceable biodiversity.Frontiers in Science,2.Link to source:https://doi.org/10.3389/fsci.2024.1349350
+
+Dye, A. W., Houtman, R. M., Gao, P., Anderegg, W. R. L., Fettig, C. J., Hicke, J. A., Kim, J. B., Still, C. J., Young, K., & Riley, K. L. (2024). Carbon, climate, and natural disturbance: A review of mechanisms, challenges, and tools for understanding forest carbon stability in an uncertain future.Carbon Balance and Management,19(1), 35.Link to source:https://doi.org/10.1186/s13021-024-00282-0
+
+Ellison, D., N. Futter, M., & Bishop, K. (2012). On the forest cover–water yield debate: From demand- to supply-side thinking.Global Change Biology,18(3), 806–820.Link to source:https://doi.org/10.1111/j.1365-2486.2011.02589.x
+
+ESA CCI (2019). Copernicus Climate Change Service, Climate Data Store: Land cover classification gridded maps from 1992 to present derived from satellite observation. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). Accessed November 2024.Link to source:https://doi.org/10.24381/cds.006f2c9a
+
+Fa, J. E., Watson, J. E., Leiper, I., Potapov, P., Evans, T. D., Burgess, N. D., Molnár, Z., Fernández-Llamazares, Á., Duncan, T., Wang, S., Austin, B. J., Jonas, H., Robinson, C. J., Malmer, P., Zander, K. K., Jackson, M. V., Ellis, E., Brondizio, E. S., & Garnett, S. T. (2020). Importance of Indigenous Peoples’ lands for the conservation of Intact Forest Landscapes.Frontiers in Ecology and the Environment,18(3), 135–140.Link to source:https://doi.org/10.1002/fee.2148
+
+FAO. 2024. The State of the World’s Forests 2024 – Forest-sector innovations towards a more sustainable future. Rome.Link to source:https://doi.org/10.4060/cd1211en
+
+Filoso, S., Bezerra, M. O., Weiss, K. C. B., & Palmer, M. A. (2017). Impacts of forest restoration on water yield: A systematic review.PLOS ONE,12(8), e0183210.Link to source:https://doi.org/10.1371/journal.pone.0183210
+
+Fletcher, M.-S., Hamilton, R., Dressler, W., & Palmer, L. (2021). Indigenous knowledge and the shackles of wilderness.Proceedings of the National Academy of Sciences,118(40), e2022218118.Link to source:https://doi.org/10.1073/pnas.2022218118
+
+Fuller, C., Ondei, S., Brook, B. W., & Buettel, J. C. (2020). Protected-area planning in the Brazilian Amazon should prioritize additionality and permanence, not leakage mitigation.Biological Conservation,248, 108673.Link to source:https://doi.org/10.1016/j.biocon.2020.108673
+
+Gallemore, C., Bowsher, A., Atheeque, A., Groff, E., & Furtado, J. (n.d.). The geography of avoided deforestation and sustainable forest management offsets: The enduring question of additionality.Climate Policy, 0(0), 1–17.Link to source:https://doi.org/10.1080/14693062.2024.2383418
+
+Gallemore, C., Bowsher, A., Atheeque, A., Groff, E., & Furtado, J. (2023). The geography of avoided deforestation and sustainable forest management offsets: The enduring question of additionality.Climate Policy,0(0), 1–17.Link to source:https://doi.org/10.1080/14693062.2024.2383418
+
+Garnett, S. T., Burgess, N. D., Fa, J. E., Fernández-Llamazares, Á., Molnár, Z., Robinson, C. J., Watson, J. E. M., Zander, K. K., Austin, B., Brondizio, E. S., Collier, N. F., Duncan, T., Ellis, E., Geyle, H., Jackson, M. V., Jonas, H., Malmer, P., McGowan, B., Sivongxay, A., & Leiper, I. (2018). A spatial overview of the global importance of Indigenous lands for conservation.Nature Sustainability,1(7), 369–374.Link to source:https://doi.org/10.1038/s41893-018-0100-6
+
+Garrett, R. D., Levy, S., Carlson, K. M., Gardner, T. A., Godar, J., Clapp, J., Dauvergne, P., Heilmayr, R., le Polain de Waroux, Y., Ayre, B., Barr, R., Døvre, B., Gibbs, H. K., Hall, S., Lake, S., Milder, J. C., Rausch, L. L., Rivero, R., Rueda, X., … Villoria, N. (2019). Criteria for effective zero-deforestation commitments.Global Environmental Change,54, 135–147.Link to source:https://doi.org/10.1016/j.gloenvcha.2018.11.003
+
+Gibbs, H. K., Ruesch, A. S., Achard, F., Clayton, M. K., Holmgren, P., Ramankutty, N., & Foley, J. A. (2010). Tropical forests were the primary sources of new agricultural land in the 1980s and 1990s.Proceedings of the National Academy of Sciences,107(38), 16732–16737.Link to source:https://doi.org/10.1073/pnas.0910275107
+
+Golub, A., Herrera, D., Leslie, G., Pietracci, B., & Lubowski, R. (2021). A real options framework for reducing emissions from deforestation: Reconciling short-term incentives with long-term benefits from conservation and agricultural intensification.Ecosystem Services, 49, 101275.Link to source:https://doi.org/10.1016/j.ecoser.2021.101275
+
+Graham, V., Geldmann, J., Adams, V. M., Negret, P. J., Sinovas, P., & Chang, H.-C. (2021). Southeast Asian protected areas are effective in conserving forest cover and forest carbon stocks compared to unprotected areas.Scientific Reports, 11(1), 23760.Link to source:https://doi.org/10.1038/s41598-021-03188-w
+
+Grantham, H. S., Duncan, A., Evans, T. D., Jones, K. R., Beyer, H. L., Schuster, R., Walston, J., Ray, J. C., Robinson, J. G., Callow, M., Clements, T., Costa, H. M., DeGemmis, A., Elsen, P. R., Ervin, J., Franco, P., Goldman, E., Goetz, S., Hansen, A., … Watson, J. E. M. (2020). Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity.Nature Communications,11(1), 5978.Link to source:https://doi.org/10.1038/s41467-020-19493-3
+
+Gray, C. L., Hill, S. L. L., Newbold, T., Hudson, L. N., Börger, L., Contu, S., Hoskins, A. J., Ferrier, S., Purvis, A., & Scharlemann, J. P. W. (2016). Local biodiversity is higher inside than outside terrestrial protected areas worldwide.Nature Communications,7(1), 12306.Link to source:https://doi.org/10.1038/ncomms12306
+
+Griscom, B. W., Adams, J., Ellis, P. W., Houghton, R. A., Lomax, G., Miteva, D. A., Schlesinger, W. H., Shoch, D., Siikamäki, J. V., Smith, P., Woodbury, P., Zganjar, C., Blackman, A., Campari, J., Conant, R. T., Delgado, C., Elias, P., Gopalakrishna, T., Hamsik, M. R., … Fargione, J. (2017). Natural climate solutions.Proceedings of the National Academy of Sciences,114(44), 11645–11650.Link to source:https://doi.org/10.1073/pnas.1710465114
+
+Hansen, M. C., Potapov, P. V., Moore, R., Hancher, M., Turubanova, S. A., Tyukavina, A., Thau, D., Stehman, S. V., Goetz, S. J., Loveland, T. R., Kommareddy, A., Egorov, A., Chini, L., Justice, C. O., & Townshend, J. R. G. (2013). High-Resolution Global Maps of 21st-Century Forest Cover Change.Science,342(6160), 850–853.Link to source:https://doi.org/10.1126/science.1244693. Data available on-line from:Link to source:http://earthenginepartners.appspot.com/science-2013-global-forest. Accessed through Global Forest Watch on 01/12/2024.www.globalforestwatch.org
+
+Harris, N. L., Gibbs, D. A., Baccini, A., Birdsey, R. A., de Bruin, S., Farina, M., Fatoyinbo, L., Hansen, M. C., Herold, M., Houghton, R. A., Potapov, P. V., Suarez, D. R., Roman-Cuesta, R. M., Saatchi, S. S., Slay, C. M., Turubanova, S. A., & Tyukavina, A. (2021). Global maps of twenty-first century forest carbon fluxes.Nature Climate Change,11(3), 234–240.Link to source:https://doi.org/10.1038/s41558-020-00976-6
+
+Heilmayr, R., Rausch, L. L., Munger, J., & Gibbs, H. K. (2020). Brazil’s Amazon Soy Moratorium reduced deforestation.Nature Food, 1(12), 801–810.Link to source:https://doi.org/10.1038/s43016-020-00194-5
+
+Herrera, D., Ellis, A., Fisher, B., Golden, C. D., Johnson, K., Mulligan, M., Pfaff, A., Treuer, T., & Ricketts, T. H. (2017). Upstream watershed condition predicts rural children’s health across 35 developing countries.Nature Communications,8(1), 811.Link to source:https://doi.org/10.1038/s41467-017-00775-2
+
+Herrera, D., Pfaff, A., & Robalino, J. (2019). Impacts of protected areas vary with the level of government: Comparing avoided deforestation across agencies in the Brazilian Amazon.Proceedings of the National Academy of Sciences,116(30), 14916–14925.Link to source:https://doi.org/10.1073/pnas.1802877116
+
+Jones, K. R., Venter, O., Fuller, R. A., Allan, J. R., Maxwell, S. L., Negret, P. J., & Watson, J. E. M. (2018). One-third of global protected land is under intense human pressure.Science, 360(6390), 788–791.Link to source:https://doi.org/10.1126/science.aap9565
+
+Kolden, C. A., Abatzoglou, J. T., Jones, M. W., & Jain, P. (2024). Wildfires in 2023.Nature Reviews Earth & Environment,5(4), 238–240.Link to source:https://doi.org/10.1038/s43017-024-00544-y
+
+Kreye, M. M., Adams, D. C., & Escobedo, F. J. (2014). The Value of Forest Conservation for Water Quality Protection.Forests,5(5), Article 5.Link to source:https://doi.org/10.3390/f5050862
+
+Lambin, E. F., Gibbs, H. K., Heilmayr, R., Carlson, K. M., Fleck, L. C., Garrett, R. D., le Polain de Waroux, Y., McDermott, C. L., McLaughlin, D., Newton, P., Nolte, C., Pacheco, P., Rausch, L. L., Streck, C., Thorlakson, T., & Walker, N. F. (2018). The role of supply-chain initiatives in reducing deforestation.Nature Climate Change, 8(2), 109–116.Link to source:https://doi.org/10.1038/s41558-017-0061-1
+
+Lawrence, D., Coe, M., Walker, W., Verchot, L., & Vandecar, K. (2022). The unseen effects of deforestation: biophysical effects on climate.Frontiers in Forests and Global Change,5.Link to source:https://doi.org/10.3389/ffgc.2022.756115
+
+Levy, S. A., Cammelli, F., Munger, J., Gibbs, H. K., & Garrett, R. D. (2023). Deforestation in the Brazilian Amazon could be halved by scaling up the implementation of zero-deforestation cattle commitments.Global Environmental Change, 80, 102671.Link to source:https://doi.org/10.1016/j.gloenvcha.2023.102671
+
+Li, G., Fang, C., Watson, J. E. M., Sun, S., Qi, W., Wang, Z., & Liu, J. (2024). Mixed effectiveness of global protected areas in resisting habitat loss.Nature Communications,15(1), 8389.Link to source:https://doi.org/10.1038/s41467-024-52693-9
+
+Lindenmayer, D. (2024). Key steps toward expanding protected areas to conserve global biodiversity.Frontiers in Science,2.Link to source:https://doi.org/10.3389/fsci.2024.1426480
+
+Lutz, J. A., Furniss, T. J., Johnson, D. J., Davies, S. J., Allen, D., Alonso, A., Anderson-Teixeira, K. J., Andrade, A., Baltzer, J., Becker, K. M. L., Blomdahl, E. M., Bourg, N. A., Bunyavejchewin, S., Burslem, D. F. R. P., Cansler, C. A., Cao, K., Cao, M., Cárdenas, D., Chang, L.-W., … Zimmerman, J. K. (2018). Global importance of large-diameter trees.Global Ecology and Biogeography,27(7), 849–864.Link to source:https://doi.org/10.1111/geb.12747
+
+Macdonald, K., Diprose, R., Grabs, J., Schleifer, P., Alger, J., Bahruddin, Brandao, J., Cashore, B., Chandra, A., Cisneros, P., Delgado, D., Garrett, R., & Hopkinson, W. (2024). Jurisdictional approaches to sustainable agro-commodity governance: The state of knowledge and future research directions.Earth System Governance, 22, 100227.Link to source:https://doi.org/10.1016/j.esg.2024.100227
+
+McCallister, M., Krasovskiy, A., Platov, A., Pietracci, B., Golub, A., Lubowski, R., & Leslie, G. (2022). Forest protection and permanence of reduced emissions.Frontiers in Forests and Global Change,5.Link to source:https://doi.org/10.3389/ffgc.2022.928518
+
+Marin, F. R., Zanon, A. J., Monzon, J. P., Andrade, J. F., Silva, E. H. F. M., Richter, G. L., Antolin, L. A. S., Ribeiro, B. S. M. R., Ribas, G. G., Battisti, R., Heinemann, A. B., & Grassini, P. (2022). Protecting the Amazon forest and reducing global warming via agricultural intensification.Nature Sustainability, 5(12), 1018–1026.Link to source:https://doi.org/10.1038/s41893-022-00968-8
+
+McNicol, I. M., Keane, A., Burgess, N. D., Bowers, S. J., Mitchard, E. T. A., & Ryan, C. M. (2023). Protected areas reduce deforestation and degradation and enhance woody growth across African woodlands.Communications Earth & Environment,4(1), 1–14.Link to source:https://doi.org/10.1038/s43247-023-01053-4
+
+Melo, F. P. L., Parry, L., Brancalion, P. H. S., Pinto, S. R. R., Freitas, J., Manhães, A. P., Meli, P., Ganade, G., & Chazdon, R. L. (2021). Adding forests to the water–energy–food nexus.Nature Sustainability,4(2), 85–92.Link to source:https://doi.org/10.1038/s41893-020-00608-z
+
+Meng, Z., Dong, J., Ellis, E. C., Metternicht, G., Qin, Y., Song, X.-P., Löfqvist, S., Garrett, R. D., Jia, X., & Xiao, X. (2023). Post-2020 biodiversity framework challenged by cropland expansion in protected areas.Nature Sustainability, 6(7), 758–768.Link to source:https://doi.org/10.1038/s41893-023-01093-w
+
+Morales-Hidalgo, D., Oswalt, S. N., & Somanathan, E. (2015). Status and trends in global primary forest, protected areas, and areas designated for conservation of biodiversity from the Global Forest Resources Assessment 2015.Forest Ecology and Management,352, 68–77.Link to source:https://doi.org/10.1016/j.foreco.2015.06.011
+
+Mykleby, P. M., Snyder, P. K., & Twine, T. E. (2017). Quantifying the trade-off between carbon sequestration and albedo in midlatitude and high-latitude North American forests.Geophysical Research Letters,44(5), 2493–2501.Link to source:https://doi.org/10.1002/2016GL071459
+
+Nabuurs, G-J., R. Mrabet, A. Abu Hatab, M. Bustamante, H. Clark, P. Havlík, J. House, C. Mbow, K.N. Ninan, A. Popp, S. Roe, B. Sohngen, S. Towprayoon, 2022: Agriculture, Forestry and Other Land Uses (AFOLU). In IPCC, 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [P.R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, J. Malley, (eds.)]. Cambridge University Press, Cambridge, UK and New York, NY, USA.Link to source:https://doi.org/10.1017/9781009157926.009
+
+Naidoo, R., Gerkey, D., Hole, D., Pfaff, A., Ellis, A. M., Golden, C. D., Herrera, D., Johnson, K., Mulligan, M., Ricketts, T. H., & Fisher, B. (2019). Evaluating the impacts of protected areas on human well-being across the developing world.Science Advances,5(4), eaav3006.Link to source:https://doi.org/10.1126/sciadv.aav3006
+
+Oldekop, J. A., Rasmussen, L. V., Agrawal, A., Bebbington, A. J., Meyfroidt, P., Bengston, D. N., Blackman, A., Brooks, S., Davidson-Hunt, I., Davies, P., Dinsi, S. C., Fontana, L. B., Gumucio, T., Kumar, C., Kumar, K., Moran, D., Mwampamba, T. H., Nasi, R., Nilsson, M., … Wilson, S. J. (2020). Forest-linked livelihoods in a globalized world.Nature Plants,6(12), 1400–1407.Link to source:https://doi.org/10.1038/s41477-020-00814-9
+
+Pan, Y., Birdsey, R. A., Phillips, O. L., Houghton, R. A., Fang, J., Kauppi, P. E., Keith, H., Kurz, W. A., Ito, A., Lewis, S. L., Nabuurs, G.-J., Shvidenko, A., Hashimoto, S., Lerink, B., Schepaschenko, D., Castanho, A., & Murdiyarso, D. (2024). The enduring world forest carbon sink.Nature,631(8021), 563–569.Link to source:https://doi.org/10.1038/s41586-024-07602-x
+
+Phillips, C. A., Rogers, B. M., Elder, M., Cooperdock, S., Moubarak, M., Randerson, J. T., & Frumhoff, P. C. (2022). Escalating carbon emissions from North American boreal forest wildfires and the climate mitigation potential of fire management.Science Advances,8(17), eabl7161.Link to source:https://doi.org/10.1126/sciadv.abl7161
+
+Reddington, C. L., Butt, E. W., Ridley, D. A., Artaxo, P., Morgan, W. T., Coe, H., & Spracklen, D. V. (2015). Air quality and human health improvements from reductions in deforestation-related fire in Brazil.Nature Geoscience,8(10), 768–771.Link to source:https://doi.org/10.1038/ngeo2535
+
+Richter, J., Goldman, E., Harris, N., Gibbs, D., Rose, M., Peyer, S., Richardson, S., & Velappan, H. (2024).Spatial Database of Planted Trees (SDPT Version 2.0)[Dataset].Link to source:https://doi.org/10.46830/writn.23.00073
+
+Rogers, B. M., Mackey, B., Shestakova, T. A., Keith, H., Young, V., Kormos, C. F., DellaSala, D. A., Dean, J., Birdsey, R., Bush, G., Houghton, R. A., & Moomaw, W. R. (2022). Using ecosystem integrity to maximize climate mitigation and minimize risk in international forest policy.Frontiers in Forests and Global Change,5.Link to source:https://doi.org/10.3389/ffgc.2022.929281
+
+Ruseva, T., Marland, E., Szymanski, C., Hoyle, J., Marland, G., & Kowalczyk, T. (2017). Additionality and permanence standards in California’s Forest Offset Protocol: A review of project and program level implications.Journal of Environmental Management,198, 277–288.Link to source:https://doi.org/10.1016/j.jenvman.2017.04.082
+
+Sarira, T. V., Zeng, Y., Neugarten, R., Chaplin-Kramer, R., & Koh, L. P. (2022). Co-benefits of forest carbon projects in Southeast Asia.Nature Sustainability,5(5), 393–396.Link to source:https://doi.org/10.1038/s41893-022-00849-0
+
+Seymour, F., Wolosin, M., & Gray, E. (2022, October 23).Policies underestimate forests’ full effect on the climate. World Resources Institute.Link to source:https://www.wri.org/insights/how-forests-affect-climate
+
+Smith, C., Baker, J. C. A., & Spracklen, D. V. (2023). Tropical deforestation causes large reductions in observed precipitation.Nature,615(7951), 270–275.Link to source:https://doi.org/10.1038/s41586-022-05690-1
+
+Soto-Navarro, C., Ravilious, C., Arnell, A., de Lamo, X., Harfoot, M., Hill, S. L. L., Wearn, O. R., Santoro, M., Bouvet, A., Mermoz, S., Le Toan, T., Xia, J., Liu, S., Yuan, W., Spawn, S. A., Gibbs, H. K., Ferrier, S., Harwood, T., Alkemade, R., … Kapos, V. (2020). Mapping co-benefits for carbon storage and biodiversity to inform conservation policy and action.Philosophical Transactions of the Royal Society B: Biological Sciences,375(1794), 20190128.Link to source:https://doi.org/10.1098/rstb.2019.0128
+
+Sunderlin, W. D., Angelsen, A., Belcher, B., Burgers, P., Nasi, R., Santoso, L., & Wunder, S. (2005). Livelihoods, forests, and conservation in developing countries: An Overview.World Development,33(9), 1383–1402.Link to source:https://doi.org/10.1016/j.worlddev.2004.10.004
+
+Sweeney, B. W., Bott, T. L., Jackson, J. K., Kaplan, L. A., Newbold, J. D., Standley, L. J., Hession, W. C., & Horwitz, R. J. (2004). Riparian deforestation, stream narrowing, and loss of stream ecosystem services.Proceedings of the National Academy of Sciences,101(39), 14132–14137.Link to source:https://doi.org/10.1073/pnas.0405895101
+
+Sze, J. S., Carrasco, L. R., Childs, D., & Edwards, D. P. (2022). Reduced deforestation and degradation in Indigenous Lands pan-tropically.Nature Sustainability,5(2), 123–130.Link to source:https://doi.org/10.1038/s41893-021-00815-2
+
+Tauli-Corpuz, V., Alcorn, J., Molnar, A., Healy, C., & Barrow, E. (2020). Cornered by PAs: Adopting rights-based approaches to enable cost-effective conservation and climate action.World Development,130, 104923.Link to source:https://doi.org/10.1016/j.worlddev.2020.104923
+
+Tran, T. C., Ban, N. C., & Bhattacharyya, J. (2020). A review of successes, challenges, and lessons from Indigenous protected and conserved areas.Biological Conservation, 241, 108271.Link to source:https://doi.org/10.1016/j.biocon.2019.108271
+
+UNEP-WCMC and IUCN (2024), Protected Planet: The World Database on Protected Areas (WDPA) and World Database on Other Effective Area-based Conservation Measures (WD-OECM) [Online], Accessed November 2024, Cambridge, UK: UNEP-WCMC and IUCN. Available at:www.protectedplanet.net
+
+Vijay, V., Fisher, J. R. B., & Armsworth, P. R. (2022). Co-benefits for terrestrial biodiversity and ecosystem services available from contrasting land protection policies in the contiguous United States.Conservation Letters, 15(5), e12907.Link to source:https://doi.org/10.1111/conl.12907
+
+Villoria, N., Garrett, R., Gollnow, F., & Carlson, K. (2022). Leakage does not fully offset soy supply-chain efforts to reduce deforestation in Brazil.Nature Communications, 13(1), 5476.Link to source:https://doi.org/10.1038/s41467-022-33213-z
+
+Visconti, P., Butchart, S. H. M., Brooks, T. M., Langhammer, P. F., Marnewick, D., Vergara, S., Yanosky, A., & Watson, J. E. M. (2019). Protected area targets post-2020.Science, 364(6437), 239–241.Link to source:https://doi.org/10.1126/science.aav6886
+
+Wade, C. M., Austin, K. G., Cajka, J., Lapidus, D., Everett, K. H., Galperin, D., Maynard, R., & Sobel, A. (2020). What Is Threatening Forests in Protected Areas? A Global Assessment of Deforestation in Protected Areas, 2001–2018.Forests,11(5), Article 5.Link to source:https://doi.org/10.3390/f11050539
+
+Waldron, A., Adams, V., Allan, J., Arnell, A., Asner, G., Atkinson, S., Baccini, A., Baillie, J., Balmford, A., & Austin Beau, J. (2020).Protecting 30% of the planet for nature: Costs, benefits and economic implications.Link to source:https://pure.iiasa.ac.at/id/eprint/16560/1/Waldron_Report_FINAL_sml.pdf
+
+Walton, Z. L., Poudyal, N. C., Hepinstall-Cymerman, J., Johnson Gaither, C., & Boley, B. B. (2016). Exploring the role of forest resources in reducing community vulnerability to the heat effects of climate change.Forest Policy and Economics,71, 94–102.Link to source:https://doi.org/10.1016/j.forpol.2015.09.001
+
+Watson, J. E. M., Dudley, N., Segan, D. B., & Hockings, M. (2014). The performance and potential of protected areas.Nature, 515(7525), 67–73.Link to source:https://doi.org/10.1038/nature13947
+
+West, T. A. P., Wunder, S., Sills, E. O., Börner, J., Rifai, S. W., Neidermeier, A. N., Frey, G. P., & Kontoleon, A. (2023). Action needed to make carbon offsets from forest conservation work for climate change mitigation.Science, 381(6660), 873–877.Link to source:https://doi.org/10.1126/science.ade3535
+
+Wolf, C., Levi, T., Ripple, W. J., Zárrate-Charry, D. A., & Betts, M. G. (2021). A forest loss report card for the world’s protected areas.Nature Ecology & Evolution, 5(4), 520–529.Link to source:https://doi.org/10.1038/s41559-021-01389-0
+
+Zafra-Calvo, N., Pascual, U., Brockington, D., Coolsaet, B., Cortes-Vazquez, J. A., Gross-Camp, N., Palomo, I., & Burgess, N. D. (2017). Towards an indicator system to assess equitable management in protected areas.Biological Conservation,211, 134–141.Link to source:https://doi.org/10.1016/j.biocon.2017.05.014
+
+In this analysis, we integrated global land cover data, maps of forest loss rates, shapefiles of PAs and Indigenous people’s lands, country-scale data on reductions in forest loss inside of PAs, and biome-scale data on forest carbon stocks and sequestration rates to calculate currently protected forest area, total global forest area, and avoided emissions from forest protection. Forested peatlands and mangroves are excluded from this analysis and addressed in the Protect Peatlands and Protect Coastal Wetlands solutions, respectively.
+
+We used two land cover data products to estimate forest extent inside and outside of PAs and Indigenous people’s lands, including: 1) the Global Forest Watch (GFW) tree cover dataset (Hansen et al., 2013), resampled to 30 second resolution, and 2) the 2022 European Space Agency Climate Change Initiative (ESA CCI) land cover dataset at native resolution (300 m). For the ESA CCI dataset, all non-flooded tree cover classes (50, 60, 70, 80, 90) and the “mosaic tree and shrub (>50%)/herbaceous cover (<50%)” class (100) and associated subclasses were included as forests. Both products are associated with uncertainty, which we did not address directly in our calculations. We include estimates from both products in order to provide readers with a sense of the variability in values that can stem from different land cover classification methods, which are discussed in more detail below.
+
+These two datasets have methodological differences that result in substantially different classifications of forest extent, including their thresholds for defining forests, their underlying satellite data, and the algorithms used to classify forests based on the satellite information. For example, the ESA CCI product classifies 300-meter pixels with >15% tree cover as forests (based on our included classes), attempts to differentiate tree crops, relies on a 2003–2012 baseline land cover map coupled with a change-detection algorithm, and primarily uses imagery from MERIS, PROBA-V, and Sentinel missions (ESA CCI 2019). In contrast, the Global Forest Watch product generally requires >30% tree cover at 30-meter resolution, does not exclude tree crops, relies on a regression tree model for development of a baseline tree cover map circa 2010, and primarily uses Landsat ETM+ satellite imagery (Hansen et al., 2013). We recommend that interested readers refer to the respective user guides for each data product for a comprehensive discussion of the complex methods used for their development.
+
+We used the Forest Landscape Integrity Index map developed by Grantham et al. (2020), which classifies forests with integrity indices ≥9.6 as high integrity. These forests are characterized by minimal human disturbance and high connectivity. Mangroves and peatlands were excluded from this analysis. We used a map of mangroves from Giri et al. (2011) and a map of peatlands compiled by Global Forest Watch to define mangrove and peatland extent (accessed at https://data.globalforestwatch.org/datasets/gfw::global-peatlands/about). The peatlands map is a composite of maps from five publications: Crezee et al. (2022), Gumbricht et al. (2017), Hastie et al. (2022), Miettinen et al. (2016), and Xu et al. (2018). For each compiled dataset, the data were resampled to 30-second resolution by calculating the area of each grid cell occupied by mangroves or peatlands. For each grid cell containing forests, the “eligible” forest area was calculated by subtracting the mangrove and peatland area from the total forest area for each forest cover dataset (GFW, ESA CCI, and high-integrity forests).
+
+
+## Protected forest areas
+
+
+We identified protected forest areas using the World Database on Protected Areas (WDPA, 2024), which contains boundaries for each PA and additional information, including their establishment year and IUCN management category (Ia to VI, not applicable, not reported, and not assigned). For each PA polygon, we extracted the forest area from the GFW, ESA CCI, and high-integrity dataset (after removing the peatland and mangrove areas).
+
+Each protected area was classified into a climate zone based on the midpoint between its minimum and maximum latitude. Zones included tropical (23.4°N–23.4°S), subtropical (23.4°–35° latitude), temperate (35°–50° latitude), and boreal (>50° latitude) in order to retain some spatial variability in emissions factors. We aggregated protected forest cover areas (from each of the two forest cover datasets and the high-integrity forest data) by IUCN class and climate zone. To evaluate trends in adoption over time, we also aggregated protected areas by establishment year. We used the same method to calculate the forest area that could be protected, extracting the total area of each land cover type by climate zone (inside and outside of existing PAs).
+
+We used maps from Garnett et al. (2018) to identify Indigenous people’s lands that were not inside established PAs. We calculated the total forest area within Indigenous people’s lands (excluding PAs, mangroves, and peatlands) using the same three forest area data sources.
+
+
+## Forest loss and emissions factors
+
+
+Forest loss rates were calculated for unprotected areas using the GFW forest loss dataset for 2001–2022, resampled to 1 km resolution. Forest losses were reclassified according to their dominant drivers based on the maps originally developed by Curtis et al. (2018), with updates accessible through GFW. Dominant drivers of forest loss include commodity agriculture, shifting agriculture, urbanization, forestry, and wildfire. We classified all drivers except wildfire as human-caused forest loss for this analysis. We calculated the area of forest loss attributable to each driver within each climate zone, which represented the “baseline” rate of forest loss outside of PAs.
+
+To calculate the difference in forest loss rates attributable to protection, we used country-level data from Wolf et al. (2021) on the ratio of forest loss in unprotected areas versus PAs, controlling for a suite of socio-environmental characteristics. We classified countries into climate zones based on their median latitude and averaged the ratios within climate zones. We defined the avoided forest loss attributable to protection as the product of the baseline forest loss rate and the ratio of forest loss outside versus inside of PAs.
+
+We calculated the carbon benefits of avoided forest loss by multiplying avoided forest loss by average forest carbon stocks and sequestration rates. Harris et al. (2021) reported carbon stocks and sequestration rates by climate zone (boreal, temperate, subtropical, and tropical), and forest type. Carbon stocks and sequestration rates for primary and old secondary (>20 years old) forests were averaged for this analysis. We calculated carbon sequestration over a 20-yr period to provide values commensurate with the one-time loss of biomass carbon stocks.
+
+Crezee, B. et al. Mapping peat thickness and carbon stocks of the central Congo Basin using field data.Nature Geoscience15: 639-644 (2022).https://www.nature.com/articles/s41561-022-00966-7. Data downloaded fromhttps://congopeat.net/maps/, using classes 4 and 5 only (peat classes).
+
+Curtis, P. G., Slay, C. M., Harris, N. L., Tyukavina, A., & Hansen, M. C. (2018). Classifying drivers of global forest loss. Science, 361(6407), 1108–1111.https://doi.org/10.1126/science.aau3445
+
+ESA CCI (2019). Copernicus Climate Change Service, Climate Data Store: Land cover classification gridded maps from 1992 to present derived from satellite observation. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). Accessed November 2024. doi:10.24381/cds.006f2c9a
+
+Garnett, S. T., Burgess, N. D., Fa, J. E., Fernández-Llamazares, Á., Molnár, Z., Robinson, C. J., Watson, J. E. M., Zander, K. K., Austin, B., Brondizio, E. S., Collier, N. F., Duncan, T., Ellis, E., Geyle, H., Jackson, M. V., Jonas, H., Malmer, P., McGowan, B., Sivongxay, A., & Leiper, I. (2018). A spatial overview of the global importance of Indigenous lands for conservation.Nature Sustainability,1(7), 369–374.https://doi.org/10.1038/s41893-018-0100-6
+
+Giri C, Ochieng E, Tieszen LL, Zhu Z, Singh A, Loveland T, Masek J, Duke N (2011). Status and distribution of mangrove forests of the world using earth observation satellite data (version 1.3, updated by UNEP-WCMC).Global Ecology and Biogeography20: 154-159. doi: 10.1111/j.1466-8238.2010.00584.x . Data URL:http://data.unep-wcmc.org/datasets/4
+
+Gumbricht, T. et al. An expert system model for mapping tropical wetlands and peatlands reveals South America as the largest contributor.Global Change Biology23, 3581–3599 (2017).https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13689
+
+Hansen, M. C., Potapov, P. V., Moore, R., Hancher, M., Turubanova, S. A., Tyukavina, A., Thau, D., Stehman, S. V., Goetz, S. J., Loveland, T. R., Kommareddy, A., Egorov, A., Chini, L., Justice, C. O., & Townshend, J. R. G. (2013). High-Resolution Global Maps of 21st-Century Forest Cover Change.Science,342(6160), 850–853.https://doi.org/10.1126/science.1244693. Data available on-line from: http://earthenginepartners.appspot.com/science-2013-global-forest. Accessed through Global Forest Watch on 01/12/2024.www.globalforestwatch.org
+
+Harris, N. L., Gibbs, D. A., Baccini, A., Birdsey, R. A., de Bruin, S., Farina, M., Fatoyinbo, L., Hansen, M. C., Herold, M., Houghton, R. A., Potapov, P. V., Suarez, D. R., Roman-Cuesta, R. M., Saatchi, S. S., Slay, C. M., Turubanova, S. A., & Tyukavina, A. (2021). Global maps of twenty-first century forest carbon fluxes.Nature Climate Change,11(3), 234–240.https://doi.org/10.1038/s41558-020-00976-6
+
+Hastie, A. et al. Risks to carbon storage from land-use change revealed by peat thickness maps of Peru.Nature Geoscience15: 369-374 (2022).https://www.nature.com/articles/s41561-022-00923-4
+
+Miettinen, J., Shi, C. & Liew, S. C. Land cover distribution in the peatlands of Peninsular Malaysia, Sumatra and Borneo in 2015 with changes since 1990. Global Ecological Conservation. 6, 67– 78 (2016).https://www.sciencedirect.com/science/article/pii/S2351989415300470
+
+UNEP-WCMC and IUCN (2024), Protected Planet: The World Database on Protected Areas (WDPA) and World Database on Other Effective Area-based Conservation Measures (WD-OECM) [Online], Accessed November 2024, Cambridge, UK: UNEP-WCMC and IUCN. Available at:www.protectedplanet.net.
+
+Wolf, C., Levi, T., Ripple,W. J., Zárrate-Charry, D. A., & Betts, M. G. (2021). A forest loss report card for the world’s protected areas. Nature Ecology & Evolution, 5(4), 520–529.https://doi.org/10.1038/s41559-021-01389-0
+
+Xu et al. PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis. CATENA 160: 134-140 (2018).https://www.sciencedirect.com/science/article/pii/S0341816217303004
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Megan Matthews, Ph.D.
+
+Christina Swanson, Ph.D.
+
+Christina Swanson, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

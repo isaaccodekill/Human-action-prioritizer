@@ -1,0 +1,326 @@
+# Solar Hot Water
+Source: https://en.wikipedia.org/wiki/Solar_water_heating
+
+Solar water heating (SWH) is heating water by sunlight, using a solar thermal collector. A variety of configurations are available at varying cost to provide solutions in different climates and latitudes. SWHs are widely used for residential and some industrial applications.
+A Sun-facing collector heats a working fluid that passes into a storage system for later use. SWH are active (pumped) and passive (convection-driven). They use water only, or both water and a working fluid. They are heated directly or via light-concentrating mirrors. They operate independently or as hybrids with electric or gas heaters. In large-scale installations, mirrors may concentrate sunlight into a smaller collector.
+At the end of 2023, global solar hot water thermal capacity was 560 GWth, a 3% increase from 2022. The market is dominated by China, the United States and Turkey. Barbados, Austria, Cyprus, Israel and Greece are the leading countries by capacity per person. There were 122 million solar hot water systems in operation at the end of 2022.
+
+
+== History ==
+
+Records of solar collectors in the United States date to before 1900, involving a black-painted tank mounted on a roof. In 1896 Clarence Kemp of Baltimore enclosed a tank in a wooden box, thus creating the first 'batch water heater' as they are known today. Frank Shuman built the world's first solar thermal power station in Maadi, Egypt between 1912 and 1913, using parabolic troughs to power a 45 to 52 kilowatts (60 to 70 horsepower) engine that pumped 23,000 litres (6,000 US gal) of water per minute from the Nile River to adjacent cotton fields.
+Flat-plate collectors for solar water heating were used in Florida and Southern California in the 1920s. Interest grew in North America after 1960, but especially after the 1973 oil crisis.
+
+
+=== Mediterranean ===
+
+Israel, Cyprus and Greece are the per capita leaders in the use of solar water heating systems supporting 30%–40% of homes.
+Flat plate solar systems were perfected and used on a large scale in Israel. In the 1950s a fuel shortage led the government to forbid heating water between 10 pm and 6 am. Levi Yissar built the first prototype Israeli solar water heater and in 1953 he launched the NerYah Company, Israel's first commercial manufacturer of solar water heating. Solar water heaters were used by 20% of the population by 1967. Following the energy crisis in the 1970s, in 1980 Israel required the installation of solar water heaters in all new homes (except high towers with insufficient roof area). As a result, Israel became the world leader in the use of solar energy per capita with 85% of households using solar thermal systems (3% of the primary national energy consumption), estimated to save the country 2 million barrels (320,000 m3) of oil a year.
+In 2005, Spain became the world's first country to require the installation of photovoltaic electricity generation in new buildings, and the second (after Israel) to require the installation of solar water heating systems, in 2006.
+
+
+=== Asia ===
+
+After 1960, systems were marketed in Japan.
+Australia has a variety of national and state and regulations for solar thermal starting with MRET in 1997.
+Solar water heating systems are popular in China, where basic models start at around 1,500 yuan (US$235), around 80% less than in Western countries for a given collector size. At least 30 million Chinese households have one. The popularity is due to efficient evacuated tubes that allow the heaters to function even under gray skies and at temperatures well below freezing.
+
+
+== Design requirements ==
+
+The type, complexity and size of a solar water heating system is mostly determined by:
+
+Changes in ambient temperature and solar radiation between summer and winter
+Changes in ambient temperature during the day-night cycle
+Possibility of the potable water or collector fluid overheating or freezing
+The minimum requirements of the system are typically determined by the amount or temperature of hot water required during winter, when a system's output and incoming water temperature are typically at their lowest. The maximum output of the system is determined by the need to prevent the water in the system from becoming too hot.
+
+
+=== Freeze protection ===
+Freeze protection measures prevent damage to the system due to the expansion of freezing transfer fluid. Drainback systems drain the transfer fluid from the system when the pump stops. Many indirect systems use antifreeze (e.g., propylene glycol) in the heat transfer fluid.
+In some direct systems, collectors can be manually  drained when freezing is expected. This approach is common in climates where freezing temperatures do not occur often but can be less reliable than an automatic system as it relies on an operator.
+The third type of freeze protection is freeze-tolerance, where low-pressure water pipes made of silicone rubber simply expand on freezing. One such collector now has European Solar Keymark accreditation.
+Notably, while the need for freeze protection has traditionally been a complicating factor, systems using evacuated tube collectors may be used in climates with moderate frosts without any need for drainback or antifreeze. This is because an evacuated tube system only has water in the thermally insulated header, not in the evacuated tubes themselves. Additional protection is also provided by the controller: if header temperature drops below a set value (typically 2 to 4'C) the circulating pump is automatically turned on for a short period to pass warmer water to the header.
+
+
+=== Overheat protection ===
+When no hot water has been used for a day or two, the fluid in the collectors and storage can reach high temperatures in all non-"drainback" systems. When the storage tank in a "drainback" system reaches its desired temperature, the pumps stop, ending the heating process and thus preventing the storage tank from overheating.
+Some active systems deliberately cool the water in the storage tank by circulating hot water through the collector at times when there is little sunlight or at night, losing heat. This is most effective in direct or thermal store plumbing and is virtually ineffective in systems that use evacuated tube collectors, due to their superior insulation. Any collector type may still overheat. High pressure, sealed solar thermal systems ultimately rely on the operation of temperature and pressure relief valves. Low pressure, open vented heaters have simpler, more reliable safety controls, typically an open vent.
+
+
+== Structure and working ==
+Simple designs include a simple glass-topped insulated box with a flat solar absorber made of dark-colored sheet metal, attached to copper heat exchanger pipes, or a set of metal tubes surrounded by an evacuated (near vacuum) glass cylinder. In industrial cases a parabolic mirror can concentrate sunlight on the tube. Heat is stored in a hot water storage tank. The volume of this tank needs to be larger with solar heating systems to compensate for bad weather and because the optimum final temperature for the solar collector is lower than a typical immersion or combustion heater. The heat transfer fluid (HTF) for the absorber may be  water, but more commonly (at least in active systems) is a separate loop of fluid containing anti-freeze and a corrosion inhibitor delivers heat to the tank through a heat exchanger (commonly a coil of copper heat exchanger tubing within the tank). Copper is an important component in solar thermal heating and cooling systems because of its high heat conductivity, atmospheric and water corrosion resistance, sealing and joining by soldering and mechanical strength. Copper is used both in receivers and primary circuits (pipes and heat exchangers for water tanks).
+The 'drain-back' is another lower-maintenance concept. No anti-freeze is required; instead, all the piping is sloped to cause water to drain back to the tank. The tank is not pressurized and operates at atmospheric pressure. As soon as the pump shuts off, flow reverses and the pipes empty before freezing can occur.
+
+Residential solar thermal installations fall into two groups: passive (sometimes called "compact") and active (sometimes called "pumped") systems. Both typically include an auxiliary energy source (electric heating element or connection to a gas or fuel oil central heating system) that is activated when the water in the tank falls below a minimum temperature setting, ensuring that hot water is always available. The combination of solar water heating and back-up heat from a wood stove chimney can enable a hot water system to work all year round in cooler climates, without the supplemental heat requirement of a solar water heating system being met with fossil fuels or electricity.
+When a solar water heating and hot-water central heating system are used together, solar heat will either be concentrated in a pre-heating tank that feeds into the tank heated by the central heating, or the solar heat exchanger will replace the lower heating element and the upper element will remain to provide for supplemental heat. However, the primary need for central heating is at night and in winter when solar gain is lower. Therefore, solar water heating for washing and bathing is often a better application than central heating because supply and demand are better matched. In many climates, a solar hot water system can provide up to 85% of domestic hot water energy. This can include domestic non-electric concentrating solar thermal systems. In many northern European countries, combined hot water and space heating systems (solar combisystems) are used to provide 15 to 25% of home heating energy. When combined with storage, large scale solar heating can provide 50-97% of annual heat consumption for district heating.
+
+
+=== Heat transfer ===
+
+
+==== Direct ====
+
+Direct or open loop systems circulate potable water through the collectors. They are relatively cheap. Drawbacks include:
+
+They offer little or no overheat protection unless they have a heat export pump.
+They offer little or no freeze protection, unless the collectors are freeze-tolerant or are of the evacuated tube type.
+Collectors accumulate scale in hard water areas, unless an ion-exchange softener is used.
+The advent of freeze-tolerant designs expanded the market for SWH to colder climates. In freezing conditions, earlier models were damaged when the water turned to ice, rupturing one or more components.
+
+
+==== Indirect ====
+Indirect or closed loop systems use a heat exchanger to transfer heat from the "heat-transfer fluid" (HTF) fluid to the potable water. The most common HTF is an antifreeze/water mix that typically uses non-toxic propylene glycol. After heating in the panels, the HTF travels to the heat exchanger, where its heat is transferred to the potable water. Indirect systems offer freeze protection and typically overheat protection.
+
+
+=== Propulsion ===
+
+
+==== Passive ====
+Passive systems rely on heat-driven convection or heat pipes to circulate the working fluid. Passive systems cost less and require low or no maintenance, but are less efficient. Overheating and freezing are major concerns.
+
+
+==== Active ====
+Active systems use one or more pumps to circulate water and/or heating fluid. This permits a much wider range of system configurations. Pumped systems are more expensive to purchase and to operate. However, they operate at higher efficiency and can be more easily controlled. Active systems have controllers with features such as interaction with a backup electric or gas-driven water heater, calculation and logging of the energy saved, safety functions, remote access and informative displays.
+
+
+=== Passive direct systems ===
+
+An integrated collector storage (ICS or batch heater) system uses a tank that acts as both storage and collector. Batch heaters are thin rectilinear tanks with a glass side facing the Sun at noon. They are simple and less costly than plate and tube collectors, but they may require bracing if installed on a roof (to support 400–700 lb (180–320 kg) lbs of water), suffer from significant heat loss at night since the side facing the sun is largely uninsulated and are only suitable in moderate climates.
+A convection heat storage unit (CHS) system is similar to an ICS system, except the storage tank and collector are physically separated and transfer between the two is driven by convection. CHS systems typically use standard flat-plate type or evacuated tube collectors. The storage tank must be located above the collectors for convection to work properly. The main benefit of CHS systems over ICS systems is that heat loss is largely avoided since the storage tank can be fully insulated. Since the panels are located below the storage tank, heat loss does not cause convection, as the cold water stays at the lowest part of the system.
+
+
+=== Active indirect systems ===
+Pressurized antifreeze systems use a mix of antifreeze (almost always low-toxic propylene glycol) and water mix for HTF in order to prevent freeze damage.
+Though effective at preventing freeze damage, antifreeze systems have drawbacks:
+
+If the HTF gets too hot the glycol degrades into acid and then provides no freeze protection and begins to dissolve the solar loop's components.
+Systems without drainback tanks must circulate the HTF – regardless of the temperature of the storage tank – to prevent the HTF from degrading. Excessive temperatures in the tank cause increased scale and sediment build-up, possible severe burns if a tempering valve is not installed, and if used for storage, possible thermostat failure.
+The glycol/water HTF must be replaced every 3–8 years, depending on the temperatures it has experienced.
+Some jurisdictions require more-expensive, double-walled heat exchangers even though propylene glycol is low-toxic.
+Even though the HTF contains glycol to prevent freezing, it circulates hot water from the storage tank into the collectors at low temperatures (e.g. below 40 °F (4 °C)), causing substantial heat loss.
+A drainback system is an active indirect system where the HTF (usually pure water) circulates through the collector, driven by a pump. The collector piping is not pressurized and includes an open drainback reservoir that is contained in conditioned or semi-conditioned space. The HTF remains in the drainback reservoir unless the pump is operating and returns there (emptying the collector) when the pump is switched off. The collector system, including piping, must drain via gravity into the drainback tank. Drainback systems are not subject to freezing or overheating. The pump operates only when appropriate for heat collection, but not to protect the HTF, increasing efficiency and reducing pumping costs.
+
+
+=== Do-it-yourself (DIY) ===
+Plans for solar water heating systems are available on the Internet. DIY SWH systems are usually cheaper than commercial ones, and they are used both in the developed and developing world.
+
+
+=== Comparison ===
+
+
+== Components ==
+
+
+=== Collector ===
+
+Solar thermal collectors capture and retain heat from the sun and use it to heat a liquid. Two important physical principles govern the technology of solar thermal collectors:
+
+Any hot object ultimately returns to thermal equilibrium with its environment, due to heat loss from conduction, convection and radiation. Efficiency (the proportion of heat energy retained for a predefined time period) is directly related to heat loss from the collector surface. Convection and radiation are the most important sources of heat loss. Thermal insulation is used to slow heat loss from a hot object. This follows  the Second law of thermodynamics (the 'equilibrium effect').
+Heat is lost more rapidly if the temperature difference between a hot object and its environment is larger. Heat loss is predominantly governed by the thermal gradient between the collector surface and the ambient temperatures. Conduction, convection and radiation all occur more rapidly over large thermal gradients (the delta-t effect).
+
+
+==== Flat plate solar ====
+Flat plate collectors are an extension of the idea to place a collector in an 'oven'-like box with glass directly facing the Sun. Most flat plate collectors have two horizontal pipes at the top and bottom, called headers, and many smaller vertical pipes connecting them, called risers. The risers are welded (or similarly connected) to thin absorber fins. Heat-transfer fluid (water or water/antifreeze mix) is pumped from the hot water storage tank or heat exchanger into the collectors' bottom header, and it travels up the risers, collecting heat from the absorber fins, and then exits the collector out of the top header. Serpentine flat plate collectors differ slightly from this "harp" design, and instead use a single pipe that travels up and down the collector. However, since they cannot be properly drained of water, serpentine flat plate collectors cannot be used in drainback systems.
+The type of glass used in flat plate collectors is almost always low-iron, tempered glass. Such glass can withstand significant hail without breaking, which is one of the reasons that flat-plate collectors are considered the most durable collector type.
+Unglazed or formed collectors are similar to flat-plate collectors, except they are not thermally insulated nor physically protected by a glass panel. Consequently, these types of collectors are much less efficient when water temperature exceeds ambient air temperatures. For pool heating applications, the water to be heated is often colder than the ambient roof temperature, at which point the lack of thermal insulation allows additional heat to be drawn from the surrounding environment.
+
+
+==== Evacuated tube ====
+
+Evacuated tube collectors (ETC) are a way to reduce the heat loss, inherent in flat plates. Since heat loss due to convection cannot cross a vacuum, it forms an efficient isolation mechanism to keep heat inside the collector pipes. Since two flat glass sheets are generally not strong enough to withstand a vacuum, the vacuum is created between two concentric tubes. The inner tube is coated with a thermal absorber. Vacuum life varies from collector to collector, from 5 years to 15 years.
+In addition, evacuated tubes contain a very efficient inner system to transfer heat from the tubes to the water in the header at the top of the array. This comprises a copper tube partly filled with a volatile liquid, sealed at both ends, and running down the centre of the tube. The top end of this tube plugs into a socket in the (water filled) header. Heat absorbed by the evacuated tube causes some of the volatile liquid in the copper tube to evaporate and pass to the header. At the header the gas then condenses, releasing heat there, and the liquid runs back down inside the tube.
+Since the evacuated tubes themselves do not contain water, they are not vulnerable to frosting. The water passes through the thermally insulated header only, and in climates with moderate frosts, no draindown system is required. 
+Also worth noting, since ETCs are (also) exposed on the underside: where they are installed raised from the roof (as in the illustration) they will capture not only direct heat from above, but also heat radiated from surrounding roof on the underside.
+Flat plate collectors are generally more efficient than ETC in full sunshine conditions. However, the energy output of flat plate collectors is reduced slightly more than ETCs in cloudy or extremely cold conditions. Most ETCs are made out of annealed glass, which is susceptible to hail, failing given roughly golf ball -sized particles. ETCs made from "coke glass", which has a green tint, are stronger and less likely to lose their vacuum, but efficiency is slightly reduced due to reduced transparency. ETCs can gather energy from the sun all day long at low angles due to their tubular shape.
+
+
+=== Pump ===
+
+
+==== PV pump ====
+One way to power an active system is via a photovoltaic (PV) panel. To ensure proper pump performance and longevity, the (DC) pump and PV panel must be suitably matched. Although a PV-powered pump does not operate at night, the controller must ensure that the pump does not operate when the sun is out but the collector water is not hot enough.
+PV pumps offer the following advantages:
+
+Simpler/cheaper installation and maintenance
+Excess PV output can be used for household electricity use or put back into the grid
+Can dehumidify living space
+Can operate during a power outage
+Avoids the carbon consumption from using grid-powered pumps
+
+
+==== Bubble pump ====
+
+A bubble pump (also known as geyser pump) is suitable for flat panel as well as vacuum tube systems. In a bubble pump system, the closed HTF circuit is under reduced pressure, which causes the liquid to boil at low temperature as the sun heats it. The steam bubbles form a geyser, causing an upward flow. The bubbles are separated from the hot fluid and condensed at the highest point in the circuit, after which the fluid flows downward toward the heat exchanger caused by the difference in fluid levels. The HTF typically arrives at the heat exchanger at 70 °C and returns to the circulating pump at 50 °C. Pumping typically starts at about 50 °C and increases as the sun rises until equilibrium is reached.
+
+
+=== Controller ===
+
+A differential controller senses temperature differences between water leaving the solar collector and the water in the storage tank near the heat exchanger. The controller starts the pump when the water in the collector is sufficiently about 8–10 °C warmer than the water in the tank, and stops it when the temperature difference reaches 3–5 °C. This ensures that stored water always gains heat when the pump operates and prevents the pump from excessive cycling on and off (in direct systems the pump can be triggered with a difference around 4 °C because they have no heat exchanger).
+
+
+=== Tank ===
+The simplest collector is a water-filled metal tank in a sunny place. The sun heats the tank. This was how the first systems worked. This setup would be inefficient due to the equilibrium effect: as soon as heating of the tank and water begins, the heat gained is lost to the environment and this continues until the water in the tank reaches ambient temperature. The challenge is to limit the heat loss.
+
+The storage tank can be situated lower than the collectors, allowing increased freedom in system design and allowing pre-existing storage tanks to be used.
+The storage tank can be hidden from view.
+The storage tank can be placed in conditioned or semi-conditioned space, reducing heat loss.
+Drainback tanks can be used.
+
+
+==== Insulated tank ====
+ICS or batch collectors reduce heat loss by thermally insulating the tank. This is achieved by encasing the tank in a glass-topped box that allows heat from the sun to reach the water tank. The other walls of the box are thermally insulated, reducing convection and radiation. The box can also have a reflective surface on the inside. This reflects heat lost from the tank back towards the tank. In a simple way one could consider an ICS solar water heater as a water tank that has been enclosed in a type of 'oven' that retains heat from the sun as well as heat of the water in the tank. Using a box does not eliminate heat loss from the tank to the environment, but it largely reduces this loss.
+Standard ICS collectors have a characteristic that strongly limits the efficiency of the collector: a small surface-to-volume ratio. Since the amount of heat that a tank can absorb from the sun is largely dependent on the surface of the tank directly exposed to the sun, it follows that the surface  size defines the degree to which the water can be heated by the sun. Cylindrical objects such as the tank in an ICS collector have an inherently  small surface-to-volume ratio. Collectors attempt to increase this ratio for efficient warming of the water. Variations on this basic design include collectors that combine smaller water containers and evacuated glass tube technology, a type of ICS system known as an Evacuated Tube Batch (ETB) collector.
+
+
+== Applications ==
+ 
+
+
+=== Evacuated tube ===
+ETSCs can be more useful than other solar collectors during winter season. ETCs can be used for heating and cooling purposes in industries like pharmaceutical and drug, paper, leather and textile and also for residential houses, hospitals, nursing home, hotels, swimming pool etc.
+An ETC can operate at a range of temperatures from medium to high for solar hot water, swimming pool, air conditioning and solar cooker.
+ETCs higher operational temperature range (up to 200 °C (392 °F)) makes them suitable for industrial applications such as steam generation, heat engine and solar drying.
+
+
+=== Swimming pools ===
+Floating pool covering systems and separate STCs are used for pool heating.
+Pool covering systems, whether solid sheets or floating disks, act as insulation and reduce heat loss. Much heat loss occurs through evaporation, and using a cover slows evaporation.
+STCs for nonpotable pool water use are often made of plastic. Pool water is mildly corrosive due to chlorine. Water is circulated through the panels using the existing pool filter or supplemental pump. In mild environments, unglazed plastic collectors are more efficient as a direct system. In cold or windy environments evacuated tubes or flat plates in an indirect configuration are used in conjunction with a heat exchanger. This reduces corrosion. A fairly simple differential temperature controller is used to direct the water to the panels or heat exchanger either by turning a valve or operating the pump. Once the pool water has reached the required temperature, a diverter valve is used to return water directly to the pool without heating. Many systems are configured as drainback systems where the water drains into the pool when the water pump is switched off.
+The collector panels are usually mounted on a nearby roof, or ground-mounted on a tilted rack. Due to the low temperature difference between the air and the water, the panels are often formed collectors or unglazed flat plate collectors. A simple rule-of-thumb for the required panel area needed is 50%  of the pool's surface area. This is for areas where pools are used in the summer season only. Adding solar collectors to a conventional outdoor pool, in a cold climate, can typically extend the pool's comfortable usage by months and more if an insulating pool cover is used. When sized at 100% coverage most solar hot water systems are capable of heating a pool anywhere from as little as 4 °C for a wind-exposed pool, to as much as 10 °C for a wind-sheltered pool covered consistently with a solar pool blanket.
+An active solar energy system analysis program may be used to optimize the solar pool heating system before it is built.
+
+
+== Energy production ==
+
+The amount of heat delivered by a solar water heating system depends primarily on the amount of heat delivered by the sun at a particular place (insolation). In the tropics insolation can be relatively high, e.g. 7 kWh/m2 per day, versus e.g., 3.2 kWh/m2 per day in temperate areas. Even at the same latitude average insolation can vary a great deal from location to location due to differences in local weather patterns and the amount of overcast. Calculators are available for estimating insolation at a site.
+Below is a table that gives a rough indication of the specifications and energy that could be expected from a solar water heating system involving some 2 m2 of absorber area of the collector, demonstrating two evacuated tube and three flat plate solar water heating systems. Certification information or figures calculated from those data are used. The bottom two rows give estimates for daily energy production (kWh/day) for a tropical and a temperate scenario. These estimates are for heating water to 50 °C above ambient temperature.
+With most solar water heating systems, the energy output scales linearly with the collector surface area.
+
+The figures are fairly similar between the above collectors, yielding some 4 kWh/day in a temperate climate and some 8 kWh/day in a tropical climate when using a collector with a 2 m2 absorber. In the temperate scenario this is sufficient to heat 200 litres of water by some 17 °C. In the tropical scenario the equivalent heating would be by some 33 °C. Many thermosiphon systems have comparable energy output to equivalent active systems. The efficiency of evacuated tube collectors is somewhat lower than for flat plate collectors because the absorbers are narrower than the tubes and the tubes have space between them, resulting in a significantly larger percentage of inactive overall collector area. Some methods of comparison calculate the efficiency of evacuated tube collectors based on the actual absorber area and not on the space occupied as has been done in the above table. Efficiency is reduced at higher temperatures.
+
+
+== Costs ==
+In sunny, warm locations, where freeze protection is not necessary, an ICS (batch type) solar water heater can be cost effective.
+In higher latitudes, design requirements for cold weather add to system complexity and cost.
+This increases initial costs, but not life-cycle costs. The biggest single consideration is therefore the large initial financial outlay of solar water heating systems. Offsetting this expense can take years.
+The payback period is longer in temperate environments.
+Since solar energy is free, operating costs are small.
+At higher latitudes, solar heaters may be less effective due to lower insolation, possibly requiring larger and/or dual-heating systems. In some countries government incentives can be significant.
+Cost factors (positive and negative) include:
+
+Price of solar water heater (more complex systems are more expensive)
+Efficiency
+Installation cost
+Electricity used for pumping
+Price of water heating fuel (e.g. gas or electricity) saved per kWh
+Amount of water heating fuel used
+Initial and/or recurring government subsidy
+Maintenance cost (e.g. antifreeze or pump replacements)
+Savings in maintenance of conventional (electric/gas/oil) water heating system
+Payback times can vary greatly due to regional sun, extra cost due to frost protection needs of collectors, household hot water use etc. For instance in central and southern Florida the payback period could easily be 7 years or less rather than the 12.6 years indicated on the chart for the United States.
+
+The payback period is shorter given greater insolation. However, even in temperate areas, solar water heating is cost effective. The payback period for photovoltaic systems has historically been much longer. Costs and payback period are shorter if no complementary/backup system is required, thus extending the payback period of such a system.
+
+
+=== Subsidies ===
+Australia operates a system of Renewable Energy Credits, based on national renewable energy targets.
+The Toronto Solar Neighbourhoods Initiative offers subsidies for the purchase of solar water heating units.
+
+
+== Energy footprint and life cycle assessment ==
+ 
+
+
+=== Energy footprint ===
+The source of electricity in an active SWH system determines the extent to which a system contributes to atmospheric carbon during operation. Active solar thermal systems that use mains electricity to pump the fluid through the panels are called 'low carbon solar'. In most systems the pumping reduces the energy savings by about 8% and the carbon savings of the solar by about 20%. However, low power pumps operate with 1-20W. Assuming a solar collector panel delivering 4 kWh/day and a pump running intermittently from mains electricity for a total of 6 hours during a 12-hour sunny day, the potentially negative effect of such a pump can be reduced to about 3% of the heat produced.
+However, PV-powered active solar thermal systems typically use a 5–30 W PV panel and a small, low power diaphragm pump or centrifugal pump to circulate the water. This reduces the operational carbon and energy footprint.
+Alternative non-electrical pumping systems may employ thermal expansion and phase changes of liquids and gases.
+
+
+=== Life cycle energy assessment ===
+Recognised standards can be used to deliver robust and quantitative life cycle assessments (LCA). LCA considers the financial and environmental costs of acquisition of raw materials, manufacturing, transport, using, servicing and disposal of the equipment. Elements include:
+
+Financial costs and gains
+Energy consumption
+CO2 and other emissions
+In terms of energy consumption, some 60% goes into the tank, with 30% towards the collector (thermosiphon flat plate in this case). In Italy, some 11 giga-joules of electricity are used in producing SWH equipment, with about 35% goes toward the tank, with another 35% towards the collector. The main energy-related impact is emissions. The energy used in manufacturing is recovered within the first 2–3 years of use (in southern Europe).
+By contrast the energy payback time in the UK is reported as only 2 years. This figure was for a direct system, retrofitted to an existing water store, PV pumped, freeze tolerant and of 2.8 sqm aperture. For comparison, a PV installation took around 5 years to reach energy payback, according to the same comparative study.
+In terms of CO2 emissions, a large fraction of the emissions saved is dependent on the degree to which gas or electricity is used to supplement the sun. Using the Eco-indicator 99 points system as a yardstick (i.e. the yearly environmental load of an average European inhabitant) in Greece, a purely gas-driven system may have fewer emissions than a solar system. This calculation assumes that the solar system produces about half of the hot water requirements of a household. But because methane (CH4) emissions from the natural gas fuel cycle dwarf the greenhouse impact of CO2, the net greenhouse emissions (CO2e) from gas-driven systems are vastly greater than for solar heaters, especially if supplemental electricity is also from carbon-free generation.
+A test system in Italy produced about 700 kg of CO2, considering all the components of manufacture, use and disposal. Maintenance was identified as an emissions-costly activity when the heat transfer fluid (glycol-based) was replaced. However, the emissions cost was recovered within about two years of use of the equipment.
+In Australia, life cycle emissions were also recovered. The tested SWH system had about 20% of the impact of an electrical water heater and half that of a gas water heater.
+Analysing their lower impact retrofit freeze-tolerant solar water heating system, Allen et al. (qv) reported a production CO2 impact of 337 kg, which is around half the environmental impact reported in the Ardente et al. (qv) study.
+
+
+== System specification and installation ==
+
+Most SWH installations require backup heating.
+The amount of hot water consumed each day must be replaced and heated. In a solar-only system, consuming a high fraction of the water in the reservoir implies significant reservoir temperature variations. The larger the reservoir the smaller the daily temperature variation.
+SWH systems offer significant scale economies in collector and tank costs. Thus the most economically efficient scale meets 100% of the heating needs of the application.
+Direct systems (and some indirect systems using heat exchangers) can be retrofitted to existing stores.
+Equipment components must be insulated to achieve full system benefits. The installation of efficient insulation significantly reduces heat loss.
+The most efficient PV pumps start slowly in low light levels, so they may cause a small amount of unwanted circulation while the collector is cold. The controller must prevent stored hot water from this cooling effect.
+Evacuated tube collector arrays can be adjusted by removing/adding tubes or their heat pipes, allowing customization during/after installation.
+Above 45 degrees latitude, roof mounted sun-facing collectors tend to outproduce wall-mounted collectors. However, arrays of wall-mounted steep collectors can sometimes produce more useful energy because gains in used energy in winter can offset the loss of unused (excess) energy in summer.
+
+
+== Standards ==
+
+
+=== Europe ===
+EN 806: Specifications for installations inside buildings conveying water for human consumption. General.
+EN 1717: Protection against pollution of potable water in water installations and general requirements of devices to prevent pollution by backflow.
+EN 60335: Specification for safety of household and similar electrical appliances. (2–21)
+UNE 94002:2005 Thermal solar systems for domestic hot water production. Calculation method for heat demand.
+
+
+=== United States ===
+OG-300: OG-300 Certification of Solar Water Heating Systems.
+
+
+=== Canada ===
+CAN/CSA-F378 Series 11 (Solar collectors)
+CAN/CSA-F379 Series 09 (Packaged solar domestic hot water systems)
+SRCC Standard 600 (Minimum standard for solar thermal concentrating collectors)
+
+
+=== Australia ===
+Renewable Energy (Electricity) Act 2000
+Renewable Energy (Electricity) (Large-scale Generation Shortfall Charge) Act 2000
+Renewable Energy (Electricity) (Small-scale Technology Shortfall Charge) Act 2010
+Renewable Energy (Electricity) Regulations 2001
+Renewable Energy (Electricity) Regulations 2001 - STC Calculation Methodology for Solar Water Heaters and air source heat pump Water Heaters
+Renewable Energy (Electricity) Amendment (Transitional Provision) Regulations 2010
+Renewable Energy (Electricity) Amendment (Transitional Provisions) Regulations 2009
+All relevant participants of the Large-scale Renewable Energy Target and Small-scale Renewable Energy Scheme must comply with the above Acts.
+
+
+== Worldwide use ==
+
+
+=== European Union ===
+
+
+== See also ==
+
+Concentrating solar power
+Passive solar
+Renewable energy commercialization
+Renewable heat
+Renewable Energy Certificate (United States)
+Solar air conditioning
+Solar air heating
+Solar combisystem
+Solar energy
+Solar hot water in Australia
+Solar thermal collector
+Solar thermal energy
+Solar water disinfection
+Sustainable design
+
+
+== References ==
+
+
+== External links ==
+Parts of a solar heating system

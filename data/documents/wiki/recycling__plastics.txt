@@ -1,0 +1,178 @@
+# Recycling: Plastics
+Source: https://en.wikipedia.org/wiki/Plastic_recycling
+
+Plastic recycling is the processing of plastic waste into other products. Recycling can reduce dependence on landfills, conserve resources and protect the environment from plastic pollution and greenhouse gas emissions. Recycling rates lag behind those of other recoverable materials, such as aluminium, glass and paper. From the start of plastic production through to 2015, the world produced around 6.3 billion tonnes of plastic waste, only 9% of which has been recycled and only ~1% has been recycled more than once. Of the remaining waste, 12% was incinerated and 79% was either sent to landfills or released into the environment as pollution.
+Almost all plastic is non-biodegradable and without recycling, spreads across the environment where it causes plastic pollution. For example, as of 2015, approximately 8 million tonnes of waste plastic enters the oceans annually, damaging oceanic ecosystems and forming ocean garbage patches.
+Almost all recycling is mechanical and involves the melting and reforming of plastic into other items. This can cause polymer degradation at the molecular level, and requires that waste be sorted by colour and polymer type before processing, which is often complicated and expensive. Errors can lead to material with inconsistent properties, rendering it unappealing to industry. Though filtration in mechanical recycling reduces microplastic release, even the most efficient filtration systems cannot prevent the release of microplastics into wastewater.
+In feedstock recycling, waste plastic is converted into its starting chemicals, which can then become fresh plastic. This involves higher energy and capital costs. Alternatively, plastic can be burned in place of fossil fuels in energy recovery facilities, or biochemically converted into other useful chemicals for industry. In some countries, burning is the dominant form of plastic waste disposal, particularly where landfill diversion policies are in place.
+Plastic recycling is low in the waste hierarchy, meaning that reduction and reuse are more favourable and long-term solutions for sustainability. 
+It has been advocated since the early 1970s, but due to economic and technical challenges, did not impact the management of plastic waste to any significant extent until the late 1980s.
+
+
+== History ==
+Although plastics were discovered before the 20th century, large-scale production was not realised until World War II. Nylon replaced silk in parachutes, while Perspex was a light-weight alternative to glass in aeroplanes. After the war these materials were commercialized. The plastic age began around 1950, part of the post-war economic boom.
+Global environmental movements in the 1960s and 1970s led to the formation of environmental agencies in the US (EPA, 1970), EU (DG ENV, 1973) Australia (EPA, 1971) and Japan (JEA 1971). Environmental awareness put plastic waste under scrutiny. The earliest effort to abate plastic pollution was arguably the 1973 and 1978 MARPOL agreements, whose Annex V banned dumping plastics in the oceans.
+
+
+=== Industry lobbying ===
+
+As regulations expanded, the plastics industry responded with lobbying to preserve their business interests. In the U.S., the 1970 Resource Recovery Act directed the nation towards recycling and energy recovery. More than a thousand attempts to pass legislation to ban or tax packaging, including plastics, came by 1976. The plastics industry responded by lobbying for plastic to be recycled. A $50 million per year campaign was run by organisations such as Keep America Beautiful with the message that plastic could and would be recycled, as well as lobbying for the establishment of curbside recycling.
+However, plastic could not be economically recycled using the technology of the time. For example, an April 1973 report written by industry scientists stated that, "There is no recovery from obsolete products" and that, "A degradation of resin properties and performance occurs during the initial fabrication, through aging, and in any reclamation process." The report concluded that sorting the plastic is "infeasible". Contemporary scientific reports highlighted numerous technical barriers.
+Globally, plastic waste was almost entirely disposed of via landfill until the 1980s when rates of incineration increased. Although better technology was known, these early incinerators often lacked advanced combustors or emission-control systems, leading to the release of dioxins and dioxin-like compounds.
+In the late 1980s plastic recycling began in earnest. In 1988 the U.S. Society of the Plastics Industry created the Council for Solid Waste Solutions as a trade association to promote the idea of plastic recycling to the public. The association lobbied American municipalities to launch or expand plastic waste collection programmes and lobbied U.S. states to require the labelling of plastic containers and products with recycling symbols.
+The industry introduced resin identification codes in 1988, which provided a standard system for the identification of various polymer types at materials recovery facilities.
+
+
+=== Global recycling trade ===
+Globalisation during the 1990s included the export of plastic waste from advanced economies to developing and middle-income ones, where it could be sorted and recycled less expensively. The annual trade in plastic waste increased rapidly from 1993 onwards as part of the global waste trade.
+Many governments count items as recycled if they have been exported for that purpose, regardless of the actual outcome. The practice has been labeled environmental dumping, as environmental laws and enforcement are generally weaker in less developed economies.  By 2016 about 14 Mt of plastic waste was exported, with China taking 7.35 Mt. Much of this was low quality mixed plastic that ended up in landfills. However, recycled plastic is used extensively in manufacturing in China, and imported plastic waste was predominantly processed using low-technology processing. High-income countries such as Germany, Japan, the United Kingdom and the United States were the top exporters.
+In 2017, China began restricting waste plastics imports via Operation National Sword. Exporters eventually exported to other countries mostly in Southeast Asia, such as Vietnam and Malaysia, but also Turkey and India. Indonesia, Malaysia, and Thailand reacted to illegal plastic waste imports by reinforcing border controls. Illegally imported containers were repatriated or refused entry. Consequently, plastic waste containers accumulated in ports.
+Given limited export options, attention turned to local solutions. Proposed extended producer responsibility would tax plastic producers to subsidise recyclers.
+In 2019, international trade in plastic waste became regulated under the Basel Convention. Under the convention, any Party can decide to prohibit imports of hazardous plastic waste and, since 1 January 2021, of some mixed plastic wastes. Parties to the convention are required to ensure environmentally sound management of their refuse either through alternative importers or by increasing capacity.
+The COVID-19 pandemic temporarily reduced trade in plastic waste, due in part to reduced activity at waste management facilities, shipping disruptions, and low oil prices that reduced the cost of virgin plastic and made recycling less profitable.
+
+
+=== European Union strategic developments ===
+The European Commission's "Action Plan" for a circular economy, adopted in December 2015, saw plastics as a strategic priority for developing circular economy actions. In 2017, the Commission further adopted a focus on plastic production and use, targeting the achievement of all plastic packaging being recyclable by 2030. The Commission then issued a strategic document in January 2018 which set out an "ambitious vision" and an opportunity for global action on plastic recycling.
+
+
+== Production and recycling rates ==
+
+The total amount of plastic ever produced worldwide, until 2015, is estimated to be 8.3 billion tonnes (Bt). Approximately 6.3 Bt of this was discarded as waste, of which around 79% accumulated in landfills or the natural environment, 12% was incinerated, and 9% was recycled - only ~1% of all plastic has been recycled more than once. More recently, as of 2017, still only 9% of the 9 Bt of plastic produced was recycled.
+By 2015 global production had reached some 381 million tonnes (Mt) per year. The recycling rate that year was 19.5%, while 25.5% was incinerated and the remaining 55% disposed of, largely to landfill. These rates lag behind those of other recyclables, such as paper, metal and glass. Although the percentage of recycled or incinerated material is increasing each year, the tonnage of waste left-over also continues to rise. Production could reach ~800 Mt per year by 2040, although implementing all feasible interventions could reduce plastic pollution by 40% from 2016 rates.
+Recycling rates vary among types of plastic. Several types are in common use, each with distinct chemical and physical properties. This affects sorting and reprocessing costs; which affects the value and market size for recovered materials. PET and HDPE have the highest recycling rates, whereas polystyrene and polyurethane are rarely recycled.
+One of the reasons for low levels of plastic recycling is weak demand, given the materials' poor/inconsistent properties. The percentage of plastic that can be fully recycled, rather than downcycled or go to waste, can be increased when manufacturers minimise mixing of packaging materials and eliminate contaminants. The Association of Plastics Recyclers has issued a "Design Guide for Recyclability".
+The most commonly produced plastic consumer products include packaging made from LDPE (e.g. bags, containers, food packaging film), containers made from HDPE (e.g. milk bottles, shampoo bottles, ice cream tubs), and PET (e.g. bottles for water and other drinks). Together these products account for around 36% of plastic production. The use of plastics in building and construction, textiles, transportation and electrical equipment accounts for another substantial share of the plastics market.
+
+
+=== Regional data ===
+Plastic consumption differs among countries and communities, although it is found almost everywhere. As of 2022 North American countries (NAFTA) accounted for 21% of global plastic consumption, closely followed by China (20%) and Western Europe (18%). In North America and Europe per capita plastic consumption was 94 kg and 85 kg/capita/year, respectively. China reached 58 kg/capita/year.
+In 2012, 25.2 Mt of post-consumer plastic waste was collected in the European Union. Of this, more than 60% (15.6 Mt) was recovered and 40% (9.6 Mt) was disposed of as municipal solid waste (MSW). Of the 15.6 Mt of recovered plastic waste, about 6.6 Mt was recycled, while the remainder was likely used as refuse-derived fuel (RDF) or incinerated in MSW incinerators with energy recovery (about 9 Mt). Europe leads in plastics recycling, reusing about 26%.
+The recycling activities of the largest producers of plastic waste have the greatest effect on global averages. These are a mix of advanced economies and large developing nations. Some publish official statistics on their plastic recycling rates. Others may release partial data, usually limited to population centres. This makes it difficult to draw accurate comparisons, especially as the published recycling rates vary.
+
+* Although not formally a country, legislation affecting recycling is often made at the EU level
+
+
+== Identification codes ==
+
+Many plastic items bear symbols identifying the type of polymer from which they are made. These resin identification codes (RIC), are used internationally. They were developed in 1988 by the Society of the Plastics Industry (now the Plastics Industry Association) in the United States, but since 2008 have been administered by standards organisation ASTM International.
+RICs are not mandatory in all countries, but many producers voluntarily mark their products. More than half of U.S. states have enacted laws that require plastic products be identifiable.  The seven codes include six for the most common commodity plastics and one as a catch-all. The EU maintains a similar nine-code list that also includes ABS and polyamides. 
+RICs are not particularly important for single-stream recycling, as these operations are increasingly automated. However, in some countries citizens are required to separate their plastic waste according to polymer type before collection. For instance, in Japan PET bottles are collected separately for recycling.
+
+
+== Waste composition ==
+Plastic waste consists of various polymer types. Polyolefins make up nearly 50% of all plastic waste and more than 90% of waste is made of thermosoftening polymers, which can be remelted
+
+
+== Collecting and sorting ==
+
+Recycling begins with the collection and sorting of waste. Curbside collection operates in many countries. Waste is sent to a materials recovery facility or MBT plant where the plastic is separated, cleaned and sorted for sale. Unsuitable materials are sent to a landfill or incinerator. These operations account for a large proportion of the financial and energy costs associated with recycling.
+Sorting plastic is more complicated than other recyclable materials because it comes in a greater range of forms. For example, glass is separated into three streams (clear, green and amber), metals are usually either steel or aluminum and can be separated using magnets or eddy current separators, and paper is usually sorted into a single stream.
+Six types of commodity polymer account for about 75% of plastics waste, with the rest comprising a myriad of polymer types, including polyurethanes and synthetic fibers with a range of chemical structures. Items made from the same type of polymer may be incompatible with each other depending on the additives they contain. Additives are compounds blended into plastics to enhance performance and include stabilisers, fillers and, most significantly, dyes. Clear plastics hold the highest value as they may be dyed after recycling, while black or strongly coloured plastic is much less valuable, because they affect the color of the downstream product. Thus, plastic is typically sorted by both polymer type and colour.
+Various sorting approaches and technologies have been developed. They can be combined in various ways. In practice no approach is 100% effective.  Sorting accuracy varies between recyclers, producing a market where products are poorly standardised. This inconsistency is another barrier to recycling.
+
+
+=== Manual separation ===
+Sorting by hand is the oldest and simplest method. In developing countries this may be done by waste pickers, while in a recycling center, workers pick items off a conveyor-belt. It requires low levels of technology and investment, but has high labor costs. Although many plastic items have identification codes workers rarely have time to look for them, leaving problems of inefficiency and inconsistency. Even advanced facilities retain manual pickers to troubleshoot and correct sorting errors. Working conditions can be unsanitary.
+
+
+=== Density separation ===
+
+Plastics can be separated by exploiting differences in their densities. In this approach the plastic is first ground into flakes of a similar size, washed and subjected to gravity separation. This can be achieved using either an air classifier or hydrocyclone, or via wet float-sink method. These approaches provide partial sorting, as some polymers have similar density. Polypropylene (PP) and polyethylene (PE) are similar as are polyethylene terephthalate (PET), polystyrene (PS), and PVC. In addition, if the plastic contains fillers, this may affect its density. The lighter PP and PE fraction is known as mixed polyolefin (MPO) and can be sold as a low-value product, the heavier mixed plastics fraction is usually unrecyclable.
+
+
+=== Electrostatic separation ===
+
+In electrostatic separators, the triboelectric effect is used to charge plastic particles electrically; with different polymers charged to different extents. They are then blown through an electric field, which deflects them depending on their charge, directing them into appropriate collectors. As with density separation, the particles need to be dry, be uniform in size and shape. Electrostatic separation can be complementary to density separation, allowing full separation of polymers, albeit of mixed colours.
+
+
+=== Sensor-based separation ===
+
+This approach is largely automated and involves various sensors linked to a computer, which analyses items and directs them into appropriate chutes or belts. Near-infrared spectroscopy can be used to distinguish polymer types, although black/strongly-coloured plastics, as well as composite materials like plastic-coated paper and multilayered packaging, which can give misleading readings. Optical sorting such as colour sorters or hyperspectral imaging can then split by colour. Sensor based separation is more expensive to install but has the best recovery rates and produces more high-quality products.
+
+
+=== Scrap ===
+Plastic waste is either industrial scrap (sometimes referred to as post industrial resin) or consumer waste. Scrap is generated during production and is usually handled differently. It can include flashings, trimmings, sprues and rejects. As it is collected at the point of manufacture it is clean, and of a known type and grade, and is valuable. As scrap is mostly privately traded, it is often not included in official statistics.
+
+
+== Mechanical recycling ==
+
+The majority of plastic waste is made of thermosoftening polymers, which can be re-melted and reformed into new items via mechanical recycling. Globally, this is by far the most common form of recycling and in many countries it is the only type practised. It is the simplest and most economical technique. It has a lower carbon footprint than other processes. However, several factors can reduce output quality, which limits its applicability.
+Plastics are melted at anywhere between 150–320 °C (300–610 °F), depending on polymer type.  This is sufficient to cause unwanted chemical reactions that degrade the output. This can produce volatile, low-molecular weight compounds, which may impart undesirable taste or odour, as well as discolouration. Additives can accelerate this degradation. For instance, oxo-biodegradable additives, intended to improve the biodegradability of plastic, also increase the degree of thermal degradation. Flame retardants can similarly have unwanted effects. Product quality also depends strongly on how well the plastic was sorted. Many polymers are immiscible with each other when molten and phase separate (like oil and water) during reprocessing. Products made from such blends contain boundaries between the different polymers with weak cohesion across these boundaries, compromising mechanical properties. In more extreme cases the polymers may degrade each other, particularly with PVC, as it can generate hydrogen chloride which strongly affects condensation polymers such as PET.
+Many of these problems have technological solutions, though they bear a financial cost. Advanced polymer stabilisers can be used to protect plastics from the stress of thermal reprocessing. Volatile degradation products can be removed by a range of devolatilisation techniques. Flame retardants can be removed by chemical treatment, while damaging metallic additives can be rendered inert with deactivators. Finally, the properties of mixed plastics can be improved by using compatibilisers. These are compounds that improve miscibility between polymer types to give a more homogeneous product, with better internal cohesion and improved mechanical properties. They are small-molecules possessing two chemical regions, each of which is compatible with a certain polymer. This allows them to act like molecular-nails or screws, anchoring the polymers to one another. As a result, compatibilisers are normally limited to systems dominated by two particular types of plastic and are not cost-effective for heterogeneous mixtures. No compatibiliser solves all plastic combinations. Even with these technologies, it is particularly challenging to recycle plastic so that it can meet food contact standards.
+
+
+=== Closed-loop recycling ===
+In closed-loop, or primary recycling, used plastic is endlessly recycled back into new items of the same quality and type. For instance, turning drinks bottles back into drinks bottles. It can be considered an example of a circular economy. The continual mechanical recycling of plastic without reduction in quality is challenging due to cumulative polymer degradation and risk of contaminant build-up. In 2013 only 2% of plastic packaging was recycled in a closed loop. Although closed-loop recycling has been investigated for many polymers, to-date the only industrial success is with PET bottle recycling. This is because polymer degradation in PET is often repairable. PET's polymer chains tend to cleave at their ester groups and the alcohol and carboxyl groups left by this can be joined back together by the use of chemical agents called chain extenders. Pyromellitic dianhydride is one such compound.
+
+
+=== Open-loop recycling ===
+
+In open-loop recycling, also known as secondary recycling, or downcycling, the quality of the plastic is reduced each time it is recycled, so that the material eventually becomes unrecyclable. It is the most common type.  Recycling PET bottles into fleece or other fibres is a common example, and accounts for the majority of PET recycling. Life-cycle assessment shows it to be of ecological benefit. Recycling can displace demand for fresh plastic. However, if it is used to produce items that would not otherwise have been made, then it is not displacing production and is of little or no benefit to the environment.
+The reduction in polymer quality can be offset by mixing recycled and new materials. Compatibilised plastics can be used as a replacement for virgin material, as it is possible to produce them with the right melt flow index needed for good results. Low quality mixed plastics can be recycled in an open-loop, although  demand for such products is limited. When these are mixed during reprocessing the result is usually an unappealing dark-brown. These blends find use as outdoor furniture or plastic lumber. As the material is weak, but of low cost, it is produced in thick planks to provide material strength.
+
+
+=== Thermosets ===
+Although thermoset polymers do not melt, technologies have been developed for their mechanical recycling. This usually involves breaking the material down to small particles (crumbs), which can then be mixed with a binding agent to form a composite material. For instance, polyurethanes can be recycled as reconstituted crumb foam.
+
+
+== Feedstock recycling ==
+In feedstock recycling, also called chemical recycling or tertiary recycling, polymers are reduced to their chemical building-blocks (monomers), which can then be polymerised back into fresh plastics. In theory, this allows for near infinite recycling; as impurities, additives, dyes and chemical defects are completely removed with each cycle. In practice, chemical recycling is far less common than mechanical recycling. Implementation is limited because technologies do not yet exist to reliably depolymerise all polymers on an industrial scale and also because the equipment and operating costs are much higher. In 2018 Japan had one of the highest rates in the world at ~4%, compared to 23% mechanical recycling, in the same period Germany, another major recycler, reported a feedstock recycling rate of 0.2%. Depolymerising, purifying and re-polymerising the plastic can also be energy intensive, leading to the carbon footprint of feedstock recycling normally being higher than that of mechanical recycling. PET, PU and PS are depolymerised commercially to varying extents, but the feedstock recycling of polyolefins, which make-up nearly half of all plastics, is much more limited.
+
+
+=== Thermal depolymerisation ===
+Certain polymers like PTFE, polystyrene, nylon 6, and polymethylmethacrylate (PMMA) undergo thermal depolymerisation when heated to sufficiently high temperatures. The reactions are sensitive to impurities and require clean and well sorted waste to produce a good product. Even then, not all depolymerisation reactions are completely efficient and some competitive pyrolysis is often observed; the monomers, therefore, require purification before reuse. The feedstock recycling of polystyrene has been commercialised, but global capacity remains fairly limited.
+
+
+=== Chemical depolymerisation ===
+Condensation polymers bearing cleavable groups such as esters and amides can be completely depolymerised by hydrolysis or solvolysis. This can be a purely chemical process but may also be promoted by enzymes such as PETase. Such technologies have lower energy costs than thermal depolymerisation but are not available for all polymers. Polyethylene terephthalate has been the most heavily studied polymer, and has reached commercial scale.
+
+
+== Energy recovery ==
+
+Energy recovery, also called energy recycling or quaternary recycling, involves burning waste plastic in place of fossil fuels for energy production. It is included in the recycling data reported by many countries, although it is not considered recycling by the EU. It is distinct from incineration without energy recovery, which is historically more common, but which does not reduce either plastic production or fossil fuel use.
+Energy recovery is often the waste management method of last resort, a position previously held by landfill. In urban areas a lack of suitable sites for new landfills can drive this, but it is also driven by regulation, such as the EU's Landfill Directive or other landfill diversion policies. Compared to the other recycling options, its appeal is largely economic. If the correct technologies are used, then the plastics do not need to be separated, or from other municipal solid waste (garbage), which reduces costs. Compared to the sometimes variable market for recyclables, demand for electricity is universal and better understood, reducing the perceived financial risk. As a means of waste management, it is highly effective, reducing the volume of waste by about 90%, with the residues sent to landfill or used to make cinder block. Although its CO2 emissions are high, comparing its overall ecological desirability to other recycling technologies is difficult. For instance, while recycling greatly reduces greenhouse gas emissions compared to incineration, it is an expensive way of achieving these reductions when compared to investing in renewable energy.
+Plastic waste may be burnt as refuse-derived fuel (RDF), or it may be chemically converted to a synthetic fuel first. In either approach PVC must be excluded or compensated for by installing dechlorination technologies, as it generates large amounts of hydrogen chloride (HCl) when burnt. This can corrode equipment and cause undesirable chlorination of fuel products. Burning has long been associated with the release of  harmful dioxins and dioxin-like compounds, however these hazards can be abated by the use of advanced combustors and emission control systems. Incineration with energy recovery remains the most common method, with more advanced waste-to-fuel technologies such as pyrolysis hindered by technical and cost hurdles.
+
+
+=== Waste-to-fuel ===
+
+Mixed plastic waste can be depolymerized to give a synthetic fuel. This has a higher heating value than the starting plastic and can be burnt more efficiently, although it remains less efficient than fossil fuels. Various conversion technologies have been investigated, of which pyrolysis is the most common. Conversion can take place as part of incineration in an IGC cycle, but often the aim is to collect the fuel to sell it. Pyrolysis of mixed plastics can give a fairly broad mix of chemical products (between 1 and 15 carbon atoms) including gases and aromatic liquids. Catalysts can give a better-defined product with a higher value. Liquid products can be used as synthetic diesel fuel, with commercial production in several countries. Life-cycle analysis shows that plastic-to-fuel can displace fossil fuels and lower net greenhouse gas emissions (~15% reduction).
+Compared to the widespread practise of incineration, plastic-to-fuel technologies have struggled to become economically viable.
+
+
+== Other uses ==
+
+
+=== Coke replacement ===
+Many kinds of plastic can be used as a carbon source (in place of coke) in scrap steel recycling, with roughly 200,000 tonnes of waste plastics processed each year in Japan.
+
+
+=== Construction and concrete ===
+The use of recovered plastics in engineering materials is gaining ground. Ground plastic may be used as a construction aggregate or filler material in certain applications. While generally unsuitable in structural concrete, plastic's inclusion in asphalt concrete, (forming rubberised asphalt), subbase and recycled insulation can be beneficial. An example of this is the construction of plastic roads. These may be made entirely of plastic or can incorporate significant amounts of plastic. The practice is popular in India, which by 2021 had constructed some 700 km (435 miles) of highways. It may allow the leaching of plastic additives into the environment. Research is ongoing to use plastics in various forms in cementitious materials such as concrete. Densifying plastic materials such as PET and plastic bags and then using them to partially replace aggregate and depolymerizing PET to use as a polymeric binder to enhance concrete are under study.
+
+
+== Criticism ==
+Plastic recycling research showed that most plastic could currently not be economically recycled. This has resulted in occasions where plastic waste dropped into recycling bins has not been recycled, and been treated as general waste.
+Resin identification codes are based on the recycling symbol, but have drawn criticism, as they imply that marked items are always recyclable when this may not be true.
+
+
+== See also ==
+
+Economics of plastics processing
+Electronic waste
+Microplastics
+Mobro 4000
+Phase-out of lightweight plastic bags
+Plastics 2020 Challenge
+
+
+== Sources ==
+ This article incorporates text from a free content work. Licensed under Cc BY-SA 3.0 IGO (license statement/permission). Text taken from Drowning in Plastics – Marine Litter and Plastic Waste Vital Graphics​, United Nations Environment Programme.  
+
+
+== References ==
+
+
+== External links ==
+ISF's Plastics Recovery Manual

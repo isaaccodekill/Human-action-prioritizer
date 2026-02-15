@@ -1,0 +1,712 @@
+# Deploy Alternative Insulation Materials
+Source: https://drawdown.org/explorer/deploy-alternative-insulation-materials
+
+Methods and Supporting Data
+
+
+## Deploy Alternative Insulation Materials
+
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Deploy Alternative Insulation Materials is defined as using alternative building insulation materials in place of conventional ones. In particular, we highlight the impact of using cellulose instead of glass, mineral, or plastic insulation in new and retrofit buildings. Cellulose insulation manufacture and installation emits fewer GHGs to reach the same operational insulating performance than does manufacture and installation of conventional materials.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+insulation units of 100 m² and 1 m²·K/W
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Thermal insulation materials are used in the walls, roofs, and floors of buildings to help maintain comfortable indoor temperatures. However, manufacture and installation of insulation materials producesGHGemissions. These are calledembodied emissionsbecause they occur before the insulation is used in buildings. Insulation embodied emissions offset a portion of the positive climate impacts from using insulation to reduce heating and cooling demand. A Canadian study found that over 25% of residential embodied emissions from manufacturing building materials can be due to insulation (Magwood et al., 2022). Using cellulose insulation made primarily from recycled paper avoids some embodied emissions associated with conventional insulation.
+
+Insulation is manufactured in many different forms, including continuous blankets or boards, loose fill, and sprayed foam (Types of Insulation, n.d.). Most conventional insulation materials arenonrenewableinorganic materials such as stone wool and fiberglass. These require high temperatures (>1,300 °C) to melt the raw ingredients, consuming thermal energy and releasingCO₂from fossil fuel combustion or grid power generation (Schiavoni et al., 2016). Other common insulations are plastics, including expanded polystyrene (EPS), extruded polystyrene (XPS), polyurethane (PUR), and polyisocyanurate (PIR). Producing these plastics requires the extraction offossil fuels– primarilypetroleum– forfeedstocks, as well as high amounts of energy for processing (Harvey, 2007).
+
+F-gasesare often used as blowing agents to manufacture rigid foam board insulation or install sprayed foam insulation. F-gases are GHGs with GWPs that can be hundreds or thousands of times higher than CO₂.
+ High-GWPF-gases used in foam production are released into the atmosphere during all subsequent stages of the foam’s life cycle (Biswas et al., 2016; Waldman et al., 2023). The climate benefits of this solution during the installation stage are primarily due to avoiding these blowing agents.
+
+Alternative insulation is produced from plant or animalbiomass(bio-basedmaterials) or waste products (recycled materials). Alternative insulation materials provide climate benefits by consuming less manufacturing energy, usingrenewablematerials in place of fossil fuels, and eliminating high-GWP blowing agents (Sustainable Traditional Buildings Alliance, 2024).
+
+Figure 1compares a variety of conventional and alternative insulation materials. While many bio-based and recycled materials could be used as alternatives to these conventional materials, this solution focuses on cellulose due to itseffectivenessin avoiding emissions, low cost, and wide availability. Cellulose insulation is made primarily from recycled paper fibers, newsprint, and cardboard. These products are made into fibers and blended with fire retardants to produce loose or batt cellulose insulation (Waldman et al., 2023; Wilson, 2021).
+
+Figure 1. Properties and adoption of conventional and alternative insulation materials. Costs and emissions will vary from the values here depending on the insulation form (board, blanket, loose-fill, etc.).
+
+*t CO₂‑eq
+ (100-yr) to insulate 100m² to 1m²·K/W
+
+**2023 US$ to insulate 100m² to 1m²·K/W. We use mean values for cost analysis to better capture the limited data and wide range of reported costs.
+
+Although we are estimating the impact of using cellulose insulation in all buildings, the unique circumstances of each building are important when choosing the most appropriate insulation material. In this solution, we do not distinguish between residential and commercial buildings, retrofit or new construction, different building codes, or different climates, but these would be important areas of future study.
+
+In this solution, the effectiveness, cost, and adoption are calculated over a specified area (100 m²) andthermal resistance(1 m²·K/W). The chosenadoption unitensures that all data are for materials with the same insulating performance. Due to limited material information, we assumed that insulation mass scales linearly with thermal resistance.
+
+To better understand the adoption unit, a one-story residential building of 130 m² floor area would require approximately 370 m² of insulation area (RSMeans, & The Gordian Group, 2023). For a cold climate like Helsinki, Finland, code requires insulation thermal resistance of 11m²·K/W(The World Bank Group, n.d.). For a warm climate like Jerusalem, Israel,envelopethermal resistance requirements average 1.1 m²·K/W (The World Bank Group, n.d.). Therefore, depending on the location, anywhere from approximately 4–40 adoption units insulating 100 m² to 1 m²·K/W may be needed to insulate a small single-story home to the appropriate area and insulation level.
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of how effective this solution is at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+The current adoption (the slider’s low value) is based on European adoption percentages applied to total market estimates. The high estimate for achievable adoption by 2050 (the slider’s high value) is based on projections of bio-based insulation adoption and IEA building retrofit rate recommendations.
+
+This is the low end of the range for estimated adoption achievable by 2050.
+
+This is the high end of the range for estimated adoption achievable by 2050.
+
+This is the current adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+The effectiveness of deploying alternative insulation is not inherently dependent on geographic factors since it addresses emissions embodied in the manufacture and deployment of insulation materials. However, due to a lack of related data, we assumed a consistent global breakdown of currently used insulation materials when in reality, the exact mix of insulation currently used in different geographic locations will affect the emissions impact of switching to alternative materials.
+
+Building insulation is used in higher quantities in cold or hot climates, so deploying alternative insulation is more likely to be relevant and adopted in such climates. Other geographic factors also impact adoption: Areas with higher rates of new construction will be better able to design for cellulose or other alternative insulation materials, and drier climates will face a lower risk of mold growth on these materials. Local building codes, including fire codes, can also affect the adoption of alternative materials.
+
+There are no maps for the Deploy Alternative Insulation Materials solution. It is intended to address emissions embodied in the manufacture and deployment of insulation materials and has no intrinsic dependence on geographic factors.
+
+To insulate 100 m² to a thermal resistance of 1 m²·K/W using entirely cellulose insulation in place of the current baseline mix of insulation materials is expected to avoid 1.59tCO₂‑eqon a100-yr basis(Table 1). Since many of the avoided emissions are F-gases, the 20-yreffectiveness is higher, avoiding 4.07 t CO₂‑eq per unit of insulation. Effectiveness for this solution measures the one-time reduced emissions from manufacturing and installing insulation. Insulation also reduces the energy used while a building is operating, but those emissions are addressed separately in theImprove Building Envelopessolution.
+
+Conventional insulation effectiveness was considered to be a weighted average effectiveness of the current baseline insulation mix, including a small amount of cellulose insulation currently in use.
+
+The largest contributor to conventional insulation embodied emissions is using high-GWP blowing agents to manufacture or install XPS, PUR, or PIR foam. We assumed the use of F-gas blowing agents for all foams, although these are already being regulated out of use globally (Amendment to the Montreal Protocol on Substances That Deplete the Ozone Layer, 2016) and an unknown amount of low-GWP blowing agents are currently used (such ashydrocarbonsor CO₂). Therefore, we anticipate the effectiveness of this solution will decrease as F-gases are used less in the future. We assumed that 100% of blowing agents are emitted over the product lifetime.
+
+Cellulose has the greatest avoided emissions of all of the alternative materials we evaluated (Figure 1). The next most effective materials were recycled PET, wood fibers, and sheep’s wool. Conventional materials like XPS, PUR, and PIR that are foamed with F-gases had the highest GHG emissions. For bio-based materials, we did not considerbiogenic carbonas a source ofcarbon sequestrationdue to quantification andpermanenceconcerns.
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit: t CO₂‑eq
+/insulation required to insulate 100 m² to a thermal resistance of 1 m²·K/W, 100-yr basis
+
+Available cost data are variable for all materials, particularly those in early-stage commercialization. The mean cost of purchasing and installing cellulose insulation is less than that of any other conventional or alternative insulation material (Figure 1). Compared with the average cost of conventional insulation, the mean cost savings for cellulose insulation is US$193/100 m² insulated to a thermal resistance of 1 m²·K/W. Since most buildings are insulated over greater areas to higher thermal resistances, these savings would quickly add up. When considering the mean cost per median climate impact, cellulose insulation saves US$121/t CO₂‑eq
+ (100-yr basis), making it an economically and environmentally beneficial alternative (Table 2).
+
+We considered conventional insulation cost to be a weighted average cost of the current baseline insulation mix, including a small amount of cellulose insulation currently in use.
+
+For conventional insulation, material costs of purchasing the insulation are higher than costs for installation (US$540 and US$97, respectively, to insulate 100 m2to a thermal resistance of 1 m²·K/W). Cellulose has a lower product cost and comparable installation costs to conventional materials. We considered all costs to be up front and not spread over the lifetime of the material or building. For each material type, cost will vary based on the form of the insulation (board, loose, etc.), and this should be accounted for when comparing insulation options for a particular building.
+
+We determined net costs of insulation materials by adding the mean cost to purchase the product and the best estimation of installation costs based on available information. Installation costs were challenging to find data on and therefore represent broad assumptions of installation type and labor. Cost savings were determined by subtracting the weighted average net cost of conventional materials to the net cost of an alternative material. Although we used median values for other sections of this assessment, the spread of data was large for product cost estimates and the mean value was more appropriate in the expert judgment of our reviewers.
+
+Table 2. Cost per unit of climate impact.
+
+Unit: 2023 US$/t CO₂‑eq, 100-yr basis
+
+Little information is available about thelearning ratefor new insulation materials. Mályusz and Pém (2013) evaluated how labor time decreased with repetitive cycles for installing roof insulation. They found a learning rate of ~90%, but only for this specific insulation scenario, location, and material. Additionally, this study does not include any product or manufacturing costs that may decrease with scale.
+
+In general, labor time for construction projects decreases with repetitive installation, including improved equipment and techniques and increased construction crew familiarity with the process (SaravanaPrabhu & Vidjeapriya, 2021). However, Malhotra and Schmidt (2020) classify building envelope retrofits as technologies that are highly customized based on user requirements, regulations, physical conditions, and building designs, likely leading to learning rates that are slow globally but where local expertise could reduce installation costs.
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Deploy Alternative Insulation Materials is anEMERGENCY BRAKEclimate solution. It has the potential to deliver a more rapid impact than gradual and delayed solutions. Because emergency brake solutions can deliver their climate benefits quickly, they can help accelerate our efforts to address dangerous levels of climate change. For this reason, they are a high priority.
+
+Adoption data are extremely limited for alternative insulation materials. All adoption data and estimates are assumed to apply to both residential and commercial buildings, although in reality the uptake of alternative insulation materials will vary by building type due to differences in structures, climate, use type, and regulations. We assume that future uptake of alternative insulation is used only during retrofit or new construction, or when existing insulation is at the end of its functional lifetime.
+
+European sources report that 2–13% of the insulation market is alternative materials. Depending on the source, this could include renewable materials, bio-based insulation, or recycled materials. In 2018 in the United States, 5% of total insulation area in new single-family homes was insulated with cellulose (Insulation Choices Revealed in New Study, 2019).
+
+To convert estimated cellulose adoption percentage into annual insulation use, we estimated 26Mtof all installed global insulation materials in 2023 based on a report from The Freedonia Group (2024). We calculated an annual use of approximately 1.7 billion insulation units of 100 m² at a thermal resistance of 1 m²·K/W. Therefore, the median cellulose adoption is 14 million units/yr at 100 m² at 1 m²·K/W, calculated from the median of the 2–13% adoption range.
+
+Since this calculation is based on more alternative materials than just cellulose and is heavily reliant on European data where we assume adoption is higher, this estimate of current adoption (Table 3) is most likely an overestimate.
+
+The little adoption data that were considered in this section are mostly for Europe, and some for the United States. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Table 3. Current (2017–2022) adoption level.
+
+Unit: units of insulation/yr installed to insulate 100 m² to a thermal resistance of 1 m²·K/W
+
+Very few data are available that quantify adoption trends. In a regional study of several bio-based insulation materials, Rabbat et al. (2022) estimated French market annual growth rates of 4–10%, with cellulose estimated at 10%. Petcu et al. (2023) estimated the European adoption of recycled plastic and textile insulation, biomass fiber insulation, and waste-based insulation to have increased from 6% to 10% between 2012 and 2020.
+
+When accounting for the calculated current adoption, these growth rates mean a median estimated annual increase of 500,000 insulation units/yr required to insulate 100 m² to a thermal resistance of 1 m²·K/W. The increasing adoption of bio-based insulation decreases the use of conventional insulation materials in those regions.
+
+This adoption trend (Table 4) is likely an overestimate, as it is biased by high European market numbers and based on the likely high estimate we made for current adoption.
+
+Table 4. 2012–2020 adoption trend.
+
+Unit: annual change in units of insulation/yr installed to insulate 100 m² to a thermal resistance of 1 m²·K/W
+
+No estimates have been found for theadoption ceilingof this solution, although we expect it to be high given low rates of current adoption and projected increases in building construction in the coming decades (International Energy Agency [IEA], International Renewable Energy Agency, & United Nations Climate Change High-Level Champions, 2023). Two physical factors that could influence adoption are availability of alternative materials and thickness of insulation.
+
+For cellulose insulation, availability does not seem to limit adoption. The Food and Agriculture Organization of the United Nations (2023) reports that there is a much higher annual production of cellulose-based materials (>300 Mt annually of cartonboard, newsprint, and recycled paper) than the overall demand for insulation globally (>25 Mt annual demand; Global Insulation Report, 2024). However, other uses for cellulose products may create competition for this supply.
+
+Increased thickness of insulation could also be a limiting factor because this would reduce adoption by decreasing building square footage, in particular making retrofits more challenging and expensive. Deer et al. (2007) reported that the average cellulose thermal resistance is similar to mineral and glass wool, and lower than plastic insulations made of polystyrene and other foams. If we assume that 50% of plastic insulation cannot be replaced with cellulose due to thickness limitations, this would represent ~20% of current insulation that could not be replaced without structural changes to the building. Therefore, we calculated the adoption ceiling to be 80% of the current insulation that would be reasonably replaceable, or 140 million units/yr required to insulate 100 m² to a thermal resistance of 1 m²·K/W (Table 5).
+
+Uptake of cellulose insulation could also be limited by its susceptibility to absorbing moisture, limiting its use in wet climates or structures that retain moisture, such as flat roofs. Commercialization of alternative insulation materials beyond cellulose and in many different forms (e.g., board, loose-fill) will increase the adoption ceiling across more building types.
+
+Table 5. Adoption ceiling.
+
+Unit: units of insulation/yr installed to insulate 100 m² to a thermal resistance of 1 m²·K/W
+
+We found no estimates for feasible global adoption of this solution. Rabbat et al. (2022) estimated the adoption levels of several bio-based insulation materials in France in 2050. For cellulose wadding, this was estimated to be 2.1 times the commercialized volume in France in 2020. Although we do not expect France to be representative of the rest of the world, if the predicted adoption trend holds across the world then we expect low adoption in 2050 to be 2.1 times greater than 2023 adoption. This is 29 million units/yr to insulate 100 m² to a thermal resistance of 1 m²·K/W (Table 6).
+
+The IEA (2023) claims that building envelopes need to have their retrofit rate increase by 2.5 times over the current rate in order to meet net zero targets (2023). This is a reasonable high-adoption scenario. Assuming that more retrofits of buildings occur and greater amounts of alternative insulation are installed in new buildings, we estimate that high future adoption of new insulation could occur at 2.5 times the rate of the low-adoption scenario. This is 73 million units/yr to insulate 100 m² to a thermal resistance of 1 m²·K/W (Table 6).
+
+Adoption will be facilitated or limited by local regulations around the world. Building codes will determine the location and extent of use of cellulose or other bio-based insulation. We expect uptake to be different between residential and commercial buildings, but due to insufficient data, we have grouped them in our adoption estimates.
+
+Table 6. Range of achievable adoption levels.
+
+Unit: units of insulation/yr installed to insulate 100 m² to a thermal resistance of 1 m²·K/W
+
+The climate impacts for this solution are modest compared to current global GHG emissions. Not all conventional insulations have a high environmental impact due to the use of a wide range of materials, forms, and installation methods as well as the recent adoption of lower-GWP blowing agents. Therefore, the potential for further emissions savings is limited.
+
+We quantified the effectiveness and adoption of cellulose insulation, which has the lowest emissions and, therefore, the highest climate impacts of the insulation materials we evaluated. With high adoption, 1.2GtCO₂‑eq
+ on a 100-yr basis could be avoided over the next decade (Table 7).
+
+While we only considered the adoption of cellulose insulation in this analysis, a realistic future for lowering the climate impact of insulation may include other bio-based materials, too. Utilizing a greater range of materials should increase adoption and climate impact due to more available forms, sources, and thermal resistance values of bio-based insulation.
+
+Producing and deploying cellulose and other bio-based insulation requires the use of biomass as a feedstock. Multiple climate solutions, in addition to alternative insulation materials, require biomass, and projected demand across solutions greatly exceeds supply. The deforestation that would be required to meet demand would produce emissions far greater than anymitigationgains from full deployment of these solutions (Searchinger, 2024). In addition to deforestation, there would also be costs and emissions incurred to transport biomass from where it is produced to where it can be processed and used. Thus, the achievable climate impacts presented here is only possible if feedstocks are prioritized for this solution. If feedstocks are instead prioritized for other climate solutions (see Interactions for examples), adoption and impact will be lower for this solution. It is not possible to set all biomass-dependent solutions to high adoption levels, add up their impacts, and determine an accurate combined emissions impact.
+
+Note that we calculated the current climate impact using a current materials baseline that includes a small fraction of cellulose. This means that the reported current adoption impact is a slight underestimate compared with the impacts for replacing entirely conventional insulation with the current amount of cellulose insulation in use.
+
+Table 7. Climate impact at different levels of adoption.
+
+Unit: Gt CO₂‑eq/yr,
+ 100-yr basis
+
+Some alternative insulations can be cheaper than conventional materials. Although there is large variation in evaluation methods and reported costs, our analysis found that cellulose and plant fibers are cheaper than conventional insulation materials such as stone wool, glass wool, and EPS (Figure 1). Depending on the applicable climate conditions and insulation form, switching to alternative insulation materials can result in cost savings for consumers, including homeowners and business owners.
+
+Conventional insulation materials may contribute to poor indoor air quality, especially during installation, and contribute to eye, skin, and lung irritation (Naldzhiev et al., 2020; Stamm et al., 2022; Wi et al., 2021). Additionally, off-gassing of flame retardants and othervolatile organic compoundsand by-products of conventional insulation can occur shortly after installation (Naldzhiev et al., 2020). Using bio-based alternative insulation products can minimize the health risks during and after installation (McGrath et al., 2023).
+
+Although there is not a scientifically consistent approach to compare the environmental impacts of conventional and alternative insulation materials, a review analysis of 47 studies on insulation concluded that bio-based insulation materials generally have lower impacts as measured throughacidification,eutrophication, andphotochemical ozone creationpotentials than do conventional materials (Füchsl et al., 2022). Other alternative materials such as wood fiber and miscanthus also tend to have a lower environmental footprint (Schulte et al., 2021). The water demand for wood and cellulose is significantly lower than that for EPS (about 2.8 and 20.8 l/kg respectively compared with 192.7 l/kg for EPS) (Zabalza Bribián et al., 2011). While the limited evidence suggests that the alternative material tends to be better environmentally, there is an urgent need to conduct life cycle assessments using a consistent approach to estimate the impact of these materials.
+
+Manufacturing and installation emissions reductions due to the use of alternative building thermal insulation materials are both permanent and additional.
+
+There is a low risk of the emissions reductions for this solution being reversed. By using cellulose insulation instead of inorganic or plastic-based insulation, a portion of the manufacturing and installation emissions are never generated in the first place, making this a permanent reduction. Emissions from high-temperature manufacturing, petroleum extraction, and blowing agent use are all reduced through this approach.
+
+The GHG emissions reductions from alternative insulation materials are additional because we calculated them relative to a baseline insulation case. This includes a small amount of cellulose materials included in baseline building insulation. Therefore, avoided emissions represent an improvement of the current emissions baseline that would have occurred in the absence of this solution.
+
+Cellulose insulation is susceptible to water absorption, which can lead to mold growth in wet or humid environments (Andersen & Rasmussen, 2025; Petcu et al., 2023). Reducing this risk either requires an antifungal treatment for the material or limits adoption to particular climates. The thermal performance of cellulose insulation can decrease over time due to water absorption, settling, or temperature changes, but installing it as dense-packed or damp-spray can alleviate this problem (Wang & Wang, 2023; Wilson, 2021).
+
+Bio-based insulation materials tend to be combustible, meaning they contribute more to the spread of a fire than non-combustible stone or glass insulation. Some bio-based materials are classified as having minimal contribution to a fire, such as some cellulose forms, rice husk, and flax (Kumar et al., 2020). These materials are less likely to contribute to a fire than very combustible plastic insulation such as EPS, XPS, and PUR. Fire codes – as well as other building and energy codes – could limit adoption, risking a lack of solution uptake due to regulatory setbacks (Northeast Bio-Based Materials Collective 2023 Summit Proceedings, 2023).
+
+Additives such as fire retardants and anti-fungal agents are added to bio-based insulation along with synthetic binders, which can lead to indoor air pollution from organic compounds, although likely in low concentrations (Maskell et al., 2015; Rabbat et al., 2022).
+
+Bio-based insulation materials including cellulose often have lower thermal resistance than some conventional insulation materials. In particular, bio-based materials may require a thicker layer than plastic insulation to reach the same insulating performance (Esau et al., 2021; Rabbat et al., 2022). Usable floor area within a building would need to be sacrificed to accommodate thicker insulation, which would potentially depreciate the structure or impact the aesthetic value (Jelle, 2011). This would be a more significant trade-off for retrofit construction and buildings in densely developed urban areas.
+
+Sourcing bio-based materials has environmental trade-offs that come from cultivating biomass, such as increased land use, fertilizer production, and pesticide application (Schulte et al., 2021). Using waste or recycled materials could minimize these impacts. Binders and flame-retardants may also be required in the final product, leading to more processing and material use (Sustainable Traditional Buildings Alliance, 2024).
+
+Upgrading insulation to lower-cost and lower-emitting alternative materials should increase the adoption of other building envelope solutions as they can be installed simultaneously to optimize cost and performance.
+
+Improve Building Envelopes
+
+Improve Other Building Materials
+
+Improve Windows & Glass
+
+Increasing the manufacturing of cellulose insulation, which contains large amounts of recycled paper, could increase the revenues for paper recycling.
+
+This solution uses wood as a feedstock (raw material), including wood, andcrop residues. Because the total projected demand for woody biomass for climate solutions exceeds the supply, not all of these solutions will be able to achieve their potential adoption. This solution is in competition with the following solutions for raw material:
+
+Improve District Heating: Buildings
+
+Improve Other Building Materials
+
+Increase Centralized Composting
+
+Deploy Low-Emission Industrial Feedstocks
+
+Improve Cement Production
+
+Reducing the demand for conventional insulation products and instead making insulation that produces fewer GHGs during manufacturing would slightly reduce the global climate impact of other industrial manufacturing solutions. This is because less energy overall would be used for manufacturing, and therefore other technologies for emissions reductions would be less impactful for insulation production.
+
+Boost Industrial Efficiency
+
+Increase Industrial Electrification
+
+Consensus of effectiveness in reducing building sector emissions: Mixed
+
+There is scientific consensus that using building insulation with lower embodied emissions will reduce GHG emissions, but expert opinions about the magnitude of possible emissions reductions as well as the accuracy of determining these reductions are mixed.
+
+Biswas et al. (2016) determined that, for insulation, avoided emissions from reduced heating and cooling energy tend to outweigh the embodied emissions. However, others emphasize that as buildings become more energy-efficient, material embodied emissions become a larger factor in theircarbon footprint(Cabeza et al., 2021; Grazieschi et al., 2021). Embodied emissions from insulation can be substantial: Esau et al. (2021) analyzed a mixed-use multifamily building and found that selecting low-embodied-carbon insulation could reduce building embodied emissions by 16% at no cost premium.
+
+Multiple studies have found that some sustainable insulation materials have lower manufacturing emissions than traditional insulation materials (Asdrubali et al., 2015; Füchsl et al., 2022; Kumar et al., 2020; Schiavoni et al., 2016). However, researchers have highlighted the difficulty in evaluating environmental performance of different insulation materials (Cabeza et al., 2021; Grazieschi et al., 2021). Gelowitz and McArthur (2017) found that construction product Environmental Product Declarations contain many errors and discrepancies due to self-contradictory or missing data. Füschl et al. (2022) conducted a meta-analysis and cautioned that “it does not appear that a definitive ranking [of insulation materials] can be drawn from the literature.” In our analysis, we attempted to compare climate impact between materials, but we acknowledge that this can come from flawed and inconsistent data.
+
+Despite the difficulties in comparing materials, there is high consensus that cellulose is a strong low-emissions insulation option due to its low embodied carbon, high recycled content, and good thermal insulating performance (Wilson, 2021).
+
+The results presented in this document summarize findings from four reviews and meta-analyses, 14 original studies, three reports, 27 Environmental Product Declarations, and two commercial websites reflecting current evidence from eight countries as well as data representing global, North American, or European insulation materials. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Enact comprehensive policy plans that utilizealllevers, including financial incentives, improved building and fire code regulations, and educational programs to advance the transition to alternative insulation.
+
+Create government procurement policies that become stricter over time and mandate the use of alternative insulation or implement GWP limits in government buildings.
+
+Update insulation installation regulations to encourage more sustainable practices and materials.
+
+Offer financial incentives such as subsidies, tax credits, and grants for manufacturers, start-ups, and alternative insulation installers.
+
+Remove financial and regulatory incentives for conventional insulation.
+
+Create and enforce embodied carbon disclosure requirements for new commercial construction.
+
+Create energy efficiency standards that periodically increase for insulation materials and buildings.
+
+Regulate demolition of old buildings to require proper disposal of conventional insulation to ensure emissions are avoided and gases are destroyed.
+
+Create reference standards for the performance and properties of alternative insulation materials.
+
+Invest inR&Dto improve alternative insulation materials’ manufacturing, adoption,supply chainaccess, and circularity.
+
+Create green building certification schemes and/or public-private partnerships that offer information, training, and general support for alternative insulation.
+
+Offer educational resources, one-stop shops for retrofitting andweatherization, installation demonstrations, and tours of model builds for commercial and private developers, highlighting the cost savings, environmental benefits, and health benefits of alternative insulation.
+
+Biomass. Building Materials and the Climate (2022)
+
+Building envelopes. IEA (2023)
+
+Embodied carbon. Urban Land Institute (n.d.)
+
+Bringing embodied carbon upfront. World Green Building Council et al. (2019)
+
+Finance or develop only new construction and retrofits that use alternative insulation and other low-carbon practices.
+
+Take advantage of financial incentives such as subsidies, tax credits, and grants for installing alternative insulation.
+
+Seek or negotiate preferential loan agreements for developers using alternative insulation and other climate-friendly practices.
+
+Whenever possible, install insulation that does not use F-gas blowing agents.
+
+During demolition, ensure proper disposal of conventional insulation to avoid emissions and destroy residual F-gases.
+
+Integrate alternative insulation materials into construction databases, listing prices, and environmental benefits.
+
+Enact company policies that disclose embodied carbon of commercial construction.
+
+Create new contractual terms that require embodied emissions data from materials and methods from suppliers.
+
+Advocate for financial incentives, improved building and fire codes, and educational programs for alternative insulation.
+
+Use educational resources, one-stop shops for retrofitting and weatherization, installation demonstrations, and tours of model builds.
+
+Conduct research to improve alternative insulation materials’ manufacturing, adoption, supply chain access, and circularity.
+
+Create or join green building certification schemes, green building councils, and/or public-private partnerships that offer information, training, and general support for alternative insulation.
+
+Biomass. Building Materials and the Climate (2022)
+
+Building envelopes. IEA (2023)
+
+Embodied carbon. Urban Land Institute (n.d.)
+
+Bringing embodied carbon upfront. World Green Building Council et al. (2019)
+
+Finance only new construction and retrofits that utilize alternative insulation and other low-carbon practices.
+
+Expand product lines to include alternative insulation materials.
+
+Integrate alternative insulation materials into construction databases, listing prices and environmental benefits.
+
+Create new contractual terms that require embodied emissions data from materials and methods.
+
+Invest in R&D to improve alternative insulation materials’ manufacturing, adoption, supply chain access, and circularity.
+
+Advocate for financial incentives, improved building and fire codes, and educational programs for alternative insulation.
+
+Join green building certification schemes and/or public-private partnerships that offer information, training, and general support for alternative insulation.
+
+Create long-term purchasing agreements with alternative insulation manufacturers to support stable demand and improve economies of scale.
+
+Biomass. Building Materials and the Climate (2022)
+
+Building envelopes. IEA (2023)
+
+Embodied carbon. Urban Land Institute (n.d.)
+
+Bringing embodied carbon upfront. World Green Building Council et al. (2019)
+
+Advocate for financial incentives, improved building and fire codes, and educational programs for alternative insulation.
+
+Conduct research to improve alternative insulation materials’ manufacturing, adoption, supply chain access, and circularity.
+
+Offer educational resources, one-stop shops for retrofitting and weatherization, installation demonstrations, and tours of model builds for commercial and private developers, highlighting the cost savings and environmental benefits of alternative insulation.
+
+Create, join, or administer green building certification schemes and/or public-private partnerships that offer information, training, and general support for alternative insulation.
+
+Biomass. Building Materials and the Climate (2022)
+
+Building envelopes. IEA (2023)
+
+Embodied carbon. Urban Land Institute (n.d.)
+
+Bringing embodied carbon upfront. World Green Building Council et al. (2019)
+
+Finance only new construction and retrofits that utilize alternative insulation and other low-carbon practices.
+
+Invest in R&D and start-ups to improve alternative insulation materials’ manufacturing, adoption, supply chain access, and circularity.
+
+Issuegreen bondsto invest in projects that use alternative insulation.
+
+Offer preferential loan agreements for developers utilizing alternative insulation and other climate-friendly practices.
+
+Create new contractual terms that require embodied emissions data from materials and methods.
+
+Join green building certification schemes and/or public-private partnerships that offer information, training, and general support for alternative insulation.
+
+Biomass. Building Materials and the Climate (2022)
+
+Building envelopes. IEA (2023)
+
+Embodied carbon. Urban Land Institute (n.d.)
+
+Bringing embodied carbon upfront. World Green Building Council et al. (2019)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Finance only new construction and retrofits that utilize alternative insulation and other low-carbon practices.
+
+Offer grants for developers using alternative insulation and other climate-friendly practices.
+
+Create financing programs for private construction in low-income or under-resourced communities.
+
+Create new contractual terms that require embodied emissions data from materials and methods.
+
+Advocate for financial incentives, improved building and fire codes, and educational programs for alternative insulation.
+
+Fund research to improve alternative insulation materials’ manufacturing, adoption, supply chain access, and circularity.
+
+Offer educational resources, one-stop shops for retrofitting and weatherization, installation demonstrations, and tours of model builds for commercial and private developers, highlighting the cost savings and environmental benefits of alternative insulation.
+
+Create or join green building certification schemes and/or public-private partnerships that offer information, training, and general support for alternative insulation.
+
+Biomass. Building Materials and the Climate (2022)
+
+Building envelopes. IEA (2023)
+
+Embodied carbon. Urban Land Institute (n.d.)
+
+Bringing embodied carbon upfront. World Green Building Council et al. (2019)
+
+Advocate for financial incentives, improved building and fire codes, and educational programs for alternative insulation.
+
+Conduct research to improve alternative insulation materials’ manufacturing, adoption, supply chain access, and circularity.
+
+Offer or amplify educational resources, one-stop shops for retrofitting and weatherization, installation demonstrations, and tours of model builds for commercial and private developers, highlighting the cost savings and environmental benefits of alternative insulation.
+
+Create, join, or administer green building certification schemes and/or public-private partnerships that offer information, training, and general support for alternative insulation.
+
+Biomass. Building Materials and the Climate (2022)
+
+Building envelopes. IEA (2023)
+
+Embodied carbon. Urban Land Institute (n.d.)
+
+Bringing embodied carbon upfront. World Green Building Council et al. (2019)
+
+
+## Technologists and Researchers
+
+
+Develop and improve existing alternative insulation materials or innovate new materials with enhanced insulation performance.
+
+Investigate ways to increase the durability of alternative insulation, such as resistance to moisture, pests, and fire.
+
+Find uses for recycled materials in alternative insulation and ways to improve thecircular economy.
+
+Innovate new manufacturing methods that reduce electricity use and emissions.
+
+Design new application systems for alternative insulation that can be done without much additional training or licensing/certification.
+
+Create new methods of disposal for conventional insulation during demolitions.
+
+Research adoption rates of alternative insulation materials across regions and environments.
+
+Biomass. Building Materials and the Climate (2022)
+
+Building envelopes. IEA (2023)
+
+Embodied carbon. Urban Land Institute (n.d.)
+
+Bringing embodied carbon upfront. World Green Building Council et al. (2019)
+
+
+## Communities, Households, and Individuals
+
+
+Finance or develop only new construction and retrofits that utilize alternative insulation and other low-carbon practices.
+
+Take advantage of financial incentives such as subsidies, tax credits, and grants for installing alternative insulation.
+
+Whenever possible, install insulation that does not use F-gas blowing agents.
+
+Advocate for financial incentives, improved building and fire codes, and educational programs for alternative insulation.
+
+Conduct local research to improve alternative insulation materials’ manufacturing, adoption, supply chain access, and circularity.
+
+Organize local “green home tours” and open houses to showcase climate-friendly builds and foster demand by highlighting cost savings and environmental benefits of alternative insulation.
+
+Create or join green building certification schemes, green building councils, and/or public-private partnerships that offer information, training, and general support for alternative insulation.
+
+Capture community feedback and share it with local policymakers to address barriers such as permitting logistics or upfront costs, helping to share policies that drive adoption.
+
+Biomass. Building Materials and the Climate (2022)
+
+Building envelopes. IEA (2023)
+
+Embodied carbon. Urban Land Institute (n.d.)
+
+Bringing embodied carbon upfront. World Green Building Council et al. (2019)
+
+
+## “Take Action” Sources
+
+
+EU tighten up legislation on F-gas and ozone depleting substances. Barbour Consolidated (2024)
+
+Biomass. Building Materials and the Climate (2022)
+
+Putting a stop to energy waste: How building insulation can reduce fossil fuel imports and boost eu energy security. Buildings Performance Institute Europe (2022)
+
+Advanced insulation materials for building envelopes. Buildings Performance Institute Europe (2016)
+
+Strategies for promoting green building technologies adoption in the construction industry—an international study. Chan et al. (2017)
+
+Modeling thermal insulation investment choice in the EU via a behaviourally informed agent-based model. Chersoni et al. (2022)
+
+Reducing embodied carbon in buildings: Low-cost, high-value opportunities. Esau et al. (2021)
+
+Building envelopes. IEA (2023)
+
+Selected EU policies and initiatives impacting the transition of the construction sector. Jacquemont et al. (2024)
+
+Study on policy marking of passive level insulation standards for non-residential buildings in South Korea. Kim et al. (2018)
+
+The role of policy instruments in supporting the development of mineral wool insulation in Germany, Sweden and the United Kingdom. Kiss et al. (2013)
+
+Accelerating low-carbon innovation. Malhotra et al.  (2020)
+
+The need for comprehensive and well-targeted instrument mixes to stimulate energy transitions: The case of energy efficiency policy. Rosenow et al. (2017)
+
+Understanding the dynamics of sustainability transitions: the home insulation program. Smoleniec (2017)
+
+Embodied carbon. Urban Land Institute (n.d.)
+
+Bringing embodied carbon upfront. World Green Building Council et al. (2019)
+
+Industry experts’ perspectives on the difficulties and opportunities of the integration of bio-based insulation materials in the european construction sector. Zerari et al. (2024)
+
+Methods and Supporting Data
+
+Adams, M., Burrows, V., & Richardson, S. (2019). Bringing embodied carbon upfront: Coordinated action for the building and construction sector to tackle embodied carbon. World Green Building Council, Advancing Net Zero, Ramboll, & C40 Cities.Link to source:https://worldgbc.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/09/22123951/WorldGBC_Bringing_Embodied_Carbon_Upfront.pdf
+
+Amendment to the Montreal Protocol on substances that deplete the ozone layer.(2016, October 15).Link to source:https://treaties.un.org/doc/Treaties/2016/10/20161015%2003-23%20PM/Ch_XXVII-2.f-English%20and%20French.pdf
+
+Andersen, B., & Rasmussen, T. V. (2025). Biobased building materials: Moisture characteristics and fungal susceptibility. Building and Environment, 112720.Link to source:https://doi.org/10.1016/j.buildenv.2025.112720
+
+Asdrubali, F., D’Alessandro, F., & Schiavoni, S. (2015). A review of unconventional sustainable building insulation materials.Sustainable Materials and Technologies, 4,1–17.Link to source:https://doi.org/10.1016/j.susmat.2015.05.002
+
+Biswas, K., Shrestha, S. S., Bhandari, M. S., & Desjarlais, A. O. (2016). Insulation materials for commercial buildings in North America: An assessment of lifetime energy and environmental impacts.Energy and Buildings, 112,256–269.Link to source:https://doi.org/10.1016/j.enbuild.2015.12.013
+
+Cabeza, L. F., Boquera, L., Chàfer, M., & Vérez, D. (2021). Embodied energy and embodied carbon of structural building materials: Worldwide progress and barriers through literature map analysis.Energy and Buildings, 231,110612.Link to source:https://doi.org/10.1016/j.enbuild.2020.110612
+
+Carbon Removals Expert Group Technical Assistance. (2023, December).Review of certification methodologies for long-term biogenic carbon storage in buildings.European Commission.Link to source:https://climate.ec.europa.eu/system/files/2023-12/policy_carbon_expert_biogenic_carbon_storage_in_buildings_en.pdf
+
+Deer et al. (2007). Alaska Residential Building Manual. Alaska Housing Finance Corporation.Link to source:https://www.ahfc.us/application/files/2813/5716/1325/building_manual.pdf
+
+Esau et al. (2021). Reducing Embodied Carbon in Buildings: Low-Cost, High-Value Opportunities. RMI.Link to source:http://www.rmi.org/insight/reducing-embodied-carbon-in-buildings
+
+The Freedonia Group. (2024). Global insulation report.Link to source:https://www.freedoniagroup.com/industry-study/global-insulation
+
+Fabbri, M., Rapf, O., Kockat, J., Fernández Álvarez, X., Jankovic, I., & Sibileau, H. (2022).Putting a stop to energy waste: How building insulation can reduce fossil fuel imports and boost EU energy security.Buildings Performance Institute Europe.Link to source:https://www.bpie.eu/wp-content/uploads/2022/05/Putting-a-stop-to-energy-waste_Final.pdf
+
+Forestry production and trade. (2023). [Dataset]. FAOSTAT.Link to source:https://www.fao.org/faostat/en/#data/FO
+
+Füchsl, S., Rheude, F., & Röder, H. (2022). Life cycle assessment (LCA) of thermal insulation materials: A critical review.Cleaner Materials, 5,100119.Link to source:https://doi.org/10.1016/j.clema.2022.100119
+
+Gelowitz, M. D. C., & McArthur, J. J. (2017). Comparison of type III environmental product declarations for construction products: Material sourcing and harmonization evaluation.Journal of Cleaner Production, 157,125–133.Link to source:https://doi.org/10.1016/j.jclepro.2017.04.133
+
+Global Alliance for Buildings and Construction, International Energy Agency, and the United Nations Environment Programme. (2020). GlobalABC roadmap for buildings and construction:Towards a zero-emission, efficient and resilient buildings and construction sector. International Energy Agency.Link to source:https://www.iea.org/reports/globalabc-roadmap-for-buildings-and-construction-2020-2050
+
+Grazieschi, G., Asdrubali, F., & Thomas, G. (2021). Embodied energy and carbon of building insulating materials: A critical review.Cleaner Environmental Systems, 2,100032.Link to source:https://doi.org/10.1016/j.cesys.2021.100032
+
+Harvey, L. D. D. (2007). Net climatic impact of solid foam insulation produced with halocarbon and non-halocarbon blowing agents.Building and Environment, 42(8), 2860–2879.Link to source:https://doi.org/10.1016/j.buildenv.2006.10.028
+
+Insulation choices revealed in new study.(2019, June 19). Home Innovation Research Labs.Link to source:https://www.homeinnovation.com/trends_and_reports/trends/insulation_choices_revealed_in_new_study
+
+International Energy Agency. (2023).Building envelopes.Link to source:https://www.iea.org/energy-system/buildings/building-envelopes
+
+International Energy Agency, International Renewable Energy Agency, & United Nations Climate Change High-Level Champions. (2023). Breakthrough agenda report 2023.Link to source:https://www.iea.org/reports/breakthrough-agenda-report-2023
+
+Jelle, B. P. (2011). Traditional, state-of-the-art and future thermal building insulation materials and solutions – Properties, requirements and possibilities.Energy and Buildings, 43(10), 2549–2563.Link to source:https://doi.org/10.1016/j.enbuild.2011.05.015
+
+Kumar, D., Alam, M., Zou, P. X. W., Sanjayan, J. G., & Memon, R. A. (2020). Comparative analysis of building insulation material properties and performance.Renewable and Sustainable Energy Reviews, 131,110038.Link to source:https://doi.org/10.1016/j.rser.2020.110038
+
+Magwood et al. (2022).Emissions of materials benchmark assessment for residential construction report.Passive Buildings Canada and Builders for Climate Action.
+
+Malhotra, A., & Schmidt, T. S. (2020). Accelerating Low-Carbon Innovation.Joule, 4(11), 2259–2267.Link to source:https://doi.org/10.1016/j.joule.2020.09.004
+
+Mályusz, L., & Pém, A. (2013). Prediction of the learning curve in roof insulation.Automation in Construction, 36, 191–195.Link to source:https://doi.org/10.1016/j.autcon.2013.04.004
+
+Maskell, D., Da Silva, C., Mower, K., Rana, C., Dengel, A., Ball, R., Ansell, M., Walker, P., & Shea, A. (2015, June 22).Properties of bio-based insulation materials and their potential impact on indoor air quality.First International Conference on Bio-based Building Materials, Clermont-Ferrand, France.
+
+McGrath et al. (2023).Embodied carbon and material health in insulation.Healthy Building Network, Perkins&Will.Link to source:https://habitablefuture.org/wp-content/uploads/2024/03/96-Carbon-Health-Insulation.pdf
+
+Naldzhiev, D., Mumovic, D., & Strlic, M. (2020). Polyurethane insulation and household products: A systematic review of their impact on indoor environmental quality.Building and Environment, 169,106559.Link to source:https://doi.org/10.1016/j.buildenv.2019.106559
+
+Northeast Bio-based Materials Collective 2023 summit proceedings. (2023).Link to source:https://massdesigngroup.org/sites/default/files/file/2024/Northeast%20Bio-Based%20Materials%20Collective%202023%20Summit%20Proceedings.pdf
+
+Petcu et al. (2023). Research on thermal insulation performance and impact on indoor air quality of cellulose-based thermal insulation materials.Materials, 16(15), Article 15.Link to source:https://doi.org/10.3390/ma16155458
+
+Rabbat, C., Awad, S., Villot, A., Rollet, D., & Andrès, Y. (2022). Sustainability of biomass-based insulation materials in buildings: Current status in France, end-of-life projections and energy recovery potentials.Renewable and Sustainable Energy Reviews, 156,111962.Link to source:https://doi.org/10.1016/j.rser.2021.111962
+
+Riverse. (2024, August).Methodology: Biobased construction materials.Link to source:https://www.riverse.io/methodologies/biobased-construction-materials
+
+RSMeans, & The Gordian Group. (2023, September).Installed cost of residential siding comparative study– September 2023[Report]. The Brick Industry Association.Link to source:https://www.gobrick.com/content/userfiles/files/RSMeans%20Residential%20Siding%20Comparative%20Cost%20Wall%20System%20Study%20Final%202023-09-15.pdf
+
+SaravanaPrabhu et al. (2021). Comparative analysis of learning curve models on construction productivity of diaphragm wall and pile. IOP Conference Series: Materials Science and Engineering, 1197(1), 012004.Link to source:https://doi.org/10.1088/1757-899X/1197/1/012004
+
+Schiavoni, S., D׳Alessandro, F., Bianchi, F., & Asdrubali, F. (2016). Insulation materials for the building sector: A review and comparative analysis.Renewable and Sustainable Energy Reviews, 62,988–1011.Link to source:https://doi.org/10.1016/j.rser.2016.05.045
+
+Schulte, M., Lewandowski, I., Pude, R., & Wagner, M. (2021). Comparative life cycle assessment of bio-based insulation materials: Environmental and economic performances.GCB Bioenergy, 13(6), 979–998.Link to source:https://doi.org/10.1111/gcbb.12825
+
+Searchinger, T., Peng, L., Zionts, J., & Waite, R. (2024). The global land squeeze: Managing the growing competition for land. World Resources Institute.Link to source:https://www.wri.org/research/global-land-squeeze-managing-growing-competition-land
+
+Stamm et al. (2022).Chemical and environmental justice impacts in the life cycle of building insulation.Energy Efficiency for All, Healthy Building Network.Link to source:https://informed.habitablefuture.org/resources/research/20-chemical-and-environmental-justice-impacts-in-the-life-cycle-of-building-insulation-report-brief
+
+Sustainable Traditional Buildings Alliance. (2024, March).The use of natural insulation materials in retrofit.Link to source:https://stbauk.org/wp-content/uploads/2024/03/The-use-of-natural-insulation-materials-in-retrofit.pdf
+
+The World Bank Group. (n.d.). Mapping energy efficiency: A global dataset on building code effectiveness and compliance: Country profiles.Link to source:https://www.worldbank.org/content/dam/sites/buildinggreen/doc/building_green_country_profile.pdf
+
+Types of insulation. (n.d.). U.S. Department of Energy.Link to source:https://www.energy.gov/energysaver/types-insulation
+
+Waldman et al. (2023).2023 Carbon Leadership Forum North American material baselines.Carbon Leadership Forum, University of Washington.Link to source:https://carbonleadershipforum.org/clf-material-baselines-2023/
+
+Wang et al. (2023). Can paper waste be utilised as an insulation material in response to the current crisis.Sustainability, 15(22), Article 22.Link to source:https://doi.org/10.3390/su152215939
+
+Wi, S., Kang, Y., Yang, S., Kim, Y. U., & Kim, S. (2021). Hazard evaluation of indoor environment based on long-term pollutant emission characteristics of building insulation materials: An empirical study.Environmental Pollution, 285,117223.Link to source:https://doi.org/10.1016/j.envpol.2021.117223
+
+Wilson. (2021).The BuildingGreen guide to thermal insulation: What you need to know about performance, health, and environmental considerations.BuildingGreen, Inc.
+
+Zabalza Bribián, I., Valero Capilla, A., & Aranda Usón, A. (2011). Life cycle assessment of building materials: Comparative analysis of energy and environmental impacts and evaluation of the eco-efficiency improvement potential.Building and Environment, 46(5), 1133–1140.Link to source:https://doi.org/10.1016/j.buildenv.2010.12.002
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Christina Swanson, Ph.D.
+
+Christina Swanson, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

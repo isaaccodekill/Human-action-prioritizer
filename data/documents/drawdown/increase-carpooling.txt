@@ -1,0 +1,738 @@
+# Increase Carpooling
+Source: https://drawdown.org/explorer/increase-carpooling
+
+Methods and Supporting Data
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Carpooling entails increasing the occupancy of passengercars, including taxis, pickup trucks, motorhomes, passenger vans and other suchvehiclesbut not including two- or three-wheeled, freight, public transit, or commercial vehicles, such as buses, heavy trucks, and commercial vans. It replaces the practice of driving alone.
+
+We define Increase Carpooling as having at least one passenger per car in addition to the driver (two passengers forride-hailing). We consider a fully adopted carpool trip as having 2 passengers for a car occupancy of three. New adoption is considered as anypassenger kilometer(pkm)/yravoided from an increase in the 2023 current adoption baseline (average occupancy of 1.5).
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+Greenhouse gases prevented from being emitted.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+Carpooling involves transporting multiple people in a single car. Because carpooling increases the number of passengers per vehicle, it reduces emissions per pkm (International Transport Forum [ITF], 2021). However, the actual impact depends on how the carpool trip is organized – for example, whether it replaces solo car trips or shifts people away from public or active transport.
+
+Carpooling is generally more efficient when ride-matching is optimized. If trips involve detours to pick up passengers, the benefits can be reduced. Similarly, carpooling may offer less advantage in areas with strong public transportation systems if it replaces public transport use (Schaller, 2021).
+
+In addition to reducing emissions ofCO₂,methane,nitrous oxide, andblack carbon(ITF, 2023), carpooling can help alleviate traffic congestion and reduce demand for parking (Dong et al., 2025). It may also lower transportation costs for participants (Fulton et al., 2020). However, the full benefits depend on usage patterns, geographic context, and integration with other transport modes.
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means fewer GHG emissions cut per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more GHG emissions cut per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+We define adoption as million pkm avoided annually above current car occupancy levels. The low end of the slider represents minimum adoption (no increase above current levels). High achievable adoption (the slider’s high value) is based on the highest current car occupancy at the country level.
+
+This is the low end of the range for estimated achievable adoption, based on car occupancy of 1.7 people.
+
+This is the high end of the range for estimated achievable adoption, based on car occupancy of 2.7 people.
+
+This is the minimum adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = Effectiveness x Adoption / 10⁹
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Every million pkm shifted from car trips (at the current car occupancy) to fully adopted carpool trips avoids 54.71t/CO₂‑eqon a100-yr basis(Table 1) or 55.28 t/CO₂‑eq
+ on a20-yr basis.
+
+We found this by calculating baseline carGHGemissions from the global private vehicle fleet, by multiplying the tailpipe emissions intensities of different types of fuels (g/MJ) by the energy intensity of travel by vehicles using those fuels (MJ/vkm) (EVDatabase, 2024; Graba et al., 2023; International Energy Agency [IEA], 2021; Intergovernmental Panel on Climate Change [IPCC], 2006; ITF, 2020; Mamala et al., 2021; Tsai et al., 2018; U.S. Department of Energy [DOE], 2017). These equaled 112.4 t/CO₂‑eq
+/million pkm on a 100-year basis (113.6 t/CO₂‑eq
+/million pkm on a 20-year basis). We multiplied these emissions by the average occupancy of each vehicle type (ITF, 2020) to produce an averageemissions intensityfor CO₂,
+ methane, and nitrous oxide for every vehicle type. We then combined these into a global weighted average based on the percentage of each type of vehicle (electric, hybrid andfossil fuel–powered) in the global fleet (United Nations Economic Commission for Europe [UNECE], 2023). The result is a car baseline for the global average emissions intensity of passenger cars.
+
+We then used the global GHG emissions intensity to calculate carpool emissions based on the carpool car occupancy and subtracted them from the baseline car occupancy to determine emissions avoided.
+
+Table 1. Effectiveness at reducing emissions.
+
+Unit: t CO₂‑eq
+ (100-year basis)/million pkm avoided
+
+It costs US$0.34/pkm to run a car (at current global average occupancy of 1.5 (ITF, 2020)), including car purchase and maintenance costs, fuel, etc., but excluding indirect costs such as the value of time spent driving a car. It costs US$0.17/pkm for a fully adopted carpool ride (car occupancy of 3). This is a savings of US$170,662/million pkm (AAA, 2022; Burnham et al., 2021; Gössling et al., 2019, 2022). These direct financial costs do not include estimates of additional fuel needed due to additional weight of passengers or additional mileage due to pick up and drop off.
+
+This amounts to savings of US$3,119 t CO₂‑eq
+ on a 100-year basis (Table 2) or US$3,087 t CO₂‑eq
+ avoided emissions on a 20-year basis.
+
+Table 2: Cost per unit climate impact.
+
+Unit: US$ (2023) per t CO₂‑eq
+ (100-year basis)
+
+Carpooling is a behavioral solution, so its performance can improve over time through scaling, experience, and social normalization but not at a quantifiablelearning rate.
+
+The most important mechanism for increasing carpooling is behavioral familiarity. As people become accustomed to carpooling, social and psychological barriers decline (Adelé & Dionisio, 2020; Malodia & Singla, 2016). Another mechanism that can improve carpooling performance is platform optimization. As apps and algorithms improve, matching riders becomes faster and more efficient (Beed et al., 2020; Santi et al., 2014). Network effects can also improve performance. More users increase the chance of shared trips, reducing wait times and detours (Dong et al., 2025; Manik & Molkenthin, 2020). Over time, through policy support and incentives, cities may develop dedicated lanes, subsidies, or integration with public transport, improving performance (Anthopoulos & Tzimos, 2021; Bachmann et al., 2018).
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Increase Carpooling is aGRADUALclimate solution. It has a steady, linear impact on the atmosphere. The cumulative effect over time builds as a straight line.
+
+The current car occupancy is 1.5 persons per car (ITF, 2020). Approximately 2 billion cars are in use worldwide (WHO, 2022). To convert this number into pkm traveled by car, we needed to determine the average pkm that each passenger car travels per year. Using population-weighted data from several countries, we found that the average car carries 1.5 people and travels about 19,500 vkm/yr, or an average of 29,250 pkm/yr. Multiplying this by the number of cars in use gives the total travel distance by cars with the current occupancy. This corresponds to about 59 trillion pkm traveled by car worldwide each year.
+
+Current car occupancy is from a global average (ITF, 2020), and adoption trend and achievable adoption are based on reported car occupancy from Belgium, Canada, China, Denmark, France, Germany, India, Italy, Japan, Latvia, Romania, United Kingdom, United States, and the European Union (Armoogum et al., 2022; Davis & Boundy, 2022; European Environment Agency [EEA], 2000; Fiorello et al., 2016; Franckx, 2024; Wolfram et al., 2020).
+
+Since 1.5 persons per car is the current occupancy average, we define adoption as the increase in avoided pkm/yr as a result of increased occupancy above 1.5. For this reason, current adoption is represented as zero (Table 3), and potential adoption in Table 6 is the increase in million pkm avoided each year.
+
+Table 3. Current (2024) adoption level.
+
+Unit: million pkm/yr avoided above current levels
+
+Average world car occupancy has been flat since the 1990s after declining from higher occupancy in the 1970s. Therefore, we set the adoption trend to zero (Table 4).
+
+For example, car occupancy in the United States decreased from 1.9 in 1977 to 1.7 in 2009 and held steady at 1.7 in 2017 (Davis & Boundy, 2022). The European Union car occupancy decreased from 2.0 in 1970 to 1.5 in 1990, where it has held steady (EEA, 2000). Despite the emergence of carpooling platforms like BlaBlaCar, Carpoolworld, Liftshare, Participation, Lyft, and Uber Share (formerly known as) Uber Pool, overall car occupancy has remained largely unchanged. These advances have improved convenience and access, but structural barriers such as travel time mismatches, privacy preferences, and urban sprawl continue to limit adoption.
+
+Table 4. Adoption trend (2023–2024).
+
+Unit: million pkm/yr avoided above current levels
+
+Theadoption ceilingfor increasing carpooling is equal to the pkm/yr avoidance if every car trip is a fully adopted carpool trip instead of the baseline adoption. Using a population-weighted mean of the average distance (in pkm) traveled per car annually, this translates to about 19.71 trillion pkm/yr avoided (Table 5). We assume that all of these trips can be made by carpool, regardless of purpose or distance.
+
+Romania reports a car occupancy of 2.7 (Fiorello et al., 2016), more than double the multi-occupancy of countries like the United States, where occupancy has remained around 1.5–1.7 for decades (Davis & Boundy, 2022; ITF, 2020; Wolfram et al., 2020). This demonstrates that significantly higher occupancy is not only possible but already practiced in certain contexts.
+
+Table 5. Adoption ceiling: upper limit for adoption level.
+
+Unit: million pkm/yr avoided above current levels
+
+Current car occupancy is useful for identifying globally achievable occupancy (Armoogum et al., 2022; Davis & Boundy, 2022; EEA, 2000; Fiorello et al., 2016; Franckx, 2024; ITF, 2023; Wolfram et al., 2020).
+
+To determine the high achievable level of carpool adoption, we assumed that every country could reach the highest adoption foranycountry. Romania had the highest reported average car occupancy at 2.7 (Fiorello et al., 2016) in 2016. We therefore set our high adoption at 2.7. This corresponds to 17.5 trillion pkm/yr avoided (Table 6).
+
+To identify a lower feasible level of carpool adoption, we took the historical average reported estimates for global car occupancy. This corresponds to a car occupancy of 1.7, or 5 trillion pkm/yr avoided by carpooling (Table 6).
+
+Table 6. Range of achievable adoption levels.
+
+Unit: million pkm/yr avoided above current levels
+
+If average car occupancy globally reaches the low end of the achievable range of 1.7, it will avoid 0.254GtCO₂‑eq/yr
+ GHG emissions (100-yr basis) over the current state.
+
+If average car occupancy reaches 2.7 (the high end of the achievable range), it will avoid 0.959 Gt CO₂‑eq/yr
+ GHG emissions (100-yr basis) over the current state.
+
+If carpooling is fully adopted at a global average car occupancy of 3.0 (adoption ceiling), it would avoid 1.079 Gt CO₂‑eq/yr
+ GHG emissions on a 100-yr basis.
+
+Table7. Climate impact at different levels of adoption above current levels.
+
+Unit: Gt CO₂‑eq
+ per year avoided, 100-yr basis
+
+Carpooling can save money through shared travel costs between passengers (Chan & Shaheen, 2012; Molina et al., 2020; Shaheen et al., 2024). One study estimated that adding one passenger for every 100 vehicles, excluding any additional travel, could avoid 800–820 million gallons of gasoline each year in the United States (Jacobson & King, 2009). Actual cost savings would depend on the price of gasoline and any additional travel required to pick up passengers. These savings may be especially beneficial for low-income households (Zhou et al., 2020).
+
+Tailpipe emissions frominternal combustion enginecars are associated with asthma, lung cancer, increased emergency department visits for respiratory disease, and increased mortality (Anenberg et al., 2019; Guarnieri & Balmes, 2014; Pan et al., 2023; Pennington et al., 2024; Requia et al., 2018; Szyszkowicz et al., 2018). Urban areas, and often those in low- and middle-income countries, experience disproportionately higher vehicle emissions and higher health impacts (Anenberg et al., 2019; Kinney et al., 2011). By reducing vehicle miles traveled, carpooling can reduce vehicle emissions and associated health impacts (Shaheen et al., 2024). A reduction in vehicle miles traveled can improve traffic congestion and road safety (Shaheen et al., 2024). Carpooling is associated with several psychological benefits, including improved sociability and reduced commute stress (Chan & Shaheen, 2012; Molina et al., 2020).
+
+Communities that are lower income or rich in racial and ethnic minorities tend to be located near highways and major traffic corridors, and so are disproportionately exposed to air pollution (Kerr et al., 2021). Carpooling can reduce the impacts of air pollution on these populations (Shaheen et al., 2024). In the United States, carpooling can increase the accessibility of transportation for low-income, racial and ethnic minority, or immigrant populations who cannot afford personal vehicles or cannot attain driver’s licenses (Liu & Painter, 2012; Shaheen et al., 2024). Enhanced access to transportation broadly is important for increasing economic equality by providing households with income-earning opportunities.
+
+Tailpipe emissions from internal combustion engine cars containparticulate matter,sulfur oxides, nitrous oxides,carbon monoxide, andvolatile organic compounds(Union of Concerned Scientists, 2023). Carpooling is associated with reduced energy consumption and reduced emissions from internal combustion engine cars (Molina et al., 2020; Shaheen et al., 2024). Carpooling can reduce traffic congestion, though the magnitude of this reduction is uncertain (Chan & Shaheen, 2011). One study in Langfang, China, found that carpooling can reduce trips during the morning and evening commuting hours, reducing vehicle volume and increasing travel speeds for both carpooling and non-carpooling cars (Li et al., 2018).
+
+Carpooling often falters due to the difficulty of aligning multiple participants’ schedules. Commuters face mismatched work hours, unexpected delays, or shifting routines, raising stress and reducing reliability. Comfort and privacy are additional deterrents because many travelers prefer the autonomy and personal space of driving alone. Trust and safety concerns also play a major role – riding with strangers raises worries about reliability and personal security (Cellina et al., 2024).
+
+Accessibility further complicates adoption. In low-density areas, the limited pool of potential passengers makes ride-matching impractical, while in urban areas cultural resistance and ingrained travel habits hinder uptake (Friman et al., 2020). Finally, digital divides restrict participation in app-based systems, excluding those without reliable smartphone or internet access.
+
+When carpooling uses platform operators it generates some emissions from server use, data processing, and administrative activities. These operational emissions are small compared to the reductions achieved.
+
+Carpooling services could induce additional car use, especially if they offer convenience and low costs that attract people who would otherwise not have traveled or would have used lower-emission modes. This is a form of therebound effect, where efficiency gains are offset by increased travel demand.
+
+Carpooling may raise safety and security concerns, particularly in informal or app-based systems where passengers share rides with strangers. Concerns around personal safety, especially for women and marginalized groups, can limit adoption or require regulatory oversight.
+
+Promoting carpooling without coordination with public transport policy could erode ridership on bus or rail systems. This could weaken investment in public transit and make systems less viable, especially in low-density or suburban areas.
+
+Carpooling reduces the number of vehicles on the road per trip but still relies on cars rather than shifting demand toward lower-impact modes such aspublic transitornonmotorized transportation.
+
+Carpooling requires changes in user behavior and social norms, rather than technological innovation. While this avoids the environmental and financial costs of new infrastructure or vehicles, it can be challenging because it depends on people being willing to alter their travel habits, coordinate with others, and potentially sacrifice convenience or privacy.
+
+The extent of emission reduction depends on how many people share the ride and whether the carpool replaces trips that would have otherwise been made using more sustainable transport modes (e.g., walking, cycling, or public transport).
+
+The environmental benefits of carpooling vary based on travel behavior and context. If carpooling fills otherwise empty seats in cars already on the road, it can be highly efficient. However, if it results in route detours or deadheading or if people shift from using transit to carpooling, the net benefit may be smaller or even negative.
+
+Carpooling can reduce the overall number of cars needed for transportation, which in turn can decrease congestion and urban parking demand. However, this benefit is limited if carpooling is only used during peak hours or if it competes with active or public transport options.
+
+Carpooling reinforces non-car transportation modes by extending reach, offering first- and last-mile connections, and providing flexible options where fixed-route services are limited.
+
+Enhance Public Transit
+
+Enhance High-Speed Rail
+
+Mobilize Electric Trains
+
+Carpooling reinforces the benefits of electric and hybrid cars by maximizing each vehicle’s efficiency, spreading battery and fuel savings across more passengers, and further reducing per-capita emissions.
+
+Mobilize Electric Cars
+
+Carpooling, electric bicycles, and public transit compete for pkm. Consequently, increased use of carpooling could reduce kilometers traveled using public transit or electric bicycles.
+
+Enhance Public Transit
+
+Mobilize Electric Bicycles
+
+
+## Consensus ofeffectivenessin decarbonizing the transport sector: Mixed
+
+
+There is a high level of consensus among major organizations working in the area of climate solutions that carpooling can substantially reduce GHG emissions. Fewer vehicles mean less fuel burned per pkm. However, research on the real-world effectiveness of carpooling is mixed. Carpooling has remained largely flat for decades despite policy incentives and the advent of ride-sharing platforms, limiting its overall contribution to emission reductions. Additionally, rebound effects may occur or if carpoolers would otherwise have taken public transit, walked, or biked, thereby offsetting some emission avoidance.
+
+Globally, cars and vans were responsible for 3.8 Gt CO₂‑eq emissions in 2023 – more than 60% of road transport emissions (IEA, 2024).
+
+Large-scale carpooling can significantly reduce fuel consumption and emissions, with studies in Shanghai showing reductions of 15–23% depending on adoption scenarios, and additional efficiency gains from improved traffic flow (Yan et al., 2020).
+
+Carpooling can substantially reduce vehicle activity. Jalali et al. (2017) found up to a 24% decrease in total distance driven and a 40% reduction in vehicle trips under optimal conditions in Changsha, China, which translates into daily CO₂ emission reductions of around 4 tons.
+
+Simulations on university campuses showed potential reductions of 5% in CO₂ and 7% in nitrous oxide emissions, alongside a 7% increase in average speed and an 8% reduction in travel time with increased adoption of carpooling (Tomas et al., 2021).
+
+The results presented in this document summarize findings from 15 reviews and meta-analyses and 24 original studies reflecting current evidence from 52 countries. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Incorporate carpooling into government transportation policy; facilitate carpooling systems, encourage and incentivize employee participation, and ensure leaders are committed to and participate in carpooling.
+
+Create dedicated coordinating bodies across government agencies, businesses, and the public to develop carpooling systems; conduct regular movement planning to identify changes in participation and opportunities to increase adoption.
+
+Reduce the number of fleet vehicles and increase passenger capacity as much as possible.
+
+Use a combination of policies that both incentivizes carpooling and disincentivizes single occupancy trips.
+
+Implement disincentives for driving such as congestion tolls, fuel taxes, and smog fees (based on how much a car pollutes and is driven).
+
+Implement targeted support measures such as carpool lanes, the option to use bus lanes, and dedicated parking spots.
+
+Deploy financial incentives such as tax breaks, reduced or waived toll fare, and subsidies for carpoolers.
+
+Fund public carpooling schemes or subsidize private carpooling initiatives.
+
+Fund free “guaranteed ride home” initiatives for carpoolers via public transit or private taxis/rideshares.
+
+Integrate private and individual carpooling initiatives into Mobility as a Service (MaaS) systems, allowing for seamless transfers between public and private transportation systems.
+
+Clarify legal structures around carpooling to allow drivers to accept reimbursement while remaining noncommercial operators; ensure the maximum allowable fees are enough to incentivize drivers while not outcompeting public transportation.
+
+Develop regulatory structures for web-based carpooling applications that focus on minimum standards related to security, data privacy, and consumer protection; mandate user verification, create a registration system for users, and offer ongoing support for safety and security.
+
+Encourage carpooling platforms to enact data-sharing agreements; mandate trip details be shared with regulatory agencies, and cross-reference user identities with national databases to screen for relevant criminal backgrounds.
+
+Work with universities, businesses, and other large institutions to encourage carpooling schemes; engage in public-private partnerships with carpooling matching services to increase adoption.
+
+Report on success of carpooling efforts including number of drivers and users, fuel reductions, and emissions avoidance.
+
+Develop carpooling awareness campaigns focusing on internally motivating factors such as money saved, health benefits, reduced pollution, social connection, and lifestyle sustainability.
+
+Carpooling. Climate Action Accelerator (2025)
+
+Increasing the occupancy rates of cars: Carrot, stick or both?Franckx (2024)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Conduct mobility planning with local government agencies and the public to optimize routes and decrease waiting times.
+
+Cluster pick-up and drop-off zones near freeways, residential areas, parking, public transit, and/or popular commercial areas – ensuring well-lit environments.
+
+Host events for carpoolers, create in-person carpooling clubs, and start social media groups for carpoolers to build trust.
+
+Offer incentives for joining and participating in carpooling programs; collaborate with local government and businesses to offer incentives.
+
+Create web applications and websites for matching services that are easy to use, have a professional user interface, and have built-in chat features to build trust for participants.
+
+Integrate carpooling initiatives into MaaS systems, allowing for seamless transfers between public and private transportation systems.
+
+Use a carpool application screening process to increase trust and safety; gather information on motivations for carpooling to help match like-minded participants.
+
+Allow drivers to set their own fees (within a maximum allowable range) or to waive fees for passengers; allow for nonmonetary compensation.
+
+Ensure drivers and passengers have public profiles with ratings to allow participants to select drivers and passengers; create filters for categories such as gender, preferred levels of socialization, trip purpose, etc; allow for women-only trips.
+
+Designate clear responsibilities for both drivers and passengers.
+
+Encourage participants to socialize with each other and to share their experiences and insights with their community.
+
+Collect feedback from participants and update web-based matching applications to accommodate local preferences and culture.
+
+Create features on web applications that show how much money, fuel, and emissions participants have avoided by carpooling; create competitions for biggest avoiders and most active participants; develop gamification methods appropriate for the local context.
+
+Ensure applications offer real-time support and ride tracking to enhance safety and trust.
+
+Collaborate with insurance companies to offer carpooling policies that cover injury, property damage, and liability during trips.
+
+Develop carpooling awareness campaigns focusing on factors such as money saved, health benefits, reduced pollution, social connection, and lifestyle sustainability.
+
+Carpooling. Climate Action Accelerator (2025)
+
+Increasing the occupancy rates of cars: Carrot, stick or both?Franckx (2024)
+
+Creating a trusting environment in the sharing economy: Unpacking mechanisms for trust-building used by peer-to-peer carpooling platforms. Hartl et al. (2025)
+
+Develop company policies promoting carpooling; communicate to employees and the public how they support broader company goals; ensure leadership is committed and participates in carpooling.
+
+Develop systems to track and plan fleet routes that encourage carpooling.
+
+Reduce the number of fleet vehicles and increase passenger capacity.
+
+Ask staff, including senior management, to identify barriers and opportunities for carpooling.
+
+Work with large institutions such as universities, businesses, and public agencies to coordinate wider carpooling schemes; partner with carpooling matching services.
+
+Report on success of carpooling efforts, including number of drivers and users, fuel reductions, and emissions avoidance.
+
+Pay a cash bonus or offer pretax benefits for staff who carpool or take public transportation.
+
+If your company offers employees courtesy rides via rideshare platforms, incentivize carpooling by covering 100% of carpool trips but only a portion of individual trips.
+
+Offer other perks for employees who carpool such as preferred parking.
+
+Partner with local and/or private carpooling initiatives to offer promotional incentives such as gift cards or discounts.
+
+Create and distribute educational materials for employees on carpooling and commuting best practices.
+
+Partner with, support, and/or donate to carpooling infrastructure investments and awareness campaigns.
+
+Advocate for better public carpooling policies and integrated services with public transit systems.
+
+Carpooling. Climate Action Accelerator (2025)
+
+Increasing the occupancy rates of cars: Carrot, stick or both?Franckx (2024)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Develop policies promoting carpooling; communicate to employees and the public how they support broader organizational goals; ensure leadership is committed and participates in carpooling.
+
+Develop systems to track and plan fleet routes that encourage carpooling.
+
+Reduce the number of vehicles and increasing passenger capacity as much as possible.
+
+Ask staff, including senior management to identify barriers and opportunities for carpooling.
+
+Report on success of carpooling efforts including number of drivers and users, fuel reductions, and emissions avoided.
+
+Pay a cash bonus or provide pretax benefits for staff who carpool (or take public transportation).
+
+Offer other perks for employees who carpool such as preferred parking.
+
+Administer carpooling schemes using web-based applications; expand carpooling services to underserved communities by creating matching services or subsidizing participation.
+
+Work with large institutions such as universities, businesses, and public agencies to coordinate wider carpooling schemes; partner with carpooling matching services.
+
+Advocate for better public carpooling regulations and services with local officials.
+
+Help design local regulations to clarify legal classification for carpool drivers or provide means for assessments, data collection, citizen participation, and other steps in the policymaking process.
+
+Host or support carpooling clubs, events, social media groups, and other strategies for promoting carpooling.
+
+Create, support, or partner with carpooling awareness campaigns that focus on motivating factors such as money saved, health benefits, reduced pollution, social connection, and a sustainable lifestyle.
+
+Carpooling. Climate Action Accelerator (2025)
+
+Increasing the occupancy rates of cars: Carrot, stick or both?Franckx (2024)
+
+Creating a trusting environment in the sharing economy: Unpacking mechanisms for trust-building used by peer-to-peer carpooling platforms. Hartl et al. (2025)
+
+Encourage employees to carpool.
+
+Encourage portfolio companies to incentivize, provide, or promote carpooling opportunities and infrastructure, and to share fleet management plans.
+
+Invest in companies that are improving the comfort, accessibility, and cost of carpooling infrastructure.
+
+Invest in companies that provide or are developing web-based carpooling matching algorithms or services.
+
+Invest in companies that provide MaaS and integration with existing mobility services.
+
+Invest in carpooling models, supportive technology, and infrastructure.
+
+Deploy capital to efforts that increase safety, trust, and convenience of web-based applications that support carpooling, such as methods of encryption and ways to integrate services into public transportation systems.
+
+Carpooling. Climate Action Accelerator (2025)
+
+Increasing the occupancy rates of cars: Carrot, stick or both?Franckx (2024)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Develop organizational policies promoting carpooling; communicate to employees and the public how they support broader organizational goals; ensure leadership is committed and participates in carpooling.
+
+Develop systems to track and plan fleet routes to enable carpooling.
+
+Reduce the number of fleet vehicles and increase passenger capacity.
+
+Award grants to organizations developing or organizing carpooling services and/or advocating for improved carpooling regulations; fund projects that pilot carpooling in underserved areas and transit deserts.
+
+Invest in companies that provide or are developing web-based carpooling matching services or integration with public transit infrastructure and existing mobility services.
+
+Deploy capital to efforts that increase safety, trust, and convenience of web-based applications that support carpooling such as methods of encryption and ways to integrate services into public transportation systems.
+
+Administer carpooling schemes using web-based applications; expand carpooling services to underserved communities by creating matching services or subsidizing participation.
+
+Advocate for better public carpooling policies and integrated services with public transit systems.
+
+Work with large institutions such as universities, businesses, and public agencies to coordinate wider carpooling schemes; partner with carpooling matching services.
+
+Create, support, or partner with carpooling awareness campaigns that focus on motivating factors such as money saved, health benefits, reduced pollution, social connection, and a sustainable lifestyle.
+
+Host or support carpooling clubs, events, social media groups, and other strategies for promoting carpooling.
+
+Improve and finance local infrastructure such as high-occupancy vehicle (HOV) lanes and carpooling capacity.
+
+Help design local regulations to clarify legal classification for carpool drivers or provide means for assessments, data collection, citizen participation, and other steps in the policymaking process.
+
+Develop carpooling awareness campaigns focusing on motivating factors such as money saved, health benefits, reduced pollution, social connection, and lifestyle sustainability.
+
+Carpooling. Climate Action Accelerator (2025)
+
+Increasing the occupancy rates of cars: Carrot, stick or both?Franckx (2024)
+
+Creating a trusting environment in the sharing economy: Unpacking mechanisms for trust-building used by peer-to-peer carpooling platforms. Hartl et al. (2025)
+
+Lead by example and carpool regularly.
+
+Share information on carpooling initiatives.
+
+Develop carpooling awareness campaigns focusing on motivating factors such as money saved, health benefits, reduced pollution, social connection, and lifestyle sustainability.
+
+Help design regulations to clarify legal classification for carpool drivers or provide means for assessments, data collection, citizen participation, and other steps in the policymaking process.
+
+Advocate for better public carpooling regulations and services with local officials.
+
+Conduct local market research on specific demographics and professions to understand what incentives or disincentives will drive adoption.
+
+Host events for carpoolers, create in-person carpooling clubs, and start social media groups for local carpoolers to build trust and community offline.
+
+Carpooling. Climate Action Accelerator (2025)
+
+Increasing the occupancy rates of cars: Carrot, stick or both?Franckx (2024)
+
+Creating a trusting environment in the sharing economy: Unpacking mechanisms for trust-building used by peer-to-peer carpooling platforms. Hartl et al. (2025)
+
+
+## Technologists and Researchers
+
+
+Develop applications that match users with carpooling opportunities based on routes, time, and location, and integrate them with local public transportation and other mobility services.
+
+Use data from mobile phones, GPS trackers, and social networking to identify travelers with similar patterns and suggest carpooling routes.
+
+Develop safety protocols for data usage in carpooling apps; create options for women-only rides.
+
+Research the impact of incentives and disincentives on modal choice in specific metropolitan areas, regions, and countries; identify the most effective means of increasing adoption.
+
+Research what impacts trust between users and carpooling platforms and between users and drivers; investigate differences in trust by local demographic characteristics; examine mechanisms for increasing trust and safety for users.
+
+Research the impact of vehicle ownership on willingness to carpool, and how participating as both a driver and passenger can influence adoption.
+
+Develop ways to maintain data privacy for participants while also allowing for transparency and safety; examine applications of encryption methods such as homomorphic encryption.
+
+Examining the potential for car-shedding in the Greater Dublin Area. Carroll et al. (2017)
+
+Evaluating the carpooling potential among travelers in the suburbs of Islamabad considering carpooling clubs, monetary incentives, and digital apps. Farooq et al. (2025)
+
+Increasing the occupancy rates of cars: Carrot, stick or both?Franckx (2024)
+
+Creating a trusting environment in the sharing economy: Unpacking mechanisms for trust-building used by peer-to-peer carpooling platforms. Hartl et al. (2025)
+
+Examining drivers’ motivations to use a carpooling platform in Thailand: A technology acceptance model and consumer perceived value perspective.Julagasigorn et al. (2025)
+
+Leveraging machine learning to predict rural-urban carpooling decisions given monetary incentives. Mohammadi-Mavi et al. (2025)
+
+A privacy-preserving system for confidential carpooling services using homomorphic encryption. Palma et al. (2025)
+
+Investigating attitudes of women towards carpooling in Jeddah. Tiwari et al. (2025)
+
+
+## Communities, Households, and Individuals
+
+
+Carpool regularly and encourage your household, neighbors, and community to carpool when feasible.
+
+Take advantage of financial incentives such as tax breaks, subsidies, or grants for carpooling.
+
+Share information on local carpooling initiatives with your community.
+
+Host events for carpoolers, create carpooling clubs, and start social media groups for local carpoolers to build trust offline.
+
+Advocate for better public carpooling regulations and services with local officials.
+
+Encourage employers and local businesses to provide incentives for carpooling.
+
+Participate in or develop carpooling awareness campaigns focusing on motivating factors such as money saved, health benefits, reduced pollution, social connection, and lifestyle sustainability.
+
+Carpooling. Climate Action Accelerator (2025)
+
+Increasing the occupancy rates of cars: Carrot, stick or both?Franckx (2024)
+
+Creating a trusting environment in the sharing economy: Unpacking mechanisms for trust-building used by peer-to-peer carpooling platforms. Hartl et al. (2025)
+
+
+## “Take Action” Sources
+
+
+Examining the potential for car-shedding in the Greater Dublin Area. Carroll et al. (2017)
+
+Carpooling. Climate Action Accelerator (2025)
+
+Evaluating the carpooling potential among travelers in the suburbs of Islamabad considering carpooling clubs, monetary incentives, and digital apps. Farooq et al. (2025)
+
+Increasing the occupancy rates of cars: carrot, stick or both?Franckx (2024)
+
+Creating a trusting environment in the sharing economy: unpacking mechanisms for trust-building used by peer-to-peer carpooling platforms. Hartl et al. (2025)
+
+Examining drivers’ motivations to use a carpooling platform in Thailand: A technology acceptance model and consumer perceived value perspective.Julagasigorn et al. (2025)
+
+Leveraging machine learning to predict rural-urban carpooling decisions given monetary incentives. Mohammadi-Mavi et al. (2025)
+
+A privacy-preserving system for confidential carpooling services using homomorphic encryption. Palma et al. (2025)
+
+Investigating attitudes of women towards carpooling in Jeddah. Tiwari et al. (2025)
+
+Methods and Supporting Data
+
+AAA. (2022).AAA’s your driving costs.Link to source:https://exchange.aaa.com/automotive/aaas-your-driving-costs
+
+Adelé, S., & Dionisio, C. (2020). Learning from the real practices of users of a smart carpooling app.European Transport Research Review,12(1), Article 39.Link to source:https://doi.org/10.1186/s12544-020-00429-3
+
+Anenberg, S., Miller, J., Henze, D., & Minjares, R. (2019).A global snapshot of the air pollution-related health impacts of transportation sector emissions in 2010 and 2015.International Council on Clean Transportation.Link to source:https://theicct.org/publication/a-global-snapshot-of-the-air-pollution-related-health-impacts-of-transportation-sector-emissions-in-2010-and-2015/
+
+Anthopoulos, L. G., & Tzimos, D. N. (2021). Carpooling platforms as smart city projects: a bibliometric analysis and systematic literature review.Sustainability,13(19), Article 10680.Link to source:https://doi.org/10.3390/su131910680
+
+Armoogum, J., Borgato, S., Fiorello, D., Garcia, C., Gopal, Y., Maffii, S., Mars, K.-J., Popovska, T., Vincent, V., Bogaert, M., Gayda, S., & Schlemmer, L. (2022).Study on new mobility patterns in European cities: EU-wide passenger mobility survey. IFSTTAR - Institut Français des Sciences et Technologies des Transports, de l’Aménagement et des Réseaux.Link to source:https://doi.org/10.2832/728583
+
+Bachmann, F., Hanimann, A., Artho, J., & Jonas, K. (2018). What drives people to carpool? Explaining carpooling intention from the perspectives of carpooling passengers and drivers.Transportation Research Part F: Traffic Psychology and Behaviour,59, 260–268.Link to source:https://doi.org/10.1016/j.trf.2018.08.022
+
+Beed, R. S., Sarkar, S., Roy, A., Biswas, S. D., & Biswas, S. (2020).A hybrid multi-objective carpool route optimization technique using genetic algorithm and A* algorithm(No. arXiv:2007.05781). arXiv.Link to source:https://doi.org/10.48550/arXiv.2007.05781
+
+Burnham, A., Gohike, D., Rush, L., Stephens, T., Zhou, Y., Delucchi, M. A., Birky, A., Hunter, C., Lin, Z., Ou, S., Xie, F., Proctor, C., Wiryadinata, S., Liu, N., & Boloor, M. (2021).Comprehensive total cost of ownership quantification for vehicles with different size classes and powertrains. Argonne National Laboratory.Link to source:https://publications.anl.gov/anlpubs/2021/05/167399.pdf
+
+Cellina, F., Derboni, M., Giuffrida, V., Tomic, U., & Hoerler, R. (2024). Trust me if you can: practical challenges affecting the integration of carpooling in Mobility-as-a-Service platforms.Travel Behaviour and Society,37, Article 100832.Link to source:https://doi.org/10.1016/j.tbs.2024.100832
+
+Chan, N. D., & Shaheen, S. A. (2012). Ridesharing in North America: past, present, and future.Transport Reviews,32(1),93-112.Link to source:https://doi.org/10.1080/01441647.2011.621557
+
+Chang, X., Wu, J., Kang, Z., Pan, J., Sun, H., & Lee, D.-H. (2024). Estimating emissions reductions with carpooling and vehicle dispatching in ridesourcing mobility.Npj Sustainable Mobility and Transport,1(1), Article 16.Link to source:https://doi.org/10.1038/s44333-024-00015-3
+
+Davis, S. C., & Boundy, R. G. (2022). Transportation energy data book: edition 40.Oak Ridge: Oak Ridge National Laboratory.Link to source:https://tedb.ornl.gov/wp-content/uploads/2022/03/TEDB_Ed_40.pdf
+
+Dong, X., Liu, H., & Gayah, V. V. (2025). An analytical model of many-to-one carpool system performance under cost-based detour limits.International Journal of Transportation Science and Technology,18, 80–95.Link to source:https://doi.org/10.1016/j.ijtst.2024.05.007
+
+European Environment Agency. (2000).Are we moving in the right direction? Indicators on transport and environmental integration in the EU: TERM 2000.Link to source:https://www.eea.europa.eu/publications/ENVISSUENo12/page029.html
+
+EV Database. (2024).Energy consumption of full electric vehicles. (v5.1.0) [Dataset].Link to source:https://ev-database.org/cheatsheet/energy-consumption-electric-car
+
+Fiorello, D., Martino, A., Zani, L., Christidis, P., & Navajas-Cawood, E. (2016). Mobility data across the EU 28 member states: results from an extensive CAWI survey.Transportation Research Procedia,14, 1104–1113.Link to source:https://doi.org/10.1016/j.trpro.2016.05.181
+
+Franckx, L. (2024). Increasing the occupancy rates of cars: carrot, stick or both?Case Studies on Transport Policy,15, Article 101132.Link to source:https://doi.org/10.1016/j.cstp.2023.101132
+
+Friman, M., Lättman, K., & Olsson, L. E. (2020). Carpoolers’ perceived accessibility of carpooling.Sustainability,12(21), Article 8976.Link to source:https://doi.org/10.3390/su12218976
+
+Fulton, L., Brown, A., & Compostella, J. (2020).Generalized costs of travel by solo and pooled ridesourcing vs. privately owned vehicles, and policy implications. UC Office of the President: University of California Institute of Transportation Studies.Link to source:https://doi.org/10.7922/G2WD3XTK
+
+Gössling, S., Choi, A., Dekker, K., & Metzler, D. (2019). The social cost of automobility, cycling and walking in the European Union.Ecological Economics,158, 65–74.Link to source:https://doi.org/10.1016/j.ecolecon.2018.12.016
+
+Gössling, S., Kees, J., & Litman, T. (2022). The lifetime cost of driving a car.Ecological Economics,194, Article 107335.Link to source:https://doi.org/10.1016/j.ecolecon.2021.107335
+
+Graba, M., Mamala, J., Bieniek, A., Augustynowicz, A., Czernek, K., Krupińska, A., Włodarczak, S., & Ochowiak, M. (2023). Assessment of energy demand for PHEVs in year-round operating conditions.Energies,16(14), Article 5571.Link to source:https://doi.org/10.3390/en16145571
+
+Guarnieri, M., & Balmes, J. R. (2014). Outdoor air pollution and asthma.The Lancet,383(9928), 1581–1592.Link to source:https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60617-6/abstract
+
+International Energy Agency. (2021).Global fuel economy initiative 2021 data explorer[Data Tool].Link to source:https://www.iea.org/data-and-statistics/data-tools/global-fuel-economy-initiative-2021-data-explorer
+
+International Energy Agency. (2024).Global EV outlook 2024.Link to source:https://www.iea.org/reports/global-ev-outlook-2024/outlook-for-emissions-reductions
+
+Intergovernmental Panel on Climate Change. (2006). Mobile combustion. In S. Eggelston, L. Buendia, K. Miwa, T. Ngara, & K. Tanabe (Eds.),2006 IPCC guidelines for national greenhouse gas inventories(Vol. 2 Energy, pp. 3.1–3.78). Institute for Global Environmental Strategies (IGES) for the IPCC.Link to source:https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+
+International Transport Forum. (2020).Good to go? Assessing the environmental performance of new mobility[Corporate Partnership Board Report].OECD/ITF Publishing.Link to source:https://www.itf-oecd.org/good-to-go-environmental-performance-new-mobility
+
+International Transport Forum. (2021).ITF transport outlook 2021. OECD Publishing.Link to source:https://doi.org/10.1787/16826a30-en
+
+International Transport Forum. (2023).ITF transport outlook 2023. OECD Publishing.Link to source:https://doi.org/10.1787/b6cc9ad5-en
+
+International Transport Workers’ Federation Global. (2025).Understanding informal transport in Africa.Link to source:https://www.itfglobal.org/en/resources/understanding-informal-transport-in-africa
+
+Jacobson, S. H., & King, D. M. (2009). Fuel saving and ridesharing in the US: motivations, limitations, and opportunities.Transportation Research Part D: Transport and Environment,14(1), 14–21.Link to source:https://doi.org/10.1016/j.trd.2008.10.001
+
+Jalali, R., Koohi-Fayegh, S., El-Khatib, K., Hoornweg, D., & Li, H. (2017). Investigating the potential of ridesharing to reduce vehicle emissions.Urban Planning,2(2), 26–40.Link to source:https://doi.org/10.17645/up.v2i2.937
+
+Kerr, G. H., Goldberg, D. L., & Anenberg, S. C. (2021). COVID-19 pandemic reveals persistent disparities in nitrogen dioxide pollution. Proceedings of the National Academy of Sciences,118(30), Article e2022409118.Link to source:https://doi.org/10.1073/pnas.2022409118
+
+Kinney, P. L., Gichuru, M. G., Volavka-Close, N., Ngo, N., Ndiba, P. K., Law, A., Gachanja, A., Gaita, S. M., Chillrud, S. N., & Sclar, E. (2011). Traffic impacts on PM2.5 air quality in Nairobi, Kenya.Environmental Science & Policy,14(4), 369–378.Link to source:https://doi.org/10.1016/j.envsci.2011.02.005
+
+Li, R., Liu, Z., & Zhang, R. (2018). Studying the benefits of carpooling in an urban area using automatic vehicle identification data.Transportation Research Part C: Emerging Technologies,93, 367–380.Link to source:https://doi.org/10.1016/j.trc.2018.06.012
+
+Liu, C. Y., & Painter, G. (2012). Travel behavior among Latino immigrants.Journal of Planning Education and Research,32(1), 62–80.Link to source:https://doi.org/10.1177/0739456X11422070
+
+Malodia, S., & Singla, H. (2016). A study of carpooling behaviour using a stated preference web survey in selected cities of India.Transportation Planning and Technology,39(5), 538–550.Link to source:https://doi.org/10.1080/03081060.2016.1174368
+
+Mamala, J., Graba, M., Bieniek, A., Prażnowski, K., Augustynowicz, A., & Śmieja, M. (2021). Study of energy consumption of a hybrid vehicle in real-world conditions.Eksploatacja i Niezawodność – Maintenance and Reliability,23(4), 636–645.Link to source:https://doi.org/10.17531/ein.2021.4.6
+
+Manik, D., & Molkenthin, N. (2020). Topology dependence of on-demand ride-sharing.Applied Network Science,5(1), Article 49.Link to source:https://doi.org/10.1007/s41109-020-00290-2
+
+Molina, J. A., Giménez-Nadal, J. I., & Velilla, J. (2020). Sustainable commuting: results from a social approach and international evidence on carpooling.Sustainability,12(22), Article 9587.Link to source:https://doi.org/10.3390/su12229587
+
+Pan, S., Yu, W., Fulton, L. M., Jung, J., Choi, Y., & Gao, H. O. (2023). Impacts of the large-scale use of passenger electric vehicles on public health in 30 US. metropolitan areas.Renewable and Sustainable Energy Reviews,173, Article 113100.Link to source:https://doi.org/10.1016/j.rser.2022.113100
+
+Pennington, A. F., Cornwell, C. R., Sircar, K. D., & Mirabelli, M. C. (2024). Electric vehicles and health: A scoping review.Environmental Research,251, Article 118697.Link to source:https://doi.org/10.1016/j.envres.2024.118697
+
+Requia, W. J., Mohamed, M., Higgins, C. D., Arain, A., & Ferguson, M. (2018). How clean are electric vehicles? Evidence-based review of the effects of electric mobility on air pollutants, greenhouse gas emissions and human health.Atmospheric Environment,185, 64-77.Link to source:https://doi.org/10.1016/j.atmosenv.2018.04.040
+
+Rodriguez Mendez, Q., Fuss, S., Lück, S., & Creutzig, F. (2024). Assessing global urban CO2 removal.Nature Cities,1(6), 413–423.Link to source:https://doi.org/10.1038/s44284-024-00069-x
+
+Santi, P., Resta, G., Szell, M., Sobolevsky, S., Strogatz, S. H., & Ratti, C. (2014). Quantifying the benefits of vehicle pooling with shareability networks.Proceedings of the National Academy of Sciences,111(37), 13290–13294.Link to source:https://doi.org/10.1073/pnas.1403657111
+
+Schaller, B. (2021). Can sharing a ride make for less traffic? Evidence from Uber and Lyft and implications for cities.Transport Policy,102, 1–10.Link to source:https://doi.org/10.1016/j.tranpol.2020.12.015
+
+Shaheen, S., Cohen, A., & Bayen, A. (2024).The benefits of carpooling. UC Berkeley: Transportation Sustainability Research Center.Link to source:http://dx.doi.org/10.7922/G2DZ06GF
+
+Szyszkowicz, M., Kousha, T., Castner, J., & Dales, R. (2018). Air pollution and emergency department visits for respiratory diseases: a multi-city case crossover study.Environmental Research,163, 263–269.Link to source:https://doi.org/10.1016/j.envres.2018.01.043
+
+Tomás, R., Fernandes, P., Macedo, J., & Coelho, M. C. (2021). Carpooling as an immediate strategy to post-lockdown mobility: a case study in university campuses.Sustainability,13(10), Article 5512.Link to source:https://doi.org/10.3390/su13105512
+
+Tsai, J.-H., Yao, Y.-C., Huang, P.-H., & Chiang, H.-L. (2018). Fuel economy and volatile organic compound exhaust emission for motorcycles with various running mileages.Aerosol and Air Quality Research,18(12), 3056–3067.Link to source:https://doi.org/10.4209/aaqr.2018.07.0264
+
+United Nations Development Programme. (2024).A closer look at informal (popular) transportation: an emerging portrait.Link to source:https://www.undp.org/acceleratorlabs/publications/closer-look-informal-popular-transportation-emerging-portrait
+
+United Nations Economic Commission for Europe. (2023).Road vehicle fleet at 31 December by fuel type, type of vehicle,country and year[Dataset].Link to source:https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__40-TRTRANS__03-TRRoadFleet/03_en_TRRoadFuelFlt_r.px/
+
+Union of Concerned Scientists. (2023).Cars, trucks, buses and air pollution.Link to source:https://www.ucs.org/resources/cars-trucks-buses-and-air-pollution
+
+United States Department of Energy. (2017).Fuel economy guide.Link to source:https://www.fueleconomy.gov/feg/download.shtml
+
+World Health Organization. (2022).Number of registered vehicles.Link to source:https://www.who.int/data/gho/data/indicators/indicator-details/GHO/number-of-registered-vehicles
+
+Wolfram, P., Tu, Q., Hertwich, E., & Pauliuk, S. (2020).Documentation of the transport-sector model within the RECC model framework v1.0.Link to source:https://doi.org/10.5281/zenodo.3631938
+
+Yan, L., Luo, X., Zhu, R., Santi, P., Wang, H., Wang, D., Zhang, S., & Ratti, C. (2020). Quantifying and analyzing traffic emission reductions from ridesharing: a case study of Shanghai.Transportation Research Part D: Transport and Environment,89, Article 102629.Link to source:https://doi.org/10.1016/j.trd.2020.102629
+
+Zhou, Y., Aeschliman, S., & Gohlke, D. (2020).Affordability of household transportation fuel costs by region and socioeconomic factors. Article ANL/ESD--20/11. Argonne National Laboratory.Link to source:https://doi.org/10.2172/1760477
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Amanda D. Smith, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+Heather McDiarmid, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

@@ -1,0 +1,166 @@
+# Nutrient Management
+Source: https://en.wikipedia.org/wiki/Nutrient_management
+
+Nutrient management is the science and practice directed to link soil, crop, weather, and hydrologic factors with cultural, irrigation, and soil and water conservation practices to achieve optimal nutrient use efficiency, crop yields, crop quality, and economic returns, while reducing off-site transport of nutrients (fertilizer) that may impact the environment. It involves matching a specific field soil, climate, and crop management conditions to rate, source, timing, and place (commonly known as the 4R nutrient stewardship) of nutrient application.
+Important factors that need to be considered when managing nutrients include (a) the application of nutrients considering the achievable optimum yields and, in some cases, crop quality; (b) the management, application, and timing of nutrients using a budget based on all sources and sinks active at the site; and (c) the management of soil, water, and crop to minimize the off-site transport of nutrients from nutrient leaching out of the root zone, surface runoff, and volatilization (or other gas exchanges).
+There can be potential interactions because of differences in nutrient pathways and dynamics. For instance, practices that reduce the off-site surface transport of a given nutrient may increase the leaching losses of other nutrients. These complex dynamics present nutrient managers the difficult task of achieve the best balance for maximizing profit while contributing to the conservation of our biosphere.
+
+
+== Nutrient management plan ==
+
+A crop nutrient management plan is a tool that farmers can use to increase the efficiency of all the nutrient sources a crop uses while reducing production and environmental risk, ultimately increasing profit. Increasingly, growers as well as agronomists use digital tools like SST or Agworld to create their nutrient management plan so they can capitalize on information gathered over a number of years. It is generally agreed that there are ten fundamental components of a crop nutrient management plan. Each component is critical to helping analyze each field and improve nutrient efficiency for the crops grown. These components include:
+
+Field map
+The map, including general reference points (such as streams, residences, wellheads etc.), number of acres, and soil types is the base for the rest of the plan.
+Soil test
+How much of each nutrient (N-P-K and other critical elements such as pH and organic matter) is in the soil profile? The soil test is a key component needed for developing the nutrient rate recommendation.
+Crop sequence
+Did the crop that grew in the field last year (and in many cases two or more years ago) fix nitrogen for use in the following years? Has long-term no-till increased organic matter? Did the end-of-season stalk test show a nutrient deficiency? These factors also need to be factored into the plan.
+Estimated yield
+Factors that affect yield are numerous and complex. A field's soils, drainage, insect, weed and crop disease pressure, rotation and many other factors differentiate one field from another. This is why using historic yields is important in developing yield estimates for next year. Accurate yield estimates can improve nutrient use efficiency.
+Sources and forms
+The sources and forms of available nutrients can vary from farm-to-farm and even field-to-field. For instance, manure fertility analysis, storage practices and other factors will need to be included in a nutrient management plan. Manure nutrient tests/analysis are one way to determine the fertility of it. Nitrogen fixed from a previous year's legume crop and residual effects of manure also affects rate recommendations. Many other nutrient sources should also be factored into this plan.
+Sensitive areas
+What's out of the ordinary about a field's plan? Is it irrigated? Next to a stream or lake? Especially sandy in one area? Steep slope or low area? Manure applied in one area for generations due to proximity of dairy barn? Extremely productive—or unproductive—in a portion of the field? Are there buffers that protect streams, drainage ditches, wellheads, and other water collection points? How far away are the neighbors? What's the general wind direction? This is the place to note these and other special conditions that need to be considered.
+Recommended rates
+Here's the place where science, technology, and art meet. Given everything you've noted, what is the optimum rate of N, P, K, lime and any other nutrients? While science tells us that a crop has changing nutrient requirements during the growing season, a combination of technology and farmer's management skills assure nutrient availability at all stages of growth. No-till corn generally requires starter fertilizer to give the seedling a healthy start.
+Recommended timing
+When does the soil temperature drop below 50 degrees? Will a N stabilizer be used? What's the tillage practice? Strip-till corn and no-till often require different timing approaches than seed planted into a field that's been tilled once with a field cultivator. Will a starter fertilizer be used to give the seedling a healthy start? How many acres can be covered with available labor (custom or hired) and equipment? Does manure application in a farm depend on a custom applicator's schedule? What agreements have been worked out with neighbors for manure use on their fields? Is a neighbor hosting a special event? All these factors and more will likely figure into the recommended timing.
+Recommended methods
+Surface or injected? While injection is clearly preferred, there may be situations where injection is not feasible (i.e. pasture, grassland). Slope, rainfall patterns, soil type, crop rotation and many other factors determine which method is best for optimizing nutrient efficiency (availability and loss) in farms. The combination that's right in one field may differ in another field even with the same crop.
+Annual review and update
+Even the best managers are forced to deviate from their plans. What rate was actually applied? Where? Using which method? Did an unusually mild winter or wet spring reduce soil nitrate? Did a dry summer, disease, or some other unusual factor increase nutrient carryover? These and other factors should be noted as they occur.
+When such a plan is designed for animal feeding operations (AFO), it may be termed a "manure management plan." In the United States, some regulatory agencies recommend or require that farms implement these plans in order to prevent water pollution. The U.S. Natural Resources Conservation Service (NRCS) has published guidance documents on preparing a comprehensive nutrient management plan (CNMP) for AFOs.
+The International Plant Nutrition Institute has published a 4R plant nutrition manual for improving the management of plant nutrition. The manual outlines the scientific principles behind each of the four Rs or "rights" (right source of nutrient, right application rate, right time, right place) and discusses the adoption of 4R practices on the farm, approaches to nutrient management planning, and measurement of sustainability performance.
+
+
+== Nitrogen management ==
+Of the 16 essential plant nutrients, nitrogen is usually the most difficult to manage in field crop systems. This is because the quantity of plant-available nitrogen can change rapidly in response to changes in soil water status. Nitrogen can be lost from the plant-soil system by one or more of the following processes: leaching; surface runoff; soil erosion; ammonia volatilization; and denitrification.
+
+
+=== Nitrogen management practices that improve nitrogen efficiency ===
+Nitrogen management aims to maximize the efficiency with which crops use applied N. Improvements in nitrogen use efficiency are associated with decreases in N loss from the soil. Although losses cannot be avoided completely, significant improvements can be realized by applying one or more of the following management practices in the cropping system.
+
+
+=== Reduction of greenhouse gas emissions ===
+Climate Smart Agriculture includes the use of 4R Nutrient Stewardship principles to reduce field emissions of nitrous oxide (N2O) from the application of nitrogen fertilizer. Nitrogen fertilizer is an important driver of nitrous oxide emissions, but it is also the main driver of yield in modern high production systems. Through careful selection of nitrogen fertilizer source, rate, timing and placement practices, the nitrous oxide emissions per unit of crop produced can be substantially reduced, in some cases by up to half. The practices that reduce nitrous oxide emissions also tend to increase nitrogen use efficiency and the economic return on fertilizer dollars.
+
+
+==== Reduction of N loss in runoff water and eroded soil ====
+No-till, conservation tillage and other runoff control measures reduce N loss in surface runoff and eroded soil material.
+The use of daily estimates of soil moisture and crop needs to schedule irrigation reduces the risk of surface runoff and soil erosion.
+
+
+==== Reduction of the volatilization of N as ammonia gas ====
+Incorporation and/or injection of urea and ammonium-containing fertilizers decreases ammonia volatilization because good soil contact buffers pH and slows the generation of ammonia gas from ammonium ions.
+Urease inhibitors temporarily block the function of the urease enzyme, maintaining urea-based fertilizers in the non-volatile urea form, reducing volatilization losses when these fertilizers are surface applied; these losses can be meaningful in high-residue, conservation tillage systems.
+
+
+==== Prevention of the build-up of high soil nitrate concentrations ====
+Nitrate is the form of nitrogen that is most susceptible to loss from the soil, through denitrification and leaching. The amount of N lost via these processes can be limited by restricting soil nitrate concentrations, especially at times of high risk. This can be done in many ways, although these are not always cost-effective.
+
+
+===== Nitrogen rates =====
+Rates of N application should be high enough to maximize profits in the long term and minimize residual (unused) nitrate in the soil after harvest.
+
+The use of local research to determine recommended nitrogen application rates should result in appropriate N rates.
+Recommended N application rates often rely on an assessment of yield expectations – these should be realistic, and preferably based on accurate yield records.
+Fertilizer N rates should be corrected for N that is likely to be mineralized from soil organic matter and crop residues (especially legume residues).
+Fertilizer N rates should allow for N applied in manure, in irrigation water, and from atmospheric deposition.
+Where feasible, appropriate soil tests can be used to determine residual soil N.
+
+
+===== Soil testing for N =====
+Preplant soil tests provide information on the soil's N-supply power.
+Late spring or pre-side-dress N tests can determine if and how much additional N is needed.
+New soil test and sampling procedures, such as amino sugar tests, grid mapping, and real-time sensors can refine N requirements.
+Post-harvest soil tests determine if N management the previous season was appropriate.
+
+
+===== Crop testing for N =====
+Plant tissue tests can identify N deficiencies.
+Sensing variations in plant chlorophyll content facilitates variable rate N applications in-season.
+Post-black-layer corn stalk nitrate tests help to determine if N rates were low, optimal, or excessive in the previous crop, so that management changes can be made in following crops.
+
+
+===== Precision agriculture =====
+Variable rate application, combined with intensive soil or crop sampling, allows more precise and responsive application rates.
+
+
+===== Timing of N applications =====
+Apply N close to the time when crops can utilize it.
+Make side-dress N applications close to the time of most rapid N uptake.
+Split applications, involving more than one application, allow efficient use of applied N and reduce the risk of N loss to the environment.
+
+
+===== N Forms, including slow or controlled release fertilizers and inhibitors =====
+Slow or controlled release fertilizer delays the availability of nitrogen to the plant until a time that is more appropriate for plant uptake - the risk of N loss through denitrification and leaching is reduced by limiting nitrate concentrations in the soil.
+Nitrification inhibitors maintain applied N in the ammonium form for a longer period of time, thereby reducing leaching and denitrification losses.
+
+
+===== N capture =====
+Particular crop varieties are able to more efficiently extract N from the soil and improve N use efficiency. Breeding of crops for efficient N uptake is in progress.
+Rotation with deep-rooted crops helps capture nitrates deeper in the soil profile.
+Cover crops capture residual nitrogen after crop harvest and recycle it as plant biomass.
+Elimination of restrictions to subsoil root development; subsoil compaction and subsoil acidity prevent root penetration in many subsoils worldwide, promoting build-up of subsoil nitrate concentrations which are susceptible to denitrification and leaching when conditions are suitable.
+Good agronomic practice, including appropriate plant populations and spacing and good weed and pest management, allows crops to produce large root systems to optimise N capture and crop yield.
+
+
+==== Water management ====
+
+
+===== Conservation tillage =====
+Conservation tillage optimizes soil moisture conditions that improve water use efficiency; in water-stressed conditions, this improves crop yield per unit N applied.
+Conservation tillage includes several cultivation practices such as no-till, in-row subsoiling, strip-till, or ridge-till processes, which aim to increase the soil surface with 30% or more of crop residue. Historically, crop residue, was regarded by farmers as trash and was discarded; however, research has shown that there are many benefits to retaining more than 50% of crop residue on soil surfaces for the promotion of enriched soil health, nutrient cycling, reduction in erosion, and increased microbial activity and diversity. The goal of conservation tillage is to enhance soil quality, improve nutrient cycling, reduce soil erosion, improve water conservation, and reduce run-off and the loss of vital nutrients such as nitrogen (Conservation Tillage Systems in the Southeast, 2023). Conservation tillage positively impacts many aspects of farming practices, particularly nutrient and water management, which are closely interconnected and will promote environmental and agricultural sustainability. Reduced soil erosion leads to an increase in nitrogen retention and improves soil productivity. Improved soil health has been attributed to conservation tillage through increased biological activity and diversity in less tilled soil secondary to lower levels of destruction of organic matter, shift in higher concentrations of beneficial microorganisms, reduced diseased states, thriving root networks that retain more moisture and nutrients which is the foundation of a thriving ecosystem (Conservation Tillage Systems in the Southeast, 2023). In crops that have undergone conservation tillage, research has shown higher concentrations of organic matter, such as nitrogen and many other soil-beneficial elements is secondary to the amount of carbon that remains in the soil, increasing organic levels of carbon in soil is directly related to higher levels of crop residue, which in turn increases and stabilizes soil nutrient levels making nutrients readily available for plant uptake (Yu et al., 2025).  Conservation tillage improves water conservation and reduces run-off by protecting soil from crusting, a seal that forms on the soil surface that has undergone intensive tillage practices. Increased crusting of soil prevents water from reaching lower levels of soil. Soil crusting causes increased water losses as it evaporates more quickly, stripping the soil of its naturally retained moisture from rainfall and irrigation. Researchers found a nearly 60 percent reduction in run-off losses in crops that underwent conservation tillage (Conservation Tillage Systems in the Southeast, 2023). Conservation tillage can also maximize the benefits of rainfall through the reduction of soil compaction by dispersing the energy of the raindrop over the soil residue, reducing the effects of soil compression and erosion, leading to an increase in soil water retention capacity, slowing water run-off and promoting infiltration, as water sits on the surface for more extended periods, and by increasing the capacity at which water traverses through soil due to the presence of larger channels that improve soil structure and promote infiltration instead of run-off (Conservation Tillage Systems in the Southeast, 2023). Decaying crop residue increases the available routes in the soil that allow water to be absorbed quickly and is beneficial with or without irrigation, leading to the reduced use of supplemental irrigation (Conservation Tillage Systems in the Southeast, 2023).  Plant residues, which are increased in conservation tillage, could reduce the activity of nitrate reducers in soil up to 27-fold, leading to nitrogen retention (Cheneby et al., 2010). Agricultural practices, such as conservation tillage that promote nitrogen retention are important as nitrogen promotes the growth of plants and, when depleted, reduces agricultural productivity and sustainability. Conservation tillage is another way to naturally increase vital nutrients within the soil, such as nitrogen, resulting in reduced application requirements of nitrogen and many other nutrients required for productivity. It is also an effective way to conserve water and promote soil health.
+
+
+===== N fertilizer application method and placement =====
+In ridged crops, placing N fertilizers in a band in ridges makes N less susceptible to leaching.
+Row fertilizer applicators, such as injectors, which form a compacted soil layer and surface ridge, can reduce N losses by diverting water flow.
+
+
+===== Good irrigation management can improve N-use efficiency =====
+Scheduled irrigation based on soil moisture estimates and daily crop needs will improve both water-use and N-use efficiency.
+Sprinkler irrigation systems apply water more uniformly and in lower amounts than furrow or basin irrigation systems.
+Furrow irrigation efficiency can be improved by adjusting set time, stream size, furrow length, watering every other row, or the use of surge valves.
+Alternate row irrigation and fertilization minimizes water contact with nutrients.
+Application of N fertilizer through irrigation systems (fertigation) facilitates N supply when crop demand is greatest.
+Polyacrylamide (PAM) treatment during furrow irrigation reduces sediment and N losses.
+
+
+===== Drainage systems =====
+Some subirrigation systems recycle nitrate leached from the soil profile and reduce nitrate lost in drainage water.
+Excessive drainage can lead to rapid through-flow of water and N leaching, but restricted or insufficient drainage favors anaerobic conditions and denitrification.
+
+
+==== Use of simulation models ====
+Short-term changes in the plant-available N status make accurate seasonal predictions of crop N requirement difficult in most situations. However, models (such as NLEAP and Adapt-N) that use soil, weather, crop, and field management data can be updated with day-to-day changes and thereby improve predictions of the fate of applied N. They allows farmers to make adaptive management decisions that can improve N-use efficiency and minimize N losses and environmental impact while maximizing profitability.
+
+
+=== Additional measures to minimize environmental impact ===
+
+
+==== Conservation buffers ====
+Buffers trap sediment containing ammonia and organic N.
+Nitrate in subsurface flow is reduced through denitrification enhanced by carbon energy sources contained in the soil associated with buffer vegetation.
+Buffer vegetation takes up nitrogen, other nutrients, and reduces loss to water.
+
+
+==== Constructed wetlands ====
+Constructed wetlands located strategically on the landscape to process drainage effluent reduces sediment and nitrate loads to surface water.
+
+
+== See also ==
+Agricultural wastewater treatment
+Ecosan
+Fertilizer
+Nutrient budgeting
+Nutrient pollution
+
+
+== References ==
+
+
+== External links ==
+US EPA - Animal Feeding Operations – Federal water permit requirements for AFOs
+Manure Nutrient Management from the National eXtension Initiative (US)

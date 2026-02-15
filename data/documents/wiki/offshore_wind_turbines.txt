@@ -1,0 +1,287 @@
+# Offshore Wind Turbines
+Source: https://en.wikipedia.org/wiki/Offshore_wind_power
+
+Offshore wind power or offshore wind energy is the generation of electricity through wind farms in bodies of water, usually at sea. Due to a lack of obstacles out at sea versus on land, higher wind speeds tend to be observed out at sea, which increases the amount of power that can be generated per wind turbine. Offshore wind farms are also less controversial than those on land, as they have less impact on people and the landscape.
+Unlike the typical use of the term "offshore" in the marine industry, offshore wind power includes inshore water areas such as lakes, fjords and sheltered coastal areas as well as deeper-water areas. Most offshore wind farms employ fixed-foundation wind turbines in relatively shallow water. Floating wind turbines for deeper waters are in an earlier phase of development and deployment.
+As of 2022, the total worldwide offshore wind power nameplate capacity was 64.3 gigawatt (GW). China (49%), the United Kingdom (22%), and Germany (13%) account for more than 75% of the global installed capacity. The 1.4 GW Hornsea Project Two in the United Kingdom was the world's largest offshore wind farm. Other large projects in the planning stage include Dogger Bank in the United Kingdom at 4.8 GW, and Greater Changhua in Taiwan at 2.4 GW.
+The cost of offshore has historically been higher than that of onshore, but costs decreased to $78/MWh in 2019. Offshore wind power in Europe became price-competitive with conventional power sources in 2017. Offshore wind generation grew at over 30 percent per year in the 2010s. As of 2020, offshore wind power had become a significant part of northern Europe power generation, though it remained less than 1 percent of overall world electricity generation. A big advantage of offshore wind power compared to onshore wind power is the higher capacity factor meaning that an installation of given nameplate capacity will produce more electricity at a site with more consistent and stronger wind which is usually found offshore and only at very few specific points onshore.
+
+
+== History ==
+
+
+=== Capacity ===
+
+Europe is the world leader in offshore wind power, with the first offshore wind farm (Vindeby) being installed in Denmark in 1991. 
+In 2009, the average nameplate capacity of an offshore wind turbine in Europe was about 3 MW, and the capacity of future turbines was expected to increase to 5 MW.
+A 2013 review of the engineering aspects of turbines like the sizes used onshore, including the electrical connections and converters, considered that the industry had in general been overoptimistic about the benefits-to-costs ratio and concluded that the "offshore wind market doesn't look as if it is going to be big".
+In 2013, offshore wind power contributed to 1,567 MW of the total 11,159 MW of wind power capacity constructed that year.
+By January 2014, 69 offshore wind farms had been constructed in Europe with an average annual rated capacity of 482 MW. 
+The total installed capacity of offshore wind farms in European waters reached 6,562 MW.
+The United Kingdom had by far the largest capacity with 3,681 MW. 
+Denmark was second with 1,271 MW installed and Belgium was third with 571 MW. 
+Germany came fourth with 520 MW, followed by the Netherlands (247 MW), Sweden (212 MW), Finland (26 MW), Ireland (25 MW), Spain (5 MW), Norway (2 MW) and Portugal (2 MW).
+At the end of 2015, 3,230 turbines at 84 offshore wind farms across 11 European countries had been installed and grid-connected, making a total capacity of 11,027 MW.
+The history of the development of wind farms in the North Sea, as regards the United Kingdom, indicates three phases: coastal, off-coastal and deep offshore in the period 2004 through to 2021. Through the development of offshore wind power the Baltic Sea is expected to become a major source of energy for countries in the region. According to the Marienborg Declaration, signed in 2022, all EU Baltic Sea states have announced their intentions to have 19.6 gigawatts of offshore wind in operation by 2030.
+Outside of Europe, the Chinese government had set ambitious targets of 5 GW of installed offshore wind capacity by 2015 and 30 GW by 2020 that would eclipse capacity in other countries. 
+However, in May 2014 the capacity of offshore wind power in China was only 565 MW. 
+Offshore capacity in China increased by 832 MW in 2016, of which 636 MW were made in China.
+The offshore wind construction market remains quite concentrated.
+By the end of 2015, Siemens Wind Power had installed 63% of the world's 11 GW offshore wind power capacity; Vestas had 19%, Senvion came third with 8% and Adwen 6%.
+About 12 GW of offshore wind power capacity was operational, mainly in Northern Europe, with 3,755 MW of that coming online during 2015. As of 2020 90% of the offshore global market was represented by European companies.
+By 2017, the installed offshore wind power capacity worldwide was 20 GW. In 2018, offshore wind provided just 0.3% of the global electricity supply. Nevertheless, just in 2018 an additional amount of 4.3 GW of offshore wind capacity was employed on a worldwide scale. In Denmark, 50% of the electricity was supplied by wind energy in 2018 out of which 15% was offshore. The average size of turbines installed was 6.8 MW in 2018, 7.2 MW in 2019 and 8.2 MW in 2020.
+In 2022, the offshore wind industry marked its second-largest yearly growth, adding 8.8 GW and increasing global capacity to 64.3 GW—a 16% rise from the previous year. The Global Wind Energy Council (GWEC) anticipates a significant expansion, projecting an additional 380 GW by 2032 to reach a total of 447 GW. However, market challenges in Europe and the US could slow progress, with only a third of the anticipated capacity expected to be installed between 2023 and 2027.
+
+
+=== Costs ===
+In 2010, the US Energy Information Agency said "offshore wind power is the most expensive energy generating technology being considered for large scale deployment".
+The 2010 state of offshore wind power presented economic challenges significantly greater than onshore systems, with prices in the range of 2.5-3.0 million Euro/MW. 
+That year, Siemens and Vestas were turbine suppliers for 90% of offshore wind power, while Ørsted A/S (then named DONG Energy), Vattenfall and E.on were the leading offshore operators.
+In 2011, Ørsted estimated that while offshore wind turbines were not yet competitive with fossil fuels, they would be in 15 years. 
+Until then, state funding and pension funds would be needed. 
+At the end of 2011, there were 53 European offshore wind farms in waters off Belgium, Denmark, Finland, Germany, Ireland, the Netherlands, Norway, Sweden and the United Kingdom, with an operating capacity of 3,813 MW, while 5,603 MW was under construction.
+Offshore wind farms worth €8.5 billion ($11.4 billion) were under construction in European waters in 2011.
+In 2012, Bloomberg estimated that energy from offshore wind turbines cost €161 (US$208) per MWh.
+Costs of offshore wind power are decreasing much faster than expected. 
+By 2016, four contracts (Borssele and Kriegers) were already below the lowest of the predicted 2050 prices.
+Offshore wind projects in the United States cost US$4,000 per kilowatt to build in 2023, compared to US\$1,363 per kilowatt for onshore wind farms. The cost of offshore wind has increased by 36% since 2019, while the cost of onshore wind has increased by only 5% over the same period.
+Some major U.S. projects have been stymied due to inflation even after subsidies became available from the Inflation Reduction Act.
+
+
+== Future development ==
+
+The Organisation for Economic Co-operation and Development (OECD) predicted in 2016 that offshore wind power will grow to 8% of ocean economy by 2030, and that its industry will employ 435,000 people, adding $230 billion of value.
+The European Commission expects that offshore wind energy will be of increasing importance in the future, as offshore wind is part of its Green Deal. The development of the full potential of Europe's offshore wind energy is one of the key actions in the Clean Energy section of the Green Deal.
+By 2050, the expectation is that the installed offshore wind power capacity will reach 1550 GW on a worldwide scale. Compared to the capacity of 2017 that corresponds to an 80-fold increase.
+One of the advancements that characterises the current development within the offshore industry are technologies that allow for offshore wind projects further off the shore where wind availability is higher. In particular, the adoption of floating foundation technologies has proved to be a promising technology for unlocking the wind potential on deeper waters.
+A main investor for Europe has been the European Investment Bank. The EIB has been investing in offshore renewable energy, co-financing around 40% of all capacity in Europe. Since 2003, the EIB has sponsored 34 offshore wind projects in Europe, including facilities in Belgium, Denmark, Germany, France, the Netherlands, Portugal, and the United Kingdom, totaling more over €10 billion in loans. The EIB funded €3.7 billion in maritime renewable energy between 2019 and 2023 and has future plans for financing of wind farms.
+
+
+== Economics ==
+
+The advantage of locating wind turbines offshore is that the wind is much stronger off the coasts, and unlike wind over land, offshore breezes can be strong in the afternoon, matching the time when people are using the most electricity. Offshore turbines can also be located close to the load centers along the coasts, such as large cities, eliminating the need for new long-distance transmission lines.
+However, there are several disadvantages of offshore installations, related to more expensive installation, difficulty of access, and harsher conditions for the units.
+Locating wind turbines offshore exposes the units to high humidity, salt water and salt water spray which negatively affect service life, cause corrosion and oxidation, increase maintenance and repair costs and in general make every aspect of installation and operation much more difficult, time-consuming, more dangerous and far more expensive than sites on land. 
+The humidity and temperature is controlled by air conditioning the sealed nacelle.
+Sustained high-speed operation and generation also increases wear, maintenance and repair requirements proportionally.
+The cost of the turbine represents just one third to one half of total costs in offshore projects today, the rest comes from infrastructure, maintenance, and oversight. 
+Costs for foundations, installation, electrical connections and operation and maintenance (O&M) are a large share of the total for offshore installations compared to onshore wind farms.
+The cost of installation and electrical connection also increases rapidly with distance from shore and water depth.
+Other limitations of offshore wind power are related to the still limited number of installations. 
+The offshore wind industry is not yet fully industrialized, as supply bottlenecks still exist as of 2017.
+
+
+=== Investment costs ===
+
+Offshore wind farms tend to have larger turbines when compared to onshore installations, and the trend is towards a continued increase in size. Economics of offshore wind farms tend to favor larger turbines, as installation and grid connection costs decrease per unit energy produced. Moreover, offshore wind farms do not have the same restriction in size of onshore wind turbines, such as availability of land or transportation requirements.
+In 2022, the cost of electricity from new offshore wind projects increased from USD 0.079/kWh to USD 0.081/kWh compared to the previous year, as reported by the International Renewable Energy Agency (IRENA). This rise contrasts with the declining trend observed in other renewable energy sources such as onshore wind and solar photovoltaics (PV), despite the upward trend in materials and equipment costs.
+Researchers at the National Renewable Energy Laboratory (NREL) forecast a reduction in offshore wind energy costs by 2035. They estimate that the levelized cost for fixed-bottom offshore wind will decrease from $75 per megawatt-hour (MWh) in 2021 to $53/MWh in 2035, and for floating offshore wind, from $207/MWh to $64/MWh. These cost estimates are based on projections that anticipate a ninefold increase in global offshore wind energy deployment, supported by advancements in infrastructure such as supply chains, ports, and transmission systems.
+
+
+=== Operating costs ===
+
+Operational expenditures for wind farms are split between Maintenance (38%), Port Activities (31%), Operation (15%), License Fees (12%), and Miscellaneous Costs (4%).
+Operation and maintenance costs typically represent 53% of operational expenditures, and 25% - 30% of the total lifecycle costs for offshore wind farms. O&Ms are considered one of the major barriers for further development of this resource.
+Maintenance of offshore wind farms is much more expensive than for onshore installations.
+For example, a single technician in a pickup truck can quickly, easily and safely access turbines on land in almost any weather conditions, exit his or her vehicle and simply walk over to and into the turbine tower to gain access to the entire unit within minutes of arriving onsite. 
+Similar access to offshore turbines involves driving to a dock or pier, loading necessary tools and supplies into boat, a voyage to the wind turbine(s), securing the boat to the turbine structure, transferring tools and supplies to and from boat to turbine and turbine to boat and performing the rest of the steps in reverse order. 
+In addition to standard safety gear such as a hardhat, gloves and safety glasses, an offshore turbine technician may be required to wear a life vest, waterproof or water-resistant clothing and perhaps even a survival suit if working, sea and atmospheric conditions make rapid rescue in case of a fall into the water unlikely or impossible.
+Typically at least two technicians skilled and trained in operating and handling large power boats at sea are required for tasks that one technician with a driver's license can perform on land in a fraction of the time at a fraction of the cost.
+
+
+=== Cost of energy ===
+Cost for installed offshore turbines fell 30% to $78/MWh in 2019, a more rapid drop than other types of renewable energy.
+It has been suggested that innovation at scale could deliver 25% cost reduction in offshore wind by 2020.
+Offshore wind power market plays an important role in achieving the renewable target in most of the countries around the world.
+Auctions in 2016 for future projects have reached costs of €54.5 per megawatt hour (MWh) at the 700 MW Borssele 3&4 due to government tender and size, and €49.90 per MWh (without transmission) at the 600 MW Kriegers Flak.
+In September 2017 contracts were awarded in the United Kingdom for a strike price of £57.50 per MWh making the price cheaper than nuclear and competitive with gas.
+In September 2018 contracts were awarded for Vineyard Wind, Massachusetts, USA at a cost of between $65-$74 per MWh.
+
+
+== Offshore wind resources ==
+
+Offshore wind resources are by their nature both huge in scale and highly dispersed, considering the ratio of the planet's surface area that is covered by oceans and seas compared to land mass. Wind speeds offshore are known to be considerably higher than for the equivalent location onshore due to the absence of land mass obstacles and the lower surface roughness of water compared to land features such as forests and savannah, a fact that is illustrated by global wind speed maps that cover both onshore and offshore areas using the same input data and methodology.  
+For the North Sea, wind turbine energy is around 30 kWh/m2 of sea area, per year, delivered to grid. The energy per sea area is roughly independent of turbine size.
+The technical exploitable resource potential for offshore wind is a factor of the average wind speed and water depth, as it is only possible to generate electricity from offshore wind resources where turbines can be anchored. Currently, fixed foundation offshore wind turbines can be installed up to around 50 metres (160 ft) of sea depth. Beyond that, floating foundation turbines would be required, potentially allowing installation at depths of up to one kilometre (3,300 ft) based on currently proposed technologies. 
+Based on an analysis of viable water depths and wind speeds over seven metres per second (23 ft/s), it has been estimated that there is over 17 terawatt (TW) of offshore wind technical potential in just the 50 countries studied, not including most OECD countries such as Australia, Japan, the United States or Western Europe. Well-endowed countries such as Argentina and China have almost 2 TW and 3 TW of potential respectively, illustrating the vast potential of offshore wind in such locations.
+
+
+== Planning and permitting ==
+
+It is necessary to obtain several types of information in order to plan the commissioning of an offshore wind farm. These include:
+
+Offshore wind characteristics
+Water depth, currents, seabed, migration, and wave action, all of which drive mechanical and structural loading on potential turbine configurations.
+Marine growth, salinity, icing, and the geotechnical characteristics of the sea or lake bed.
+Existing hardware for measurements includes Light Detection and Ranging (LIDAR), Sonic Detection and Ranging (SODAR), radar, autonomous underwater vehicles (AUV), and remote satellite sensing, although these technologies should be assessed and refined, according to a report from a coalition of researchers from universities, industry, and government, supported by the Atkinson Center for a Sustainable Future.
+Because of the many factors involved, one of the biggest difficulties with offshore wind farms is the ability to predict loads. Analysis must account for the dynamic coupling between translational (surge, sway, and heave) and rotational (roll, pitch, and yaw) platform motions and turbine motions, as well as the dynamic characterization of mooring lines for floating systems. Foundations and substructures make up a large fraction of offshore wind systems, and must take into account every single one of these factors.
+Load transfer in the grout between tower and foundation may stress the grout, and elastomeric bearings are used in several British sea turbines.
+Corrosion is also a serious problem and requires detailed design considerations. The prospect of remote monitoring of corrosion looks very promising, using expertise utilised by the offshore oil/gas industry and other large industrial plants.
+Moreover, as power generation efficiency of wind farms downwind of offshore wind farms was found to decrease, strategic decision-making may need to consider – cross-national – limits and potentials for optimization.
+Some of the guidelines for designing offshore wind farms are set out in IEC 61400-3, but in the US several other standards are necessary.
+In the European Union (EU), different national standards are to be streamlined into more cohesive guidelines to lower costs. The standards require that a loads analysis is based on site-specific external conditions such as wind, wave and currents.
+The planning and permitting phase can cost more than $10 million, take 5–7 years and have an uncertain outcome. The industry is putting pressure on governments to improve the processes. 
+In Denmark, many of these phases have been deliberately streamlined by authorities in order to minimize hurdles, and this policy has been extended for coastal wind farms with a concept called 'one-stop-shop'. 
+The United States introduced a similar model called "Smart from the Start" in 2012.
+In the EU, the revised Renewable Energy Directive of 2018 has simplified the permitting process to help initiate wind projects.
+
+
+== Legal framework ==
+The installation and operation of offshore wind turbines are regulated in both national and international law. The relevant international legal framework is UNCLOS (United Nations Convention on the Law of the Sea) which regulates the rights and responsibilities of the States in regard to the use of the oceans. The maritime zone in which the offshore wind turbines are located determines which regulatory rules apply.
+In the territorial waters (up to 12 nautical miles from the baseline of the coast) the coastal State has full sovereignty and therefore, the regulation of offshore wind turbines are fully under national jurisdiction.
+The exclusive economic zone (up to 200 nautical miles off the baseline) is not part of the State's territory but is subject to the coastal State's exclusive jurisdiction and control for selected purposes, one of which is the production of energy from winds. This means that within this zone, the coastal State has the right to install and operate offshore wind farms and to establish safety zones around them that must be respected by all ships, as long as due notice of the installation has been given. Also, neither installations nor safety zones can interfere with sea lanes that are considered essential for international navigation.
+Beyond the exclusive economic zones are the high seas, or the international waters. Within this zone the purpose of producing energy is not explicitly mentioned as a high seas freedom, and the legal status of offshore wind facilities is therefore unclear. In academia, it has been argued that the uncertainty of the legal status of offshore wind facilities on the high seas could become an object of interstate disputes over the rights of use.
+As a solution, it has been suggested that offshore wind facilities could be incorporated as a high seas freedom by being considered as ships or artificial islands, installations and structures.
+As of 2020, energy production from winds on the high seas is not yet technically feasible due to the difficulties that follow from deeper water. However, the advancing technology of floating wind turbines is a step towards the realization of deepwater wind projects.
+
+
+== Types ==
+
+As a general rule, fixed foundation offshore wind turbines are considered technically viable in areas with water depth less than 50 metres (160 ft) and average wind speeds over 7 metres per second (23 ft/s). Floating offshore wind turbines are considered technically viable with water depths from 50 to 1,000 metres (160 to 3,280 ft). The displayed map of Vietnam provides an estimate of technical potential for that country for both fixed foundation and floating offshore wind turbines according to the water depth.
+
+
+=== Fixed foundation ===
+
+Almost all currently operating offshore wind farms employ fixed foundation turbines, with the exception of a few pilot projects.
+Fixed foundation offshore wind turbines have fixed foundations underwater, and are installed in relatively shallow waters of up to 50 to 60 metres (160 to 200 ft).
+Types of underwater structures include monopile, tripod, and jacketed, with various foundations at the sea floor including monopile or multiple piles, gravity base, and caissons.
+Offshore turbines require different types of bases for stability, according to the depth of water. 
+To date a number of different solutions exist:
+
+Most foundations are monopile (single column) base, six metres (20 ft) in diameter, is used in waters up to 30 metres (100 ft) deep.
+Conventional steel jacket structures, as used in the oil and gas industry, in water 20–80 metres (70–260 ft) deep.
+Gravity base structures, for use at exposed sites in water 20–80 m deep.
+Tripod piled structures, in water 20–80 m deep.
+Tripod suction caisson structures, in water 20–80 m deep.
+Monopiles up to 11 metres (36 ft) diameter at 2,000 tonnes can be made, but the largest so far are 1,300 tons which is below the 1,500 tonnes limit of some crane vessels. 
+The other turbine components are much smaller.
+The tripod pile substructure system is a more recent concept developed to reach deeper waters than monopile systems, with depths up to 60 m possible. This technology consists of three monopiles linked together through a joint piece at the top. The main advantage of this solution is the simplicity of the installation, which is done by installing the three monopiles and then adding the upper joint. The larger base also decreases the risk of getting overturned.
+A steel jacket structure comes from an adaptation to the offshore wind industry of concepts that have been in use in the oil and gas industry for decades. Their main advantage lies in the possibility of reaching higher depths (up to 80m). Their main limitations are due to the high construction and installation costs.
+
+
+=== Floating ===
+
+For locations with depths over about 60–80 m, fixed foundations are uneconomical or technically unfeasible, and floating wind turbines anchored to the ocean floor are needed. Blue H Technologies, which was ultimately acquired by Seawind Ocean Technology, installed the world's first floating wind turbine in 2007. Hywind is the world's first full-scale floating wind turbine, installed in the North Sea off Norway in 2009. Hywind Scotland, commissioned in October 2017, is the first operational floating wind farm, with a capacity of 30 MW. Other kinds of floating turbines have been deployed, and more projects are planned.
+
+
+=== Vertical-axis ===
+Although the great majority of onshore and all large-scale offshore wind turbines currently installed are horizontal-axis, vertical-axis wind turbines have been proposed for use in offshore installations. Thanks to the installation offshore and their lower center of gravity, these turbines can in principle be built bigger than horizontal axis turbines, with proposed designs of up to 20 MW capacity per turbine. This could improve the economy of scale of offshore wind farms. However, no large-scale demonstrations of this technology have been installed.
+
+
+== Turbine construction materials considerations ==
+Since offshore wind turbines are located in oceans and large lakes, the materials used for the turbines have to be modified from the materials used for land based wind turbines and optimized for corrosion resistance to salt water and the new loading forces experienced by the tower being partially submerged in water. With one of the main reasons for interest in offshore wind power being the higher wind speeds, some of the loading differences will come from higher shearing forces between the top and bottom of the wind turbine due to differences in wind speeds. There should also be considerations for the buffeting loads that will be experienced by the waves around the base of the tower, which converges on the use of steel tubular towers for offshore wind applications.
+Since offshore wind turbines are constantly exposed to salt and water, the steel used for the monopile and turbine tower must be treated for corrosion resistance, especially at the base of the tower in the "splash zone" for waves breaking against the tower and in the monopile. Two techniques that can be used include cathodic protection and the use of coatings to reduce corrosion pitting, which is a common source for hydrogen induced stress cracking. For cathodic protection, galvanized anodes are attached to the monopile and have enough of a potential difference with the steel to be preferentially corroded over the steel used in the monopile. Some coatings that have been applied to offshore wind turbines include hot dip zinc coatings and 2-3 epoxy coatings with a polyurethane topcoat.
+
+
+== Installation ==
+
+Specialized jackup rigs (wind turbine installation vessels) are used to install foundation and turbine. As of 2019 the next generation of vessels are being built, capable of lifting 3–5,000 tons to 160 metres (520 ft). The large components can be difficult to install, and gyroscopes can improve handling precision. Dynamic positioning has also been used to keep the vibrating pile driver steady when installing foundations.
+A large number of monopile foundations have been used in recent years for economically constructing fixed-bottom offshore wind farms in shallow-water locations. 
+Each uses a single, generally large-diameter, foundation structural element to support all the loads (weight, wind, etc.) of a large above-surface structure. Other types are tripods (steel) and gravity base foundations (concrete).
+The typical construction process for a wind turbine sub-sea monopile foundation in sand includes using a pile driver to drive a large hollow steel pile 25 metres (82 ft) deep into the seabed, through a 0.5-metre (20 in) layer of larger stone and gravel to minimize erosion around the pile. These piles can be four metres (13 ft) in diameter with approximately 50-millimetre (2.0 in) thick walls. 
+A transition piece (complete with pre-installed features such as boat-landing arrangement, cathodic protection, cable ducts for sub-marine cables, turbine tower flange, etc.) is attached to the now deeply driven pile, the sand and water are removed from the centre of the pile and replaced with concrete. An additional layer of even larger stone, up to 0.5 m diameter, is applied to the surface of the seabed for longer-term erosion protection.
+For the ease of installing the towers and connecting them to the seabed, they are installed in two parts, the portion below the water surface and the portion above the water. The two portions of the tower are joined by a transition piece which is filled with a grouted connection. The grouted connection helps transfer the loads experienced by the turbine tower to the more stable monopile foundation of the turbine. One technique for strengthening the grout used in the connections is to include weld beads known as shear keys along the length of the grout connection to prevent any sliding between the monopile and the tower.
+Offshore wind turbine components are large. Transporting of components between manufacturing and assembling facilities before the installation is to be minimized. As a result, offshore wind port facilities have been specifically built in the regions with high concentration of offshore wind developments. For large offshore wind farm projects, offshore wind ports become strategic hubs of the supply chain for the installations.
+
+
+=== Installation capacity ===
+Beyond 2022 there is expected to be a shortage of offshore wind turbine installation vessels (WTIVs), especially those capable of installing 10 MW+ turbines, with demand for vessels capable of installing offshore wind turbines projected to outpace supply by 2024.
+"Offshore wind energy developers are starting to respond to the lack of WTIVs [wind turbine installation vessels] capable of installing offshore wind turbines of 12 MW and greater, but there is still uncertainty regarding the ability of the global fleet to handle planned installations of offshore wind capacity by the mid-2020s (Hartkopf-Mikkelsen 2020; Rystad Energy 2020). A Tufts University analysis of global supply chain impacts on the emerging U.S. offshore wind energy market indicates that the current global WTIV fleet is unprepared to install wind turbines of 12 MW and larger (Bocklet et al. 2021)."
+
+
+== Connection ==
+
+
+=== Grid connection ===
+
+There are several different types of technologies that are being explored as viable options for integrating offshore wind power into the onshore grid. The most conventional method is through high-voltage alternating current (HVAC) transmission lines. HVAC transmission lines are currently the most commonly used form of grid connections for offshore wind turbines. However, there are significant limitations that prevent HVAC from being practical, especially as the distance to offshore turbines increases. First, HVAC is limited by cable charging currents, which are a result of capacitance in the cables. Undersea AC cables have a much higher capacitance than overhead AC cables, so losses due to capacitance become much more significant, and the voltage magnitude at the receiving end of the transmission line can be significantly different from the magnitude at the generating end, specially during light load conditions. In order to compensate for these losses, either more cables or reactive compensation must be added to the system. Both of these add costs to the system. Additionally, because HVAC cables have both real and reactive power flowing through them, there can be additional losses. Because of these losses, underground HVAC lines are limited in how far they can extend in an economical point of view. The maximum appropriate distance for HVAC transmission for offshore wind power is considered to be around 120 kilometres (75 mi).
+Using high-voltage direct current (HVDC) cables has been a proposed alternative to using HVAC cables. HVDC transmission cables are not affected by the cable charging currents and experience less power loss because HVDC does not transmit reactive power. With less losses, undersea HVDC lines can extend much farther than HVAC. This makes HVDC preferable for siting wind turbines very far offshore. However, HVDC requires power converters in order to connect to the AC grid. Both line commutated converters (LCCs) and voltage source converters (VSCs) have been considered for this. Although LCCs are a much more widespread technology and cheaper, VSCs have many more benefits, including independent active power and reactive power control. New research has been put into developing hybrid HVDC technologies that have a LCC connected to a VSC through a DC cable.
+In order to transport the energy from offshore wind turbines to onshore energy plants, cabling has to be placed along the ocean floor. The cabling has to be able to transfer large amounts of current efficiently which requires optimization of the materials used for the cabling as well as determining cable paths for the use of a minimal amount of cable materials. One way to reduce the cost of the cables used in these applications is to convert the copper conductors to aluminum conductors, however the suggested replacement brings up an issue of increased cable motion and potential damage since aluminum is less dense than copper.
+
+
+=== Marine vessel connection ===
+An offshore electricity recharging system named Stillstrom, to be launched by Danish shipping firm Maersk Supply Service, will give ships access to renewable energy while at sea. Connecting ships to electricity generated by offshore wind farms, the system is designed to cut emissions from idling ships.
+
+
+== Maintenance ==
+
+Turbines are much less accessible when offshore (requiring the use of a service vessel or helicopter for routine access, and a jackup rig for heavy service such as gearbox replacement), and thus reliability is more important than for an onshore turbine. Some wind farms located far from possible onshore bases have service teams living on site in offshore accommodation units. To limit the effects of corrosion on the blades of a wind turbine, a protective tape of elastomeric materials is applied, though the droplet erosion protection coatings provide better protection from the elements.
+Impressed current cathodic protection (ICCP) is used to protect wind turbine monopiles and floating wind turbine platforms. ICCP systems are increasingly popular as a solution against corrosion, as they do not require on-site monitoring, and are more eco-friendly and cost-effective than traditional galvanic systems. While traditional galvanic anode cathodic protection (GACP) systems operate on the natural driving force between two metals, ICCP systems use a continuous external power source.
+A maintenance organization performs maintenance and repairs of the components, spending almost all its resources on the turbines. The conventional way of inspecting the blades is for workers to rappel down the blade, taking a day per turbine. Some farms inspect the blades of three turbines per day by photographing them from the monopile through a 600mm telephoto lens, avoiding to go up. Others use camera drones.
+Because of their remote nature, prognosis and health-monitoring systems on offshore wind turbines will become much more necessary. They would enable better planning just-in-time maintenance, thereby reducing the operations and maintenance costs. According to a report from a coalition of researchers from universities, industry, and government (supported by the Atkinson Center for a Sustainable Future), making field data from these turbines available would be invaluable in validating complex analysis codes used for turbine design. Reducing this barrier would contribute to the education of engineers specializing in wind energy.
+
+
+== Decommissioning ==
+As the first offshore wind farms reach their end of life, a demolition industry develops to recycle them at a cost of DKK 2-4 million ($300,000-600,000 USD) roughly per MW, to be guaranteed by the owner.
+The first offshore wind farm to be decommissioned was Yttre Stengrund in Sweden in November 2015, followed by Vindeby in 2017 and Blyth in 2019.
+
+
+== Environmental impact ==
+Offshore wind farms have very low global warming potential per unit of electricity generated, comparable to that of onshore wind farms. Offshore installations also have the advantage of limited impact of noise and on the landscape compared to land-based projects.
+
+
+=== Environmental considerations ===
+As private offshore wind developers have become increasingly aware of the environmental side-effects, a turn to more sustainable methods of construction have occurred. This can be seen through partnerships with charities and local communities. In 2022, it was announced that Ørsted - a specialist provider in offshore wind and the environmentalist charity World Wide Fund for Nature (WWF) had developed a global partnership which aims to promote an increase in offshore wind infrastructure projects whilst also ensuring that beneficial impacts for biodiversity must be promoted and prioritised. Offshore wind provider Vattenfall declared a fifteen million pound investment package into the local area of Norfolk in order to support climate change based projects.
+As the offshore wind industry has evolved and expanded on a rapid scale, a number of European Directives have been created concerning the necessary environmental considerations that must be taken into account by developers. In 2008, the European Marine Strategy Framework Directive was formed with its core element involving an Environmental Impact Assessment (EIA) which mitigates against any adverse effects towards the marine environment by offshore wind infrastructures. The EIA was implemented as a means of preventing further disturbance towards aspects including marine organisms, the seabed and the ecosystem as a whole that are generated from critical infrastructure such as offshore wind installations. If the development of an offshore wind infrastructure fails to comply with the measures associated with an EIA, the operator is obliged to compensate the environment in another aspect in order to nullify the damage it may create.
+In November 2020, the European Commission announced the European Union Strategy on Offshore Renewable Energy to aid the target of climate change neutrality by 2050. The core part of the strategy is to expand Europe's offshore wind industry by using its role to incentivise collaboration between member states, publish guidance surrounding the role of wind development in light of EU law as well as to support various private-public projects.
+
+
+=== Environmental concerns ===
+While the offshore wind industry has grown dramatically over the last several decades, there is still a great deal of uncertainty associated with how the construction and operation of these wind farms affect marine animals and the marine environment. However, as the capacity of offshore wind has increased, a developing domain of academic research has continuously looked into a range of environmental side effects during the turbine life cycle phases of construction, operations and decommissioning. The various environmental consequences impact a range of marine species including seabirds, turtles, fish, seals, and whales.
+The installation and deinstallation as well as the required maintenance of offshore wind structures have the potential to produce substantially negative environmental impacts towards the marine environment. The timing of such processes is key since it has been found that the presence of these activities during periods of migration and reproduction can have disruptive impacts towards marine wildlife such as seabirds and fish. In addition, the installation of offshore wind infrastructure has been claimed to be a key impactor in the displacement of marine wildlife such as seabirds, however the available published work on this matter is limited.
+A significant positive environmental impact of offshore wind installations is the potential for the creation of artificial reefs. Such reefs can indirectly facilitate the diversification of marine organisms, thus a variety of species can thrive. However, offshore wind farms have the ability to harm marine habitats due to an interference with the sediment on top of the seabed.
+Evidence suggests from a study which was conducted surrounding noise offsets from offshore wind farms that the installation process can alter the physical and behavioural processes of animals such as porpoises and seals. The welfare of seabirds is at risk due to the potential for collisions with the turbines, as well as causing the birds to adjust their travel routes which can significantly impact their endurance as a migratory specie. Alongside this, the presence of offshore wind farms may cause seabirds to change their behaviour due to the visual and noise offsets.
+It has been noted that all forms of underwater noise from offshore developments have the capacity to reduce the survival rate of marine animals. Since 2015, there has been a surge in whale deaths across the East coast of the United States of America. However, because construction of wind farms off the coast of New Jersey has not begun as of August 2023, it is unlikely that these whale deaths are linked to offshore wind; rather, vessel strikes and fishing net entanglements are the more likely culprit of these deaths according to NOAA.
+Research conducted in Spain found that the visual presence of offshore wind farms can decrease the demand for recreational tourism, yielding negative national and local economic consequences for coastal communities that are home to a developing offshore wind industry. However, others have regarded this link as overstated, with part of the public opinion claiming support for the physical visual presence of the turbines. This sub-issue represents how research surrounding offshore wind is still relatively novel as well as through the introduction of new claims remaining highly contested.
+The threat of invasive species has been noted as a significant environmental risk from offshore wind acting as a suitable home. The impacts can include the possible destabilisation of biodiversity due to the presence of alien species causing the extinction of other forms of marine life.
+
+
+=== Marine spatial planning and the environment ===
+As the offshore wind industry has developed, a range of environmental considerations have come to the fore concerning the spatial planning decision processes of the turbines. As demonstrated in the above section, a wide array of environmental concerns have been made in recent times concerning the relationship between offshore wind and the environment. As well as the commonly regarded considerations of wind conditions and profitability in the planning phase, the specific placement of offshore wind farms can have substantial benefits for the marine environment without harming business capital.
+Collision-risk models are a fine example of how marine spatial planning has begun to incorporate environmental protections into its procedures. In 2022, the Scottish government published a study outlining a mathematical formula for its own collision risk model which calculated the potential for seabirds to collide into wind turbines.
+A growing expectation is that the politics of spatial planning will become increasingly complex. As renewable energy targets need to be met, it has been claimed that the development of offshore wind was largely in part to solve the political issues that onshore wind infrastructures face, yet in reality these issues have been replicated. It has become difficult to balance environmental considerations in the planning process with relevant stakeholders such as local residents. The marine spatial planning of offshore wind farms is incredibly political, with an array of agendas and actors that seek to influence the process. However, as marine spatial planning offers a common legal framework, it has been claimed to be an overall benefit for environmental considerations to be realised in relation to offshore wind developments.
+
+
+== Security considerations ==
+
+Most wind/solar infrastructure has historically not been monitored or had any concrete security measures in place; it is only in the aftermath of the Nord stream attack that companies are starting to monitor offshore wind farms using, for example, remote monitoring CCTV and drones. Given the expected increase in number and geographical distribution of windfarms in the coming years, more effective measures are needed to cover security blind spots, including those below the waterline. Issues around intelligence sharing among various stakeholders and governing bodies will also need to be addressed. 
+Furthermore, such infrastructure is vulnerable to greyzone/hybrid warfare, and this should be taken into account when developing and implementing security measures. Hostile actors have already been observed surveilling EU maritime infrastructure further indicating the potential for greyzone hybrid warfare, which could potentially trigger NATO article 5. 
+Insufficient consideration has been given to addressing these threats through robust risk assessment and fit-for-purpose security protocols to counter the risk of serious threats. 
+In addition, a large proportion of critical parts for constructing and maintaining maritime wind and solar infrastructure is manufactured outside of the EU/NATO states, which potentially represents a supply chain risk. 
+Cybersecurity is another important area of concern; in 2022, the German wind turbine company Nordex SE was attacked using ransomware and in the same year, following a cyberattack on the Viasat Inc. KA-SAT satellite network, the German wind turbine manufacturer Enercon temporarily lost communication with 5,800 of its wind turbines.
+
+
+== Largest offshore wind farms ==
+
+Location map
+
+
+=== Projects ===
+
+Most of the current projects are in European and East Asian waters.
+There are also several proposed developments in North America.
+Projects are under development in the United States in wind-rich areas of the East Coast, Great Lakes, and Pacific coast. 
+In January 2012, a "Smart for the Start" regulatory approach was introduced, designed to expedite the siting process while incorporating strong environmental protections. 
+Specifically, the Department of Interior approved "wind energy areas" off the coast where projects can move through the regulatory approval process more quickly. 
+The first offshore wind farm in the USA is the 30-megawatt, 5 turbine Block Island Wind Farm which was commissioned in December 2016. Many sportfishermen and marine biologists believe the bases of the five, 6-megawatt wind turbines off of Block Island are acting as an artificial reef.
+Another offshore wind farm that is in the planning phase is off the coast of Virginia Beach. On 3 August 2018, Dominion Energy announced its two wind turbine pilot program that will be 27 miles offshore from Virginia Beach. The area is undergoing a survey that will last for 4–6 weeks.
+Canadian wind power in the province of Ontario is pursuing several proposed locations in the Great Lakes, including the suspended Trillium Power Wind 1 approximately 20 km from shore and over 400 MW in capacity. 
+Other Canadian projects include one on the Pacific west coast.
+India is looking at the potential of offshore wind power plants, with a 100 MW demonstration plant being planned off the coast of Gujarat (2014). In 2013, a group of organizations, led by Global Wind Energy Council (GWEC) started project FOWIND (Facilitating Offshore Wind in India) to identify potential zones for development of off-shore wind power in India and to stimulate R & D activities in this area. In 2014 FOWIND commissioned Center for Study of Science, Technology and Policy (CSTEP) to undertake pre-feasibility studies in eight zones in Tamil Nadu which have been identified as having potential.
+The Netherlands announced on 11 February 2022 that the government increased its offshore wind target to 21 GW by 2030. That would meet approximately 75% of the countries electricity needs. With this, offshore wind energy makes an important contribution to achieving the increased climate target of 55% less CO2-emissions.
+In 2026, UK announced that it would be joining the European offshore windfarm plan to build a 100GW grid in North Sea linking countries through subsea cables. Other countries committed to the plan include Belgium, Denmark, France, Germany, Iceland, Ireland, Luxembourg, the Netherlands and Norway.
+
+
+== Offshore wind power by country ==
+
+
+== See also ==
+
+List of offshore wind farms
+Floating wind turbine
+Floating solar
+Offshore wind port
+Unconventional wind turbines
+
+
+== References ==

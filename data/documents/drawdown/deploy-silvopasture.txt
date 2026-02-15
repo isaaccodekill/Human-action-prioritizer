@@ -1,0 +1,666 @@
+# Deploy Silvopasture
+Source: https://drawdown.org/explorer/deploy-silvopasture
+
+Methods and Supporting Data
+
+This solution meets all of Project Drawdown’s criteria for global climate solutions.
+
+Las Cañadas – Bosque de niebla
+
+We define the Deploy Silvopasture solution as the adoption ofagroforestrypractices that add trees to grazing land, including planted pastures and natural rangelands. (Note that this solution does NOT include creating forested grazing land by thinning existing forest; this is a form of deforestation and not desirable in terms of climate.) Some silvopastures are open savannas, while others are dense, mature tree plantations. The trees may be planted or managed to naturally regenerate. Some silvopasture systems have been practiced for thousands of years, while others have been recently developed. All provide shade to livestock; in some systems, the trees feed livestock, produce timber or crops for human consumption, or provide other benefits.New adoption is estimated from the 2025 level as a baseline which is therefore set to zero.
+
+Unit used to measure how much the solution is being used or practiced. The adoption unit serves as a metric for calculating the impact of the solution.
+
+ha converted from grazing land to silvopasture
+
+The amount of emissions (in CO₂‑eq
+) reduced or removed from the atmosphere per adoption unit. These values are sometimes reported in t CO₂‑eq
+ reduced or removed/yr.
+
+The extent to which the climate solution is being practiced or used.
+
+CO₂
+ reduced due to activities or technologies that pull the gas out of the atmosphere and store it in human-made or natural materials, including storage by carbon sequestration.
+
+Cost for mitigation when a solution is implemented, in US$, adjusted for inflation to 2023. Costs and emissions are estimated relative to 2023 baseline activities or the most recently available data. When applicable, costs include initial and operating expenditures minus revenues. Negative values indicate cost savings.
+
+How quickly a climate solution physically affects the atmosphere after it is deployed.
+
+This solution targets the climate pollutant(s) listed here. Pollutant(s) most targeted are in boldface.
+
+
+## Additional BenefitsBenefits shown in color are particularly significant for this solution.
+
+
+Benefits shown in color are particularly significant for this solution.
+
+Heat stress:Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Adverse effects of extreme temperatures on humans, wildlife, ecosystems, and infrastructure.
+
+Wildfires:Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Unplanned and uncontrolled fires that ignite and consume vegetation and structures in areas such as forests, grasslands, or prairies.
+
+Sea-level rise:Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Increasing ocean levels that threaten coastal communities, livelihoods, ecosystems, and infrastructure.
+
+Extreme weather events:Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Severe wind, dust, or storms, including hurricanes and tornadoes, that impact communities, ecosystems, infrastructure, and social systems.
+
+Floods:Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Excessive and destructive accumulation of water from abnormal, prolonged periods of above-average precipitation or from the rising of waterways that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Droughts:Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Abnormal, prolonged periods of below-average precipitation affecting water supply that impact communities, livelihoods, ecosystems, and infrastructure.
+
+Income & work:Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Access to employment opportunities that support the economic status of households, communities, or governments.
+
+Food security:Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Sufficient, nutritious, and safe nourishment that is physically and economically accessible at all times.
+
+Water & sanitation:Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Clean water and effective sanitation, such as waste management, promote hygiene and reduce the risk of illness.
+
+Energy availability:Access to electricity and clean cooking fuels.
+
+Access to electricity and clean cooking fuels.
+
+Health:Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Physical and mental wellness, including prevention of illness, injury, and premature mortality.
+
+Equality:Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Equal rights, opportunities, and treatment of all populations regardless of social, economic, cultural, and gender identities.
+
+Nature protection:Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Protections that safeguard the amount, health, and diversity of species and ecosystems.
+
+Animal well-being:Treatment of animals so as to reduce physical and psychological harm.
+
+Treatment of animals so as to reduce physical and psychological harm.
+
+Land resources:The amount and health of land, including soil quality, for ecological and human use.
+
+The amount and health of land, including soil quality, for ecological and human use.
+
+Water resources:Surface, ground, and rainwater used for ecological and human use.
+
+Surface, ground, and rainwater used for ecological and human use.
+
+Water quality:The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollutants, sediments, and microorganisms in fresh and marine water systems that affects the health of humans, wildlife, and ecosystems.
+
+Air quality:The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+The amount of pollution in the atmosphere that affects the health of humans, wildlife, and ecosystems.
+
+In silvopasture systems, trees are planted or allowed to naturally regenerate on existing pasture or rangeland. Tree density is generally less than forest, allowing sunlight through for good forage growth.
+
+Silvopasture has multiple climate impacts, thoughcarbon sequestrationis the only one which has been thoroughly studied across all climates and sub-practices.
+
+Silvopasture sequesters carbon in both soil and woodybiomass. Carbon sequestration rates are among the highest of any farming system (Toensmeier, 2017).The lifetime accumulation of carbon in both soils and biomass is higher than formanaged grazingalone (Montagnini et al., 2019; Nair et al., 2012).
+
+Silvopasture can also reduceGHGemissions, though not in every case. We do not include emissions reductions in this analysis.
+
+Conversion from pasture to silvopasture slightly increases capture and storage ofmethanein soils (Bentrup and Shi, in press). In addition, in fodder subtypes of silvopasture systems,ruminantlivestock consume tree leaves or pods. Many, but not all, of the tree species used in these systems have tannin content that reduces emissions of methane fromenteric fermentation(Jacobsen et al., 2019).
+
+Some subtypes of silvopasture reducenitrous oxideemissions from manure and urine, as grasses and trees capture nitrogen that microbes would otherwise convert to nitrous oxide. There are also reductions to nitrous oxide emissions from soils: 76–95% intemperatesilvopastures and 16–89% intropical-intensive silvopastures (Ansari et al., 2023; Murguietio et al., 2016).
+
+Many silvopasture systems increase productivity of milk and meat. Yield increases can reduce emissions from deforestation by growing more food on existing farmland, but in some cases can actually worsen emissions if farmers clear forests to adopt the profitable practice (Intergovernmental Panel on Climate Change [IPCC], 2019). The yield impact of silvopasture varies with tree density, climate, system type, and whether the yields of other products (e.g., timber) are counted as well (Rojas et al., 2022).
+
+
+## What could cause effectiveness to change?
+
+
+This range reflects the variation in expert estimates of effectiveness at addressing climate change. Effectiveness can change based on how this solution is implemented and what other changes occur alongside it.
+
+Lower effectiveness means less carbon removed per adoption unit. This is the 25th percentile of the effectiveness values found in our assessment.
+
+Higher effectiveness means more carbon removed per adoption unit. This is the 75th percentile of the effectiveness values found in our assessment.
+
+This is the median of the effectiveness values found in our assessment.
+
+
+## What is this range based on?
+
+
+Current adoption is from Sprenkle-Hippolite et al. (2024). The high estimate for achievable adoption (the slider’s high value) is adoption over the current baseline and based Colombian silvopasture growth rates. The low estimate is 10% of the high estimate.
+
+This is the low end of the range for estimated total achievable adoption by 2030.
+
+This is the high end of the range for estimated total achievable adoption by 2030.
+
+This is the current total adoption of this solution.
+
+
+## What calculations are required to get Climate Impact in Gt CO₂-eq/yr?
+
+
+Climate Impact = [(Current Adoption x Effectiveness x Adoption Adjustment Factor) + ((Selected Adoption - Current Adoption) x Effectiveness)] / 109
+
+59.09 Gt CO₂‑eq/yr
+ (100-yr basis) and 79.18 Gt CO₂‑eq/yr
+ (20-yr basis) in 2019, the latest official data available from the Intergovernmental Panel on Climate Change (IPCC).
+
+Silvopasture is primarily appropriate for grazing land that receives sufficient rainfall to support tree growth. While it can be implemented on both cropland and grassland, if adopted on cropland, it will reduce food yield because livestock produce much less food perhectarethan crops. In the humid tropics, a particularly productive and high-carbon variation called intensive silvopasture is an option. Ideally, graziers will have secureland tenure, though pastoralist commons have been used successfully.
+
+Areas too dry to establish trees (<450 mm annual precipitation) are not suitable for silvopasture by tree planting, but regions that can support naturalsavannamay be suitable for managed natural regeneration.
+
+Most silvopasture today appears in sub-Saharan Africa (Chapman et al., 2019), though this may reflect grazed natural savannas rather than intentional silvopasture. This finding neglects well-known systems in Latin America and Southern Europe.
+
+Chapman et al. (2019) listed world grasslands by their potential to add woody biomass. According to their analysis, the countries with the greatest potential to increase woody biomass carbon in grazing land are, in order: Australia, Kazakhstan, China, the United States, Mongolia, Iran, Argentina, South Africa, Sudan, Afghanistan, Russia, and Mexico. Tropical grazing land accounts for 73% of the potential in one study. Brazil, China, and Australia have the highest areas, collectively accounting for 37% of the potential area (Sprenkle-Hippolite 2024).
+
+We do not present any maps for the silvopasture solution due to the uncertainties in identifying current areas where silvopasture is practiced, and in identifying current grasslands that were historically forest or savanna.
+
+We found a median carbon sequestration rate of 9.81tCO₂‑eq/ha/yr(Table 1). This is based on an above-ground biomass (tree trunks and branches) accumulation rate of 6.43 tCO₂‑eq
+/ha/yr and a below-ground biomass (roots) accumulation rate of 1.61 t CO₂‑eq
+/ha/yr using a root-to-shoot ratio of 0.25 (Cardinael et al., 2019). These are added to thesoil organic carbonsequestration rate of 1.76 t CO₂‑eq
+/ha/yr to create the combined total.
+
+Table 1. Effectiveness at carbon sequestration.
+
+Unit:t CO₂-eq/ha/yr, 100-yr basis
+
+Reductions in nitrous oxide and methane and sustainable intensification impacts are not yet quantifiable to the degree that they can be used in climatemitigationprojections.
+
+Because baseline grazing systems are already extensive and well established, we assumed there is no cost to establish new baseline grazing land. In the absence of global data sets on costs and revenues of grazing systems, we used a global average profit per hectare of grazing land of US$6.28 from Damania et al. (2023).
+
+Establishment costs of silvopasture vary widely. We found the cost to establish one hectare of silvopasture to be US$1.06–4,825 (Dupraz & Liagre, 2011; Lee et al., 2011). Reasons for this wide range include the low cost of natural regeneration and the broad range in tree density depending on the type of system. We collected costs by region and used a weighted average to obtain a global net net cost value of US$424.20.
+
+Cost and revenue data for silvopasture were insufficient. However, data on the impact on revenues per hectare are abundant. Our analysis found a median 8.7% increase in per-hectare profits from silvopasture compared with conventional grazing, which we applied to the average grazing value to obtain a net profit of US$6.82/ha. This does not reflect the very high revenues of silvopasture systems in some countries.
+
+We calculated cost per t CO₂‑eq
+ sequestered by dividing net net cost/ha by total CO₂‑eq
+ sequestered/ha.
+
+Table 2. Cost per unit of climate impact.
+
+Unit: 2023 US$/t CO₂-eq
+
+100-yr basis & 20-yr basis are the same.
+
+There is not enough information available to determine alearning curvefor silvopasture. However, anecdotal evidence showed establishment costs decreasing as techniques for broadscale mechanized establishment were developed in Australia and Colombia (Murguietio et al., 2016; Shelton et al., 2021).
+
+Speed of actionrefers to how quickly a climate solutionphysicallyaffectsthe atmosphere after it is deployed. This is different fromspeed of deployment, which is the pace at which solutions are adopted.
+
+At Project Drawdown, we define the speed of action for each climate solution asemergency brake,gradual, ordelayed.
+
+Deploy Silvopasture is aDELAYEDclimate solution. It works more slowly than gradual or emergency brake solutions. Delayed solutions can be robust climate solutions, but it’s important to recognize that they may not realize their full potential for some time.
+
+Lack of data on the current adoption of silvopasture is a major gap in our understanding of the potential of this solution. One satellite imaging study found 156 million ha of grazing land with more than 10 t C/ha in above-ground biomass, which is the amount that indicates more than grass alone (Chapman et al., 2019). However, this area includes natural savannas, which are not necessarily silvopastures, and undercounts the existing 15.1 million ha of silvopasture known to be present in Europe (den Herder et al., 2017).
+
+Sprenkle-Hippolite et al. (2024) estimated a current adoption of 141.4Mha, or 6.0% of grazing land (Table 3). We have chosen this more recent figure as the best available estimate of current adoption. Note that in Solution Basics in the dashboard above we set current adoption at zero. This is a conservative assumption to avoid counting carbon sequestration from land that has already ceased to sequester net carbon due to saturation, which takes place after 20–50 years (Lal et al., 2018).
+
+Table 3. Current (2023) adoption level.
+
+There is little quantifiable information reported about silvopasture adoption trends.
+
+Grazing is the world’s largest land use at 2,986 Mha (Mehrabi et al., 2024). Much grazing land is too dry for trees, while other grasslands that were not historically forest or savanna should not be planted with trees in order to minimize water use and protect grassland habitat (Dudley et al., 2020). Three studies estimated the total potential area suitable for silvopasture (including current adoption).
+
+Lal et al. (2018) estimated the technical potential for silvopasture adoption at 550 Mha.
+
+Chapman et al. (2019) estimated the suitable area for increased woody biomass on grazing land as 1,890 Mha.
+
+Sprenkle-Hippolite (2024) assessed the maximum area of grazing land to which trees could be added without reducing livestock productivity. They calculated a total of 1,589 Mha, or 67% of global grazing land (Table 4). To our knowledge, this is the most accurate estimate available.
+
+Table 4. Adoption ceiling.
+
+Unit: % of grazing land
+
+In our Achievable – High scenario, global silvopasture starts at 141.4 Mha and grows at the ColombianNationally Determined Contributiongrowth rate of 6.5%/yr. This would provide the high end of the achievable potential at 206.3 Mha by 2030, of which 64.9 million ha are newly adopted (Table 5). For the Achievable – Low scenario, we chose 1/10 of Colombia’s projected growth rate. This would provide 147.0 Mha of adoption by 2030, of which 5.6 Mha are new.
+
+Few estimates of the global adoption potential of silvopasture are available, and even those for the broader category of agroforestry are rare due to the lack of solid data on current adoption and growth rates (Shi et al., 2018; Hart et al., 2023). The IPCC estimates that, for agroforestry overall, 19.5% of the technical potential is economically achievable (IPCC AR6 WG3, 2022). Applying this rate to Sprenkle-Hippolite’s estimated 1,588 Mha technical potential yields an achievable potential of 310 Mha of convertible grazing land.
+
+Our high adoption rate reaches 13% of theadoption ceilingby 2030. This suggests that silvopasture represents a large but relatively untapped potential that will require aggressive policy action and other incentives to spur scaling.
+
+Table 5. Range of achievable adoption levels.
+
+Carbon sequestration continues only for a period of decades; because silvopasture is an ancient practice with some plantings centuries old, we could not assume that previously adopted hectares continue to sequester carbon indefinitely. Much of the current adoption of silvopasture has been in place for centuries and sequestration there has presumably already slowed down to almost zero. We apply an adoption adjustment factor of 0.25 to current adoption (see Methodology) to reflect that most current adoption is no longer sequestering significant carbon, yet there is substantial new adoption within the past 20–50 years.
+
+For new adoption the calculation iseffectiveness* new adoption = climate impact.
+
+For current adoption the calculation iseffectiveness * 0.25 * current adoption = climate impact
+
+Climate impacts shown in Table 6 are the sum of current and new adoption impacts. Carbon sequestration impact is 0.35GtCO₂‑eq/yr
+ for current adoption, 0.40 Gt CO₂‑eq/yr
+ for Achievable – Low, 0.98 Gt CO₂‑eq/yr
+ for Achievable – High, and 14.54 Gt CO₂‑eq/yr
+ for our Adoption Ceiling.
+
+Table 6. Climate impact at different levels of adoption.
+
+100-yr basis, New adoption only
+
+Lal et al. (2018) estimated a technical global carbon sequestration potential of 0.3–1.0 Gt CO₂‑eq/yr.
+ Sprenkle-Hyppolite et al. (2024) estimated a silvopasture technical potential of 1.4 Gt CO₂‑eq/yr
+; this assumes a tree density of 2–6 trees/ha, which is substantially lower than typical silvopasture. For agroforestry overall (including silvopasture and other practices), the IPCC (2022) estimates an achievable potential of 0.8 Gt CO₂‑eq/yr
+ and a technical potential of 4.0 Gt CO₂‑eq/yr.
+
+Silvopasture can also increase and diversify farmer income. Tree fruit and timber often provide income for ranchers. A study in the southern United States showed that silvopasture systems generated 10% more income than standalone cattle production (Husak & Grado, 2002). A more comprehensive analysis across the eastern United States (Greene et al., 2023) found that virtually all silvopasture systems assessed had a positive 20- and 30-yrinternal rate of return(IRR). For some systems, the 30-yr IRR can be >15% (Greene et al., 2023).
+
+While evidence on the impact of silvopasture on yields is mixed, this practice can improve food security by diversifying food production and income sources (Bostedt et al., 2016; Smith et al., 2022). In pastoralists in Kenya, Bostedt et al. (2016) found that agroforestry practices were associated with increased dietary diversity, an important aspect of food and nutrition security. Diverse income streams can mediate household food security during adverse conditions, such as droughts or floods, especially in low- and middle-income countries (de Sherbinin et al., 2008; Di Prima et al., 2022; Frelat et al., 2016).
+
+Trees boost habitat availability, enhance landscape connectivity, and aid in forest regeneration and restoration. In most climates they provide a major boost to biodiversity compared with pasture alone (Smith et al., 2022; Pezo et al., 2018).
+
+By providing shade, silvopasture systems reduce heat stress experienced by livestock. Heat stress for cattle begins at 30 °C or even lower in some circumstances (Garrett et al., 2004). In the tropics, the cooling effect of integrating trees into a pastoral system is 0.32–2.4 °C/t of woody carbon added/ha (Zeppetello et al., 2022). Heifers raised in silvopasture systems had higher body mass and more optimal body temperature than those raised in intensive rotational grazing systems (Lemes et al., 2021). Improvement in livestock physiological conditions probably results from access to additional forage, increased livestock comfort, and reduced heat stress in silvopastoral systems. Silvopasture is highly desirable for its improvements to animal welfare (Goracci & Camilli, 2024).
+
+Silvopasture and agroforestry are important for ensuring soil health (Basche et al., 2020). These practices improve soil health by reducing erosion and may also contribute tosoil organic matterretention (U.S. Department of Agriculture Natural Resource Conservation Service ([USDA NRCS], 2025). There is evidence that silvopasture may improve soil biodiversity by preventing soil organism habitat loss and degradation (USDA NRCS, 2025).
+
+Perennials in silvopasture systems could reduce runoff and increase water infiltration rates relative to open rangelands (Smith et al., 2022; Pezo et al., 2018). This increases the resilience of the system during drought and high heat. Silvopasture can improve water quality by retaining soil sediments and filtering pollutants found in runoff (USDA NRCS, 2025). On average, silvopasture and agroforestry practices can reduce runoff of sediments and excess nutrients into water 42–47% (Zhu et al., 2020). The filtering benefits of silvopasture can also mitigate pollution of antibiotics from livestock operations from entering waterways (Moreno & Rolo, 2019).
+
+Living biomass and soil organic matter only temporarily hold carbon (decades to centuries for soil organic matter, and for the life of the tree or any long-lived products made from its wood in the case of woody biomass). Sequestered carbon in both soils and biomass is vulnerable to fire, drought, long-term shifts to a drier precipitation regime, and other climate change impacts, as well as to a return to the previous farming or grazing practices. Such disturbances can cause carbon to be re-emitted to the atmosphere (Lorenz & Lal, 2018).
+
+Like all upland, terrestrial agricultural systems, over the course of decades, silvopastures reach saturation and net sequestration slows to nearly nothing (Lorenz & Lal, 2018).
+
+Some of the tree and forage species used in silvopastures are invasive in certain contexts. For example, river tamarind (Leucaena leucocephala) is a centerpiece in intensive silvopasture in Latin America, where it is native, but also in Australia, where it is not. Australian producers have developed practices to limit or prevent its spread (Shelton et al., 2021).
+
+Livestock can damage or kill young trees during establishment. Protecting trees or excluding grazing animals during this period increases costs (Smith et al., 2022).
+
+Poorly designed tree layout can make herding, haying, fencing, and other management activities more difficult. Tree densities that are too high can reduce livestock productivity (Cadavid et al., 2020).
+
+Solutions that improve ruminant production could undermine the argument for reducing ruminant protein consumption in wealthy countries.
+
+Certain silvopasture systems reduce per-hectare productivity of meat and milk, even if overall productivity increases when the yields of timber or food from the tree component are included. For example, silvopasture systems that are primarily focused on timber production, with high tree densities, will have lower livestock yields than pasture alone - though they will have high timber yields.
+
+The costs of establishment are much higher than those of managed grazing. There is also a longer payback period (Smith et al., 2022). These limitations mean that secure land tenure is even more important than usual, to make adoption worthwhile (Poudel et al., 2024).
+
+Silvopasture represents a way to produce some ruminant meat and dairy in a more climate-friendly way. This impact can contribute to addressing emissions from ruminant production, but only as part of a program that strongly emphasizes diet change andfood wastereduction.
+
+Forms of silvopasture that increase milk and meat yields can reduce pressure to convert undeveloped land to agriculture.
+
+Protect Grasslands & Savannas
+
+Silvopasture is a technique for restoring farmland.
+
+Restore Abandoned Farmland
+
+Silvopasture is a form of savanna restoration.
+
+Restore Grasslands & Savannas
+
+Expanding silvopasture could restrict land availability forrenewableenergy or raw material and food production, since many technologies and practices could be sited on grazing lands. Silvopasture and forest restoration can also compete for the same land.
+
+Deploy Concentrated Solar
+
+Deploy Geothermal Power
+
+Deploy Small Hydropower
+
+Deploy Onshore Wind Turbines
+
+Deploy Utility-Scale Solar PV
+
+Deploy Perennial Crops
+
+Restore Abandoned Farmland
+
+Deploy Biomass Crops on Degraded Land
+
+Restore Grasslands & Savannas
+
+Silvopasture is a kind of agroforestry, though in this iteration of Project Drawdown “Deploy Agroforestry” refers to crop production systems only. With that said, some agroforestry systems integrate both crops and livestock with the trees, such as the widespread parkland systems of the African Sahel.
+
+
+## Consensus of effectiveness in sequestering carbon: Mixed to High
+
+
+There is a high level of consensus about the carbonbiosequestrationimpacts of silvopasture, including for the higher per-hectare sequestration rates relative to improved grazing systems alone. A handful of reviews, expert estimations, and meta-analyses have been published on the subject. These include:
+
+Cardinael et al. (2018) assembled data by climate and region for use in the national calculations and reporting.
+
+Chatterjee et al. (2018) found that converting from pasture to silvopasture increases carbon stocks.
+
+Lal et al. ( 2018) estimated the technical adoption and mitigation potential of silvopasture and other practices.
+
+Udawatta et al. (2022) provided an up-to-date meta-analysis for temperate North America.
+
+The results presented in this document summarize findings from two reviews, two meta-analyses, one expert opinion and three original studies reflecting current evidence from a global scale. We recognize this limited geographic scope creates bias, and hope this work inspires research and data sharing on this topic in underrepresented regions.
+
+
+## Consensus regarding other climate impacts: Low
+
+
+There is low consensus on the reduction of methanefrom enteric emissions, nitrous oxide from manure, and CO₂
+ from avoided deforestation due to increased productivity. We do not include these climate impacts in our calculations.
+
+
+## Consensus regarding adoption potential: Low
+
+
+Until recently there was little understanding of the current adoption of silvopasture. Sprenkle-Hyppolite et al. (2024) used Delphi expert estimation to determine current adoption and technical potential. Rates of adoption and achievable potential are still largely unreported or uninvestigated. See the Adoption section for details.
+
+Looking to get involved? Below are some key actions for this solution that can get you started, arranged according to different roles you may play in your professional or personal life.
+
+These actions are meant to be starting points for involvement and are not intended to be prescriptive or necessarily suggest they are the most important or impactful actions to take. We encourage you to explore and get creative!
+
+
+## Lawmakers and Policymakers
+
+
+Lower the risk for farmers transitioning from other pastoral systems.
+
+Increase understanding of silvopasture.
+
+Reduce technical and bureaucratic complexity.
+
+Establish or expand technical assistance programs.
+
+Simplify incentive programs.
+
+Ensure an appropriate and adequate selection of tree species are eligible for incentives.
+
+Establish a silvopasture certification program.
+
+Create demonstration farms.
+
+Strengthen land tenure laws.
+
+Incentivize lease structures to facilitate silvopasture transitions on rented land.
+
+Silvopastoral systems and their contribution to improved resource use and sustainable development goals: evidence from Latin America. Food and Agriculture Organization (2019)
+
+Government relations and public policy job function action guide. Project Drawdown (2022)
+
+Legal job function action guide. Project Drawdown (2022)
+
+Silvopasture. University of Minnesota Twin Cities (2020)
+
+Tackling food system challenges through silvopasture: insights from an expert workshop. Urrea-Benítez (2024)
+
+Seek support from technical assistance programs and extension services.
+
+Seek out networks of adopters to share information, resources, best practices, and collective marketing.
+
+If available, leverage incentive programs such as subsidies, tax rebates, grants, and carbon credits.
+
+Negotiate new lease agreements to accommodate silvopasture techniques or advocate for public incentives to reform lease structures.
+
+Silvopastoral systems and their contribution to improved resource use and sustainable development goals: evidence from Latin America. Food and Agriculture Organization (2019)
+
+Silvopasture. University of Minnesota Twin Cities (2020)
+
+Tackling food system challenges through silvopasture: insights from an expert workshop. Urrea-Benítez (2024)
+
+Prioritize suppliers and source from farmers who use silvopasture.
+
+Provide innovative financial mechanisms to encourage adoption.
+
+Participate in and help create high-quality carbon credit programs.
+
+Incentivize silvopasture transitions in lease agreements.
+
+Support the creation of a certification system to increase the marketability of silvopasture products.
+
+Join coalitions with other purchasers to grow demand.
+
+Collaborate with public and private agricultural organizations on education and training programs.
+
+Silvopastoral systems and their contribution to improved resource use and sustainable development goals: evidence from Latin America. Food and Agriculture Organization (2019)
+
+Climate solutions at work. Project Drawdown (2021)
+
+Drawdown-aligned business framework. Project Drawdown (2021)
+
+Silvopasture. University of Minnesota Twin Cities (2020)
+
+Tackling food system challenges through silvopasture: insights from an expert workshop. Urrea-Benítez (2024)
+
+Educate farmers and those who work in the food industry about the benefits of silvopasture.
+
+Communicate any government incentives for farmers to transition to silvopasture.
+
+Explain how to take advantage of incentives.
+
+Provide training material and/or work with extension services to support farmers transitioning to silvopasture, such as administering certification programs.
+
+Advocate to policymakers for improved incentives for farmers, stronger land tenure laws, and flexible lease agreements.
+
+Silvopastoral systems and their contribution to improved resource use and sustainable development goals: evidence from Latin America. Food and Agriculture Organization (2019)
+
+Silvopasture. University of Minnesota Twin Cities (2020)
+
+Tackling food system challenges through silvopasture: insights from an expert workshop. Urrea-Benítez (2024)
+
+Use capital like low-interest or favorable loans to support farmers and farmer cooperatives exploring silvopasture projects.
+
+Invest in credible, high-quality carbon reduction silvopasture projects.
+
+Invest in silvopasture products (e.g., fruits, berries, and other tree products)
+
+Encourage favorable lease agreements between landowners or offer favorable costs and benefit-sharing structures.
+
+Consider banking through community development financial institutions or other institutions that support farmers.
+
+Silvopastoral systems and their contribution to improved resource use and sustainable development goals: evidence from Latin America. Food and Agriculture Organization (2019)
+
+Silvopasture. University of Minnesota Extension (2020)
+
+Tackling food system challenges through silvopasture: insights from an expert workshop. Urrea-Benítez (2024)
+
+
+## Philanthropists and International Aid Agencies
+
+
+Provide grants and loans for establishing silvopasture and support farmland restoration projects that include silvopasture.
+
+Support capacity-building, market access, education, and training opportunities forsmallholder farmers– especially those historically underserved – through activities like farmer cooperatives, demonstration farms, and communal tree nurseries.
+
+Consider banking through Community Development Financial Institutions or other institutions that support farmers.
+
+Silvopastoral systems and their contribution to improved resource use and sustainable development goals: evidence from Latin America. Food and Agriculture Organization (2019)
+
+Silvopasture. University of Minnesota Extension (2020)
+
+Tackling food system challenges through silvopasture: insights from an expert workshop. Urrea-Benítez (2024)
+
+Use your platform to build awareness of silvopasture and its benefits, incentive programs, and regulatory standards.
+
+Provide technical information topractitioners.
+
+Host community dialogues such asEdible Connectionsto engage the public about silvopasture and other climate-friendly farming practices.
+
+Silvopastoral systems and their contribution to improved resource use and sustainable development goals: evidence from Latin America. Food and Agriculture Organization (2019)
+
+Silvopasture. University of Minnesota Extension (2020)
+
+Tackling food system challenges through silvopasture: insights from an expert workshop. Urrea-Benítez (2024)
+
+
+## Technologists and Researchers
+
+
+Improve the affordability and equipment needed to plant and manage trees.
+
+Refine satellite tools to improve silvopasture detection.
+
+Develop ways to monitor changes in soil and biomass.
+
+Standardize data collection protocols.
+
+Create a framework for transparent reporting and reliable verification.
+
+Fill gaps in data, such as quantifying the global adoption potential of silvopasture and regional analysis of revenue and operating costs/hectare.
+
+Silvopastoral systems and their contribution to improved resource use and sustainable development goals: evidence from Latin America. Food and Agriculture Organization (2019)
+
+Silvopasture. University of Minnesota Extension (2020)
+
+Tackling food system challenges through silvopasture: insights from an expert workshop. Urrea-Benítez (2024)
+
+
+## Communities, Households, and Individuals
+
+
+Purchase silvopasture products and support farmers who use the practice.
+
+Request silvopasture products at local markets.
+
+Encourage policymakers to help farmers transition.
+
+Encourage livestock farmers to adopt the practice.
+
+Host community dialogues such asEdible Connectionsto engage the public about silvopasture and other climate-friendly farming practices.
+
+Silvopastoral systems and their contribution to improved resource use and sustainable development goals: evidence from Latin America. Food and Agriculture Organization (2019)
+
+Silvopasture. University of Minnesota Extension (2020)
+
+Tackling food system challenges through silvopasture: insights from an expert workshop. Urrea-Benítez (2024)
+
+
+## “Take Action” Sources
+
+
+A strategy for scaling-up intensive silvopastoral systems in colombia. Calle et al. (2013)
+
+Incentivizing sustainable rangeland practices and policies in Colombia’s Orinoco region. Carriazo et al. (2019)
+
+Farmers’ professional dialogue networks and dynamics of change: the case of ICP and no-tillage adoption in Burgundy (France). Compagnone et al. (2014)
+
+Carbon farming certification system. FederlegnoArredo (n.d.)
+
+Silvopastoral systems in Colombia: from pilot farms to NDCs.Julián et al. (2023)
+
+Adoption potentials and barriers of silvopastoral system in Colombia: case of Cundinamarca region. King et al. (2020)
+
+Policy challenges for agroforestry implementation in Europe. Mosquera-Losada et al. (2023)
+
+Silvopasture policy promotion in European Mediterranean areas. Rodríguez-Rigueiro et al. (2021)
+
+Edible connections: a model for citizen dialogue used to discuss local food, farm, and community issues. Thomson et al. (2001)
+
+Methods and Supporting Data
+
+Ansari, J., Udawatta, R. P., & Anderson, S. H. (2022). Soil nitrous oxide emission from agroforestry, rowcrop, grassland and forests in North America: a review.Agroforestry Systems,97(8), 1465–1479.Link to source:https://doi.org/10.1007/s10457-023-00870-y
+
+Basche, A., Tully, K., Álvarez-Berríos, N. L., Reyes, J., Lengnick, L., Brown, T., Moore, J. M., Schattman, R. E., Johnson, L. K., & Roesch-McNally, G. (2020). Evaluating the untapped potential of US conservation investments to improve soil and environmental health.Frontiers in Sustainable Food Systems,4, 547876.Link to source:https://doi.org/10.3389/fsufs.2020.547876
+
+Batcheler, M., Smith, M. M., Swanson, M. E., Ostrom, M., & Carpenter-Boggs, L. (2024). Assessing silvopasture management as a strategy to reduce fuel loads and mitigate wildfire risk.Scientific Reports,14(1), 5954.Link to source:https://doi.org/10.1038/s41598-024-56104-3
+
+Bentrup, G. & Shi, X. (in press).Multifunctional buffers: Design guidelines for buffers, corridors and greenways.USDA Forest Service.
+
+Bostedt, G., Hörnell, A., & Nyberg, G. (2016). Agroforestry extension and dietary diversity–an analysis of the importance of fruit and vegetable consumption in West Pokot, Kenya.Food Security,8, 271–284.Link to source:https://doi.org/10.1007/s12571-015-0542-x
+
+Briske, D. D., Vetter, S., Coetsee, C., & Turner, M. D. (2024). Rangeland afforestation is not a natural climate solution.Frontiers in Ecology and the Environment.Link to source:https://doi.org/10.1002/fee.2727
+
+Cadavid, Z., & BE, S. T. (2020). Sistemas silvopastoriles: aspectos teóricos y prácticos. CIPAV.Link to source:https://cipav.org.co/sdm_downloads/sistemas-silvopastoriles-aspectos-teoricos-y-practicos/
+
+Cardinael, R., Umulisa, V., Toudert, A., Olivier, A., Bockel, L., & Bernoux, M. (2019). Revisiting IPCC Tier 1 coefficients for soil organic and biomass carbon storage in agroforestry systems.Environmental Research Letters,13(12), 124020.Link to source:https://doi.org/10.1088/1748-9326/aaeb5f
+
+Chapman, M., Walker, W.S., Cook-Patton, S.C., Ellis, P.W., Farina, M., Griscom, B.W., & Baccani, A. (2019). Large climate mitigation potential from adding trees to agricultural landsGlobal Change Biology, 26(80), 4357–4365.Link to source:https://doi.org/10.1111/gcb.15121
+
+Chatterjee, N., Nair, P. R., Chakraborty, S., & Nair, V. D. (2018). Changes in soil carbon stocks across the forest-agroforest-agriculture/pasture continuum in various agroecological regions: A meta-analysis.Agriculture, ecosystems & environment,266, 55–67.Link to source:https://doi.org/10.1016/j.agee.2018.07.014
+
+Damania, Richard; Polasky, Stephen; Ruckelshaus, Mary; Russ, Jason; Amann, Markus; Chaplin-Kramer, Rebecca; Gerber, James; Hawthorne, Peter; Heger, Martin Philipp; Mamun, Saleh; Ruta, Giovanni; Schmitt, Rafael; Smith, Jeffrey; Vogl, Adrian; Wagner, Fabian; Zaveri, Esha. (2023).Nature's Frontiers: Achieving Sustainability, Efficiency, and Prosperity with Natural Capital. Environment and Sustainable Development series. Washington, DC: World BankLink to source:https://hdl.handle.net/10986/39453
+
+de Sherbinin, A., VanWey, L. K., McSweeney, K., Aggarwal, R., Barbieri, A., Henry, S., Hunter, L. M., Twine, W., & Walker, R. (2008). Rural household demographics, livelihoods and the environment. Global Environmental Change,18(1), 38–53.Link to source:https://doi.org/10.1016/j.gloenvcha.2007.05.005
+
+Den Herder, M., Moreno, G., Mosquera-Losada, R. M., Palma, J. H., Sidiropoulou, A., Freijanes, J. J. S., & Burgess, P. J. (2017). Current extent and stratification of agroforestry in the European Union.Agriculture, Ecosystems & Environment,241, 121–132.Link to source:https://doi.org/10.1016/j.agee.2017.03.005
+
+Di Prima, S., Wright, E. P., Sharma, I. K., Syurina, E., & Broerse, J. E. W. (2022). Implementation and scale-up of nutrition-sensitive agriculture in low- and middle-income countries: A systematic review of what works, what doesn’t work and why. Global Food Security, 32, 100595.Link to source:https://doi.org/10.1016/j.gfs.2021.100595
+
+deStefano, A, & Jacobson, M.G. (2018). Soil carbon sequestration in agroforestry systems: A review.Agroforestry Systems, 92,285–299.Link to source:https://doi.org/10.1007/s13593-014-0212-y
+
+Dudley, N., Eufemia, L., Fleckenstein, M., Periago, M. E., Petersen, I., & Timmers, J. F. (2020). Grasslands and savannahs in the UN Decade on Ecosystem Restoration.Restoration Ecology,28(6), 1313–1317.Link to source:https://doi.org/10.1111/rec.13272
+
+Dupraz, C, and Liagre, F.(2011).Agroforesterie: Des Arbres et des Cultures.Editions France Agricole.Link to source:https://agroboutique.com/agroecologie-catalogue/12-agroforesterie-des-arbres-et-des-cultures.html
+
+FAO Statistical Service (2024).FAOStat.Link to source:https://www.fao.org/faostat/en/
+
+Feliciano, D., Ledo, A., Hillier, J., & Nayak, D. R. (2018). Which agroforestry options give the greatest soil and above ground carbon benefits in different world regions?.Agriculture, ecosystems & environment,254, 117–129.Link to source:https://doi.org/10.1016/j.agee.2017.11.032
+
+Frelat, R., Lopez-Ridaura, S., Giller, K. E., Herrero, M., Douxchamps, S., Djurfeldt, A. A., Erenstein, O., Henderson, B., Kassie, M., Paul, B. K., Rigolot, C., Ritzema, R. S., Rodriguez, D., Van Asten, P. J. A., & Van Wijk, M. T. (2016). Drivers of household food availability in sub-Saharan Africa based on big data from small farms. Proceedings of the National Academy of Sciences of the United States of America,113(2), 458–463.Link to source:https://doi.org/10.1073/pnas.1518384112
+
+Garrett, H. E., Kerley, M. S., Ladyman, K. P., Walter, W. D., Godsey, L. D., Van Sambeek, J. W., & Brauer, D. K. (2004). Hardwood silvopasture management in North America. InNew Vistas in Agroforestry: A Compendium for 1st World Congress of Agroforestry, 2004(pp. 21–33). Springer Netherlands.Link to source:https://doi.org/10.1007/978-94-017-2424-1_2
+
+Goracci, J., & Camilli, F. (2024). Agroforestry and animal husbandry. IntechOpen.Link to source:https://doi.org/10.5772/intechopen.1006711
+
+Government of Colombia (2020).Actualización de la Contribución Determinada a Nivel Nacional de Colombia.Government of Colombia.Link to source:https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20actualizada%20de%20Colombia.pdf
+
+Greene, H., Kazanski, C. E., Kaufman, J., Steinberg, E., Johnson, K., Cook-Patton, S. C., & Fargione, J. (2023). Silvopasture offers climate change mitigation and profit potential for farmers in the eastern United States.Frontiers in Sustainable Food Systems,7, 1158459.Link to source:https://doi.org/10.3389/fsufs.2023.1158459
+
+Hart, D.R.T, Yeo, S, Almaraz, M, Beillouin, D, Cardinael, R, Garcia, E, Kay, S, Lovell, S.T., Rosenstock, T.S., Sprenkle-Hyppolite, S, Stolle, F, Suber, M, Thapa, B, Wood, S & Cook-Patton, S.C (2023). “Priority science can accelerate agroforestry as a natural climate solution”.Nature Climate Change.Link to source:https://doi.org/10.5281/zenodo.8209212
+
+Husak, A. L., & Grado, S. C. (2002). Monetary benefits in a southern silvopastoral system. Southern Journal of Applied Forestry,26(3), 159–164.Link to source:https://doi.org/10.1093/sjaf/26.3.159
+
+IPCC (2019).Climate Change and Land: an IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems[P.R. Shukla, J. Skea, E. Calvo Buendia, V. Masson-Delmotte, H.-O. Pörtner, D. C. Roberts, P. Zhai, R. Slade, S. Connors, R. van Diemen, M. Ferrat, E. Haughey, S. Luz, S. Neogi, M. Pathak, J. Petzold, J. Portugal Pereira, P. Vyas, E. Huntley, K. Kissick, M. Belkacemi, J. Malley, (eds.)].Link to source:https://www.ipcc.ch/srccl/
+
+IPCC AR6 WG3 (2022).Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change[P.R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, J. Malley, (eds.)]. Cambridge University Press, Cambridge, UK and New York, NY, USA.Link to source:https://doi.org/10.1017/9781009157926
+
+Jacobsen (2019). Secondary metabolites in leaf hay as a mitigation option for enteric methane production in ruminants.Aarhus University.Link to source:https://pure.au.dk/ws/portalfiles/portal/197235590/Secondary_Metabolites_in_Leaf_Hay_as_a_Mitigation_Option_for_Enteric_Methane_Production_in_Ruminants.pdf
+
+Jose, S., & Dollinger, J. (2019). Silvopasture: a sustainable livestock production system.Agroforestry systems,93, 1-9.Link to source:https://doi.org/10.1007/s10457-019-00366-8
+
+Lal, R., Smith, P., Jungkunst, H. F., Mitsch, W. J., Lehmann, J., Nair, P. R., & Ravindranath, N. H. (2018). The carbon sequestration potential of terrestrial ecosystems.Journal of soil and water conservation,73(6), 145A–152A.Link to source:https://doi.org/10.2489/jswc.73.6.145A
+
+Lee, S., Bonatti, M, Löhe, K, Palacios, V., Lana, M.A., and Sieber, S (2020). Adoption potentials and barriers of silvopastoral systems in Colombia: Case of Cundinamarca region.Cogent Environmental Science6(1).Link to source:https://doi.org/10.1080/23311843.2020.1823632
+
+Lemes, A. P., Garcia, A. R., Pezzopane, J. R. M., Brandão, F. Z., Watanabe, Y. F., Cooke, R. F., Sponchiado, M., Paz, C. C. P., Camplesi, A. C., Binelli, M., & Gimenes, L. U. (2021). Silvopastoral system is an alternative to improve animal welfare and productive performance in meat production systems.Scientific Reports,11(1), 14092.Link to source:https://doi.org/10.1038/s41598-021-93609-7
+
+Lorenz, K., & Lal, R. (2018). Carbon sequestration in agricultural ecosystems. Springer, Cham.Link to source:https://link.springer.com/book/10.1007/978-3-319-92318-5
+
+Mehrabi, Z., Tong, K., Fortin, J., Stanimirova, R., Friedl, M., & Ramankutty, N. (2024). Global agricultural lands in the year 2015.Earth System Science Data Discussions,2024, 1–44.Link to source:https://doi.org/10.5194/essd-2024-279
+
+Montagnini, F (2019). Función de los sistemas agroforestales en la adaptación y mitigación del cambio climático.Sistemas agroforestales: Funciones productivas, socioeconómicas y ambientales,269-299.Link to source:https://cipav.org.co/wp-content/uploads/2020/08/sistemas-agroforestales-funciones-productivas-socioeconomicas-y-ambientales.pdf
+
+Morena, G., & Rolo, V. (2019). Agroforestry practices: Silvopastoralism. In Agroforestry for sustainable agricultura (1st ed.). Burleigh Dodds Science Publishing.Link to source:https://doi.org/10.1201/9780429275500
+
+Murgueitio, E., Uribe, F., Molina, C., Molina, E., Galindo, W., Chará, J., & González, J. (2016).Establecimiento y manejo de sistemas silvopastoriles intensivos con Leucaena. Editorial CIPAV,Cali, Colombia.Link to source:https://www.researchgate.net/profile/Juan-Naranjo-R/publication/310460876_Establecimiento_y_manejo_de_sistemas_silvopastoriles_intensivos_con_leucaena/links/582e30cb08ae138f1c01d8b9/Establecimiento-y-manejo-de-sistemas-silvopastoriles-intensivos-con-leucaena.pdf
+
+Nair, P.K. R. (2012). Climate change mitigation: A low-hanging fruit of agroforestry.Agroforestry: The future of global land use,31–69.Link to source:https://doi.org/10.1007/978-94-007-4676-3_7
+
+Ortiz, J., Neira, P., Panichini, M., Curaqueo, G., Stolpe, N. B., Zagal, E., & Gupta, S. R. (2023). Silvopastoral systems on degraded lands for soil carbon sequestration and climate change mitigation.Agroforestry for Sustainable Intensification of Agriculture in Asia and Africa, 207–242.Link to source:https://doi.org/10.1007/978-981-19-4602-8_7
+
+Pent, G. J. (2020). Over-yielding in temperate silvopastures: a meta-analysis.Agroforestry Systems,94(5), 1741–1758.Link to source:https://doi.org/10.1007/s10457-020-00494-6
+
+Pezo, D., Ríos, N., Ibrahim, M., & Gómez, M. (2018). Silvopastoral systems for intensifying cattle production and enhancing forest cover: the case of Costa Rica.Washington, DC: World Bank.Link to source:https://www.profor.info/sites/default/files/Silvopastoral%2520systems_Case%2520Study_LEAVES_2018.pdf
+
+Poudel, S., Pent, G., & Fike, J. (2024). Silvopastures: Benefits, past efforts, challenges, and future prospects in the United States.Agronomy,14(7), 1369.Link to source:https://doi.org/10.3390/agronomy14071369
+
+Quandt, A, Neufeldt, G, & Gorman, K (2023). Climate change adaptation through agroforestry: Opportunities and gaps.Current Opinion in Environmental Sustainability.60, 101244.Link to source:https://doi.org/10.1016/j.cosust.2022.101244
+
+Rivera, J. E., Serna, L., Arango, J., Barahona, R., Murgueitio, E., Torres, C. F., & Chará, J. (2023). Silvopastoral systems and their role in climate change mitigation and Nationally Determined Contributions in Latin America. InSilvopastoral systems of Meso America and Northern South America(pp. 25–53). Cham: Springer International Publishing.Link to source:https://doi.org/10.1007/978-3-031-43063-3_2
+
+Rojas, D, & Rodriguez Anido, N. (2022) Potential of silvopastoral systems for the mitigation of greenhouse gasses generated in the production of bovine meat. InSistemas silvopastoriles: Hacia una diversificación sostenible.CIPAV.Link to source:https://cipav.org.co/sistemas-silvopastoriles-hacia-una-diversificacion-sostenible/
+
+Riset, J.Å., Tømmervik, H. & Forbes, B.C. (2019). Sustainable and resilient reindeer herding.Reindeer Caribou Health Dis,(23–43).Link to source:https://www.researchgate.net/publication/344787755_Ch13_Sustainable_and_resilient_reindeer_herding
+
+Shelton, M.,Dalzell, S.,Tomkins, N.andBuck, S. R.(2021).Leucaena: The productive and sustainable forage legume.University of Queensland.Link to source:https://era.dpi.qld.gov.au/id/eprint/9425/
+
+Shi, L., Feng, W., Xu, J., & Kuzyakov, Y. (2018). Agroforestry systems: Meta‐analysis of soil carbon stocks, sequestration processes, and future potentials.Land Degradation & Development,29(11), 3886–3897.Link to source:https://doi.org/10.1002/ldr.3136
+
+Smith, M. M., Bentrup, G., Kellerman, T., MacFarland, K., Straight, R., Ameyaw, L., & Stein, S. (2022). Silvopasture in the USA: A systematic review of natural resource professional and producer-reported benefits, challenges, and management activities.Agriculture, Ecosystems & Environment,326, 107818.Link to source:https://doi.org/10.1016/j.agee.2021.107818
+
+Sprenkle-Hyppolite, S. Griscom, B., Griffey, V., Munshi, E., Chapman, M. (2024). Maximizing tree carbon in cropland and grazing lands while sustaining yields.Carbon Balance and Management19:23.Link to source:https://doi.org/10.1186/s13021-024-00268-y
+
+Toensmeier, E. (2017). Perennial staple crops and agroforestry for climate change mitigation.Integrating landscapes: Agroforestry for biodiversity conservation and food sovereignty, 439-451.Link to source:https://doi.org/10.1007/978-3-319-69371-2_18
+
+U.S. Department of Agriculture Natural Resources Conservation Service [USDA NRCS]. (2025). Conservation Practice Physical Effects [Dataset].Link to source:https://www.nrcs.usda.gov/resources/guides-and-instructions/conservation-practice-physical-effects
+
+Udawatta, R. P., Walter, D., & Jose, S. (2022). Carbon sequestration by forests and agroforests: A reality check for the United States.Carbon footprints,1(8).Link to source:https://doi.org/10.20517/cf.2022.06
+
+Zeppetello, L. R. V., Cook-Patton, S. C., Parsons, L. A., Wolff, N. H., Kroeger, T., Battisti, D. S., Bettles, J., Spector, J. T., Balakumar, A., & Masuda, Y. J. (2022). Consistent cooling benefits of silvopasture in the tropics.Nature communications,13(1), 708.Link to source:https://doi.org/10.1038/s41467-022-28388-4
+
+Zhu, X., Liu, W., Chen, J., Bruijnzeel, L. A., Mao, Z., Yang, X., Cardinael, R., Meng, F.-R., Sidle, R. C., Seitz, S., Nair, V. D., Nanko, K., Zou, X., Chen, C., & Jiang, X. J. (2020). Reductions in water, soil and nutrient losses and pesticide pollution in agroforestry practices: A review of evidence and processes.Plant and Soil,453(1–2), 45–86.Link to source:https://doi.org/10.1007/s11104-019-04377-3
+
+Ruthie Burrows, Ph.D.
+
+Ruthie Burrows, Ph.D.
+
+
+## Methods and Supporting Data
+
+
+Methods and Supporting Data

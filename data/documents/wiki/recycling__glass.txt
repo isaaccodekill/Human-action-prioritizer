@@ -1,0 +1,172 @@
+# Recycling: Glass
+Source: https://en.wikipedia.org/wiki/Glass_recycling
+
+Glass recycling is the comprehensive process of collecting, processing, and re-manufacturing waste glass into new products.
+The recycled glass material, known as cullet,
+serves as a crucial raw material in glass manufacturing, reducing energy consumption and environmental impact in glass-manufacturing operations Cullet consists of recycled material prepared for remelting in glass furnaces. This material exists in two distinct categories based on its origin and processing pathway:
+
+Internal cullet comprises manufacturing waste generated during glass-production processes, including quality-control rejects, material from production transitions (such as color or specification changes), and manufacturing offcuts that never reach consumer markets.
+External cullet represents post-industrial and post-consumer waste glass collected through organized recycling programs, encompassing both pre-consumer cullet from glass-product manufacturers and post-consumer cullet from used containers and products collected from end-users.
+The distinction between these categories is crucial for waste classification and end-of-waste criteria, as external cullet requires more extensive processing and quality-control measures due to potential contamination from consumer use and collection processes.
+To be recycled, glass waste needs to be purified and cleaned of contamination. Then, depending on the end-use and local processing capabilities, it might also have to be separated into different sizes and colours. Many recyclers collect different colours of glass separately, since glass tends to retain its colour after recycling. The most common colours used for consumer containers are clear (flint) glass, green glass, and brown (amber) glass. Glass is ideal for recycling since none of the material is degraded by normal use.
+Many collection-points have separate bins for clear (flint), green and brown (amber) waste. Glass re-processors intending to make new glass containers require separation by colour. If the recycled glass is not going to be made into more glass, or if the glass re-processor uses newer optical sorting equipment, separation by colour at the collection point may not be required. Heat-resistant glass, such as Pyrex or borosilicate glass, must not enter the glass-recycling stream, because even a small piece of such material will alter the viscosity of the fluid in the furnace at remelt.
+
+
+== Processing of external cullet ==
+To use external cullet in production, as much contamination should be removed as possible. Typical contaminations are:
+
+Organics: Paper labels, and corks
+Inorganics: Plastic caps and rings, metal caps, stones, ceramics, porcelains, PVB (Polyvinyl butyral) and EVA (Ethylene-Vinyl Acetate) foils in flat/laminated glass
+Metals: Ferrous and non-ferrous metals
+Heat resistant (ex: Pyrex dishes) and lead glass (ex: crystal with lead content)
+Manpower or machinery can be used in different stages of purification. Since they melt at higher temperatures than glass, separation of inorganics, the removal of heat resistant glass and lead glass is critical. In the modern recycling facilities, dryer systems and optical sorting machines are used. The input material should be sized and cleaned for the highest efficiency in automatic sorting. More than one free fall or conveyor belt sorter can be used, depending on the requirements of the process. Different colors can be sorted by optical sorting machines.
+
+
+== Recycling into glass containers ==
+
+Glass bottles and jars are infinitely recyclable. The use of recycled glass in manufacturing conserves raw materials and reduces energy consumption. Because the chemical energy required to melt the raw materials has already been expended, the use of cullet can significantly reduce energy consumption compared with manufacturing new glass from silica (SiO2), soda ash (Na2CO3), and calcium carbonate (CaCO3). Soda lime glass from virgin raw materials theoretically requires approximately 2.671 GJ/tonne compared to 1.886 GJ/tonne to melt 100% glass cullet. As a general rule, every 10% increase in cullet usage results in an energy savings of 2–3% in the melting process, with a theoretical maximum potential of 30% energy saving. Every metric ton (1,000 kg) of waste glass recycled into new items saves 315 kilograms (694 lb) of carbon dioxide from being released into the atmosphere during the manufacture of new glass. But recycling glass does not avoid the remelting process, which accounts for 75% of the energy consumption during production.
+
+
+== Recycling into other products ==
+The use of the recycled glass as aggregate in concrete has become popular, with large-scale research on that application being carried out at Columbia University in New York. Recycled glass greatly enhances the aesthetic appeal of the concrete. Recent research has shown that concrete made with recycled glass aggregates have better long-term strength and better thermal insulation, due to the thermal properties of the glass aggregates. Glass which is not recycled, but crushed, reduces the volume of waste sent to landfill. Waste glass may also be kept out of landfill by using it for roadbed aggregate.
+Glass aggregate, a mix of colors crushed to a small size, is substituted for pea gravel or crushed rock in many construction and utility projects, reducing costs to a degree that varies depending on the size of the project. Glass aggregate is not sharp to handle. In many cases, the state Department of Transportation has specifications for use, size and percentage of quantity for use. Common applications are as pipe bedding—placed around sewer, storm water or drinking water pipes, to transfer weight from the surface and protect the pipe. Another common use is as fill to bring the level of a concrete floor even with a foundation. Foam glass gravel provides a lighter aggregate with other useful properties.
+Other uses for recycled glass include:
+
+Fiberglass insulation products
+Ceramic sanitary ware production 
+As a flux in brick manufacture
+Astroturf
+Agriculture and landscape applications, such as top dressing, root zone material or golf bunker sand
+Recycled glass countertops
+As water filtration media
+Abrasives
+Mixed waste streams may be collected from materials recovery facilities or mechanical biological treatment systems. Some facilities can sort mixed waste streams into different colours using electro-optical sorting units.
+
+
+=== Recycled glass in construction ===
+The alternative markets for recycled glass waste include the construction sector (using glass waste for road pavement construction, as an aggregate in asphalt, pipe bedding material, drainage or filler aggregate), the production of cement and concrete (using glass waste as aggregate), as partial replacement to cement, partial replacement for cement and aggregate in the same mixture or raw material for cement production, as well as decorative aggregate, abrasives, or filtration media.
+
+
+=== Recycled glass in road pavement ===
+Three different samples of recycled glass with different gradation curves produced from residential and industrial waste glass streams in Victoria were studied in this research to investigate their usage as a construction material in geotechnical applications. The Fine Recycled Glass (FRG) and Medium Recycled Glass (MRG) were classified as well-graded (SW-SM), while Coarse Recycled Glass (CRG) was poorly graded (GP) according to the Unified Soil Classification System (USCS). The specific gravity of recycled glass was approximately 10% lower than that of natural aggregate. MRG exhibited higher maximum dry unit weight and lower optimum water content compared to FRG. LA abrasion tests showed FRG and MRG to have abrasion resistance similar to construction and demolition material, while CRG had higher abrasion values. Post-compaction analysis indicated stability for FRG and MRG, but CRG displayed poor compaction behavior due to particle shape and moisture absorption issues. CBR and direct shear tests revealed MRG's superior shear resistance and slightly higher internal friction angle compared to FRG. Consolidated drained triaxial shear tests confirmed these findings, suggesting FRG and MRG behave similarly to natural sand and gravel mixtures in geotechnical applications. Hydraulic conductivity tests demonstrated medium permeability and good drainage characteristics for FRG and MRG. Compliance with EPA Victoria requirements for fill material was also confirmed. Overall, the study supports using recycled glass in various geotechnical engineering applications.
+
+
+=== Recycled glass in bricks ===
+Polymer concrete, a material commonly used in industrial flooring, uses polymers, typically resins, to replace lime-type cements as a binder. Researchers have found that ground recycled glass can be used as a substitute for sand when making polymer concrete. 
+According to research, using recycled glass instead of sand produces a high strength, water-resistant material suitable for industrial flooring and infrastructure drainage, particularly in areas subject to heavy traffic such as service stations, forklift operating areas and airports.
+
+
+== Challenges ==
+Despite all the improvement in the waste and recovery processes, challenges include:
+
+Lack of incentive to recycle when inconvenient; opt-in and subscription models lead to low participation
+Rising material recovery facility fees and pressure from the waste management industry have caused some municipalities to remove glass from curbside recycling
+Broken and crushed glass causes a very high level of wear to vehicles and machinery used to transport and sort it
+Lack of recycling mandates and high levels of contamination cause a significant portion of materials to be disposed of in landfills.
+Low landfill tip fees for many MRFs (material recovery facilities) incentivize sending glass to the landfill.
+Lack  of capacity in certain areas hinders the ability to meet the market demand and reduces the incentive to invest in materials recovery facilities.
+In some regions, strong demand for cullet from other end markets reduces potential supply for glass containers.
+Distance between the sources of and markets for cullet requires long-haul shipping.
+Virgin materials are often cheaper than cullet, sometimes by as much as 20%.
+
+
+== By country ==
+
+
+=== Europe ===
+
+
+==== Germany ====
+In 2004, Germany recycled 2.116 million tons of glass. Reusable glass or plastic (PET) bottles are available for many drinks, especially beer and carbonated water as well as soft drinks (Mehrwegflaschen). The deposit per bottle (Pfand) is €0.08-€0.15, compared to €0.25 for recyclable but not reusable plastic bottles. There is no deposit for glass bottles which do not get refilled.
+Non-deposit bottles are collected in three colours: white, green and brown.
+
+
+==== Netherlands ====
+The first bottle bank for non-deposit bottles (glasbak) was installed in Zeist in 1972. Glass is collected in three colours: white, green and brown. 
+There is a deposit for refillable beer bottles when returned to supermarkets.
+
+
+==== United Kingdom ====
+
+Glass collection points, known as bottle banks are very common near shopping centres, at civic amenity sites and in local neighborhoods in the United Kingdom. The first bottle bank was introduced by Stanley Race CBE, then president of the Glass Manufacturers' Federation and Ron England in Barnsley on 6 June 1977. Development work was done by the DoE at Warren Spring Laboratory, Stevenage, (now AERA at Harwell) and Nazeing Glass Works, Broxbourne to prove if a usable glass product could be made from over 90% recycled glass. It was found necessary to use magnets to remove unwanted metal closures in the mixture.
+Bottle banks commonly stand beside collection points for other recyclable waste like paper, metals and plastics. Local, municipal waste collectors usually have one central point for all types of waste in which large glass containers are located.
+In 2007 there were over 50,000 bottle banks in the United Kingdom, and 752,000 tons of glass was being recycled annually.
+
+
+=== Asia ===
+
+
+==== India ====
+Approximately 45% glass waste gets recycled each year. Non-deposit bottles are typically collected in three colors: clear, green and brown.
+
+
+=== North America ===
+
+
+==== United States ====
+Rates of recycling and methods of waste collection vary substantially across the United States because laws are written on the state or local level and large municipalities often have their own unique systems. Many cities do curbside recycling, meaning they collect household recyclable waste on a weekly or bi-weekly basis that residents set out in special containers in front of their homes and transported to a materials recovery facility. This is typically single-stream recycling, which creates an impure product and partly explains why, as of 2019, the US has a recycling rate of around 33% versus 90% in some European countries. European countries have requirements for minimum recycled glass content, and more widespread deposit-return systems that provide more uniform material streams.  The lower population density and long distances in much of the United States, and the cost of shipping heavy glass also mean that recycling is not inherently economical in places where there are no nearby buyers.
+Apartment dwellers usually use shared containers that may be collected by the city or by private recycling companies which can have their own recycling rules.  In some cases, glass is specifically separated into its own container because broken glass is a hazard to the people who later manually sort the co-mingled recyclables.  Sorted recyclables are later sold to companies to be used in the manufacture of new products.
+In 1971, the state of Oregon passed a law requiring buyers of carbonated beverages (such as beer and soda) to pay five cents per container (increased to ten cents in April 2017) as a deposit which would be refunded to anyone who returned the container for recycling. This law has since been copied in nine other states including New York and California. The abbreviations of states with deposit laws are printed on all qualifying bottles and cans. In states with these container deposit laws, most supermarkets automate the deposit refund process by providing machines which will count containers as they are inserted and then print credit vouchers that can be redeemed at the store for the number of containers returned. Small glass bottles (mostly beer) are broken, one-by-one, inside these deposit refund machines as the bottles are inserted. A large, wheeled hopper (very roughly 1.5 m by 1.5 m by 0.5 m) inside the machine collects the broken glass until it can be emptied by an employee. Nationwide bottle refunds recover 80% of glass containers that require a deposit.
+Major companies in the space include Strategic Materials, which purchases post-consumer glass for 47 facilities across the country. Strategic Materials has worked to correct misconceptions about glass recycling. Glass manufacturers such as Owens-Illinois ultimately include recycled glass in their product. The Glass Recycling Coalition is a group of companies and stakeholders working to improve glass recycling.
+
+
+=== Oceania ===
+
+
+==== Australia ====
+In 2019, many Australian cities after decades of poor planning and minimum investment are winding back their glass recycling programmes in favour of plastic usage.
+For many years, there was only one state in Australia with a return deposit scheme on glass containers. Other states had unsuccessfully tried to lobby for glass deposit schemes. More recently this situation has changed dramatically, with the original scheme in South Australia now joined by legislated container deposit schemes in New South Wales, Queensland, Australian Capital Territory, and the Northern Territory, with schemes planned in Western Australia (2020), Tasmania (2022) and Victoria (2023).
+
+
+=== Africa ===
+
+
+==== South Africa ====
+South Africa has an efficient returnable bottle system which includes beer, spirit and liquor bottles. Bottles and jars manufactured in South Africa contain at least 40% recycled glass.
+
+
+== Life Cycle Analysis ==
+Life cycle analysis (LCA) is a method for ecological evaluation of products or processes.
+The life-cycle of glass starts from extraction of raw materials, to distribution, use by final consumers to disposal/landfilling. In light of saving the economy and the environment, researchers are working to eliminate the linearity of this lifecycle to have a circular/closed loop life cycle where extraction of raw materials and landfilling after final consumption will be minimised.
+Glass takes up to millions of years to decompose in the environment and even more in landfill, but can be recycled readily. Despite this, glass recycling rates are still limited: 70% of glasses are being collected for recycling in the EU, compared to only 30% in the US. Its recyclability can hence be improved by improving its collection rate all around the world.
+
+
+=== Cradle to cradle Analysis ===
+The Cradle-to-Cradle analysis is an approach which evaluates a product's overall sustainability across its entire life cycle. It expands the definition of design quality to include positive effects on economic, ecological and social health. The Cradle to cradle analysis of glass showed that the most impactful phase of a glass lifecycle is at its raw materials usage. Hence, why the sustainability of this product is focused on eliminating this stage of production by recycling used glasses to make secondary raw materials.
+
+
+== Regulatory Framework ==
+
+Waste Framework Directive (2008/98/EC) establishes specific targets for the re-use and recycling of building waste, including glass. Defines high levels of  recycling as key for Europe's resource efficiency.
+A ban on landfill disposal of single clear glass panes and insulating glass units should be introduced in the revised version of Directive 1999/31/EC.
+
+
+== ISO ==
+The ISO 81.040 standard contains the international standards for glass. It is divided into four chapters:
+
+81.040.01 Glass in general.
+81.040.10 raw materials and raw glass.
+81.040.20 Glass in building.
+81.040.30 Glass products.
+Other related ISO standards:
+
+55.100 Bottles, pots, jars.
+71.040.20 Laboratory glassware.
+
+
+== See also ==
+Baler
+Castlemaine Tooheys Ltd v South Australia;
+Container-deposit legislation
+Glass crusher
+Reuse of bottles
+Waste management
+
+
+== References ==
+
+
+== External links ==
+ Media related to Glass recycling at Wikimedia Commons
+
+"Plant Chops Old Bottles For New", August 1949, Popular Science article on the basics of glass recycling
